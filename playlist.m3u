@@ -1846,3 +1846,392 @@ http://109.197.47.16:8000/play/a002/index.m3u8
 http://109.197.47.16:8000/play/a001/index.m3u8
 #EXTINF:-1,MCST_CAM3
 http://109.197.47.16:8000/play/a003/index.m3u8
+
+#EXTINF:-1,普洱新闻综合
+http://39.130.206.209:6610/gitv_live/G_PUERTV-1/G_PUERTV-1.m3u8
+#EXTINF:-1,普洱公共频道
+http://39.130.206.209:6610/gitv_live/G_PUERTV-2/G_PUERTV-2.m3u8
+#EXTINF:-1,普洱三套
+http://39.130.206.209:6610/gitv_live/G_PUERTV-3/G_PUERTV-3.m3u8
+#EXTINF:-1,云南都市
+http://39.130.206.209:6610/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8
+#EXTINF:-1,云南都市
+http://39.130.206.209:6610/gitv_live/G_YNTV-2/G_YNTV-2.m3u8
+#EXTINF:-1,云南娱乐
+http://39.130.206.209:6610/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8
+#EXTINF:-1,云南娱乐
+http://39.130.206.209:6610/gitv_live/G_YNTV-3/G_YNTV-3.m3u8
+#EXTINF:-1,云南生活资讯
+http://39.130.206.209:6610/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD.m3u8
+#EXTINF:-1,云南生活资讯
+http://39.130.206.209:6610/gitv_live/G_YNTV-4/G_YNTV-4.m3u8
+#EXTINF:-1,云南影视
+http://39.130.206.209:6610/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8
+#EXTINF:-1,云南影视
+http://39.130.206.209:6610/gitv_live/G_YNTV-5/G_YNTV-5.m3u8
+#EXTINF:-1,云南公共
+http://39.130.206.209:6610/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8
+#EXTINF:-1,云南公共
+http://39.130.206.209:6610/gitv_live/G_YNTV-6/G_YNTV-6.m3u8
+#EXTINF:-1,云南少儿
+http://39.130.206.209:6610/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8
+#EXTINF:-1,云南少儿
+http://39.130.206.209:6610/gitv_live/G_YNTVSE/G_YNTVSE.m3u8
+#EXTINF:-1,云南国际
+http://39.130.206.209:6610/gitv_live/G_YNTVGJ/G_YNTVGJ.m3u8
+#EXTINF:-1,云南移动电视
+http://39.130.206.209:6610/gitv_live/G_QICAIGONGJIAO/G_QICAIGONGJIAO.m3u8
+#EXTINF:-1,昆 明新闻综合
+http://39.130.206.209:6610/gitv_live/G_KMTV-1/G_KMTV-1.m3u8
+#EXTINF:-1,昆 明经济生活 https://iptv.live
+http://39.130.206.209:6610/gitv_live/G_KMTV-2/G_KMTV-2.m3u8
+#EXTINF:-1,昆 明科学教育
+http://39.130.206.209:6610/gitv_live/G_KMTV-3/G_KMTV-3.m3u8
+#EXTINF:-1,昆 明文体娱乐
+http://39.130.206.209:6610/gitv_live/G_KMTV-4/G_KMTV-4.m3u8
+#EXTINF:-1,昆 明影视综艺
+http://39.130.206.209:6610/gitv_live/G_KMTV-5/G_KMTV-5.m3u8
+#EXTINF:-1,昆 明公共频道
+http://39.130.206.209:6610/gitv_live/G_KMTV-6/G_KMTV-6.m3u8
+#EXTINF:-1,昭通一套
+http://39.130.206.209:6610/gitv_live/G_ZHAOTONG-1/G_ZHAOTONG-1.m3u8
+#EXTINF:-1,昭通三套
+http://39.130.206.209:6610/gitv_live/G_ZHAOTONG-3/G_ZHAOTONG-3.m3u8
+#EXTINF:-1,楚雄综合
+http://39.130.206.209:6610/gitv_live/G_CHUXIONGXW/G_CHUXIONGXW.m3u8
+#EXTINF:-1,楚雄公共
+http://39.130.206.209:6610/gitv_live/G_CHUXIONGGG/G_CHUXIONGGG.m3u8
+#EXTINF:-1,楚雄市综合
+http://39.130.206.209:6610/gitv_live/G_CHUXIONGSHI/G_CHUXIONGSHI.m3u8
+#EXTINF:-1,德宏新闻综合
+http://39.130.206.209:6610/gitv_live/G_DEHONG-1/G_DEHONG-1.m3u8
+#EXTINF:-1,红河州新闻综合
+http://39.130.206.209:6610/gitv_live/G_HONGHETV-1/G_HONGHETV-1.m3u8
+#EXTINF:-1,红河州公共
+http://39.130.206.209:6610/gitv_live/G_HONGHETV-2/G_HONGHETV-2.m3u8
+#EXTINF:-1,迪庆综合
+http://39.130.206.209:6610/gitv_live/G_DIQING-1/G_DIQING-1.m3u8
+#EXTINF:-1,迪庆藏语
+http://39.130.206.209:6610/gitv_live/G_DIQINGZY/G_DIQINGZY.m3u8
+#EXTINF:-1,临沧综合
+http://39.130.206.209:6610/gitv_live/G_LINCANGTV-1/G_LINCANGTV-1.m3u8
+#EXTINF:-1,临沧公共
+http://39.130.206.209:6610/gitv_live/G_LINCANGTV-2/G_LINCANGTV-2.m3u8
+#EXTINF:-1,保山一套
+http://39.130.206.209:6610/gitv_live/G_BAOSHANTV-1/G_BAOSHANTV-1.m3u8
+#EXTINF:-1,保山一套
+http://39.130.206.209:6610/gitv_live/G_BAOSHANXW/G_BAOSHANXW.m3u8
+#EXTINF:-1,保山二套
+http://39.130.206.209:6610/gitv_live/G_BAOSHANTV-2/G_BAOSHANTV-2.m3u8
+#EXTINF:-1,保山二套
+http://39.130.206.209:6610/gitv_live/G_BAOSHANGG/G_BAOSHANGG.m3u8
+#EXTINF:-1,保山三套
+http://39.130.206.209:6610/gitv_live/G_BAOSHANTV-3/G_BAOSHANTV-3.m3u8
+#EXTINF:-1,保山三套
+http://39.130.206.209:6610/gitv_live/G_BAOSHANKJ/G_BAOSHANKJ.m3u8
+#EXTINF:-1,大理州新闻综合
+http://39.130.206.209:6610/gitv_live/G_DALITV-1/G_DALITV-1.m3u8
+#EXTINF:-1,大理州农业生活
+http://39.130.206.209:6610/gitv_live/G_DALITV-2/G_DALITV-2.m3u8
+#EXTINF:-1,大理州旅游文化
+http://39.130.206.209:6610/gitv_live/G_DALITV-3/G_DALITV-3.m3u8
+#EXTINF:-1,西双版纳综合
+http://39.130.206.209:6610/gitv_live/G_XSBNTV-1/G_XSBNTV-1.m3u8
+#EXTINF:-1,西双版纳公共
+http://39.130.206.209:6610/gitv_live/G_XSBNTV-2/G_XSBNTV-2.m3u8
+#EXTINF:-1,曲靖一套
+http://39.130.206.209:6610/gitv_live/G_QUJING-1/G_QUJING-1.m3u8
+#EXTINF:-1,曲靖二套
+http://39.130.206.209:6610/gitv_live/G_QUJING-2/G_QUJING-2.m3u8
+#EXTINF:-1,曲靖三套
+http://39.130.206.209:6610/gitv_live/G_QUJING-3/G_QUJING-3.m3u8
+#EXTINF:-1,盈江综合
+http://39.130.206.209:6610/gitv_live/G_DEHONGYJ/G_DEHONGYJ.m3u8
+#EXTINF:-1,永胜综合
+http://39.130.206.209:6610/gitv_live/G_YONGSHENG/G_YONGSHENG.m3u8
+#EXTINF:-1,红河县综合
+http://39.130.206.209:6610/gitv_live/G_HONGHEXIAN/G_HONGHEXIAN.m3u8
+#EXTINF:-1,河口综合
+http://39.130.206.209:6610/gitv_live/G_HEKOU/G_HEKOU.m3u8
+#EXTINF:-1,开远综合
+http://39.130.206.209:6610/gitv_live/G_KAIYUAN/G_KAIYUAN.m3u8
+#EXTINF:-1,绿春综合 https://iptv.live
+http://39.130.206.209:6610/gitv_live/G_LVCHUN/G_LVCHUN.m3u8
+#EXTINF:-1,屏边综合
+http://39.130.206.209:6610/gitv_live/G_PINGBIAN/G_PINGBIAN.m3u8
+#EXTINF:-1,元阳综合
+http://39.130.206.209:6610/gitv_live/G_YUANYANG/G_YUANYANG.m3u8
+#EXTINF:-1,龙陵综合频道
+http://39.130.206.209:6610/gitv_live/G_LONGLING/G_LONGLING.m3u8
+#EXTINF:-1,隆阳综合频道
+http://39.130.206.209:6610/gitv_live/G_LONGYANG/G_LONGYANG.m3u8
+#EXTINF:-1,禄丰综合
+http://39.130.206.209:6610/gitv_live/G_LUFENG/G_LUFENG.m3u8
+#EXTINF:-1,牟定综合
+http://39.130.206.209:6610/gitv_live/G_MOUDING/G_MOUDING.m3u8
+#EXTINF:-1,南华综合
+http://39.130.206.209:6610/gitv_live/G_NANHUA/G_NANHUA.m3u8
+#EXTINF:-1,双柏综合
+http://39.130.206.209:6610/gitv_live/G_SHUANGBAI/G_SHUANGBAI.m3u8
+#EXTINF:-1,武定综合
+http://39.130.206.209:6610/gitv_live/G_WUDING/G_WUDING.m3u8
+#EXTINF:-1,姚安综合
+http://39.130.206.209:6610/gitv_live/G_YAOAN/G_YAOAN.m3u8
+#EXTINF:-1,元谋综合
+http://39.130.206.209:6610/gitv_live/G_YUANMOU/G_YUANMOU.m3u8
+#EXTINF:-1,永仁综合
+http://39.130.206.209:6610/gitv_live/G_YONGREN/G_YONGREN.m3u8
+#EXTINF:-1,施甸综合
+http://39.130.206.209:6610/gitv_live/G_SHIDIAN/G_SHIDIAN.m3u8
+#EXTINF:-1,宾川一套
+http://39.130.206.209:6610/gitv_live/G_BINCHUANTV-1/G_BINCHUANTV-1.m3u8
+#EXTINF:-1,宾川二套
+http://39.130.206.209:6610/gitv_live/G_BINCHUANTV-2/G_BINCHUANTV-2.m3u8
+#EXTINF:-1,弥渡综合
+http://39.130.206.209:6610/gitv_live/G_MIDUTV-1/G_MIDUTV-1.m3u8
+#EXTINF:-1,云龙综合
+http://39.130.206.209:6610/gitv_live/G_YUNLONGTV-1/G_YUNLONGTV-1.m3u8
+#EXTINF:-1,德钦综合
+http://39.130.206.209:6610/gitv_live/G_DIQINGDQ/G_DIQINGDQ.m3u8
+#EXTINF:-1,维西综合
+http://39.130.206.209:6610/gitv_live/G_DIQINGWX/G_DIQINGWX.m3u8
+#EXTINF:-1,金平综合
+http://39.130.206.209:6610/gitv_live/G_JINPING/G_JINPING.m3u8
+#EXTINF:-1,建水综合
+http://39.130.206.209:6610/gitv_live/G_JIANSHUI/G_JIANSHUI.m3u8
+#EXTINF:-1,泸西综合
+http://39.130.206.209:6610/gitv_live/G_LUXI/G_LUXI.m3u8
+#EXTINF:-1,弥勒新闻
+http://39.130.206.209:6610/gitv_live/G_MILE/G_MILE.m3u8
+#EXTINF:-1,石屏综合
+http://39.130.206.209:6610/gitv_live/G_SHIPING/G_SHIPING.m3u8
+#EXTINF:-1,沧源综合
+http://39.130.206.209:6610/gitv_live/G_LCCANGYUAN/G_LCCANGYUAN.m3u8
+#EXTINF:-1,凤庆综合
+http://39.130.206.209:6610/gitv_live/G_LCFENGQING/G_LCFENGQING.m3u8
+#EXTINF:-1,耿马综合
+http://39.130.206.209:6610/gitv_live/G_LCGENGMA/G_LCGENGMA.m3u8
+#EXTINF:-1,临翔综合
+http://39.130.206.209:6610/gitv_live/G_LCLINXIANG/G_LCLINXIANG.m3u8
+#EXTINF:-1,双江综合
+http://39.130.206.209:6610/gitv_live/G_LCSHUANGJIANG/G_LCSHUANGJIANG.m3u8
+#EXTINF:-1,永德综合
+http://39.130.206.209:6610/gitv_live/G_LCYONGDE/G_LCYONGDE.m3u8
+#EXTINF:-1,云县综合
+http://39.130.206.209:6610/gitv_live/G_LCYUNXIAN/G_LCYUNXIAN.m3u8
+#EXTINF:-1,镇康综合
+http://39.130.206.209:6610/gitv_live/G_LCZHENKANG/G_LCZHENKANG.m3u8
+#EXTINF:-1,江城综合
+http://39.130.206.209:6610/gitv_live/G_JIANGCHENG/G_JIANGCHENG.m3u8
+#EXTINF:-1,景东综合
+http://39.130.206.209:6610/gitv_live/G_JINGDONG/G_JINGDONG.m3u8
+#EXTINF:-1,澜沧综合
+http://39.130.206.209:6610/gitv_live/G_LANCANG/G_LANCANG.m3u8
+#EXTINF:-1,孟连综合
+http://39.130.206.209:6610/gitv_live/G_MENGLIAN/G_MENGLIAN.m3u8
+#EXTINF:-1,香格里拉综合
+http://39.130.206.209:6610/gitv_live/G_DIQINGXGLL/G_DIQINGXGLL.m3u8
+
+#EXTINF:-1,CCTV1
+http://221.204.127.22:9981/stream/channelid/1174547898
+#EXTINF:-1,CCTV2
+http://221.204.127.22:9981/stream/channelid/514502576
+#EXTINF:-1,CCTV3
+http://221.204.127.22:9981/stream/channelid/427615041
+#EXTINF:-1,CCTV4
+http://221.204.127.22:9981/stream/channelid/1797747632
+#EXTINF:-1,CCTV5
+http://221.204.127.22:9981/stream/channelid/703771039
+#EXTINF:-1,CCTV6
+http://221.204.127.22:9981/stream/channelid/926366430
+#EXTINF:-1,CCTV7
+http://221.204.127.22:9981/stream/channelid/678916283
+#EXTINF:-1,CCTV8
+http://221.204.127.22:9981/stream/channelid/490405760
+#EXTINF:-1,CCTV9
+http://221.204.127.22:9981/stream/channelid/1218433835
+#EXTINF:-1,CCTV10
+http://221.204.127.22:9981/stream/channelid/369847393
+#EXTINF:-1,CCTV11
+http://221.204.127.22:9981/stream/channelid/1412629090
+#EXTINF:-1,CCTV12
+http://221.204.127.22:9981/stream/channelid/275632899
+#EXTINF:-1,CCTV13
+http://221.204.127.22:9981/stream/channelid/2046509739
+#EXTINF:-1,CCTV14
+http://221.204.127.22:9981/stream/channelid/1295305175
+#EXTINF:-1,CCTV15
+http://221.204.127.22:9981/stream/channelid/608460310
+#EXTINF:-1,山西卫视
+http://221.204.127.22:9981/stream/channelid/924290783
+#EXTINF:-1,湖南卫视
+http://221.204.127.22:9981/stream/channelid/152479333
+#EXTINF:-1,东方卫视
+http://221.204.127.22:9981/stream/channelid/789591265
+#EXTINF:-1,辽宁卫视 https://iptv.live
+http://221.204.127.22:9981/stream/channelid/550385839
+#EXTINF:-1,浙江卫视
+http://221.204.127.22:9981/stream/channelid/1829882620
+#EXTINF:-1,安徽卫视
+http://221.204.127.22:9981/stream/channelid/1165645162
+#EXTINF:-1,江苏卫视
+http://221.204.127.22:9981/stream/channelid/1614401801
+#EXTINF:-1,北京卫视
+http://221.204.127.22:9981/stream/channelid/1013631861
+#EXTINF:-1,东南卫视
+http://221.204.127.22:9981/stream/channelid/253426898
+#EXTINF:-1,金鹰卡通
+http://221.204.127.22:9981/stream/channelid/788750967
+#EXTINF:-1,四川卫视
+http://221.204.127.22:9981/stream/channelid/1039090204
+#EXTINF:-1,贵州卫视
+http://221.204.127.22:9981/stream/channelid/245617704
+#EXTINF:-1,广东卫视
+http://221.204.127.22:9981/stream/channelid/277978441
+#EXTINF:-1,广西卫视
+http://221.204.127.22:9981/stream/channelid/1773593073
+#EXTINF:-1,深圳卫视
+http://221.204.127.22:9981/stream/channelid/379679171
+#EXTINF:-1,黑龙江卫视
+http://221.204.127.22:9981/stream/channelid/1344893595
+#EXTINF:-1,湖北卫视
+http://221.204.127.22:9981/stream/channelid/765749401
+
+#EXTINF:-1,ANTENNE BAYERN
+http://83.164.148.178:8888/play/a01u
+#EXTINF:-1,Al Jazeera English
+http://83.164.148.178:8888/play/a02a
+#EXTINF:-1,Aristo.TV
+http://83.164.148.178:8888/play/a043
+#EXTINF:-1,Baden TV
+http://83.164.148.178:8888/play/a01b
+#EXTINF:-1,CANAL 24 HORAS
+http://83.164.148.178:8888/play/a021
+#EXTINF:-1,CNN Int.
+http://83.164.148.178:8888/play/a028
+#EXTINF:-1,Channel21
+http://83.164.148.178:8888/play/a01x
+#EXTINF:-1,Comedy Central Austria
+http://83.164.148.178:8888/play/a01l
+#EXTINF:-1,DELUXE MUSIC
+http://83.164.148.178:8888/play/a01n
+#EXTINF:-1,DMAX
+http://83.164.148.178:8888/play/a01a
+#EXTINF:-1,DMAX Austria
+http://83.164.148.178:8888/play/a01p
+#EXTINF:-1,DW English
+http://83.164.148.178:8888/play/a029
+#EXTINF:-1,ERF Plus
+http://83.164.148.178:8888/play/a01r
+#EXTINF:-1,ERF Pop
+http://83.164.148.178:8888/play/a01s
+#EXTINF:-1,EURONEWS FRENCH SD
+http://83.164.148.178:8888/play/a00r
+#EXTINF:-1,EURONEWS GERMAN SD
+http://83.164.148.178:8888/play/a00s
+#EXTINF:-1,Eurosport 1 Deutschland
+http://83.164.148.178:8888/play/a00p
+#EXTINF:-1,Genius exklusiv
+http://83.164.148.178:8888/play/a01k
+#EXTINF:-1,HSE24
+http://83.164.148.178:8888/play/a016
+#EXTINF:-1,HSE24 EXTRA
+http://83.164.148.178:8888/play/a00q
+#EXTINF:-1,HSE24 TREND
+http://83.164.148.178:8888/play/a01c
+#EXTINF:-1,Handystar TV 2
+http://83.164.148.178:8888/play/a017
+#EXTINF:-1,Immer etwas Neues TV
+http://83.164.148.178:8888/play/a01v
+#EXTINF:-1,Kabel 1 Austria
+http://83.164.148.178:8888/play/a00x
+#EXTINF:-1,Kabel 1 Schweiz
+http://83.164.148.178:8888/play/a00w
+#EXTINF:-1,MediaShop- Meine Einkaufswelt
+http://83.164.148.178:8888/play/a01y
+#EXTINF:-1,MediaShop- Neuheiten
+http://83.164.148.178:8888/play/a01f
+#EXTINF:-1,Melodie TV NEU
+http://83.164.148.178:8888/play/a049
+#EXTINF:-1,N24 DOKU Austria
+http://83.164.148.178:8888/play/a01j
+#EXTINF:-1,NICKELODEON AT
+http://83.164.148.178:8888/play/a01m
+#EXTINF:-1,ORF III HD
+http://83.164.148.178:8888/play/a041
+#EXTINF:-1,ORF SPORT+ HD
+http://83.164.148.178:8888/play/a042
+#EXTINF:-1,ORF2B HD
+http://83.164.148.178:8888/play/a03w
+#EXTINF:-1,ORF2K HD
+http://83.164.148.178:8888/play/a03v
+#EXTINF:-1,ORF2O HD
+http://83.164.148.178:8888/play/a03x
+#EXTINF:-1,ORF2S HD
+http://83.164.148.178:8888/play/a03y
+#EXTINF:-1,ORF2St HD
+http://83.164.148.178:8888/play/a03u
+#EXTINF:-1,ORF2T HD
+http://83.164.148.178:8888/play/a03z
+#EXTINF:-1,ORF2V HD
+http://83.164.148.178:8888/play/a040
+#EXTINF:-1,PULS 4 Austria
+http://83.164.148.178:8888/play/a010
+#EXTINF:-1,ProSieben Austria
+http://83.164.148.178:8888/play/a00v
+#EXTINF:-1,R9 Oesterreich HD
+http://83.164.148.178:8888/play/a044
+#EXTINF:-1,REGIO TV
+http://83.164.148.178:8888/play/a018
+#EXTINF:-1,RNE RADIO 3
+http://83.164.148.178:8888/play/a023
+#EXTINF:-1,RNE RADIO 5 TODO NOTICIAS
+http://83.164.148.178:8888/play/a025
+#EXTINF:-1,RNE RADIO EXTERIOR DE ESPAÑA
+http://83.164.148.178:8888/play/a027
+#EXTINF:-1,ROCK ANTENNE
+http://83.164.148.178:8888/play/a01q
+#EXTINF:-1,RTL Austria
+http://83.164.148.178:8888/play/a00j
+#EXTINF:-1,RTL CH
+http://83.164.148.178:8888/play/a00o
+#EXTINF:-1,RTL2 Austria
+http://83.164.148.178:8888/play/a00l
+#EXTINF:-1,SAT.1 A
+http://83.164.148.178:8888/play/a00y
+#EXTINF:-1,SAT.1 HH/SH
+http://83.164.148.178:8888/play/a011
+#EXTINF:-1,SAT.1 NS/Bremen
+http://83.164.148.178:8888/play/a012
+#EXTINF:-1,SAT.1 RhlPf/Hessen
+http://83.164.148.178:8888/play/a013
+#EXTINF:-1,SPORT1
+http://83.164.148.178:8888/play/a01h
+#EXTINF:-1,SUPER RTL A
+http://83.164.148.178:8888/play/a00m
+#EXTINF:-1,Sonnenklar TV
+http://83.164.148.178:8888/play/a015
+#EXTINF:-1,Starparadies A
+http://83.164.148.178:8888/play/a047
+#EXTINF:-1,TLC Austria
+http://83.164.148.178:8888/play/a01o
+#EXTINF:-1,TVE INTERNACIONAL EUROPA
+http://83.164.148.178:8888/play/a020
+#EXTINF:-1,VOX Austria
+http://83.164.148.178:8888/play/a00k
+#EXTINF:-1,VOX CH
+http://83.164.148.178:8888/play/a00n
+#EXTINF:-1,e8 television
+http://83.164.148.178:8888/play/a01e
+#EXTINF:-1,gotv neu
+http://83.164.148.178:8888/play/a048
+#EXTINF:-1,krone.tv
+http://83.164.148.178:8888/play/a045
+#EXTINF:-1,meinTVshop
+http://83.164.148.178:8888/play/a01g
+#EXTINF:-1,oe24.TV HD
+http://83.164.148.178:8888/play/a046
+#EXTINF:-1,pearl.tv Shop
+http://83.164.148.178:8888/play/a01w
+#EXTINF:-1,sunshine live
+http://83.164.148.178:8888/play/a01t
