@@ -18,7 +18,7 @@ https://hta.cdn.easybroadcast.fr/HTATV_CDN/TV_5/iptvdz/TV_5_720p/chunks.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV6"  group-title="ALGERIA",TV6
 https://hta.cdn.easybroadcast.fr/HTATV_CDN/TV_6_HD/iptvdz/TV_6_HD_720p/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV7 ELMARIFA"  group-title="ALGERIA",TV7 ELMARIFA
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV7 ELMAARIFA"  group-title="ALGERIA",TV7 ELMAARIFA
 https://hta.cdn.easybroadcast.fr/HTATV_CDN/TV7_ELMAARIFA/iptvdz/TV7_ELMAARIFA_720p/chunks.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ELBILAD"  group-title="ALGERIA",ELBILAD
@@ -120,6 +120,15 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC MASR"  group-title="ARABIC",MBC MASR
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC BOLLYHOOD"  group-title="ARABIC",MBC BOLYHOOD
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC BOLYHOOD"  group-title="ARABIC",MBC BOLYHOOD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SKY NEWS ARABIC"  group-title="NEWS",SKY NEWS ARABIC
+https://stream.skynewsarabia.com/hls/sna_720-1604489478000.ts
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC DRAMA"  group-title="ARABIC",MBC DRAMA
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ALARABIYA"  group-title="NEWS",ALARABIYA
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya/chunks.m3u8
 
