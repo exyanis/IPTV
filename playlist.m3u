@@ -132,3 +132,60 @@ https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e4
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ALARABIYA"  group-title="NEWS",ALARABIYA
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya/chunks.m3u8
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="AD NAT GEO"  group-title="DOCUMENTARY",AD NAT GEO
+https://2203.janjua.pw:8088/adfree/natnat/playlist.m3u8?vidictid=185705006653&pk=8a3573480b52ed3fc19b39828845c6774714d4965680a2996a5c53a98bfc75d3&id=96857
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SPACETOON"  group-title="ARABIC",SPACETOON
+https://2203.janjua.pw:8088/adfree/natnat/playlist.m3u8?vidictid=185705006653&pk=8a3573480b52ed3fc19b39828845c6774714d4965680a2996a5c53a98bfc75d3&id=96857
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DUBAI TV"  group-title="ARABIC",DUBAI TV
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b850000.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SAMA DUBAI"  group-title="ARABIC",SAMA DUBAI
+https://2203.janjua.pw:8088/adfree/natnat/playlist.m3u8?vidictid=185705006653&pk=8a3573480b52ed3fc19b39828845c6774714d4965680a2996a5c53a98bfc75d3&id=96857
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DUBAI ONE"  group-title="New Group",DUBAI ONE
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DUBAI ZAMAN"  group-title="New Group",DUBAI ZAMAN
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b725000.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DUBAI SPORTS 1"  group-title="SPORTS",DUBAI SPORTS 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DUBAI SPORTS 2"  group-title="SPORTS",DUBAI SPORTS 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DUBAI SPORTS 3"  group-title="SPORTS",DUBAI SPORTS 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DUBAI RACING"  group-title="SPORTS",DUBAI RACING
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DUBAI RACING 2"  group-title="SPORTS",DUBAI RACING 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DUBAI RACING 3"  group-title="SPORTS",DUBAI RACING 3
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ABU DHABI"  group-title="ARABIC",ABU DHABI
+https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="EMARAT"  group-title="ARABIC",EMARAT
+https://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="1 RUSSIA"  group-title="RUSSIA",1 RUSSIA
+http://pl.kineskop.tv/site2/431_~STA954670_8bd6a5743379d735_1604507103_300.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TF1"  group-title="FRANCE",TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TF1 SERIE FILM"  group-title="New Group",TF1 SERIE FILM
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TFX"  group-title="New Group",TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DAS ERSTE"  group-title="DEUTCHLAND",DAS ERSTE
+https://c8.backbackrun.com/web/1/n.xcxc.cf/c3/1604515680/_Fpj8mMmQdxQpqaDo9cWyw/10688.m3u8
+
