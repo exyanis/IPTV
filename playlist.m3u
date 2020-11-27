@@ -59,133 +59,187 @@ https://hta.cdn.easybroadcast.fr/HTATV_CDN/EL_FADJR_TV_DZ/iptvdz/EL_FADJR_TV_DZ_
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALANIS"  group-title="ALGERIA",ALANIS
 https://hta.cdn.easybroadcast.fr/HTATV_CDN/El_Fhama_TV/iptvdz/El_Fhama_TV_720p/chunks.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SAUDI QURAN"  group-title="ISLAM",SAUDI QURAN
-http://m.live.net.sa:1935/live/quran/chunklist_w895316777.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AYAAT"  group-title="ISLAM",AYAAT
-http://m.live.net.sa:1935/live/ayat/chunklist_w2078329880.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SAUDI SUNNAH"  group-title="ISLAM",SAUDI SUNNAH
-http://m.live.net.sa:1935/live/sunnah/chunklist_w1132947462.m3u8?v=694716033
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SAUDI TV"  group-title="ARABIC",SAUDI TV
-https://cllive.itworkscdn.net/ksa1live/token=nva=1604430682~dirs=1~hash=0870160275155acaac7ff/ksa1.smil/ksa1_chunks.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ALEKHBARIYA"  group-title="ARABIC",ALEKHBARIYA
-https://cllive.itworkscdn.net/ikhbariyalive/token=nva=1604430786~dirs=1~hash=0fc12b5b9c64e09758afc/ikhbariya.smil/ikhbariya_chunks.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="2M TV"  group-title="ARABIC",2M TV
-https://2d03.janjua.pw:8088/adfree/bnnn11111__1111111111h/playlist.m3u8?http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TELE MAROC"  group-title="ARABIC",TELE MAROC
-https://playback.akamaized.net/streams/27130247_8196478_lsighionhp8d350e1lb_1/media/27130247_8196478_lsighionhp8d350e1lb_1@5256000p.m3u8?dw=14400&ts=1604473200&hdnts=exp=1604647264~acl=/streams/27130247_8196478_lsighionhp8d350e1lb_1/media*~hmac=e5e15f7eb0b23d7177a676d2b61ba0d02a059cfab02604c8634a8d07a24ec5ce
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="M24"  group-title="NEWS",M24
-https://www.maptvnews.ma/live/smil:OutStream1.smil/chunklist_w1528246268_b850000_sleng.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MEDI1TV"  group-title="NEWS",MEDI1TV
-https://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w353073150.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="LIBYA AL HADATH"  group-title="NEWS",LIBYA AL HADATH
-https://master.starmena-cloud.com/hls/hd.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC1"  group-title="ARABIC",MBC1
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC PERSIA"  group-title="IRAN",MBC PERSIA
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC IRAQ"  group-title="ARABIC",MBC IRAQ
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC2"  group-title="ARABIC",MBC2
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC3"  group-title="ARABIC",MBC3
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC4"  group-title="ARABIC",MBC4
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC5"  group-title="ARABIC",MBC5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC ACTION"  group-title="ARABIC",MBC ACTION
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC MAX"  group-title="ARABIC",MBC MAX
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC MASR"  group-title="ARABIC",MBC MASR
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC BOLYHOOD"  group-title="ARABIC",MBC BOLYHOOD
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SKY NEWS ARABIC"  group-title="NEWS",SKY NEWS ARABIC
-https://stream.skynewsarabia.com/hls/sna_720-1604489478000.ts
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC DRAMA"  group-title="ARABIC",MBC DRAMA
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ALARABIYA"  group-title="NEWS",ALARABIYA
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya/chunks.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="AD NAT GEO"  group-title="DOCUMENTARY",AD NAT GEO
-https://2203.janjua.pw:8088/adfree/natnat/playlist.m3u8?vidictid=185705006653&pk=8a3573480b52ed3fc19b39828845c6774714d4965680a2996a5c53a98bfc75d3&id=96857
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SPACETOON"  group-title="ARABIC",SPACETOON
-https://2203.janjua.pw:8088/adfree/natnat/playlist.m3u8?vidictid=185705006653&pk=8a3573480b52ed3fc19b39828845c6774714d4965680a2996a5c53a98bfc75d3&id=96857
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DUBAI TV"  group-title="ARABIC",DUBAI TV
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b850000.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SAMA DUBAI"  group-title="ARABIC",SAMA DUBAI
-https://2203.janjua.pw:8088/adfree/natnat/playlist.m3u8?vidictid=185705006653&pk=8a3573480b52ed3fc19b39828845c6774714d4965680a2996a5c53a98bfc75d3&id=96857
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DUBAI ONE"  group-title="New Group",DUBAI ONE
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DUBAI ZAMAN"  group-title="New Group",DUBAI ZAMAN
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b725000.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DUBAI SPORTS 1"  group-title="SPORTS",DUBAI SPORTS 1
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1500000.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DUBAI SPORTS 2"  group-title="SPORTS",DUBAI SPORTS 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DUBAI SPORTS 3"  group-title="SPORTS",DUBAI SPORTS 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DUBAI RACING"  group-title="SPORTS",DUBAI RACING
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1500000.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DUBAI RACING 2"  group-title="SPORTS",DUBAI RACING 2
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DUBAI RACING 3"  group-title="SPORTS",DUBAI RACING 3
-http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ABU DHABI"  group-title="ARABIC",ABU DHABI
-https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="EMARAT"  group-title="ARABIC",EMARAT
-https://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="1 RUSSIA"  group-title="RUSSIA",1 RUSSIA
-http://pl.kineskop.tv/site2/431_~STA954670_8bd6a5743379d735_1604507103_300.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TF1"  group-title="FRANCE",TF1
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TF1 SERIE FILM"  group-title="New Group",TF1 SERIE FILM
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TFX"  group-title="New Group",TFX
-https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DAS ERSTE"  group-title="DEUTCHLAND",DAS ERSTE
-https://c8.backbackrun.com/web/1/n.xcxc.cf/c3/1604515680/_Fpj8mMmQdxQpqaDo9cWyw/10688.m3u8
-
+#EXTINF:-1,沧源综合
+http://39.130.218.223:6610/gitv_live/G_LCCANGYUAN/G_LCCANGYUAN.m3u8
+#EXTINF:-1,凤庆综合
+http://39.130.218.223:6610/gitv_live/G_LCFENGQING/G_LCFENGQING.m3u8
+#EXTINF:-1,耿马综合
+http://39.130.218.223:6610/gitv_live/G_LCGENGMA/G_LCGENGMA.m3u8
+#EXTINF:-1,临翔综合
+http://39.130.218.223:6610/gitv_live/G_LCLINXIANG/G_LCLINXIANG.m3u8
+#EXTINF:-1,双江综合
+http://39.130.218.223:6610/gitv_live/G_LCSHUANGJIANG/G_LCSHUANGJIANG.m3u8
+#EXTINF:-1,永德综合
+http://39.130.218.223:6610/gitv_live/G_LCYONGDE/G_LCYONGDE.m3u8
+#EXTINF:-1,云县综合
+http://39.130.218.223:6610/gitv_live/G_LCYUNXIAN/G_LCYUNXIAN.m3u8
+#EXTINF:-1,镇康综合
+http://39.130.218.223:6610/gitv_live/G_LCZHENKANG/G_LCZHENKANG.m3u8
+#EXTINF:-1,景东综合
+http://39.130.218.223:6610/gitv_live/G_JINGDONG/G_JINGDONG.m3u8
+#EXTINF:-1,澜沧综合
+http://39.130.218.223:6610/gitv_live/G_LANCANG/G_LANCANG.m3u8
+#EXTINF:-1,云南都市
+http://39.130.218.223:6610/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8
+#EXTINF:-1,云南都市
+http://39.130.218.223:6610/gitv_live/G_YNTV-2/G_YNTV-2.m3u8
+#EXTINF:-1,云南娱乐
+http://39.130.218.223:6610/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8
+#EXTINF:-1,云南娱乐
+http://39.130.218.223:6610/gitv_live/G_YNTV-3/G_YNTV-3.m3u8
+#EXTINF:-1,云南生活资讯
+http://39.130.218.223:6610/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD.m3u8
+#EXTINF:-1,云南生活资讯
+http://39.130.218.223:6610/gitv_live/G_YNTV-4/G_YNTV-4.m3u8
+#EXTINF:-1,云南影视
+http://39.130.218.223:6610/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8
+#EXTINF:-1,云南影视
+http://39.130.218.223:6610/gitv_live/G_YNTV-5/G_YNTV-5.m3u8
+#EXTINF:-1,云南公共
+http://39.130.218.223:6610/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8
+#EXTINF:-1,云南公共
+http://39.130.218.223:6610/gitv_live/G_YNTV-6/G_YNTV-6.m3u8
+#EXTINF:-1,云南少儿
+http://39.130.218.223:6610/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8
+#EXTINF:-1,云南少儿
+http://39.130.218.223:6610/gitv_live/G_YNTVSE/G_YNTVSE.m3u8
+#EXTINF:-1,云南国际
+http://39.130.218.223:6610/gitv_live/G_YNTVGJ/G_YNTVGJ.m3u8
+#EXTINF:-1,云南移动电视
+http://39.130.218.223:6610/gitv_live/G_QICAIGONGJIAO/G_QICAIGONGJIAO.m3u8
+#EXTINF:-1,昆 明新闻综合
+http://39.130.218.223:6610/gitv_live/G_KMTV-1/G_KMTV-1.m3u8
+#EXTINF:-1,昆 明经济生活
+http://39.130.218.223:6610/gitv_live/G_KMTV-2/G_KMTV-2.m3u8
+#EXTINF:-1,昆 明科学教育
+http://39.130.218.223:6610/gitv_live/G_KMTV-3/G_KMTV-3.m3u8
+#EXTINF:-1,昆 明文体娱乐
+http://39.130.218.223:6610/gitv_live/G_KMTV-4/G_KMTV-4.m3u8
+#EXTINF:-1,昆 明影视综艺
+http://39.130.218.223:6610/gitv_live/G_KMTV-5/G_KMTV-5.m3u8
+#EXTINF:-1,昆 明公共频道
+http://39.130.218.223:6610/gitv_live/G_KMTV-6/G_KMTV-6.m3u8
+#EXTINF:-1,昭通一套
+http://39.130.218.223:6610/gitv_live/G_ZHAOTONG-1/G_ZHAOTONG-1.m3u8
+#EXTINF:-1,昭通三套
+http://39.130.218.223:6610/gitv_live/G_ZHAOTONG-3/G_ZHAOTONG-3.m3u8
+#EXTINF:-1,楚雄综合
+http://39.130.218.223:6610/gitv_live/G_CHUXIONGXW/G_CHUXIONGXW.m3u8
+#EXTINF:-1,楚雄公共
+http://39.130.218.223:6610/gitv_live/G_CHUXIONGGG/G_CHUXIONGGG.m3u8
+#EXTINF:-1,楚雄市综合
+http://39.130.218.223:6610/gitv_live/G_CHUXIONGSHI/G_CHUXIONGSHI.m3u8
+#EXTINF:-1,德宏新闻综合
+http://39.130.218.223:6610/gitv_live/G_DEHONG-1/G_DEHONG-1.m3u8
+#EXTINF:-1,红河州新闻综合
+http://39.130.218.223:6610/gitv_live/G_HONGHETV-1/G_HONGHETV-1.m3u8
+#EXTINF:-1,红河州公共
+http://39.130.218.223:6610/gitv_live/G_HONGHETV-2/G_HONGHETV-2.m3u8
+#EXTINF:-1,普洱新闻综合
+http://39.130.218.223:6610/gitv_live/G_PUERTV-1/G_PUERTV-1.m3u8
+#EXTINF:-1,普洱公共
+http://39.130.218.223:6610/gitv_live/G_PUERTV-2/G_PUERTV-2.m3u8
+#EXTINF:-1,普洱三套
+http://39.130.218.223:6610/gitv_live/G_PUERTV-3/G_PUERTV-3.m3u8
+#EXTINF:-1,迪庆综合
+http://39.130.218.223:6610/gitv_live/G_DIQING-1/G_DIQING-1.m3u8
+#EXTINF:-1,迪庆藏语
+http://39.130.218.223:6610/gitv_live/G_DIQINGZY/G_DIQINGZY.m3u8
+#EXTINF:-1,临沧综合
+http://39.130.218.223:6610/gitv_live/G_LINCANGTV-1/G_LINCANGTV-1.m3u8
+#EXTINF:-1,临沧公共
+http://39.130.218.223:6610/gitv_live/G_LINCANGTV-2/G_LINCANGTV-2.m3u8
+#EXTINF:-1,保山一套
+http://39.130.218.223:6610/gitv_live/G_BAOSHANTV-1/G_BAOSHANTV-1.m3u8
+#EXTINF:-1,保山一套
+http://39.130.218.223:6610/gitv_live/G_BAOSHANXW/G_BAOSHANXW.m3u8
+#EXTINF:-1,保山二套
+http://39.130.218.223:6610/gitv_live/G_BAOSHANTV-2/G_BAOSHANTV-2.m3u8
+#EXTINF:-1,保山一套
+http://39.130.218.223:6610/gitv_live/G_BAOSHANGG/G_BAOSHANGG.m3u8
+#EXTINF:-1,保山一套
+http://39.130.218.223:6610/gitv_live/G_BAOSHANKJ/G_BAOSHANKJ.m3u8
+#EXTINF:-1,大理州新闻综合
+http://39.130.218.223:6610/gitv_live/G_DALITV-1/G_DALITV-1.m3u8
+#EXTINF:-1,大理州农业生活
+http://39.130.218.223:6610/gitv_live/G_DALITV-2/G_DALITV-2.m3u8
+#EXTINF:-1,大理州旅游文化
+http://39.130.218.223:6610/gitv_live/G_DALITV-3/G_DALITV-3.m3u8
+#EXTINF:-1,西双版纳综合
+http://39.130.218.223:6610/gitv_live/G_XSBNTV-1/G_XSBNTV-1.m3u8
+#EXTINF:-1,西双版纳公共
+http://39.130.218.223:6610/gitv_live/G_XSBNTV-2/G_XSBNTV-2.m3u8
+#EXTINF:-1,曲靖一套
+http://39.130.218.223:6610/gitv_live/G_QUJING-1/G_QUJING-1.m3u8
+#EXTINF:-1,曲靖二套
+http://39.130.218.223:6610/gitv_live/G_QUJING-2/G_QUJING-2.m3u8
+#EXTINF:-1,曲靖三套
+http://39.130.218.223:6610/gitv_live/G_QUJING-3/G_QUJING-3.m3u8
+#EXTINF:-1,盈江综合
+http://39.130.218.223:6610/gitv_live/G_DEHONGYJ/G_DEHONGYJ.m3u8
+#EXTINF:-1,永胜综合
+http://39.130.218.223:6610/gitv_live/G_YONGSHENG/G_YONGSHENG.m3u8
+#EXTINF:-1,红河县综合
+http://39.130.218.223:6610/gitv_live/G_HONGHEXIAN/G_HONGHEXIAN.m3u8
+#EXTINF:-1,河口综合
+http://39.130.218.223:6610/gitv_live/G_HEKOU/G_HEKOU.m3u8
+#EXTINF:-1,开远综合
+http://39.130.218.223:6610/gitv_live/G_KAIYUAN/G_KAIYUAN.m3u8
+#EXTINF:-1,绿春综合
+http://39.130.218.223:6610/gitv_live/G_LVCHUN/G_LVCHUN.m3u8
+#EXTINF:-1,屏边综合
+http://39.130.218.223:6610/gitv_live/G_PINGBIAN/G_PINGBIAN.m3u8
+#EXTINF:-1,元阳综合
+http://39.130.218.223:6610/gitv_live/G_YUANYANG/G_YUANYANG.m3u8
+#EXTINF:-1,龙陵综合频道
+http://39.130.218.223:6610/gitv_live/G_LONGLING/G_LONGLING.m3u8
+#EXTINF:-1,隆阳综合频道
+http://39.130.218.223:6610/gitv_live/G_LONGYANG/G_LONGYANG.m3u8
+#EXTINF:-1,禄丰综合
+http://39.130.218.223:6610/gitv_live/G_LUFENG/G_LUFENG.m3u8
+#EXTINF:-1,牟定综合
+http://39.130.218.223:6610/gitv_live/G_MOUDING/G_MOUDING.m3u8
+#EXTINF:-1,南华综合
+http://39.130.218.223:6610/gitv_live/G_NANHUA/G_NANHUA.m3u8
+#EXTINF:-1,双柏综合
+http://39.130.218.223:6610/gitv_live/G_SHUANGBAI/G_SHUANGBAI.m3u8
+#EXTINF:-1,武定综合
+http://39.130.218.223:6610/gitv_live/G_WUDING/G_WUDING.m3u8
+#EXTINF:-1,姚安综合
+http://39.130.218.223:6610/gitv_live/G_YAOAN/G_YAOAN.m3u8
+#EXTINF:-1,元谋综合
+http://39.130.218.223:6610/gitv_live/G_YUANMOU/G_YUANMOU.m3u8
+#EXTINF:-1,永仁综合
+http://39.130.218.223:6610/gitv_live/G_YONGREN/G_YONGREN.m3u8
+#EXTINF:-1,施甸综合
+http://39.130.218.223:6610/gitv_live/G_SHIDIAN/G_SHIDIAN.m3u8
+#EXTINF:-1,宾川一套
+http://39.130.218.223:6610/gitv_live/G_BINCHUANTV-1/G_BINCHUANTV-1.m3u8
+#EXTINF:-1,宾川二套
+http://39.130.218.223:6610/gitv_live/G_BINCHUANTV-2/G_BINCHUANTV-2.m3u8
+#EXTINF:-1,弥渡综合
+http://39.130.218.223:6610/gitv_live/G_MIDUTV-1/G_MIDUTV-1.m3u8
+#EXTINF:-1,云龙综合
+http://39.130.218.223:6610/gitv_live/G_YUNLONGTV-1/G_YUNLONGTV-1.m3u8
+#EXTINF:-1,德钦综合
+http://39.130.218.223:6610/gitv_live/G_DIQINGDQ/G_DIQINGDQ.m3u8
+#EXTINF:-1,维西综合
+http://39.130.218.223:6610/gitv_live/G_DIQINGWX/G_DIQINGWX.m3u8
+#EXTINF:-1,金平综合
+http://39.130.218.223:6610/gitv_live/G_JINPING/G_JINPING.m3u8
+#EXTINF:-1,建水综合
+http://39.130.218.223:6610/gitv_live/G_JIANSHUI/G_JIANSHUI.m3u8
+#EXTINF:-1,弥勒新闻
+http://39.130.218.223:6610/gitv_live/G_MILE/G_MILE.m3u8
+#EXTINF:-1,石屏综合
+http://39.130.218.223:6610/gitv_live/G_SHIPING/G_SHIPING.m3u8
+#EXTINF:-1,孟连综合
+http://39.130.218.223:6610/gitv_live/G_MENGLIAN/G_MENGLIAN.m3u8
+#EXTINF:-1,香格里拉综合
+http://39.130.218.223:6610/gitv_live/G_DIQINGXGLL/G_DIQINGXGLL.m3u8
+#EXTINF:-1,保山三套
+http://39.130.218.223:6610/gitv_live/G_BAOSHANTV-3/G_BAOSHANTV-3.m3u8
+#EXTINF:-1,泸西综合
+http://39.130.218.223:6610/gitv_live/G_LUXI/G_LUXI.m3u8
+#EXTINF:-1,江城综合
+http://39.130.218.223:6610/gitv_live/G_JIANGCHENG/G_JIANGCHENG.m3u8
