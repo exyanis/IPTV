@@ -1,59 +1,27 @@
 #EXTM3U
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MAJID"  group-title="KIDS",MAJID
-https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ALARABIYA"  group-title="NEWS",ALARABIYA
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya/chunks.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ALHADATH"  group-title="NEWS",ALHADATH
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_720p/chunks.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="AD NAT GEO"  group-title="DOCUMENTARY",AD NAT GEO
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="YAS"  group-title="SPORTS",YAS
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SAUDI TV"  group-title="New Group",SAUDI TV
-https://cllive.itworkscdn.net/ksa1live/token=nva=1606561831~dirs=1~hash=0a735cb0547a76b3ed9a0/ksa1.smil/ksa1_chunks.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ALEKHBARIYA"  group-title="NEWS",ALEKHBARIYA
-https://cllive.itworkscdn.net/ikhbariyalive/token=nva=1606561993~dirs=1~hash=0be549d6d1defe1e209e9/ikhbariya.smil/ikhbariya_chunks.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SAUDI SUNNAH"  group-title="ISLAMIC",SAUDI SUNNAH
-https://cllive.itworkscdn.net/ksasunnalive/token=nva=1606562060~dirs=1~hash=0908feace8292a9254a99/ksasunna.smil/ksasunna_chunks.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SAUDI QURAN"  group-title="ISLAMIC",SAUDI QURAN
-https://cllive.itworkscdn.net/ksaquranlive/token=nva=1606562113~dirs=1~hash=0f8d09e401a9d6aac04f5/ksaquran.smil/ksaquran_chunks.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SKY NEWS ARABIA"  group-title="NEWS",SKY NEWS ARABIA
-https://stream.skynewsarabia.com/hls/sna_720.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC 1"  group-title="ARABIC",MBC 1
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC 2"  group-title="ARABIC",MBC 2
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC 3"  group-title="ARABIC",MBC 3
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC 4"  group-title="ARABIC",MBC 4
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC 5"  group-title="ARABIC",MBC 5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC ACTION"  group-title="ARABIC",MBC ACTION
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC MAX"  group-title="ARABIC",MBC MAX
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC DRAMA"  group-title="ARABIC",MBC DRAMA
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MBC + DRAMA"  group-title="ARABIC",MBC + DRAMA
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
-
+#EXTINF:-1 tvg-id="8f91f22bce7ebc8ae989057e05b67c3c",Canvas HD
+http://185.150.27.126:9981/stream/channelid/737317263?ticket=C908C18FDAFAB919CFEB28F63C99361D99BA917E&profile=pass
+#EXTINF:-1 tvg-id="25d1482a6a5069e7bf6bfb66cb10761e",CAZ2
+http://185.150.27.126:9981/stream/channelid/709415205?ticket=37AD3059835048CDC3E3C281637E73F1B3CDB832&profile=pass
+#EXTINF:-1 tvg-id="f64e9b95ddb5e0e4232daa0b270d0687",Eclips TV
+http://185.150.27.126:9981/stream/channelid/362499830?ticket=8155E53CBC7EBB2ADA82029AD1B1018AABBC67C9&profile=pass
+#EXTINF:-1 tvg-id="7e1299049f5c14dcd537db8f41efc128",een HD
+http://185.150.27.126:9981/stream/channelid/77140606?ticket=89ED17C1365767044D0B68021DAB09D0C468E586&profile=pass
+#EXTINF:-1 tvg-id="5fc3ceedee1e610aeba4a356505dec2c",KetOp12
+http://185.150.27.126:9981/stream/channelid/1842266975?ticket=13611A66B6CEA91B338DEC4597D9F4F703CD6454&profile=pass
+#EXTINF:-1 tvg-id="3be817c1f0e3ec78b77f13cbb2f6f9df",VIER HD
+http://185.150.27.126:9981/stream/channelid/1092085819?ticket=865640689336836074934036190A39D9BD5D3687&profile=pass
+#EXTINF:-1 tvg-id="9ac61f7be32a2c2f8674bf02b5835806",VIJF
+http://185.150.27.126:9981/stream/channelid/2065680026?ticket=5791F09324268CD606ABDBA2398D34C0F3069016&profile=pass
+#EXTINF:-1 tvg-id="a5a56c232cbb7a7f93a8e95be325d735",VTM 2 HD
+http://185.150.27.126:9981/stream/channelid/594322853?ticket=F16B2773FAAB7A83E75E02C7CC5AC5B91A63292E&profile=pass
+#EXTINF:-1 tvg-id="2173e86560f42691ffde360af99abaa8",VTM 3
+http://185.150.27.126:9981/stream/channelid/1709732641?ticket=4D5B207256AC87A7F448EA1C8A383934804F7DA5&profile=pass
+#EXTINF:-1 tvg-id="c8f41cd3e354fa7ecc806bb2b6b6f67d",VTM 4
+http://185.150.27.126:9981/stream/channelid/1394406600?ticket=F4AE3DB9B6325B59C6D85087321A2FB4D5B741A6&profile=pass
+#EXTINF:-1 tvg-id="f9d00d2b6845491ae2d7f8442bb4f0b2",VTM HD
+http://185.150.27.126:9981/stream/channelid/722325753?ticket=D21DBD624FAA724CAF4683499805D81B37B28902&profile=pass
+#EXTINF:-1 tvg-id="b8c290e1ad280587247862d4004f5d44",vtm KIDS
+http://185.150.27.126:9981/stream/channelid/1636876984?ticket=B8A5F7C73B06EA75FF1EA7E60BBBEFFB0E5A1EA8&profile=pass
+#EXTINF:-1 tvg-id="a81ecaddc9e7335acae9bf792d8c3d77",ZES
+http://185.150.27.126:9981/stream/channelid/1573527208?ticket=89B12E9C111BDCA6C784986604F7DB02A84B58B1&profile=pass
