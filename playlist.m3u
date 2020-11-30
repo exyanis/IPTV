@@ -25,3 +25,63 @@ http://185.150.27.126:9981/stream/channelid/722325753?ticket=D21DBD624FAA724CAF4
 http://185.150.27.126:9981/stream/channelid/1636876984?ticket=B8A5F7C73B06EA75FF1EA7E60BBBEFFB0E5A1EA8&profile=pass
 #EXTINF:-1 tvg-id="a81ecaddc9e7335acae9bf792d8c3d77",ZES
 http://185.150.27.126:9981/stream/channelid/1573527208?ticket=89B12E9C111BDCA6C784986604F7DB02A84B58B1&profile=pass
+#EXTINF:-1,ALPHA HD
+http://188.117.199.195:8000/play/a00n/index.m3u8
+#EXTINF:-1,ANT1 HD
+http://188.117.199.195:8000/play/a00l/index.m3u8
+#EXTINF:-1,ERT 1
+http://188.117.199.195:8000/play/a00d/index.m3u8
+#EXTINF:-1,ERT 2
+http://188.117.199.195:8000/play/a00e/index.m3u8
+#EXTINF:-1,ERT 3
+http://188.117.199.195:8000/play/a00f/index.m3u8
+#EXTINF:-1,ERT Sports HD
+http://188.117.199.195:8000/play/a00g/index.m3u8
+#EXTINF:-1,EURO CHANNEL
+http://188.117.199.195:8000/play/a00a/index.m3u8
+#EXTINF:-1,GNOMI TV
+http://188.117.199.195:8000/play/a00b/index.m3u8
+#EXTINF:-1,KANALI 9
+http://188.117.199.195:8000/play/a008/index.m3u8
+#EXTINF:-1,MEGA HD
+http://188.117.199.195:8000/play/a00j/index.m3u8
+#EXTINF:-1,NICKELODEON PLUS
+http://188.117.199.195:8000/play/a009/index.m3u8
+#EXTINF:-1,OPEN BEYOND HD
+http://188.117.199.195:8000/play/a00i/index.m3u8
+#EXTINF:-1,SKAI HD
+http://188.117.199.195:8000/play/a003/index.m3u8
+#EXTINF:-1,STAR HD
+http://188.117.199.195:8000/play/a00m/index.m3u8
+#EXTINF:-1,TV 100
+http://188.117.199.195:8000/play/a00c/index.m3u8
+#EXTINF:-1,m.tv HD
+http://188.117.199.195:8000/play/a002/index.m3u8
+#EXTINF:-1,Animal Planet HD World @ Rs 3
+http://103.81.241.108:8000/play/a064
+#EXTINF:-1,Nat Geo Wild HD @ Rs 5
+http://103.81.241.108:8000/play/a06c
+#EXTINF:-1,Sony BBC Earth HD @ Rs 10
+http://103.81.241.108:8000/play/a066
+#EXTINF:-1,Sony SAB HD @ Rs 19
+http://103.81.241.108:8000/play/a060
+#EXTINF:-1,Sony Ten 2 HD @ Rs 17
+http://103.81.241.108:8000/play/a069
+#EXTINF:-1,Sony Ten 3 HD @ Rs 17
+http://103.81.241.108:8000/play/a06a
+#EXTINF:-1,Star Gold Select HD @ Rs 8
+http://103.81.241.108:8000/play/a067
+#EXTINF:-1,TLC HD @ Rs 3
+http://103.81.241.108:8000/play/a065
+#EXTINF:-1,Times Now World @ Rs 5
+http://103.81.241.108:8000/play/a068
+#EXTINF:-1,Vijay HD @ Rs 19
+http://103.81.241.108:8000/play/a05z
+#EXTINF:-1,Zee Bangla HD @ Rs 19
+http://103.81.241.108:8000/play/a061
+#EXTINF:-1,Zee Keralam HD @ Rs 8
+http://103.81.241.108:8000/play/a06b
+#EXTINF:-1,Zee Marathi HD @ Rs 19
+http://103.81.241.108:8000/play/a062
+#EXTINF:-1,Zee Talkies HD @ Rs 19
+http://103.81.241.108:8000/play/a063
