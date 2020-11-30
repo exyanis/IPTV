@@ -1,87 +1,281 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="8f91f22bce7ebc8ae989057e05b67c3c",Canvas HD
-http://185.150.27.126:9981/stream/channelid/737317263?ticket=C908C18FDAFAB919CFEB28F63C99361D99BA917E&profile=pass
-#EXTINF:-1 tvg-id="25d1482a6a5069e7bf6bfb66cb10761e",CAZ2
-http://185.150.27.126:9981/stream/channelid/709415205?ticket=37AD3059835048CDC3E3C281637E73F1B3CDB832&profile=pass
-#EXTINF:-1 tvg-id="f64e9b95ddb5e0e4232daa0b270d0687",Eclips TV
-http://185.150.27.126:9981/stream/channelid/362499830?ticket=8155E53CBC7EBB2ADA82029AD1B1018AABBC67C9&profile=pass
-#EXTINF:-1 tvg-id="7e1299049f5c14dcd537db8f41efc128",een HD
-http://185.150.27.126:9981/stream/channelid/77140606?ticket=89ED17C1365767044D0B68021DAB09D0C468E586&profile=pass
-#EXTINF:-1 tvg-id="5fc3ceedee1e610aeba4a356505dec2c",KetOp12
-http://185.150.27.126:9981/stream/channelid/1842266975?ticket=13611A66B6CEA91B338DEC4597D9F4F703CD6454&profile=pass
-#EXTINF:-1 tvg-id="3be817c1f0e3ec78b77f13cbb2f6f9df",VIER HD
-http://185.150.27.126:9981/stream/channelid/1092085819?ticket=865640689336836074934036190A39D9BD5D3687&profile=pass
-#EXTINF:-1 tvg-id="9ac61f7be32a2c2f8674bf02b5835806",VIJF
-http://185.150.27.126:9981/stream/channelid/2065680026?ticket=5791F09324268CD606ABDBA2398D34C0F3069016&profile=pass
-#EXTINF:-1 tvg-id="a5a56c232cbb7a7f93a8e95be325d735",VTM 2 HD
-http://185.150.27.126:9981/stream/channelid/594322853?ticket=F16B2773FAAB7A83E75E02C7CC5AC5B91A63292E&profile=pass
-#EXTINF:-1 tvg-id="2173e86560f42691ffde360af99abaa8",VTM 3
-http://185.150.27.126:9981/stream/channelid/1709732641?ticket=4D5B207256AC87A7F448EA1C8A383934804F7DA5&profile=pass
-#EXTINF:-1 tvg-id="c8f41cd3e354fa7ecc806bb2b6b6f67d",VTM 4
-http://185.150.27.126:9981/stream/channelid/1394406600?ticket=F4AE3DB9B6325B59C6D85087321A2FB4D5B741A6&profile=pass
-#EXTINF:-1 tvg-id="f9d00d2b6845491ae2d7f8442bb4f0b2",VTM HD
-http://185.150.27.126:9981/stream/channelid/722325753?ticket=D21DBD624FAA724CAF4683499805D81B37B28902&profile=pass
-#EXTINF:-1 tvg-id="b8c290e1ad280587247862d4004f5d44",vtm KIDS
-http://185.150.27.126:9981/stream/channelid/1636876984?ticket=B8A5F7C73B06EA75FF1EA7E60BBBEFFB0E5A1EA8&profile=pass
-#EXTINF:-1 tvg-id="a81ecaddc9e7335acae9bf792d8c3d77",ZES
-http://185.150.27.126:9981/stream/channelid/1573527208?ticket=89B12E9C111BDCA6C784986604F7DB02A84B58B1&profile=pass
-#EXTINF:-1,ALPHA HD
-http://188.117.199.195:8000/play/a00n/index.m3u8
-#EXTINF:-1,ANT1 HD
-http://188.117.199.195:8000/play/a00l/index.m3u8
-#EXTINF:-1,ERT 1
-http://188.117.199.195:8000/play/a00d/index.m3u8
-#EXTINF:-1,ERT 2
-http://188.117.199.195:8000/play/a00e/index.m3u8
-#EXTINF:-1,ERT 3
-http://188.117.199.195:8000/play/a00f/index.m3u8
-#EXTINF:-1,ERT Sports HD
-http://188.117.199.195:8000/play/a00g/index.m3u8
-#EXTINF:-1,EURO CHANNEL
-http://188.117.199.195:8000/play/a00a/index.m3u8
-#EXTINF:-1,GNOMI TV
-http://188.117.199.195:8000/play/a00b/index.m3u8
-#EXTINF:-1,KANALI 9
-http://188.117.199.195:8000/play/a008/index.m3u8
-#EXTINF:-1,MEGA HD
-http://188.117.199.195:8000/play/a00j/index.m3u8
-#EXTINF:-1,NICKELODEON PLUS
-http://188.117.199.195:8000/play/a009/index.m3u8
-#EXTINF:-1,OPEN BEYOND HD
-http://188.117.199.195:8000/play/a00i/index.m3u8
-#EXTINF:-1,SKAI HD
-http://188.117.199.195:8000/play/a003/index.m3u8
-#EXTINF:-1,STAR HD
-http://188.117.199.195:8000/play/a00m/index.m3u8
-#EXTINF:-1,TV 100
-http://188.117.199.195:8000/play/a00c/index.m3u8
-#EXTINF:-1,m.tv HD
-http://188.117.199.195:8000/play/a002/index.m3u8
-#EXTINF:-1,Animal Planet HD World @ Rs 3
-http://103.81.241.108:8000/play/a064
-#EXTINF:-1,Nat Geo Wild HD @ Rs 5
-http://103.81.241.108:8000/play/a06c
-#EXTINF:-1,Sony BBC Earth HD @ Rs 10
-http://103.81.241.108:8000/play/a066
-#EXTINF:-1,Sony SAB HD @ Rs 19
-http://103.81.241.108:8000/play/a060
-#EXTINF:-1,Sony Ten 2 HD @ Rs 17
-http://103.81.241.108:8000/play/a069
-#EXTINF:-1,Sony Ten 3 HD @ Rs 17
-http://103.81.241.108:8000/play/a06a
-#EXTINF:-1,Star Gold Select HD @ Rs 8
-http://103.81.241.108:8000/play/a067
-#EXTINF:-1,TLC HD @ Rs 3
-http://103.81.241.108:8000/play/a065
-#EXTINF:-1,Times Now World @ Rs 5
-http://103.81.241.108:8000/play/a068
-#EXTINF:-1,Vijay HD @ Rs 19
-http://103.81.241.108:8000/play/a05z
-#EXTINF:-1,Zee Bangla HD @ Rs 19
-http://103.81.241.108:8000/play/a061
-#EXTINF:-1,Zee Keralam HD @ Rs 8
-http://103.81.241.108:8000/play/a06b
-#EXTINF:-1,Zee Marathi HD @ Rs 19
-http://103.81.241.108:8000/play/a062
-#EXTINF:-1,Zee Talkies HD @ Rs 19
-http://103.81.241.108:8000/play/a063
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://distv.net/icons/ae.png" group-title="FILMES E SERIES",A&E
+http://rec2.distv.net:80/teste/teste/415
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://distv.net/icons/amc.png" group-title="FILMES E SERIES",AMC
+http://rec2.distv.net:80/teste/teste/416
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="http://distv.net/icons/animalplanet.png" group-title="ENTRETENIMENTO",ANIMAL PLANET
+http://rec2.distv.net:80/teste/teste/417
+#EXTINF:-1 tvg-id="" tvg-name="ARTE 1" tvg-logo="http://distv.net/icons/arte1.png" group-title="ENTRETENIMENTO",ARTE 1
+http://rec2.distv.net:80/teste/teste/418
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://distv.net/icons/axn.png" group-title="FILMES E SERIES",AXN
+http://rec2.distv.net:80/teste/teste/419
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="http://distv.net/icons/babytv.png" group-title="KIDS",BABY TV
+http://rec2.distv.net:80/teste/teste/423
+#EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="http://distv.net/icons/band.png" group-title="CANAIS LOCAIS",BAND
+http://rec2.distv.net:80/teste/teste/420
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="http://distv.net/icons/bandnews.png" group-title="REPORTAGEM",BAND NEWS
+http://rec2.distv.net:80/teste/teste/421
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="http://distv.net/icons/bandsports.png" group-title="SPORTS",BAND SPORTS
+http://rec2.distv.net:80/teste/teste/422
+#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="http://distv.net/icons/bis.png" group-title="ENTRETENIMENTO",BIS
+http://rec2.distv.net:80/teste/teste/424
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="http://distv.net/icons/boomerang.png" group-title="KIDS",BOOMERANG
+http://rec2.distv.net:80/teste/teste/425
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS" tvg-logo="http://distv.net/icons/brasileirinhas.png" group-title="ADULTOS",BRASILEIRINHAS
+http://rec2.distv.net:80/teste/teste/607
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL" tvg-logo="http://distv.net/icons/canalbrasil.png" group-title="ENTRETENIMENTO",CANAL BRASIL
+http://rec2.distv.net:80/teste/teste/426
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY" tvg-logo="http://distv.net/icons/sonychannel.png" group-title="FILMES E SERIES",CANAL SONY
+http://rec2.distv.net:80/teste/teste/427
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="KIDS",CARTOON NETWORK
+http://rec2.distv.net:80/teste/teste/428
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 1
+http://rec2.distv.net:80/teste/teste/535
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 10
+http://rec2.distv.net:80/teste/teste/544
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 2
+http://rec2.distv.net:80/teste/teste/536
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 3
+http://rec2.distv.net:80/teste/teste/537
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 4
+http://rec2.distv.net:80/teste/teste/538
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 5
+http://rec2.distv.net:80/teste/teste/539
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 6" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 6
+http://rec2.distv.net:80/teste/teste/540
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 7" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 7
+http://rec2.distv.net:80/teste/teste/541
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 8" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 8
+http://rec2.distv.net:80/teste/teste/542
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 9
+http://rec2.distv.net:80/teste/teste/543
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="http://distv.net/icons/cinemax.png" group-title="FILMES E SERIES",CINEMAX
+http://rec2.distv.net:80/teste/teste/429
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="http://distv.net/icons/cnnbrasil.png" group-title="REPORTAGEM",CNN BRASIL
+http://rec2.distv.net:80/teste/teste/432
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="http://distv.net/icons/combate.png" group-title="SPORTS",COMBATE
+http://rec2.distv.net:80/teste/teste/431
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://distv.net/icons/comedycentral.png" group-title="FILMES E SERIES",COMEDY CENTRAL
+http://rec2.distv.net:80/teste/teste/435
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA" tvg-logo="http://distv.net/icons/cultura.png" group-title="ENTRETENIMENTO",CULTURA
+http://rec2.distv.net:80/teste/teste/436
+#EXTINF:-1 tvg-id="" tvg-name="CURTA" tvg-logo="http://distv.net/icons/curta.png" group-title="ENTRETENIMENTO",CURTA
+http://rec2.distv.net:80/teste/teste/437
+#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://distv.net/icons/dazn.png" group-title="SPORTS",DAZN
+http://rec2.distv.net:80/teste/teste/606
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://distv.net/icons/discoverychannel.png" group-title="ENTRETENIMENTO",DISCOVERY CHANNEL
+http://rec2.distv.net:80/teste/teste/438
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://distv.net/icons/discoveryhomehealth.png" group-title="ENTRETENIMENTO",DISCOVERY HOME & HEALTH
+http://rec2.distv.net:80/teste/teste/439
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="http://distv.net/icons/discoveryid.png" group-title="ENTRETENIMENTO",DISCOVERY ID
+http://rec2.distv.net:80/teste/teste/440
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="http://distv.net/icons/discoverykids.png" group-title="KIDS",DISCOVERY KIDS
+http://rec2.distv.net:80/teste/teste/441
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://distv.net/icons/discoveryscience.png" group-title="ENTRETENIMENTO",DISCOVERY SCIENCE
+http://rec2.distv.net:80/teste/teste/442
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="http://distv.net/icons/discoverytheater.png" group-title="ENTRETENIMENTO",DISCOVERY THEATER
+http://rec2.distv.net:80/teste/teste/443
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="http://distv.net/icons/discoveryturbo.png" group-title="ENTRETENIMENTO",DISCOVERY TURBO
+http://rec2.distv.net:80/teste/teste/444
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="http://distv.net/icons/discoveryworld.png" group-title="ENTRETENIMENTO",DISCOVERY WORLD
+http://rec2.distv.net:80/teste/teste/445
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="http://distv.net/icons/disneychannel.png" group-title="KIDS",DISNEY CHANNEL
+http://rec2.distv.net:80/teste/teste/446
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="http://distv.net/icons/disneyjr.png" group-title="KIDS",DISNEY JUNIOR
+http://rec2.distv.net:80/teste/teste/447
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="http://distv.net/icons/disneyxd.png" group-title="KIDS",DISNEY XD
+http://rec2.distv.net:80/teste/teste/448
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://distv.net/icons/e.png" group-title="ENTRETENIMENTO",E!
+http://rec2.distv.net:80/teste/teste/449
+#EXTINF:-1 tvg-id="" tvg-name="ESPN " tvg-logo="http://distv.net/icons/espn.png" group-title="SPORTS",ESPN 
+http://rec2.distv.net:80/teste/teste/450
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://distv.net/icons/espn2.png" group-title="SPORTS",ESPN 2
+http://rec2.distv.net:80/teste/teste/451
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL" tvg-logo="http://distv.net/icons/espnbrasil.png" group-title="SPORTS",ESPN BRASIL
+http://rec2.distv.net:80/teste/teste/452
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://distv.net/icons/espnextra.png" group-title="SPORTS",ESPN EXTRA
+http://rec2.distv.net:80/teste/teste/453
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="http://distv.net/icons/fashiontv.png" group-title="ENTRETENIMENTO",FASHION TV
+http://rec2.distv.net:80/teste/teste/454
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV" tvg-logo="http://distv.net/icons/fishtv.png" group-title="ENTRETENIMENTO",FISH TV
+http://rec2.distv.net:80/teste/teste/455
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="http://distv.net/icons/foodnetwork.png" group-title="ENTRETENIMENTO",FOOD NETWORK
+http://rec2.distv.net:80/teste/teste/456
+#EXTINF:-1 tvg-id="" tvg-name="FOX " tvg-logo="http://distv.net/icons/foxchannel.png" group-title="FILMES E SERIES",FOX 
+http://rec2.distv.net:80/teste/teste/457
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="http://distv.net/icons/foxlife.png" group-title="FILMES E SERIES",FOX LIFE
+http://rec2.distv.net:80/teste/teste/458
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1" tvg-logo="http://distv.net/icons/foxpremium1.png" group-title="FILMES E SERIES",FOX PREMIUM 1
+http://rec2.distv.net:80/teste/teste/460
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2" tvg-logo="http://distv.net/icons/foxpremium2.png" group-title="FILMES E SERIES",FOX PREMIUM 2
+http://rec2.distv.net:80/teste/teste/461
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="http://distv.net/icons/foxsports.png" group-title="SPORTS",FOX SPORTS
+http://rec2.distv.net:80/teste/teste/462
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://distv.net/icons/foxsports2.png" group-title="SPORTS",FOX SPORTS 2
+http://rec2.distv.net:80/teste/teste/463
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="http://distv.net/icons/futura.png" group-title="CANAIS LOCAIS",FUTURA
+http://rec2.distv.net:80/teste/teste/464
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://distv.net/icons/fx.png" group-title="FILMES E SERIES",FX
+http://rec2.distv.net:80/teste/teste/465
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO
+http://rec2.distv.net:80/teste/teste/466
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="http://distv.net/icons/globonews.png" group-title="REPORTAGEM",GLOBO NEWS
+http://rec2.distv.net:80/teste/teste/467
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="http://distv.net/icons/gloob.png" group-title="KIDS",GLOOB
+http://rec2.distv.net:80/teste/teste/468
+#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="http://distv.net/icons/gnt.png" group-title="ENTRETENIMENTO",GNT
+http://rec2.distv.net:80/teste/teste/469
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="http://distv.net/icons/h2.png" group-title="ENTRETENIMENTO",H2
+http://rec2.distv.net:80/teste/teste/480
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://distv.net/icons/hbo.png" group-title="FILMES E SERIES",HBO
+http://rec2.distv.net:80/teste/teste/471
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="http://distv.net/icons/hbo2.png" group-title="FILMES E SERIES",HBO 2
+http://rec2.distv.net:80/teste/teste/472
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="http://distv.net/icons/hbofamily.png" group-title="FILMES E SERIES",HBO FAMILY
+http://rec2.distv.net:80/teste/teste/473
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="http://distv.net/icons/hbomundi.png" group-title="FILMES E SERIES",HBO MUNDI
+http://rec2.distv.net:80/teste/teste/475
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="http://distv.net/icons/hboplus.png" group-title="FILMES E SERIES",HBO PLUS
+http://rec2.distv.net:80/teste/teste/474
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="http://distv.net/icons/hbopop.png" group-title="FILMES E SERIES",HBO POP
+http://rec2.distv.net:80/teste/teste/476
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="http://distv.net/icons/hbosignature.png" group-title="FILMES E SERIES",HBO SIGNATURE
+http://rec2.distv.net:80/teste/teste/478
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="http://distv.net/icons/hboextreme.png" group-title="FILMES E SERIES",HBO XTREME
+http://rec2.distv.net:80/teste/teste/477
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://distv.net/icons/hgtv.png" group-title="ENTRETENIMENTO",HGTV
+http://rec2.distv.net:80/teste/teste/481
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="http://distv.net/icons/historychannel.png" group-title="ENTRETENIMENTO",HISTORY
+http://rec2.distv.net:80/teste/teste/479
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="http://distv.net/icons/lifetime.png" group-title="FILMES E SERIES",LIFETIME
+http://rec2.distv.net:80/teste/teste/482
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT" tvg-logo="http://distv.net/icons/maisglobosat.png" group-title="REPORTAGEM",MAIS GLOBOSAT
+http://rec2.distv.net:80/teste/teste/483
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX" tvg-logo="http://distv.net/icons/megapix.png" group-title="FILMES E SERIES",MEGAPIX
+http://rec2.distv.net:80/teste/teste/484
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://distv.net/icons/mtv.png" group-title="ENTRETENIMENTO",MTV
+http://rec2.distv.net:80/teste/teste/485
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="http://distv.net/icons/mtv.png" group-title="ENTRETENIMENTO",MTV LIVE
+http://rec2.distv.net:80/teste/teste/486
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW" tvg-logo="http://distv.net/icons/multishow.png" group-title="ENTRETENIMENTO",MULTISHOW
+http://rec2.distv.net:80/teste/teste/487
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRASIL" tvg-logo="http://distv.net/icons/musicboxbrazil.png" group-title="ENTRETENIMENTO",MUSIC BOX BRASIL
+http://rec2.distv.net:80/teste/teste/488
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO" tvg-logo="http://distv.net/icons/natgeo.png" group-title="ENTRETENIMENTO",NATGEO
+http://rec2.distv.net:80/teste/teste/489
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS" tvg-logo="http://distv.net/icons/natgeokids.png" group-title="KIDS",NATGEO KIDS
+http://rec2.distv.net:80/teste/teste/490
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="http://distv.net/icons/natgeowild.png" group-title="ENTRETENIMENTO",NATGEO WILD
+http://rec2.distv.net:80/teste/teste/491
+#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="http://distv.net/icons/nick.png" group-title="KIDS",NICK
+http://rec2.distv.net:80/teste/teste/492
+#EXTINF:-1 tvg-id="" tvg-name="NICK JUNIOR" tvg-logo="http://distv.net/icons/nickjr.png" group-title="KIDS",NICK JUNIOR
+http://rec2.distv.net:80/teste/teste/493
+#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="http://distv.net/icons/off.png" group-title="ENTRETENIMENTO",OFF
+http://rec2.distv.net:80/teste/teste/494
+#EXTINF:-1 tvg-id="" tvg-name="PAI ETERNO" tvg-logo="http://distv.net/icons/tvpaieterno.png" group-title="CANAIS LOCAIS",PAI ETERNO
+http://rec2.distv.net:80/teste/teste/495
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="http://distv.net/icons/paramount.png" group-title="FILMES E SERIES",PARAMOUNT
+http://rec2.distv.net:80/teste/teste/496
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="http://distv.net/icons/premiere2.png" group-title="SPORTS",PREMIERE 2
+http://rec2.distv.net:80/teste/teste/497
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="http://distv.net/icons/premiere3.png" group-title="SPORTS",PREMIERE 3
+http://rec2.distv.net:80/teste/teste/498
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4" tvg-logo="http://distv.net/icons/premeire4.png" group-title="SPORTS",PREMIERE 4
+http://rec2.distv.net:80/teste/teste/499
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="http://distv.net/icons/premeire5.png" group-title="SPORTS",PREMIERE 5
+http://rec2.distv.net:80/teste/teste/500
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6" tvg-logo="http://distv.net/icons/premiere6.png" group-title="SPORTS",PREMIERE 6
+http://rec2.distv.net:80/teste/teste/501
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7" tvg-logo="http://distv.net/icons/premiere7.png" group-title="SPORTS",PREMIERE 7
+http://rec2.distv.net:80/teste/teste/502
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="http://distv.net/icons/premiereclubes.png" group-title="SPORTS",PREMIERE CLUBES
+http://rec2.distv.net:80/teste/teste/503
+#EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL" tvg-logo="http://distv.net/icons/primeboxbrazil.png" group-title="ENTRETENIMENTO",PRIME BOX BRAZIL
+http://rec2.distv.net:80/teste/teste/504
+#EXTINF:-1 tvg-id="" tvg-name="REC-GLOBO NORDESTE-1080-H264" tvg-logo="http://distv.net/icons/globonordeste.png" group-title="CANAIS LOCAIS",REC-GLOBO NORDESTE-1080-H264
+http://rec2.distv.net:80/teste/teste/600
+#EXTINF:-1 tvg-id="" tvg-name="REC-REDE TV-1080-H264" tvg-logo="http://distv.net/icons/redetv.png" group-title="CANAIS LOCAIS",REC-REDE TV-1080-H264
+http://rec2.distv.net:80/teste/teste/598
+#EXTINF:-1 tvg-id="" tvg-name="REC-RIT TV-1080-H264" tvg-logo="http://distv.net/icons/rittv.png" group-title="CANAIS LOCAIS",REC-RIT TV-1080-H264
+http://rec2.distv.net:80/teste/teste/605
+#EXTINF:-1 tvg-id="" tvg-name="REC-TV CLUBE-1080-H264" tvg-logo="http://distv.net/icons/tvclube.png" group-title="CANAIS LOCAIS",REC-TV CLUBE-1080-H264
+http://rec2.distv.net:80/teste/teste/599
+#EXTINF:-1 tvg-id="" tvg-name="REC-TV JORNAL-1080-H264" tvg-logo="http://distv.net/icons/tvjornal.png" group-title="CANAIS LOCAIS",REC-TV JORNAL-1080-H264
+http://rec2.distv.net:80/teste/teste/601
+#EXTINF:-1 tvg-id="" tvg-name="REC-TV TRIBUNA-1080-H264" tvg-logo="http://distv.net/icons/tvtribuna.png" group-title="CANAIS LOCAIS",REC-TV TRIBUNA-1080-H264
+http://rec2.distv.net:80/teste/teste/602
+#EXTINF:-1 tvg-id="" tvg-name="REC-TV UNIVERSITARIA-1080-H264" tvg-logo="http://distv.net/icons/tvuniversitaria.png" group-title="CANAIS LOCAIS",REC-TV UNIVERSITARIA-1080-H264
+http://rec2.distv.net:80/teste/teste/603
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="http://distv.net/icons/recordnews.png" group-title="REPORTAGEM",RECORD NEWS
+http://rec2.distv.net:80/teste/teste/505
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="http://distv.net/icons/redetv.png" group-title="CANAIS LOCAIS",REDE TV
+http://rec2.distv.net:80/teste/teste/506
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://distv.net/icons/sbt.png" group-title="CANAIS LOCAIS",SBT
+http://rec2.distv.net:80/teste/teste/507
+#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE" tvg-logo="http://distv.net/icons/sexprive.png" group-title="ADULTOS",SEX PRIVE
+http://rec2.distv.net:80/teste/teste/546
+#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT" tvg-logo="http://distv.net/icons/sexyhot.png" group-title="ADULTOS",SEXY HOT
+http://rec2.distv.net:80/teste/teste/545
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="http://distv.net/icons/space.png" group-title="FILMES E SERIES",SPACE
+http://rec2.distv.net:80/teste/teste/508
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV " tvg-logo="http://distv.net/icons/sportv.png" group-title="SPORTS",SPORTV 
+http://rec2.distv.net:80/teste/teste/509
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="http://distv.net/icons/sportv2.png" group-title="SPORTS",SPORTV 2
+http://rec2.distv.net:80/teste/teste/510
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3" tvg-logo="http://distv.net/icons/sportv3.png" group-title="SPORTS",SPORTV 3
+http://rec2.distv.net:80/teste/teste/511
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://distv.net/icons/studiouniversal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
+http://rec2.distv.net:80/teste/teste/512
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="http://distv.net/icons/syfy.png" group-title="FILMES E SERIES",SYFY
+http://rec2.distv.net:80/teste/teste/513
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://distv.net/icons/tbs.png" group-title="FILMES E SERIES",TBS
+http://rec2.distv.net:80/teste/teste/514
+#EXTINF:-1 tvg-id="" tvg-name="TC ACTION" tvg-logo="http://distv.net/icons/tcaction.png" group-title="FILMES E SERIES",TC ACTION
+http://rec2.distv.net:80/teste/teste/515
+#EXTINF:-1 tvg-id="" tvg-name="TC CULT" tvg-logo="http://distv.net/icons/tccult.png" group-title="FILMES E SERIES",TC CULT
+http://rec2.distv.net:80/teste/teste/516
+#EXTINF:-1 tvg-id="" tvg-name="TC FUN" tvg-logo="http://distv.net/icons/tcfun.png" group-title="FILMES E SERIES",TC FUN
+http://rec2.distv.net:80/teste/teste/517
+#EXTINF:-1 tvg-id="" tvg-name="TC PIPOCA" tvg-logo="http://distv.net/icons/tcpipoca.png" group-title="FILMES E SERIES",TC PIPOCA
+http://rec2.distv.net:80/teste/teste/518
+#EXTINF:-1 tvg-id="" tvg-name="TC PREMIUM" tvg-logo="http://distv.net/icons/tcpremium.png" group-title="FILMES E SERIES",TC PREMIUM
+http://rec2.distv.net:80/teste/teste/519
+#EXTINF:-1 tvg-id="" tvg-name="TC TOUCH" tvg-logo="http://distv.net/icons/tctouch.png" group-title="FILMES E SERIES",TC TOUCH
+http://rec2.distv.net:80/teste/teste/520
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://distv.net/icons/tlc.png" group-title="FILMES E SERIES",TLC
+http://rec2.distv.net:80/teste/teste/521
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://distv.net/icons/tnt.png" group-title="FILMES E SERIES",TNT
+http://rec2.distv.net:80/teste/teste/522
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="http://distv.net/icons/tntseries.png" group-title="FILMES E SERIES",TNT SERIES
+http://rec2.distv.net:80/teste/teste/523
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="http://distv.net/icons/tooncast.png" group-title="KIDS",TOONCAST
+http://rec2.distv.net:80/teste/teste/525
+#EXTINF:-1 tvg-id="" tvg-name="TRANNY" tvg-logo="http://distv.net/icons/tranny.png" group-title="ADULTOS",TRANNY
+http://rec2.distv.net:80/teste/teste/608
+#EXTINF:-1 tvg-id="" tvg-name="TRAVELBOX" tvg-logo="http://distv.net/icons/travelboxbrazil.png" group-title="ENTRETENIMENTO",TRAVELBOX
+http://rec2.distv.net:80/teste/teste/524
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO" tvg-logo="http://distv.net/icons/novotempo.png" group-title="CANAIS LOCAIS",TV NOVO TEMPO
+http://rec2.distv.net:80/teste/teste/527
+#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM" tvg-logo="http://distv.net/icons/tvratimbum.png" group-title="KIDS",TV RA TIM BUM
+http://rec2.distv.net:80/teste/teste/528
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="http://distv.net/icons/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL TV
+http://rec2.distv.net:80/teste/teste/529
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="http://distv.net/icons/vh1megahits.png" group-title="ENTRETENIMENTO",VH1
+http://rec2.distv.net:80/teste/teste/530
+#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="http://distv.net/icons/viva.png" group-title="ENTRETENIMENTO",VIVA
+http://rec2.distv.net:80/teste/teste/531
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="http://distv.net/icons/warnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL
+http://rec2.distv.net:80/teste/teste/532
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA" tvg-logo="https://maisnacional.com.br/wp-content/uploads/2020/09/maisnacional-que-dia-comeca-a-fazenda-a-fazenda-2020-603x381.png" group-title="ENTRETENIMENTO",A FAZENDA
+http://rec2.distv.net:80/teste/teste/553
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL" tvg-logo="http://distv.net/icons/tvbrasil.png" group-title="CANAIS LOCAIS",TV BRASIL
+http://rec2.distv.net:80/teste/teste/526
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO" tvg-logo="http://distv.net/icons/woohoo.png" group-title="ENTRETENIMENTO",WOOHOO
+http://rec2.distv.net:80/teste/teste/533
+#EXTINF:-1 tvg-id="" tvg-name="TV ARATU" tvg-logo="http://distv.net/icons/tvaratu.png" group-title="CANAIS LOCAIS",TV ARATU
+http://rec2.distv.net:80/teste/teste/556
+#EXTINF:-1 tvg-id="" tvg-name="TV GRANDE RIO" tvg-logo="http://distv.net/icons/tvgranderio.png" group-title="CANAIS LOCAIS",TV GRANDE RIO
+http://rec2.distv.net:80/teste/teste/557
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS",ZOOMOO
+http://rec2.distv.net:80/teste/teste/534
