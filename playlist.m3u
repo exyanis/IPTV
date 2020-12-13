@@ -172,4 +172,2005 @@ http://95.214.104.25:8000/play/a055
 #EXTINF:-1,226_Skat TV
 http://95.214.104.25:8000/play/a04e
 #EXTINF:-1,227_DM Sat
-http://95.214.104.25:8000/play/a06x
+http://95.214.104.25:8000/play/a06x#EXTINF:-1,3+ HD
+http://176.10.117.17:8000/play/a01p/index.m3u8
+#EXTINF:-1,3sat HD
+http://176.10.117.17:8000/play/a00s/index.m3u8
+#EXTINF:-1,4+ HD
+http://176.10.117.17:8000/play/a01q/index.m3u8
+#EXTINF:-1,5+ HD
+http://176.10.117.17:8000/play/a01r/index.m3u8
+#EXTINF:-1,6+ HD
+http://176.10.117.17:8000/play/a01s/index.m3u8
+#EXTINF:-1,Andalucia
+http://176.10.117.17:8000/play/a01e/index.m3u8
+#EXTINF:-1,Canal 24 horas
+http://176.10.117.17:8000/play/a01d/index.m3u8
+#EXTINF:-1,Channel 4 HD
+http://176.10.117.17:8000/play/a01b/index.m3u8
+#EXTINF:-1,Das Erste HD
+http://176.10.117.17:8000/play/a00k/index.m3u8
+#EXTINF:-1,La7 HD
+http://176.10.117.17:8000/play/a018/index.m3u8
+#EXTINF:-1,ONE HD
+http://176.10.117.17:8000/play/a00w/index.m3u8
+#EXTINF:-1,ORF 1 HD
+http://176.10.117.17:8000/play/a01l/index.m3u8
+#EXTINF:-1,ORF 2 HD
+http://176.10.117.17:8000/play/a01m/index.m3u8
+#EXTINF:-1,ORF III HD
+http://176.10.117.17:8000/play/a00y/index.m3u8
+#EXTINF:-1,RTR Planeta
+http://176.10.117.17:8000/play/a01g/index.m3u8
+#EXTINF:-1,Rai Gulp
+http://176.10.117.17:8000/play/a01a/index.m3u8
+#EXTINF:-1,Rai Sport + HD
+http://176.10.117.17:8000/play/a019/index.m3u8
+#EXTINF:-1,SRF 1 HD
+http://176.10.117.17:8000/play/a01j/index.m3u8
+#EXTINF:-1,SRF info HD
+http://176.10.117.17:8000/play/a01o/index.m3u8
+#EXTINF:-1,SRF zwei HD
+http://176.10.117.17:8000/play/a01k/index.m3u8
+#EXTINF:-1,ServusTV HD
+http://176.10.117.17:8000/play/a00r/index.m3u8
+#EXTINF:-1,Slovenija 2
+http://176.10.117.17:8000/play/a01h/index.m3u8
+#EXTINF:-1,TV Galicia
+http://176.10.117.17:8000/play/a01f/index.m3u8
+#EXTINF:-1,TeleBärn HD
+http://176.10.117.17:8000/play/a014/index.m3u8
+#EXTINF:-1,TeleZüri HD
+http://176.10.117.17:8000/play/a016/index.m3u8
+#EXTINF:-1,Telebasel HD
+http://176.10.117.17:8000/play/a015/index.m3u8
+#EXTINF:-1,ZDF HD
+http://176.10.117.17:8000/play/a00l/index.m3u8
+#EXTINF:-1,arte HD
+http://176.10.117.17:8000/play/a00o/index.m3u8
+#EXTINF:-1,phoenix HD
+http://176.10.117.17:8000/play/a00z/index.m3u8
+#EXTINF:-1,zdf_neo HD
+http://176.10.117.17:8000/play/a00x/index.m3u8
+#EXTINF:-1,11
+http://5.158.45.204:9981/stream/channelid/753180002
+#EXTINF:-1,24 Kitchen HD
+http://5.158.45.204:9981/stream/channelid/1073267439
+#EXTINF:-1,24 Kitchen HD
+http://5.158.45.204:9981/stream/channelid/1601195436
+#EXTINF:-1,A Bola TV
+http://5.158.45.204:9981/stream/channelid/522480049
+#EXTINF:-1,Afro Music
+http://5.158.45.204:9981/stream/channelid/2115378935
+#EXTINF:-1,AJE
+http://5.158.45.204:9981/stream/channelid/1766569482
+#EXTINF:-1,AJE
+http://5.158.45.204:9981/stream/channelid/136524651
+#EXTINF:-1,AMC
+http://5.158.45.204:9981/stream/channelid/328260552
+#EXTINF:-1,AMC
+http://5.158.45.204:9981/stream/channelid/758193438
+#EXTINF:-1,AMC HD
+http://5.158.45.204:9981/stream/channelid/198150527
+#EXTINF:-1,ARTV
+http://5.158.45.204:9981/stream/channelid/413992035
+#EXTINF:-1,ARTV
+http://5.158.45.204:9981/stream/channelid/889222356
+#EXTINF:-1,AXN HD
+http://5.158.45.204:9981/stream/channelid/1903336050
+#EXTINF:-1,AXN HD
+http://5.158.45.204:9981/stream/channelid/1133693756
+#EXTINF:-1,AXN Movies HD
+http://5.158.45.204:9981/stream/channelid/396602609
+#EXTINF:-1,AXN Movies HD
+http://5.158.45.204:9981/stream/channelid/251792618
+#EXTINF:-1,AXN White HD
+http://5.158.45.204:9981/stream/channelid/619306590
+#EXTINF:-1,AXN White HD
+http://5.158.45.204:9981/stream/channelid/1419568920
+#EXTINF:-1,Baby TV
+http://5.158.45.204:9981/stream/channelid/1508547639
+#EXTINF:-1,Baby TV
+http://5.158.45.204:9981/stream/channelid/2117375895
+#EXTINF:-1,BBC Entertainment
+http://5.158.45.204:9981/stream/channelid/369981840
+#EXTINF:-1,BBC World News
+http://5.158.45.204:9981/stream/channelid/1764026441
+#EXTINF:-1,BBC World News
+http://5.158.45.204:9981/stream/channelid/1036986828
+#EXTINF:-1,Biggs
+http://5.158.45.204:9981/stream/channelid/638733261
+#EXTINF:-1,Biggs
+http://5.158.45.204:9981/stream/channelid/1778389212
+#EXTINF:-1,Blaze
+http://5.158.45.204:9981/stream/channelid/716792151
+#EXTINF:-1,Blaze
+http://5.158.45.204:9981/stream/channelid/1093756928
+#EXTINF:-1,Bloomberg
+http://5.158.45.204:9981/stream/channelid/883983516
+#EXTINF:-1,Bloomberg
+http://5.158.45.204:9981/stream/channelid/1087973734
+#EXTINF:-1,BTV 1 HD
+http://5.158.45.204:9981/stream/channelid/995219211
+#EXTINF:-1,BTV HD
+http://5.158.45.204:9981/stream/channelid/30994235
+#EXTINF:-1,Canal 11 HD
+http://5.158.45.204:9981/stream/channelid/1589645540
+#EXTINF:-1,Canal Panda
+http://5.158.45.204:9981/stream/channelid/110015889
+#EXTINF:-1,Canal Panda
+http://5.158.45.204:9981/stream/channelid/1224761982
+#EXTINF:-1,Canal Q
+http://5.158.45.204:9981/stream/channelid/1986559723
+#EXTINF:-1,Canal Q
+http://5.158.45.204:9981/stream/channelid/1162773224
+#EXTINF:-1,Canção Nova
+http://5.158.45.204:9981/stream/channelid/841806558
+#EXTINF:-1,Canção Nova
+http://5.158.45.204:9981/stream/channelid/951509560
+#EXTINF:-1,Cartoon Network
+http://5.158.45.204:9981/stream/channelid/965306833
+#EXTINF:-1,Cartoon Network
+http://5.158.45.204:9981/stream/channelid/364174327
+#EXTINF:-1,Casa e Cozinha HD
+http://5.158.45.204:9981/stream/channelid/20150844
+#EXTINF:-1,Caça e Pesca
+http://5.158.45.204:9981/stream/channelid/344478969
+#EXTINF:-1,Caçavision
+http://5.158.45.204:9981/stream/channelid/902396701
+#EXTINF:-1,CBS Reality
+http://5.158.45.204:9981/stream/channelid/687498632
+#EXTINF:-1,Channel 1 Russia
+http://5.158.45.204:9981/stream/channelid/1331675608
+#EXTINF:-1,Cinemundo
+http://5.158.45.204:9981/stream/channelid/1268739904
+#EXTINF:-1,CMTV
+http://5.158.45.204:9981/stream/channelid/1661227749
+#EXTINF:-1,CMTV
+http://5.158.45.204:9981/stream/channelid/1509971597
+#EXTINF:-1,CNBC
+http://5.158.45.204:9981/stream/channelid/1062954782
+#EXTINF:-1,CNBC Europe
+http://5.158.45.204:9981/stream/channelid/243683935
+#EXTINF:-1,CNN
+http://5.158.45.204:9981/stream/channelid/832108192
+#EXTINF:-1,CNN
+http://5.158.45.204:9981/stream/channelid/887502409
+#EXTINF:-1,Crime+Investigation
+http://5.158.45.204:9981/stream/channelid/2127192888
+#EXTINF:-1,CUBAVISION INTERNACIONAL
+http://5.158.45.204:9981/stream/channelid/1729663899
+#EXTINF:-1,CUBAVISION INTERNACIONAL
+http://5.158.45.204:9981/stream/channelid/1986716426
+#EXTINF:-1,Deutsche Welle (A)
+http://5.158.45.204:9981/stream/channelid/1715651171
+#EXTINF:-1,Discovery Channel
+http://5.158.45.204:9981/stream/channelid/1073974452
+#EXTINF:-1,Discovery HD
+http://5.158.45.204:9981/stream/channelid/1163942377
+#EXTINF:-1,Disney Channel
+http://5.158.45.204:9981/stream/channelid/313803779
+#EXTINF:-1,Disney Channel
+http://5.158.45.204:9981/stream/channelid/2071229472
+#EXTINF:-1,Disney Junior
+http://5.158.45.204:9981/stream/channelid/1892249936
+#EXTINF:-1,Disney Júnior
+http://5.158.45.204:9981/stream/channelid/1044199454
+#EXTINF:-1,E! Entertainment
+http://5.158.45.204:9981/stream/channelid/1640318299
+#EXTINF:-1,E! Entertainment
+http://5.158.45.204:9981/stream/channelid/1553316129
+#EXTINF:-1,Eleven 1 HD
+http://5.158.45.204:9981/stream/channelid/1911139247
+#EXTINF:-1,Eleven 2 HD
+http://5.158.45.204:9981/stream/channelid/1587641124
+#EXTINF:-1,Eleven 3
+http://5.158.45.204:9981/stream/channelid/1258307302
+#EXTINF:-1,Eleven 4
+http://5.158.45.204:9981/stream/channelid/438832077
+#EXTINF:-1,Eleven 5
+http://5.158.45.204:9981/stream/channelid/338943730
+#EXTINF:-1,Eleven 6
+http://5.158.45.204:9981/stream/channelid/139757574
+#EXTINF:-1,Eleven Sports 1
+http://5.158.45.204:9981/stream/channelid/349574489
+#EXTINF:-1,Eleven Sports 2
+http://5.158.45.204:9981/stream/channelid/1228325581
+#EXTINF:-1,Eleven Sports 3
+http://5.158.45.204:9981/stream/channelid/425303962
+#EXTINF:-1,Eleven Sports 4
+http://5.158.45.204:9981/stream/channelid/823640771
+#EXTINF:-1,Eleven Sports 5
+http://5.158.45.204:9981/stream/channelid/471892851
+#EXTINF:-1,Eleven Sports 6
+http://5.158.45.204:9981/stream/channelid/563218341
+#EXTINF:-1,Eurochannel
+http://5.158.45.204:9981/stream/channelid/1308692064
+#EXTINF:-1,Euronews
+http://5.158.45.204:9981/stream/channelid/2124080396
+#EXTINF:-1,Euronews
+http://5.158.45.204:9981/stream/channelid/1391450481
+#EXTINF:-1,Eurosport 1
+http://5.158.45.204:9981/stream/channelid/1335896925
+#EXTINF:-1,Eurosport 1
+http://5.158.45.204:9981/stream/channelid/740294815
+#EXTINF:-1,Eurosport 1 HD
+http://5.158.45.204:9981/stream/channelid/1573078553
+#EXTINF:-1,Eurosport 1 HD
+http://5.158.45.204:9981/stream/channelid/1071597664
+#EXTINF:-1,Eurosport 2
+http://5.158.45.204:9981/stream/channelid/1818743461
+#EXTINF:-1,Eurosport 2
+http://5.158.45.204:9981/stream/channelid/217066729
+#EXTINF:-1,FOX Comedy
+http://5.158.45.204:9981/stream/channelid/1473987205
+#EXTINF:-1,FOX Comedy
+http://5.158.45.204:9981/stream/channelid/1680257806
+#EXTINF:-1,FOX Crime HD
+http://5.158.45.204:9981/stream/channelid/920249235
+#EXTINF:-1,FOX Crime HD
+http://5.158.45.204:9981/stream/channelid/1264069409
+#EXTINF:-1,FOX HD
+http://5.158.45.204:9981/stream/channelid/51841690
+#EXTINF:-1,FOX HD
+http://5.158.45.204:9981/stream/channelid/231716203
+#EXTINF:-1,FOX Life HD
+http://5.158.45.204:9981/stream/channelid/653972008
+#EXTINF:-1,FOX Life HD
+http://5.158.45.204:9981/stream/channelid/1670836804
+#EXTINF:-1,FOX Movies
+http://5.158.45.204:9981/stream/channelid/1058318736
+#EXTINF:-1,FOX Movies
+http://5.158.45.204:9981/stream/channelid/1460221556
+#EXTINF:-1,FOX News
+http://5.158.45.204:9981/stream/channelid/333232653
+#EXTINF:-1,France 24
+http://5.158.45.204:9981/stream/channelid/988528629
+#EXTINF:-1,France 24 (I)
+http://5.158.45.204:9981/stream/channelid/1873409890
+#EXTINF:-1,FTV
+http://5.158.45.204:9981/stream/channelid/799432023
+#EXTINF:-1,FTV
+http://5.158.45.204:9981/stream/channelid/1420203236
+#EXTINF:-1,Fuel TV
+http://5.158.45.204:9981/stream/channelid/1602702075
+#EXTINF:-1,Globo
+http://5.158.45.204:9981/stream/channelid/1977070188
+#EXTINF:-1,Globo
+http://5.158.45.204:9981/stream/channelid/1199198398
+#EXTINF:-1,Globo Now
+http://5.158.45.204:9981/stream/channelid/741745772
+#EXTINF:-1,Globo Now
+http://5.158.45.204:9981/stream/channelid/1955766368
+#EXTINF:-1,Hispasat 4K
+http://5.158.45.204:9981/stream/channelid/281066058
+#EXTINF:-1,História
+http://5.158.45.204:9981/stream/channelid/1118800677
+#EXTINF:-1,História
+http://5.158.45.204:9981/stream/channelid/369355438
+#EXTINF:-1,Hollywood
+http://5.158.45.204:9981/stream/channelid/1098748034
+#EXTINF:-1,Hollywood
+http://5.158.45.204:9981/stream/channelid/1044047884
+#EXTINF:-1,Hollywood HD
+http://5.158.45.204:9981/stream/channelid/1081396926
+#EXTINF:-1,Hot
+http://5.158.45.204:9981/stream/channelid/1194326296
+#EXTINF:-1,ID Investigation Discovery
+http://5.158.45.204:9981/stream/channelid/2140479734
+#EXTINF:-1,Jim Jam
+http://5.158.45.204:9981/stream/channelid/1048658794
+#EXTINF:-1,Kombat Sport
+http://5.158.45.204:9981/stream/channelid/1489195279
+#EXTINF:-1,Kuriakos TV
+http://5.158.45.204:9981/stream/channelid/1329391032
+#EXTINF:-1,Kuriakos TV HD
+http://5.158.45.204:9981/stream/channelid/54160187
+#EXTINF:-1,MCM POP
+http://5.158.45.204:9981/stream/channelid/1784962321
+#EXTINF:-1,MCM Pop
+http://5.158.45.204:9981/stream/channelid/1699268765
+#EXTINF:-1,Mezzo
+http://5.158.45.204:9981/stream/channelid/2022321510
+#EXTINF:-1,Mezzo
+http://5.158.45.204:9981/stream/channelid/842265762
+#EXTINF:-1,Motorvision
+http://5.158.45.204:9981/stream/channelid/450012429
+#EXTINF:-1,MTV Portugal
+http://5.158.45.204:9981/stream/channelid/1901131742
+#EXTINF:-1,MTV Portugal
+http://5.158.45.204:9981/stream/channelid/1645722508
+#EXTINF:-1,National Geographic HD
+http://5.158.45.204:9981/stream/channelid/1691227674
+#EXTINF:-1,National Geographic HD
+http://5.158.45.204:9981/stream/channelid/193527572
+#EXTINF:-1,National Geographic WILD
+http://5.158.45.204:9981/stream/channelid/180671137
+#EXTINF:-1,National Geographic Wild
+http://5.158.45.204:9981/stream/channelid/1283176382
+#EXTINF:-1,NBA TV
+http://5.158.45.204:9981/stream/channelid/891750428
+#EXTINF:-1,NHK World Japan
+http://5.158.45.204:9981/stream/channelid/747008792
+#EXTINF:-1,Nick Jr.
+http://5.158.45.204:9981/stream/channelid/1882171918
+#EXTINF:-1,Nickelodeon
+http://5.158.45.204:9981/stream/channelid/900217009
+#EXTINF:-1,NOS Studios HD
+http://5.158.45.204:9981/stream/channelid/327294264
+#EXTINF:-1,NOS Studios HD
+http://5.158.45.204:9981/stream/channelid/1116815986
+#EXTINF:-1,Odisseia
+http://5.158.45.204:9981/stream/channelid/746887039
+#EXTINF:-1,Odisseia
+http://5.158.45.204:9981/stream/channelid/6983359
+#EXTINF:-1,Parlamento
+http://5.158.45.204:9981/stream/channelid/137680813
+#EXTINF:-1,PFC
+http://5.158.45.204:9981/stream/channelid/254542882
+#EXTINF:-1,PFC
+http://5.158.45.204:9981/stream/channelid/1964382211
+#EXTINF:-1,Playboy TV
+http://5.158.45.204:9981/stream/channelid/946904320
+#EXTINF:-1,Porto Canal
+http://5.158.45.204:9981/stream/channelid/100409302
+#EXTINF:-1,Porto Canal
+http://5.158.45.204:9981/stream/channelid/516942621
+#EXTINF:-1,Promo TV Cines
+http://5.158.45.204:9981/stream/channelid/713719355
+#EXTINF:-1,RT Esp HD
+http://5.158.45.204:9981/stream/channelid/1639708674
+#EXTINF:-1,RT Esp HD
+http://5.158.45.204:9981/stream/channelid/2054697496
+#EXTINF:-1,RTP 1 HD
+http://5.158.45.204:9981/stream/channelid/303573779
+#EXTINF:-1,RTP 2 HD
+http://5.158.45.204:9981/stream/channelid/609338996
+#EXTINF:-1,RTP 3
+http://5.158.45.204:9981/stream/channelid/839329244
+#EXTINF:-1,RTP Açores
+http://5.158.45.204:9981/stream/channelid/1987482972
+#EXTINF:-1,RTP Açores
+http://5.158.45.204:9981/stream/channelid/1512398207
+#EXTINF:-1,RTP Açores
+http://5.158.45.204:9981/stream/channelid/73544295
+#EXTINF:-1,RTP Madeira
+http://5.158.45.204:9981/stream/channelid/129239398
+#EXTINF:-1,RTP Madeira
+http://5.158.45.204:9981/stream/channelid/649450294
+#EXTINF:-1,RTP Madeira
+http://5.158.45.204:9981/stream/channelid/522282073
+#EXTINF:-1,RTP Memória
+http://5.158.45.204:9981/stream/channelid/418255881
+#EXTINF:-1,RTP Memória
+http://5.158.45.204:9981/stream/channelid/2075001108
+#EXTINF:-1,RTP África
+http://5.158.45.204:9981/stream/channelid/2006469878
+#EXTINF:-1,RTP África
+http://5.158.45.204:9981/stream/channelid/214294649
+#EXTINF:-1,RTP1
+http://5.158.45.204:9981/stream/channelid/1330987364
+#EXTINF:-1,RTP2
+http://5.158.45.204:9981/stream/channelid/390123908
+#EXTINF:-1,RTP3
+http://5.158.45.204:9981/stream/channelid/2041409136
+#EXTINF:-1,SIC
+http://5.158.45.204:9981/stream/channelid/1089894267
+#EXTINF:-1,SIC Caras
+http://5.158.45.204:9981/stream/channelid/1279964303
+#EXTINF:-1,SIC Caras
+http://5.158.45.204:9981/stream/channelid/2103794306
+#EXTINF:-1,SIC HD
+http://5.158.45.204:9981/stream/channelid/1481005578
+#EXTINF:-1,SIC K
+http://5.158.45.204:9981/stream/channelid/1233068572
+#EXTINF:-1,SIC K
+http://5.158.45.204:9981/stream/channelid/19189989
+#EXTINF:-1,SIC Mulher
+http://5.158.45.204:9981/stream/channelid/2100717070
+#EXTINF:-1,SIC Mulher
+http://5.158.45.204:9981/stream/channelid/1960396324
+#EXTINF:-1,SIC Notícias
+http://5.158.45.204:9981/stream/channelid/1590920573
+#EXTINF:-1,SIC Notícias
+http://5.158.45.204:9981/stream/channelid/858967428
+#EXTINF:-1,SIC Radical
+http://5.158.45.204:9981/stream/channelid/2005953306
+#EXTINF:-1,SIC Radical
+http://5.158.45.204:9981/stream/channelid/2049636984
+#EXTINF:-1,SKY News
+http://5.158.45.204:9981/stream/channelid/879385562
+#EXTINF:-1,Sky News
+http://5.158.45.204:9981/stream/channelid/1312306582
+#EXTINF:-1,SPORT TV +
+http://5.158.45.204:9981/stream/channelid/563536023
+#EXTINF:-1,Sport TV 1
+http://5.158.45.204:9981/stream/channelid/1228774014
+#EXTINF:-1,SPORT TV 1
+http://5.158.45.204:9981/stream/channelid/2117352342
+#EXTINF:-1,SPORT TV 1 HD
+http://5.158.45.204:9981/stream/channelid/932564823
+#EXTINF:-1,Sport TV 1 HD
+http://5.158.45.204:9981/stream/channelid/619566341
+#EXTINF:-1,SPORT TV 2
+http://5.158.45.204:9981/stream/channelid/1091468997
+#EXTINF:-1,Sport TV 2
+http://5.158.45.204:9981/stream/channelid/31669413
+#EXTINF:-1,Sport TV 2 HD
+http://5.158.45.204:9981/stream/channelid/1571789679
+#EXTINF:-1,SPORT TV 2 HD
+http://5.158.45.204:9981/stream/channelid/139509257
+#EXTINF:-1,SPORT TV 3
+http://5.158.45.204:9981/stream/channelid/688226016
+#EXTINF:-1,Sport TV 3
+http://5.158.45.204:9981/stream/channelid/122147458
+#EXTINF:-1,SPORT TV 3 HD
+http://5.158.45.204:9981/stream/channelid/903286976
+#EXTINF:-1,Sport TV 3 HD
+http://5.158.45.204:9981/stream/channelid/565498306
+#EXTINF:-1,SPORT TV 4
+http://5.158.45.204:9981/stream/channelid/1434133913
+#EXTINF:-1,Sport TV 4
+http://5.158.45.204:9981/stream/channelid/328059087
+#EXTINF:-1,Sport TV 5
+http://5.158.45.204:9981/stream/channelid/1877356132
+#EXTINF:-1,SPORT TV 5
+http://5.158.45.204:9981/stream/channelid/359833938
+#EXTINF:-1,Sport TV NBA
+http://5.158.45.204:9981/stream/channelid/1942641800
+#EXTINF:-1,SPORT TV+
+http://5.158.45.204:9981/stream/channelid/1976817418
+#EXTINF:-1,Sporting TV
+http://5.158.45.204:9981/stream/channelid/1963059688
+#EXTINF:-1,Sporting TV
+http://5.158.45.204:9981/stream/channelid/1714832337
+#EXTINF:-1,SYFY
+http://5.158.45.204:9981/stream/channelid/871365047
+#EXTINF:-1,SyFy
+http://5.158.45.204:9981/stream/channelid/392520475
+#EXTINF:-1,Telesur
+http://5.158.45.204:9981/stream/channelid/622658011
+#EXTINF:-1,Telesur
+http://5.158.45.204:9981/stream/channelid/1177558357
+#EXTINF:-1,TLC
+http://5.158.45.204:9981/stream/channelid/813626856
+#EXTINF:-1,TLC
+http://5.158.45.204:9981/stream/channelid/1089594316
+#EXTINF:-1,Toros TV
+http://5.158.45.204:9981/stream/channelid/678005755
+#EXTINF:-1,Toros TV
+http://5.158.45.204:9981/stream/channelid/1969965345
+#EXTINF:-1,Trace Toca
+http://5.158.45.204:9981/stream/channelid/1276168598
+#EXTINF:-1,Trace Urban
+http://5.158.45.204:9981/stream/channelid/875058171
+#EXTINF:-1,Travel Channel HD
+http://5.158.45.204:9981/stream/channelid/766265004
+#EXTINF:-1,Travel Channel HD
+http://5.158.45.204:9981/stream/channelid/1829737252
+#EXTINF:-1,TSA-Record News
+http://5.158.45.204:9981/stream/channelid/2118294690
+#EXTINF:-1,TSA-Record News
+http://5.158.45.204:9981/stream/channelid/782387889
+#EXTINF:-1,TSA-Record TV HD
+http://5.158.45.204:9981/stream/channelid/144696099
+#EXTINF:-1,TSA-Record TV HD
+http://5.158.45.204:9981/stream/channelid/1255217689
+#EXTINF:-1,TV Cine Action
+http://5.158.45.204:9981/stream/channelid/939520355
+#EXTINF:-1,TV Cine Edition
+http://5.158.45.204:9981/stream/channelid/369667895
+#EXTINF:-1,W9
+http://178.132.3.162:88/W9/index.m3u8?token=test
+#EXTINF:-1,TF1
+http://178.132.3.162:88/TF1/index.m3u8?token=test
+#EXTINF:-1,M6
+http://178.132.3.162:88/M6/index.m3u8?token=test
+#EXTINF:-1,TMC
+http://178.132.3.162:88/TCM/index.m3u8?token=test
+#EXTINF:-1,D8
+http://178.132.3.162:88/D8/index.m3u8?token=test
+#EXTINF:-1,LCI
+http://178.132.3.162:88/LCI/index.m3u8?token=test
+#EXTINF:-1,13 C
+http://200.54.19.131:8500/play/a0g3/index.m3u8
+#EXTINF:-1,24 Horas TVN
+http://200.54.19.131:8500/play/a0db/index.m3u8
+#EXTINF:-1,A&E
+http://200.54.19.131:8500/play/a0kt/index.m3u8
+#EXTINF:-1,ANTV
+http://200.54.19.131:8500/play/a0h1/index.m3u8
+#EXTINF:-1,ATRES SERIES
+http://200.54.19.131:8500/play/a0kx/index.m3u8
+#EXTINF:-1,ATV
+http://200.54.19.131:8500/play/a0du/index.m3u8
+#EXTINF:-1,AXN
+http://200.54.19.131:8500/play/a0gj/index.m3u8
+#EXTINF:-1,AmØrica Televisiðn
+http://200.54.19.131:8500/play/a0dp/index.m3u8
+#EXTINF:-1,Animal Planet
+http://200.54.19.131:8500/play/a0j4/index.m3u8
+#EXTINF:-1,Antena 3
+http://200.54.19.131:8500/play/a0i8/index.m3u8
+#EXTINF:-1,BBC World
+http://200.54.19.131:8500/play/a0kl/index.m3u8
+#EXTINF:-1,Baby TV
+http://200.54.19.131:8500/play/a0kf/index.m3u8
+#EXTINF:-1,Boomerang
+http://200.54.19.131:8500/play/a0h9/index.m3u8
+#EXTINF:-1,CDF BÆsico
+http://200.54.19.131:8500/play/a0jb/index.m3u8
+#EXTINF:-1,CDF Premium
+http://200.54.19.131:8500/play/a0jx/index.m3u8
+#EXTINF:-1,CDO BÆsico
+http://200.54.19.131:8500/play/a0gg/index.m3u8
+#EXTINF:-1,CDO Premium
+http://200.54.19.131:8500/play/a0gh/index.m3u8
+#EXTINF:-1,CHV
+http://200.54.19.131:8500/play/a0d5/index.m3u8
+#EXTINF:-1,CMD
+http://200.54.19.131:8500/play/a0ee/index.m3u8
+#EXTINF:-1,CNN Chile
+http://200.54.19.131:8500/play/a0i7/index.m3u8
+#EXTINF:-1,CNN Espaæol
+http://200.54.19.131:8500/play/a0kk/index.m3u8
+#EXTINF:-1,CNN International
+http://200.54.19.131:8500/play/a0km/index.m3u8
+#EXTINF:-1,Canal Capital
+http://200.54.19.131:8500/play/a0j0/index.m3u8
+#EXTINF:-1,Canal 1
+http://200.54.19.131:8500/play/a0g4/index.m3u8
+#EXTINF:-1,Canal 13
+http://200.54.19.131:8500/play/a0d6/index.m3u8
+#EXTINF:-1,Canal Fox
+http://200.54.19.131:8500/play/a0dh/index.m3u8
+#EXTINF:-1,Canal I
+http://200.54.19.131:8500/play/a0hy/index.m3u8
+#EXTINF:-1,Canal N
+http://200.54.19.131:8500/play/a0dt/index.m3u8
+#EXTINF:-1,Canal TRO
+http://200.54.19.131:8500/play/a0iy/index.m3u8
+#EXTINF:-1,Canal del Congreso
+http://200.54.19.131:8500/play/a0hz/index.m3u8
+#EXTINF:-1,Caracol
+http://200.54.19.131:8500/play/a0iw/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://200.54.19.131:8500/play/a0m1/index.m3u8
+#EXTINF:-1,Cinemax
+http://200.54.19.131:8500/play/a0hh/index.m3u8
+#EXTINF:-1,City TV
+http://200.54.19.131:8500/play/a0kd/index.m3u8
+#EXTINF:-1,Conciencia
+http://200.54.19.131:8500/play/a0h5/index.m3u8
+#EXTINF:-1,DW (Deutsch +)
+http://200.54.19.131:8500/play/a0kp/index.m3u8
+#EXTINF:-1,De PelŦcula
+http://200.54.19.131:8500/play/a0k7/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://200.54.19.131:8500/play/a0j5/index.m3u8
+#EXTINF:-1,Discovery H&H
+http://200.54.19.131:8500/play/a0g7/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://200.54.19.131:8500/play/a0j1/index.m3u8
+#EXTINF:-1,Discovery Science
+http://200.54.19.131:8500/play/a0ha/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://200.54.19.131:8500/play/a0k5/index.m3u8
+#EXTINF:-1,Disney Channel
+http://200.54.19.131:8500/play/a0jr/index.m3u8
+#EXTINF:-1,Disney Junior
+http://200.54.19.131:8500/play/a0g5/index.m3u8
+#EXTINF:-1,Disney Xd
+http://200.54.19.131:8500/play/a0js/index.m3u8
+#EXTINF:-1,E! Entertainment TV
+http://200.54.19.131:8500/play/a0i4/index.m3u8
+#EXTINF:-1,ESPN
+http://200.54.19.131:8500/play/a0m5/index.m3u8
+#EXTINF:-1,ESPN
+http://200.54.19.131:8500/play/a0dg/index.m3u8
+#EXTINF:-1,ESPN 3
+http://200.54.19.131:8500/play/a0gi/index.m3u8
+#EXTINF:-1,ESPN2
+http://200.54.19.131:8500/play/a0m4/index.m3u8
+#EXTINF:-1,ESPN2
+http://200.54.19.131:8500/play/a0m6/index.m3u8
+#EXTINF:-1,ESPN2
+http://200.54.19.131:8500/play/a0hb/index.m3u8
+#EXTINF:-1,ETC TV
+http://200.54.19.131:8500/play/a0d9/index.m3u8
+#EXTINF:-1,EWTN
+http://200.54.19.131:8500/play/a0gd/index.m3u8
+#EXTINF:-1,El Trece
+http://200.54.19.131:8500/play/a0eb/index.m3u8
+#EXTINF:-1,ElCanaldelFutbol SD
+http://200.54.19.131:8500/play/a0dm/index.m3u8
+#EXTINF:-1,Enlace
+http://200.54.19.131:8500/play/a0ji/index.m3u8
+#EXTINF:-1,Epoca
+http://200.54.19.131:8500/play/a0ke/index.m3u8
+#EXTINF:-1,Eurochannel
+http://200.54.19.131:8500/play/a0kn/index.m3u8
+#EXTINF:-1,FANB
+http://200.54.19.131:8500/play/a0h6/index.m3u8
+#EXTINF:-1,FOX Sport Ven
+http://200.54.19.131:8500/play/a0de/index.m3u8
+#EXTINF:-1,FX
+http://200.54.19.131:8500/play/a0gm/index.m3u8
+#EXTINF:-1,FX Movies
+http://200.54.19.131:8500/play/a0lv/index.m3u8
+#EXTINF:-1,Film&Arts
+http://200.54.19.131:8500/play/a0j6/index.m3u8
+#EXTINF:-1,Fox Action
+http://200.54.19.131:8500/play/a0e7/index.m3u8
+#EXTINF:-1,Fox Channel
+http://200.54.19.131:8500/play/a0e4/index.m3u8
+#EXTINF:-1,Fox Cinema
+http://200.54.19.131:8500/play/a0e8/index.m3u8
+#EXTINF:-1,Fox Classics
+http://200.54.19.131:8500/play/a0ih/index.m3u8
+#EXTINF:-1,Fox Comedy
+http://200.54.19.131:8500/play/a0e9/index.m3u8
+#EXTINF:-1,Fox Family
+http://200.54.19.131:8500/play/a0jh/index.m3u8
+#EXTINF:-1,Fox Life
+http://200.54.19.131:8500/play/a0j7/index.m3u8
+#EXTINF:-1,Fox Movies
+http://200.54.19.131:8500/play/a0ig/index.m3u8
+#EXTINF:-1,Fox Series E
+http://200.54.19.131:8500/play/a0dj/index.m3u8
+#EXTINF:-1,Fox Series O
+http://200.54.19.131:8500/play/a0dk/index.m3u8
+#EXTINF:-1,Fox Sports
+http://200.54.19.131:8500/play/a0dc/index.m3u8
+#EXTINF:-1,Fox Sports 1
+http://200.54.19.131:8500/play/a0ib/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://200.54.19.131:8500/play/a0hc/index.m3u8
+#EXTINF:-1,Fox Sports 3
+http://200.54.19.131:8500/play/a0ks/index.m3u8
+#EXTINF:-1,GLOBAL
+http://200.54.19.131:8500/play/a0dv/index.m3u8
+#EXTINF:-1,GOLPERU
+http://200.54.19.131:8500/play/a0k9/index.m3u8
+#EXTINF:-1,Gamavisiðn
+http://200.54.19.131:8500/play/a0eg/index.m3u8
+#EXTINF:-1,Globovision
+http://200.54.19.131:8500/play/a0jl/index.m3u8
+#EXTINF:-1,Gol TV
+http://200.54.19.131:8500/play/a0kr/index.m3u8
+#EXTINF:-1,Golden
+http://200.54.19.131:8500/play/a0hd/index.m3u8
+#EXTINF:-1,Golden Edge
+http://200.54.19.131:8500/play/a0di/index.m3u8
+#EXTINF:-1,Golf Channel
+http://200.54.19.131:8500/play/a0gt/index.m3u8
+#EXTINF:-1,HBO
+http://200.54.19.131:8500/play/a0e5/index.m3u8
+#EXTINF:-1,HBO Family
+http://200.54.19.131:8500/play/a0ky/index.m3u8
+#EXTINF:-1,HBO MUNDI
+http://200.54.19.131:8500/play/a0k4/index.m3u8
+#EXTINF:-1,HBO POP
+http://200.54.19.131:8500/play/a0l3/index.m3u8
+#EXTINF:-1,HBO Plus
+http://200.54.19.131:8500/play/a0l0/index.m3u8
+#EXTINF:-1,HBO Signature
+http://200.54.19.131:8500/play/a0l1/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://200.54.19.131:8500/play/a0kz/index.m3u8
+#EXTINF:-1,HBO2
+http://200.54.19.131:8500/play/a0e6/index.m3u8
+#EXTINF:-1,HTV
+http://200.54.19.131:8500/play/a0jw/index.m3u8
+#EXTINF:-1,History 2
+http://200.54.19.131:8500/play/a0i2/index.m3u8
+#EXTINF:-1,History Channel
+http://200.54.19.131:8500/play/a0g6/index.m3u8
+#EXTINF:-1,Hola TV
+http://200.54.19.131:8500/play/a0j8/index.m3u8
+#EXTINF:-1,I SAT
+http://200.54.19.131:8500/play/a0hf/index.m3u8
+#EXTINF:-1,ID - Investigation Discovery
+http://200.54.19.131:8500/play/a0gl/index.m3u8
+#EXTINF:-1,Las Estrellas
+http://200.54.19.131:8500/play/a0jv/index.m3u8
+#EXTINF:-1,Lifetime
+http://200.54.19.131:8500/play/a0jz/index.m3u8
+#EXTINF:-1,MEGA
+http://200.54.19.131:8500/play/a0l5/index.m3u8
+#EXTINF:-1,MTV
+http://200.54.19.131:8500/play/a0kj/index.m3u8
+#EXTINF:-1,Meridiano
+http://200.54.19.131:8500/play/a0h3/index.m3u8
+#EXTINF:-1,Movistar Deportes
+http://200.54.19.131:8500/play/a0do/index.m3u8
+#EXTINF:-1,Movistar Plus
+http://200.54.19.131:8500/play/a0dr/index.m3u8
+#EXTINF:-1,Movistar Series
+http://200.54.19.131:8500/play/a0iu/index.m3u8
+#EXTINF:-1,Movistar TV
+http://200.54.19.131:8500/play/a0it/index.m3u8
+#EXTINF:-1,Nat Geo Kids
+http://200.54.19.131:8500/play/a0j3/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://200.54.19.131:8500/play/a0i3/index.m3u8
+#EXTINF:-1,National Geographic
+http://200.54.19.131:8500/play/a0i1/index.m3u8
+#EXTINF:-1,Nick Jr
+http://200.54.19.131:8500/play/a0ea/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://200.54.19.131:8500/play/a0h8/index.m3u8
+#EXTINF:-1,Nuestra Tele
+http://200.54.19.131:8500/play/a0k6/index.m3u8
+#EXTINF:-1,Nuestra Tele
+http://200.54.19.131:8500/play/a0jp/index.m3u8
+#EXTINF:-1,Orbe 21
+http://200.54.19.131:8500/play/a0ge/index.m3u8
+#EXTINF:-1,PLUSTV
+http://200.54.19.131:8500/play/a0e0/index.m3u8
+#EXTINF:-1,Panamericana
+http://200.54.19.131:8500/play/a0dq/index.m3u8
+#EXTINF:-1,Paramount Channel
+http://200.54.19.131:8500/play/a0hg/index.m3u8
+#EXTINF:-1,Perœ MÆgico
+http://200.54.19.131:8500/play/a0e1/index.m3u8
+#EXTINF:-1,Playboy
+http://200.54.19.131:8500/play/a0in/index.m3u8
+#EXTINF:-1,RAI
+http://200.54.19.131:8500/play/a0ko/index.m3u8
+#EXTINF:-1,RCN
+http://200.54.19.131:8500/play/a0jo/index.m3u8
+#EXTINF:-1,REC TV
+http://200.54.19.131:8500/play/a0gv/index.m3u8
+#EXTINF:-1,RED Televisiðn
+http://200.54.19.131:8500/play/a0g2/index.m3u8
+#EXTINF:-1,RPP
+http://200.54.19.131:8500/play/a0g0/index.m3u8
+#EXTINF:-1,Sextreme
+http://200.54.19.131:8500/play/a0gq/index.m3u8
+#EXTINF:-1,Seæal Colombia
+http://200.54.19.131:8500/play/a0jn/index.m3u8
+#EXTINF:-1,Sony
+http://200.54.19.131:8500/play/a0ic/index.m3u8
+#EXTINF:-1,Space
+http://200.54.19.131:8500/play/a0k1/index.m3u8
+#EXTINF:-1,Studio Universal
+http://200.54.19.131:8500/play/a0k0/index.m3u8
+#EXTINF:-1,SyFy
+http://200.54.19.131:8500/play/a0ie/index.m3u8
+#EXTINF:-1,TBS Very Funny
+http://200.54.19.131:8500/play/a0im/index.m3u8
+#EXTINF:-1,TCM
+http://200.54.19.131:8500/play/a0he/index.m3u8
+#EXTINF:-1,TLC
+http://200.54.19.131:8500/play/a0kh/index.m3u8
+#EXTINF:-1,TLT
+http://200.54.19.131:8500/play/a0jm/index.m3u8
+#EXTINF:-1,TNT
+http://200.54.19.131:8500/play/a0kv/index.m3u8
+#EXTINF:-1,TNT Series
+http://200.54.19.131:8500/play/a0kw/index.m3u8
+#EXTINF:-1,TV Diputados
+http://200.54.19.131:8500/play/a0gb/index.m3u8
+#EXTINF:-1,TV EPACO
+http://200.54.19.131:8500/play/a0h4/index.m3u8
+#EXTINF:-1,TV FAMILIA
+http://200.54.19.131:8500/play/a0gx/index.m3u8
+#EXTINF:-1,TV PERU
+http://200.54.19.131:8500/play/a0ds/index.m3u8
+#EXTINF:-1,TV+
+http://200.54.19.131:8500/play/a0d2/index.m3u8
+#EXTINF:-1,TVE
+http://200.54.19.131:8500/play/a0gc/index.m3u8
+#EXTINF:-1,TVES
+http://200.54.19.131:8500/play/a0gz/index.m3u8
+#EXTINF:-1,TVN
+http://200.54.19.131:8500/play/a0d3/index.m3u8
+#EXTINF:-1,Teleantioquia
+http://200.54.19.131:8500/play/a0kc/index.m3u8
+#EXTINF:-1,Telecafe
+http://200.54.19.131:8500/play/a0iz/index.m3u8
+#EXTINF:-1,Telecanal
+http://200.54.19.131:8500/play/a0hx/index.m3u8
+#EXTINF:-1,Telecaribe
+http://200.54.19.131:8500/play/a0ix/index.m3u8
+#EXTINF:-1,Teleislas
+http://200.54.19.131:8500/play/a0h7/index.m3u8
+#EXTINF:-1,Telemundo
+http://200.54.19.131:8500/play/a0dx/index.m3u8
+#EXTINF:-1,Telenovelas
+http://200.54.19.131:8500/play/a0g9/index.m3u8
+#EXTINF:-1,Telepacifico
+http://200.54.19.131:8500/play/a0kb/index.m3u8
+#EXTINF:-1,Telesur
+http://200.54.19.131:8500/play/a0kq/index.m3u8
+#EXTINF:-1,Telesur
+http://200.54.19.131:8500/play/a0ka/index.m3u8
+#EXTINF:-1,Teletrak
+http://200.54.19.131:8500/play/a0dd/index.m3u8
+#EXTINF:-1,Televen
+http://200.54.19.131:8500/play/a0iv/index.m3u8
+#EXTINF:-1,Tooncast
+http://200.54.19.131:8500/play/a0l2/index.m3u8
+#EXTINF:-1,Travel and Living Channel
+http://200.54.19.131:8500/play/a0ki/index.m3u8
+#EXTINF:-1,Tru TV
+http://200.54.19.131:8500/play/a0ku/index.m3u8
+#EXTINF:-1,TyC Sports
+http://200.54.19.131:8500/play/a0ed/index.m3u8
+#EXTINF:-1,Universal
+http://200.54.19.131:8500/play/a0gk/index.m3u8
+#EXTINF:-1,VALE TV
+http://200.54.19.131:8500/play/a0gy/index.m3u8
+#EXTINF:-1,Venevision Plus
+http://200.54.19.131:8500/play/a0dw/index.m3u8
+#EXTINF:-1,Venevisiðn
+http://200.54.19.131:8500/play/a0gw/index.m3u8
+#EXTINF:-1,Venezolana de Televisiðn
+http://200.54.19.131:8500/play/a0h2/index.m3u8
+#EXTINF:-1,Venus
+http://200.54.19.131:8500/play/a0gp/index.m3u8
+#EXTINF:-1,Via X
+http://200.54.19.131:8500/play/a0d8/index.m3u8
+#EXTINF:-1,Vive
+http://200.54.19.131:8500/play/a0h0/index.m3u8
+#EXTINF:-1,WOBI
+http://200.54.19.131:8500/play/a0ec/index.m3u8
+#EXTINF:-1,Warner Channel
+http://200.54.19.131:8500/play/a0e3/index.m3u8
+#EXTINF:-1,Win Sports
+http://200.54.19.131:8500/play/a0jc/index.m3u8
+#EXTINF:-1,Zona Latina
+http://200.54.19.131:8500/play/a0d7/index.m3u8
+#EXTINF:-1,A&E
+http://201.159.95.118:8000/play/a095/index.m3u8
+#EXTINF:-1,Animal Planet
+http://201.159.95.118:8000/play/a08x/index.m3u8
+#EXTINF:-1,Arte 1
+http://201.159.95.118:8000/play/a06e/index.m3u8
+#EXTINF:-1,AXN
+http://201.159.95.118:8000/play/a06b/index.m3u8
+#EXTINF:-1,Band News
+http://201.159.95.118:8000/play/a08g/index.m3u8
+#EXTINF:-1,Boomerang
+http://201.159.95.118:8000/play/a097/index.m3u8
+#EXTINF:-1,Canal Brasil
+http://201.159.95.118:8000/play/a06t/index.m3u8
+#EXTINF:-1,Canal Sony
+http://201.159.95.118:8000/play/a088/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://201.159.95.118:8000/play/a07y/index.m3u8
+#EXTINF:-1,CNN Brasil
+http://201.159.95.118:8000/play/a081/index.m3u8
+#EXTINF:-1,CNN Internacional
+http://201.159.95.118:8000/play/a09u/index.m3u8
+#EXTINF:-1,Combate
+http://201.159.95.118:8000/play/a090/index.m3u8
+#EXTINF:-1,CONMEBOL TV 1
+http://201.159.95.118:8000/play/a075/index.m3u8
+#EXTINF:-1,CONMEBOL TV 2
+http://201.159.95.118:8000/play/a06j/index.m3u8
+#EXTINF:-1,Curta!
+http://201.159.95.118:8000/play/a08z/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://201.159.95.118:8000/play/a070/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://201.159.95.118:8000/play/a09p/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://201.159.95.118:8000/play/a08b/index.m3u8
+#EXTINF:-1,Disney
+http://201.159.95.118:8000/play/a099/index.m3u8
+#EXTINF:-1,Disney Junior
+http://201.159.95.118:8000/play/a08v/index.m3u8
+#EXTINF:-1,Disney 😆
+http://201.159.95.118:8000/play/a08w/index.m3u8
+#EXTINF:-1,ESPN
+http://201.159.95.118:8000/play/a065/index.m3u8
+#EXTINF:-1,ESPN Brasil
+http://201.159.95.118:8000/play/a084/index.m3u8
+#EXTINF:-1,ESPN2
+http://201.159.95.118:8000/play/a07c/index.m3u8
+#EXTINF:-1,Fish TV
+http://201.159.95.118:8000/play/a093/index.m3u8
+#EXTINF:-1,Fox Sports
+http://201.159.95.118:8000/play/a07v/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://201.159.95.118:8000/play/a062/index.m3u8
+#EXTINF:-1,GloboNews
+http://201.159.95.118:8000/play/a064/index.m3u8
+#EXTINF:-1,HBO
+http://201.159.95.118:8000/play/a06u/index.m3u8
+#EXTINF:-1,HBO Family
+http://201.159.95.118:8000/play/a094/index.m3u8
+#EXTINF:-1,HBO MUNDI
+http://201.159.95.118:8000/play/a08q/index.m3u8
+#EXTINF:-1,HBO POP
+http://201.159.95.118:8000/play/a07e/index.m3u8
+#EXTINF:-1,HBO Signature
+http://201.159.95.118:8000/play/a06a/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://201.159.95.118:8000/play/a09n/index.m3u8
+#EXTINF:-1,HBO+
+http://201.159.95.118:8000/play/a07d/index.m3u8
+#EXTINF:-1,HBO2
+http://201.159.95.118:8000/play/a086/index.m3u8
+#EXTINF:-1,History 2
+http://201.159.95.118:8000/play/a089/index.m3u8
+#EXTINF:-1,ID - InvestigaĿªo Discovery
+http://201.159.95.118:8000/play/a08e/index.m3u8
+#EXTINF:-1,Mais na tela
+http://201.159.95.118:8000/play/a07k/index.m3u8
+#EXTINF:-1,MegaPix
+http://201.159.95.118:8000/play/a09m/index.m3u8
+#EXTINF:-1,NatGeo Wild
+http://201.159.95.118:8000/play/a09d/index.m3u8
+#EXTINF:-1,National Geographic
+http://201.159.95.118:8000/play/a08d/index.m3u8
+#EXTINF:-1,Nick Jr
+http://201.159.95.118:8000/play/a09a/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://201.159.95.118:8000/play/a08a/index.m3u8
+#EXTINF:-1,Playboy TV
+http://201.159.95.118:8000/play/a07p/index.m3u8
+#EXTINF:-1,Premiere 2
+http://201.159.95.118:8000/play/a08i/index.m3u8
+#EXTINF:-1,Premiere 3
+http://201.159.95.118:8000/play/a091/index.m3u8
+#EXTINF:-1,Premiere 4
+http://201.159.95.118:8000/play/a09i/index.m3u8
+#EXTINF:-1,Premiere 5
+http://201.159.95.118:8000/play/a06i/index.m3u8
+#EXTINF:-1,Premiere 6
+http://201.159.95.118:8000/play/a07o/index.m3u8
+#EXTINF:-1,Premiere 7
+http://201.159.95.118:8000/play/a07s/index.m3u8
+#EXTINF:-1,Premiere 8
+http://201.159.95.118:8000/play/a076/index.m3u8
+#EXTINF:-1,Premiere Clubes
+http://201.159.95.118:8000/play/a08j/index.m3u8
+#EXTINF:-1,Sextreme
+http://201.159.95.118:8000/play/a07n/index.m3u8
+#EXTINF:-1,Sexy Hot
+http://201.159.95.118:8000/play/a07q/index.m3u8
+#EXTINF:-1,Space
+http://201.159.95.118:8000/play/a08o/index.m3u8
+#EXTINF:-1,SporTV
+http://201.159.95.118:8000/play/a06o/index.m3u8
+#EXTINF:-1,SporTV 2
+http://201.159.95.118:8000/play/a063/index.m3u8
+#EXTINF:-1,SporTV 2 Alternativo
+http://201.159.95.118:8000/play/a077/index.m3u8
+#EXTINF:-1,SporTV 3
+http://201.159.95.118:8000/play/a09k/index.m3u8
+#EXTINF:-1,SporTV Alternativo
+http://201.159.95.118:8000/play/a09y/index.m3u8
+#EXTINF:-1,Studio Universal
+http://201.159.95.118:8000/play/a08s/index.m3u8
+#EXTINF:-1,TBS
+http://201.159.95.118:8000/play/a096/index.m3u8
+#EXTINF:-1,TCM
+http://201.159.95.118:8000/play/a08r/index.m3u8
+#EXTINF:-1,Telecine Action
+http://201.159.95.118:8000/play/a07x/index.m3u8
+#EXTINF:-1,Telecine Cult
+http://201.159.95.118:8000/play/a067/index.m3u8
+#EXTINF:-1,Telecine Fun
+http://201.159.95.118:8000/play/a07t/index.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://201.159.95.118:8000/play/a08p/index.m3u8
+#EXTINF:-1,Telecine Premium
+http://201.159.95.118:8000/play/a06r/index.m3u8
+#EXTINF:-1,Telecine Touch
+http://201.159.95.118:8000/play/a06s/index.m3u8
+#EXTINF:-1,The History Channel
+http://201.159.95.118:8000/play/a09q/index.m3u8
+#EXTINF:-1,TNT
+http://201.159.95.118:8000/play/a066/index.m3u8
+#EXTINF:-1,TNT Séries
+http://201.159.95.118:8000/play/a08y/index.m3u8
+#EXTINF:-1,Tooncast
+http://201.159.95.118:8000/play/a06y/index.m3u8
+#EXTINF:-1,TV Novo Tempo
+http://201.159.95.118:8000/play/a0a1/index.m3u8
+#EXTINF:-1,Viva
+http://201.159.95.118:8000/play/a07a/index.m3u8
+#EXTINF:-1,Warner Channel
+http://201.159.95.118:8000/play/a07g/index.m3u8
+#EXTINF:-1,a.Epsilon
+http://89.210.199.64:9981/stream/channelid/1577545545
+#EXTINF:-1,ACTION24
+http://89.210.199.64:9981/stream/channelid/1430387567
+#EXTINF:-1,ALERT
+http://89.210.199.64:9981/stream/channelid/595877441
+#EXTINF:-1,ALPHA
+http://89.210.199.64:9981/stream/channelid/790594904
+#EXTINF:-1,ANT1
+http://89.210.199.64:9981/stream/channelid/2003473778
+#EXTINF:-1,ART
+http://89.210.199.64:9981/stream/channelid/1811302848
+#EXTINF:-1,ATTICA TV
+http://89.210.199.64:9981/stream/channelid/237474640
+#EXTINF:-1,BLUE SKY
+http://89.210.199.64:9981/stream/channelid/642167624
+#EXTINF:-1,CHANNEL 9
+http://89.210.199.64:9981/stream/channelid/49279863
+#EXTINF:-1,Deytero
+http://89.210.199.64:9981/stream/channelid/1209545053
+#EXTINF:-1,DW
+http://89.210.199.64:9981/stream/channelid/1753657899
+#EXTINF:-1,Era Sport
+http://89.210.199.64:9981/stream/channelid/2067434516
+#EXTINF:-1,ERT 1
+http://89.210.199.64:9981/stream/channelid/934141782
+#EXTINF:-1,ERT 2
+http://89.210.199.64:9981/stream/channelid/388763381
+#EXTINF:-1,ERT 2 HD
+http://89.210.199.64:9981/stream/channelid/2003323639
+#EXTINF:-1,ERT 3
+http://89.210.199.64:9981/stream/channelid/658211450
+#EXTINF:-1,ERT 3 HD
+http://89.210.199.64:9981/stream/channelid/1587401769
+#EXTINF:-1,ERT Sports
+http://89.210.199.64:9981/stream/channelid/335877375
+#EXTINF:-1,EXTRA CHANNEL
+http://89.210.199.64:9981/stream/channelid/1658333072
+#EXTINF:-1,HIGH TV
+http://89.210.199.64:9981/stream/channelid/1081664437
+#EXTINF:-1,KONTRA
+http://89.210.199.64:9981/stream/channelid/1462900950
+#EXTINF:-1,Kosmos
+http://89.210.199.64:9981/stream/channelid/1128585881
+#EXTINF:-1,m.tv
+http://89.210.199.64:9981/stream/channelid/771972697
+#EXTINF:-1,MAD TV
+http://89.210.199.64:9981/stream/channelid/1616550892
+#EXTINF:-1,MEGA
+http://89.210.199.64:9981/stream/channelid/556271390
+#EXTINF:-1,NICKELODEON
+http://89.210.199.64:9981/stream/channelid/1278998875
+#EXTINF:-1,OPEN BEYOND
+http://89.210.199.64:9981/stream/channelid/885073324
+#EXTINF:-1,Proto
+http://89.210.199.64:9981/stream/channelid/1683283527
+#EXTINF:-1,RIK
+http://89.210.199.64:9981/stream/channelid/496078703
+#EXTINF:-1,RISE TV
+http://89.210.199.64:9981/stream/channelid/1203703583
+#EXTINF:-1,SKAI
+http://89.210.199.64:9981/stream/channelid/1799263824
+#EXTINF:-1,SMILE
+http://89.210.199.64:9981/stream/channelid/1334093947
+#EXTINF:-1,STAR
+http://89.210.199.64:9981/stream/channelid/1854951062
+#EXTINF:-1,Trito
+http://89.210.199.64:9981/stream/channelid/317333577
+#EXTINF:-1,Voice Of Greece
+http://89.210.199.64:9981/stream/channelid/185424691
+#EXTINF:-1,Vouli
+http://89.210.199.64:9981/stream/channelid/1571607200
+#EXTINF:-1,ACTION24
+http://31.177.62.174:8000/play/s52
+#EXTINF:-1,ATTICA TV
+http://31.177.62.174:8000/play/s53
+#EXTINF:-1,BLUE SKY
+http://31.177.62.174:8000/play/s54
+#EXTINF:-1,CHANNEL 9
+http://31.177.62.174:8000/play/s56
+#EXTINF:-1,EXTRA CHANNEL
+http://31.177.62.174:8000/play/s55
+#EXTINF:-1,a.Epsilon
+http://31.177.62.174:8001/play/s67
+#EXTINF:-1,ART
+http://31.177.62.174:8001/play/s66
+#EXTINF:-1,HIGH TV
+http://31.177.62.174:8001/play/s68
+#EXTINF:-1,KONTRA
+http://31.177.62.174:8001/play/s64
+#EXTINF:-1,MAD TV
+http://31.177.62.174:8001/play/s65
+#EXTINF:-1,ALERT
+http://31.177.62.174:8002/play/s57
+#EXTINF:-1,NICKELODEON
+http://31.177.62.174:8002/play/s60
+#EXTINF:-1,RISE TV
+http://31.177.62.174:8002/play/s59
+#EXTINF:-1,SMILE
+http://31.177.62.174:8002/play/s58
+#EXTINF:-1,ALPHA
+http://31.177.62.174:8003/play/s63
+#EXTINF:-1,ANT1
+http://31.177.62.174:8003/play/s61
+#EXTINF:-1,OPEN BEYOND
+http://31.177.62.174:8003/play/s62
+#EXTINF:-1,Action 24 GR
+http://137.74.92.216:8080/ACTION24/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,Baby TV GR
+http://137.74.92.216:8080/BABYTV/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,Disney Channel GR
+http://137.74.92.216:8080/DISNEYCH/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,Disney Junior GR
+http://137.74.92.216:8080/DISNEYJR/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,Disney 😆 GR
+http://137.74.92.216:8080/DISNEYXD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:- 1,Nickelodeon
+http://137.74.92.216:8080/NICKELODEON/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,Smile GR
+http://137.74.92.216:8080/SMILE/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,OSN MEZZO
+http://78.31.67.52:8000/play/a004/index.m3u8
+#EXTINF:-1,TF1
+http://78.31.67.52:8000/play/a006/index.m3u8
+#EXTINF:-1,TLC
+http://78.31.67.52:8000/play/a00c/index.m3u8
+#EXTINF:-1,TUNISIA NAT 3
+http://78.31.67.52:8000/play/a002/index.m3u8
+#EXTINF:-1,[AL]_RTL
+http://78.31.67.52:8000/play/a00f/index.m3u8
+#EXTINF:-1,[AR]_BEIN SPORTS NEWS HD
+http://78.31.67.52:8000/play/a00e/index.m3u8
+#EXTINF:-1,[AR]_OSN ACTION FHD
+http://78.31.67.52:8000/play/[AR]_OSN ACTION FHD/index.m3u8
+#EXTINF:-1,[AR]_beIN SPORTS 6 HD
+http://78.31.67.52:8000/play/a00g/index.m3u8
+#EXTINF:-1,[AR]_beIN SPORTS HD1
+http://78.31.67.52:8000/play/a008/index.m3u8
+#EXTINF:-1,[BE]_LA TROIS HD
+http://78.31.67.52:8000/play/a00a/index.m3u8
+#EXTINF:-1,[BE]_RTL-TVI HD
+http://78.31.67.52:8000/play/tvii/index.m3u8
+#EXTINF:-1,[CH]_SRF_2HD
+http://78.31.67.52:8000/play/a005/index.m3u8
+#EXTINF:-1,[ES]_24 HORAS HD
+http://78.31.67.52:8000/play/a00d/index.m3u8
+#EXTINF:-1,[FR]_CANAL+ SPORT FHD
+http://78.31.67.52:8000/play/a007/index.m3u8
+#EXTINF:-1,[FR]_MELODY HD
+http://78.31.67.52:8000/play/a00m/index.m3u8
+#EXTINF:-1,[PT]_EUROSPORT 2 HD
+http://78.31.67.52:8000/play/a00j/index.m3u8
+#EXTINF:-1,[PT]_NATIONAL GEO HD
+http://78.31.67.52:8000/play/a00i/index.m3u8
+#EXTINF:-1,[PT]_TV SERIES HD
+http://78.31.67.52:8000/play/a00h/index.m3u8
+#EXTINF:-1,[RU]_FOX HD
+http://78.31.67.52:8000/play/a00k/index.m3u8
+#EXTINF:-1,[TN]_TOUNESNA TV
+http://78.31.67.52:8000/play/a003/index.m3u8
+#EXTINF:-1,[TN]_TUNISIA NAT 1 HD
+http://78.31.67.52:8000/play/a001/index.m3u8
+#EXTINF:-1,la deux
+http://78.31.67.52:8000/play/a009/index.m3u8
+#EXTINF:-1,la une
+http://78.31.67.52:8000/play/a00b/index.m3u8
+#EXTINF:-1,osn cinema
+http://78.31.67.52:8000/play/osncinema/index.m3u8
+#EXTINF:-1,A HABER HD
+http://31.169.88.21:8000/play/a02s
+#EXTINF:-1,A SPOR HD
+http://31.169.88.21:8000/play/a02t
+#EXTINF:-1,ATV HD
+http://31.169.88.21:8000/play/a02r
+#EXTINF:-1,BABY TV HD
+http://31.169.88.21:8000/play/a066
+#EXTINF:-1,CNN TÜRK HD
+http://31.169.88.21:8000/play/a00k
+#EXTINF:-1,DISCOVERY CHANNEL
+http://31.169.88.21:8000/play/a04z
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://31.169.88.21:8000/play/a064
+#EXTINF:-1,DISCOVERY SCIENCE
+http://31.169.88.21:8000/play/a05a
+#EXTINF:-1,DMAX HD
+http://31.169.88.21:8000/play/a015
+#EXTINF:-1,DOCUBOX
+http://31.169.88.21:8000/play/a05j
+#EXTINF:-1,KANAL 7 HD
+http://31.169.88.21:8000/play/a04i
+#EXTINF:-1,KANAL D HD
+http://31.169.88.21:8000/play/a00j
+#EXTINF:-1,LOVE NATURE
+http://31.169.88.21:8000/play/a05s
+#EXTINF:-1,NBA TV
+http://31.169.88.21:8000/play/a05o
+#EXTINF:-1,NTV HD
+http://31.169.88.21:8000/play/a014
+#EXTINF:-1,OUTDOOR
+http://31.169.88.21:8000/play/a055
+#EXTINF:-1,S SPORT
+http://31.169.88.21:8000/play/a052
+#EXTINF:-1,S SPORT2
+http://31.169.88.21:8000/play/a050
+#EXTINF:-1,SPORSMART
+http://31.169.88.21:8000/play/a051
+#EXTINF:-1,STAR TV HD
+http://31.169.88.21:8000/play/a013
+#EXTINF:-1,T.A.Y TV
+http://31.169.88.21:8000/play/a00s
+#EXTINF:-1,TLC HD
+http://31.169.88.21:8000/play/a016
+#EXTINF:-1,TRT BELGESEL HD
+http://31.169.88.21:8000/play/a006
+#EXTINF:-1,TRT HABER HD
+http://31.169.88.21:8000/play/a004
+#EXTINF:-1,TRT SPOR HD
+http://31.169.88.21:8000/play/a005
+#EXTINF:-1,TRT1 HD
+http://31.169.88.21:8000/play/a003
+#EXTINF:-1,ULKE TV HD
+http://31.169.88.21:8000/play/a04j
+#EXTINF:-1,VIASAT HISTORY
+http://31.169.88.21:8000/play/a05h
+#EXTINF:-1,beIN SPORTS HABER HD
+http://31.169.88.21:8000/play/a065
+#EXTINF:-1,teve2 HD
+http://31.169.88.21:8000/play/a00l
+#EXTINF:-1,7 stars TV
+http://90.77.94.64:8000/play/a04e
+#EXTINF:-1,A ONE TV
+http://90.77.94.64:8000/play/a05d
+#EXTINF:-1,AD DRAMA HD
+http://90.77.94.64:8000/play/a056
+#EXTINF:-1,AD Nat Geo HD
+http://90.77.94.64:8000/play/a05a
+#EXTINF:-1,AD Sport 1 HD
+http://90.77.94.64:8000/play/a057
+#EXTINF:-1,AD Sport 2 HD
+http://90.77.94.64:8000/play/a058
+#EXTINF:-1,AL ARABY TV
+http://90.77.94.64:8000/play/a04f
+#EXTINF:-1,AL MAJLIS
+http://90.77.94.64:8000/play/a03s
+#EXTINF:-1,AL OSTORA
+http://90.77.94.64:8000/play/a02v
+#EXTINF:-1,AL Oula HD
+http://90.77.94.64:8000/play/a028
+#EXTINF:-1,AL oula
+http://90.77.94.64:8000/play/a027
+#EXTINF:-1,AL-Aghani
+http://90.77.94.64:8000/play/a02n
+#EXTINF:-1,AL-Bernameg AL-moussekey
+http://90.77.94.64:8000/play/a02m
+#EXTINF:-1,AL-Kahera Al-Kobra
+http://90.77.94.64:8000/play/a02l
+#EXTINF:-1,AL-Menia
+http://90.77.94.64:8000/play/a02o
+#EXTINF:-1,AL-Quran AL_Karem
+http://90.77.94.64:8000/play/a02f
+#EXTINF:-1,AL-Sharg AL-awsat
+http://90.77.94.64:8000/play/a02h
+#EXTINF:-1,AL-bernameg AL-aam
+http://90.77.94.64:8000/play/a02e
+#EXTINF:-1,AL-bernameg AL-orobi
+http://90.77.94.64:8000/play/a02i
+#EXTINF:-1,AL-shabab W Al-reyadah
+http://90.77.94.64:8000/play/a02j
+#EXTINF:-1,ALISTIQAMA TV
+http://90.77.94.64:8000/play/a050
+#EXTINF:-1,ALMADARIA
+http://90.77.94.64:8000/play/a01l
+#EXTINF:-1,ALMASIRAH MUBASHER
+http://90.77.94.64:8000/play/a01f
+#EXTINF:-1,ALPRINCE CINEMA
+http://90.77.94.64:8000/play/a039
+#EXTINF:-1,ALPRINCE DRAMA
+http://90.77.94.64:8000/play/a033
+#EXTINF:-1,ALSeha Waljamal
+http://90.77.94.64:8000/play/a001
+#EXTINF:-1,APPLE AFLAM
+http://90.77.94.64:8000/play/a034
+#EXTINF:-1,APPLE CINEMA
+http://90.77.94.64:8000/play/a02u
+#EXTINF:-1,APPLE COMEDY
+http://90.77.94.64:8000/play/a02t
+#EXTINF:-1,APPLE HEKAYAT
+http://90.77.94.64:8000/play/a03a
+#EXTINF:-1,APPLE MOSALSALAT
+http://90.77.94.64:8000/play/a032
+#EXTINF:-1,APPLE TODAY
+http://90.77.94.64:8000/play/a031
+#EXTINF:-1,Abu Dhabi TV HD
+http://90.77.94.64:8000/play/a053
+#EXTINF:-1,Al Emarat TV HD
+http://90.77.94.64:8000/play/a054
+#EXTINF:-1,Al Hiwar TV
+http://90.77.94.64:8000/play/a04g
+#EXTINF:-1,Al Kahera Wal Nas
+http://90.77.94.64:8000/play/a026
+#EXTINF:-1,Al Kahera Wal Nas +2
+http://90.77.94.64:8000/play/a01y
+#EXTINF:-1,Al Mawsleya
+http://90.77.94.64:8000/play/a01r
+#EXTINF:-1,Al Mergab
+http://90.77.94.64:8000/play/a025
+#EXTINF:-1,Al Nour Quran
+http://90.77.94.64:8000/play/a01j
+#EXTINF:-1,Al Seraj TV
+http://90.77.94.64:8000/play/a04q
+#EXTINF:-1,Al-Amaken
+http://90.77.94.64:8000/play/a041
+#EXTINF:-1,Al-Aqila TV
+http://90.77.94.64:8000/play/a04l
+#EXTINF:-1,Al-Ebaa TV
+http://90.77.94.64:8000/play/a04k
+#EXTINF:-1,Al-Ma'aly
+http://90.77.94.64:8000/play/a043
+#EXTINF:-1,Al-Shaaer TV
+http://90.77.94.64:8000/play/a04r
+#EXTINF:-1,AlHadath Alyoum
+http://90.77.94.64:8000/play/a01u
+#EXTINF:-1,Alanes TV
+http://90.77.94.64:8000/play/a04j
+#EXTINF:-1,Albaghdadiya
+http://90.77.94.64:8000/play/a04s
+#EXTINF:-1,Albaraka
+http://90.77.94.64:8000/play/a04w
+#EXTINF:-1,Alhayat 2
+http://90.77.94.64:8000/play/a024
+#EXTINF:-1,Almamlaka TV
+http://90.77.94.64:8000/play/a05h
+#EXTINF:-1,Amman TV
+http://90.77.94.64:8000/play/a04t
+#EXTINF:-1,An-Najah NBC
+http://90.77.94.64:8000/play/a04b
+#EXTINF:-1,Awdeh
+http://90.77.94.64:8000/play/a049
+#EXTINF:-1,Azhari
+http://90.77.94.64:8000/play/a02b
+#EXTINF:-1,BATOOT KIDS
+http://90.77.94.64:8000/play/a05l
+#EXTINF:-1,BELODY AFLAM
+http://90.77.94.64:8000/play/a02x
+#EXTINF:-1,BIN OTHAIMEEN
+http://90.77.94.64:8000/play/a03z
+#EXTINF:-1,CGTN-Arabic
+http://90.77.94.64:8000/play/a05j
+#EXTINF:-1,CINEMA 2
+http://90.77.94.64:8000/play/a036
+#EXTINF:-1,DRAMA ALWAN
+http://90.77.94.64:8000/play/a016
+#EXTINF:-1,DW International
+http://90.77.94.64:8000/play/a04d
+#EXTINF:-1,Dar Alshefa
+http://90.77.94.64:8000/play/a04y
+#EXTINF:-1,Darsak 2
+http://90.77.94.64:8000/play/a051
+#EXTINF:-1,Darsak Tawjihi
+http://90.77.94.64:8000/play/a052
+#EXTINF:-1,Drama Al Badawya
+http://90.77.94.64:8000/play/a042
+#EXTINF:-1,Dream2
+http://90.77.94.64:8000/play/a00t
+#EXTINF:-1,Dzair 3
+http://90.77.94.64:8000/play/a04x
+#EXTINF:-1,Dzair Zawej
+http://90.77.94.64:8000/play/a04z
+#EXTINF:-1,Eductional channel
+http://90.77.94.64:8000/play/a02k
+#EXTINF:-1,Falastini.tv
+http://90.77.94.64:8000/play/a04n
+#EXTINF:-1,HADRAMAUT TV
+http://90.77.94.64:8000/play/a022
+#EXTINF:-1,HAREEM ELSULTAN
+http://90.77.94.64:8000/play/a02w
+#EXTINF:-1,HEKAYA TV
+http://90.77.94.64:8000/play/a02z
+#EXTINF:-1,HOME CINEMA
+http://90.77.94.64:8000/play/a01h
+#EXTINF:-1,HOME DRAMA
+http://90.77.94.64:8000/play/a01g
+#EXTINF:-1,Hadeeth AlBalad
+http://90.77.94.64:8000/play/a040
+#EXTINF:-1,Hala TV
+http://90.77.94.64:8000/play/a04m
+#EXTINF:-1,Hebron.Sat TV
+http://90.77.94.64:8000/play/a04o
+#EXTINF:-1,Hona Baghdad
+http://90.77.94.64:8000/play/a05e
+#EXTINF:-1,Jordan Sport
+http://90.77.94.64:8000/play/a04u
+#EXTINF:-1,Khallik Bilbait
+http://90.77.94.64:8000/play/a03p
+#EXTINF:-1,Kuwait Ethraa
+http://90.77.94.64:8000/play/a03q
+#EXTINF:-1,Kuwait HolyQuran
+http://90.77.94.64:8000/play/a03l
+#EXTINF:-1,Kuwait Kids
+http://90.77.94.64:8000/play/a03u
+#EXTINF:-1,Kuwait Qurain
+http://90.77.94.64:8000/play/a03t
+#EXTINF:-1,Kuwait Sports
+http://90.77.94.64:8000/play/a03o
+#EXTINF:-1,Kuwait TV 1
+http://90.77.94.64:8000/play/a03m
+#EXTINF:-1,Kuwait TV 2
+http://90.77.94.64:8000/play/a03n
+#EXTINF:-1,LIBYAN TV
+http://90.77.94.64:8000/play/a023
+#EXTINF:-1,Lebanon TV
+http://90.77.94.64:8000/play/a020
+#EXTINF:-1,Libya Al Ahrar
+http://90.77.94.64:8000/play/a04i
+#EXTINF:-1,Libya Alrasmia
+http://90.77.94.64:8000/play/a01z
+#EXTINF:-1,Libya Alwataniya
+http://90.77.94.64:8000/play/a02c
+#EXTINF:-1,Libya Sport Channel
+http://90.77.94.64:8000/play/a02d
+#EXTINF:-1,M AFLAM
+http://90.77.94.64:8000/play/a00u
+#EXTINF:-1,M DRAMA
+http://90.77.94.64:8000/play/a01i
+#EXTINF:-1,MARJAEYAT 2
+http://90.77.94.64:8000/play/a05f
+#EXTINF:-1,MBC MASR
+http://90.77.94.64:8000/play/a021
+#EXTINF:-1,MBC Masr 2
+http://90.77.94.64:8000/play/a01q
+#EXTINF:-1,MBN Alhurra HD
+http://90.77.94.64:8000/play/a01m
+#EXTINF:-1,MDEEH
+http://90.77.94.64:8000/play/a002
+#EXTINF:-1,MODERN AFLAM
+http://90.77.94.64:8000/play/a01b
+#EXTINF:-1,MODERN ALYOOM
+http://90.77.94.64:8000/play/a018
+#EXTINF:-1,MODERN CINEMA
+http://90.77.94.64:8000/play/a01a
+#EXTINF:-1,MODERN DRAMA
+http://90.77.94.64:8000/play/a017
+#EXTINF:-1,MODERN HAKAYAT
+http://90.77.94.64:8000/play/a019
+#EXTINF:-1,MOSALSALAT TUBE
+http://90.77.94.64:8000/play/a030
+#EXTINF:-1,MUSAWA
+http://90.77.94.64:8000/play/a044
+#EXTINF:-1,Maan TV
+http://90.77.94.64:8000/play/a046
+#EXTINF:-1,Maestro TV
+http://90.77.94.64:8000/play/a01o
+#EXTINF:-1,Maspero Zaman
+http://90.77.94.64:8000/play/a00s
+#EXTINF:-1,Mehwer
+http://90.77.94.64:8000/play/a01t
+#EXTINF:-1,NHK WORLD-JAPAN
+http://90.77.94.64:8000/play/a05i
+#EXTINF:-1,NOUR EL SHAM
+http://90.77.94.64:8000/play/a03b
+#EXTINF:-1,Nile Cinema
+http://90.77.94.64:8000/play/a00r
+#EXTINF:-1,Nile Comedy
+http://90.77.94.64:8000/play/a00m
+#EXTINF:-1,Nile Culture
+http://90.77.94.64:8000/play/a00q
+#EXTINF:-1,Nile Drama
+http://90.77.94.64:8000/play/a00o
+#EXTINF:-1,Nile Family
+http://90.77.94.64:8000/play/a029
+#EXTINF:-1,Nile Life
+http://90.77.94.64:8000/play/a00n
+#EXTINF:-1,Nile News
+http://90.77.94.64:8000/play/a00l
+#EXTINF:-1,Nile Sport
+http://90.77.94.64:8000/play/a00p
+#EXTINF:-1,ORPIT AL YOUM
+http://90.77.94.64:8000/play/a01d
+#EXTINF:-1,ORPIT CINEMA
+http://90.77.94.64:8000/play/a015
+#EXTINF:-1,ORPIT DRAMA
+http://90.77.94.64:8000/play/a01k
+#EXTINF:-1,ORPIT HEKAYAT
+http://90.77.94.64:8000/play/a01e
+#EXTINF:-1,ORPIT MOVIES
+http://90.77.94.64:8000/play/a01c
+#EXTINF:-1,Palestine
+http://90.77.94.64:8000/play/a01n
+#EXTINF:-1,Palestine Live
+http://90.77.94.64:8000/play/a047
+#EXTINF:-1,Palestine Live
+http://90.77.94.64:8000/play/a01s
+#EXTINF:-1,Palestine News
+http://90.77.94.64:8000/play/a045
+#EXTINF:-1,Palestine Sport
+http://90.77.94.64:8000/play/a04c
+#EXTINF:-1,Parwardayi TV
+http://90.77.94.64:8000/play/a03y
+#EXTINF:-1,QOU.EDU
+http://90.77.94.64:8000/play/a04a
+#EXTINF:-1,Quran Kareem Jordan
+http://90.77.94.64:8000/play/a04v
+#EXTINF:-1,RO'YA HD
+http://90.77.94.64:8000/play/a05m
+#EXTINF:-1,SAMA TV
+http://90.77.94.64:8000/play/a02y
+#EXTINF:-1,SHABABIK AFLAM
+http://90.77.94.64:8000/play/a00x
+#EXTINF:-1,SHABABIK CLASSIC
+http://90.77.94.64:8000/play/a00z
+#EXTINF:-1,SHABABIK DRAMA
+http://90.77.94.64:8000/play/a00w
+#EXTINF:-1,SHABABIK HEKAYAT
+http://90.77.94.64:8000/play/a00y
+#EXTINF:-1,SHABABIK MOSALSLAT
+http://90.77.94.64:8000/play/a00v
+#EXTINF:-1,SHOW MOSALSLAT
+http://90.77.94.64:8000/play/a011
+#EXTINF:-1,SHOW AFLAM
+http://90.77.94.64:8000/play/a014
+#EXTINF:-1,SHOW CINEMA
+http://90.77.94.64:8000/play/a010
+#EXTINF:-1,SHOW DRAMA
+http://90.77.94.64:8000/play/a012
+#EXTINF:-1,SHOW HAKAYAT
+http://90.77.94.64:8000/play/a013
+#EXTINF:-1,SYRIA DRAMA
+http://90.77.94.64:8000/play/a035
+#EXTINF:-1,SYRIA R1
+http://90.77.94.64:8000/play/a02q
+#EXTINF:-1,Sada El Balad
+http://90.77.94.64:8000/play/a01w
+#EXTINF:-1,Sada El Balad+
+http://90.77.94.64:8000/play/a01x
+#EXTINF:-1,Sada ElBalad Drama
+http://90.77.94.64:8000/play/a01v
+#EXTINF:-1,Sham TV
+http://90.77.94.64:8000/play/a03w
+#EXTINF:-1,Sout AL-arab
+http://90.77.94.64:8000/play/a02g
+#EXTINF:-1,Syria TV
+http://90.77.94.64:8000/play/a04h
+#EXTINF:-1,TATT7
+http://90.77.94.64:8000/play/a05n
+#EXTINF:-1,TRT World HD
+http://90.77.94.64:8000/play/a04p
+#EXTINF:-1,Wadi Al-Neil & Palestine
+http://90.77.94.64:8000/play/a02p
+#EXTINF:-1,anb
+http://90.77.94.64:8000/play/a05c
+#EXTINF:-1, Kaleydoskop
+http://178.163.14.227:4022/udp/234.0.0.1:2000
+#EXTINF:-1, TNV
+http://178.163.14.227:4022/udp/234.0.0.2:2000
+#EXTINF:-1, Mir
+http://178.163.14.227:4022/udp/234.0.0.5:2000
+#EXTINF:-1, Boec
+http://178.163.14.227:4022/udp/234.0.0.6:2000
+#EXTINF:-1, Gubernia
+http://178.163.14.227:4022/udp/234.0.0.7:2000
+#EXTINF:-1, 360 Moskow
+http://178.163.14.227:4022/udp/234.0.0.8:2000
+#EXTINF:-1, TNT +4
+http://178.163.14.227:4022/udp/234.0.0.9:2000
+#EXTINF:-1, Big Asia
+http://178.163.14.227:4022/udp/234.0.0.10:2000
+#EXTINF:-1, Muz TV
+http://178.163.14.227:4022/udp/234.0.0.96:2000
+#EXTINF:-1, Animal Life
+http://178.163.14.227:4022/udp/234.0.0.97:2000
+#EXTINF:-1, Bear
+http://178.163.14.227:4022/udp/234.0.0.98:2000
+#EXTINF:-1, Super
+http://178.163.14.227:4022/udp/234.0.0.100:2000
+#EXTINF:-1, Tvoy Dom
+http://178.163.14.227:4022/udp/234.0.0.106:2000
+#EXTINF:-1, Galaxy
+http://178.163.14.227:4022/udp/234.0.0.111:2000
+#EXTINF:-1, Uspex
+http://178.163.14.227:4022/udp/234.0.0.117:2000
+#EXTINF:-1, Kinokomediya
+http://178.163.14.227:4022/udp/234.0.0.118:2000
+#EXTINF:-1, Kinoseriya
+http://178.163.14.227:4022/udp/234.0.0.119:2000
+#EXTINF:-1, *Extreme Sports
+http://178.163.14.227:4022/udp/234.0.0.150:2000
+#EXTINF:-1, RBC
+http://178.163.14.227:4022/udp/234.0.0.151:2000
+#EXTINF:-1, JimJam
+http://178.163.14.227:4022/udp/234.0.0.152:2000
+#EXTINF:-1, Nickelodeon
+http://178.163.14.227:4022/udp/234.0.0.153:2000
+#EXTINF:-1, Kino tv
+http://178.163.14.227:4022/udp/234.0.0.154:2000
+#EXTINF:-1, Amedia
+http://178.163.14.227:4022/udp/234.0.0.155:2000
+#EXTINF:-1, Amedia Hit
+http://178.163.14.227:4022/udp/234.0.0.169:2000
+#EXTINF:-1, TV3
+http://178.163.14.227:4022/udp/234.0.0.171:2000
+#EXTINF:-1, Perviy HD
+http://178.163.14.227:4022/udp/234.0.0.172:2000
+#EXTINF:-1, Rus Extream
+http://178.163.14.227:4022/udp/234.0.0.173:2000
+#EXTINF:-1, ENGLISH CLUB TV
+http://178.163.14.227:4022/udp/234.0.0.174:2000
+#EXTINF:-1, Eurokino
+http://178.163.14.227:4022/udp/234.0.0.176:2000
+#EXTINF:-1, Rodnoe kino
+http://178.163.14.227:4022/udp/234.0.0.177:2000
+#EXTINF:-1, Rus Illuzion
+http://178.163.14.227:4022/udp/234.0.0.178:2000
+#EXTINF:-1, RUSONG TV
+http://178.163.14.227:4022/udp/234.0.0.179:2000
+#EXTINF:-1, Bridge TV
+http://178.163.14.227:4022/udp/234.0.0.180:2000
+#EXTINF:-1, TNT4
+http://178.163.14.227:4022/udp/234.0.0.181:2000
+#EXTINF:-1, Muzic 1
+http://178.163.14.227:4022/udp/234.0.0.182:2000
+#EXTINF:-1, Europa +
+http://178.163.14.227:4022/udp/234.0.0.183:2000
+#EXTINF:-1, Fox
+http://178.163.14.227:4022/udp/234.0.0.184:2000
+#EXTINF:-1, Sov secretno
+http://178.163.14.227:4022/udp/234.0.0.185:2000
+#EXTINF:-1, TNT
+http://178.163.14.227:4022/udp/234.0.0.186:2000
+#EXTINF:-1, TV 21
+http://178.163.14.227:4022/udp/234.0.0.187:2000
+#EXTINF:-1, Shanson
+http://178.163.14.227:4022/udp/234.0.0.189:2000
+#EXTINF:-1, Nostalgia
+http://178.163.14.227:4022/udp/234.0.0.190:2000
+#EXTINF:-1, Domashnij
+http://178.163.14.227:4022/udp/234.0.0.191:2000
+#EXTINF:-1, TVC
+http://178.163.14.227:4022/udp/234.0.0.192:2000
+#EXTINF:-1, Bollywood
+http://178.163.14.227:4022/udp/234.0.0.195:2000
+#EXTINF:-1, Soyz
+http://178.163.14.227:4022/udp/234.0.0.196:2000
+#EXTINF:-1, Disney
+http://178.163.14.227:4022/udp/234.0.0.198:2000
+#EXTINF:-1, Belarus
+http://178.163.14.227:4022/udp/234.0.0.199:2000
+#EXTINF:-1, Perviy
+http://178.163.14.227:4022/udp/234.0.0.200:2000
+#EXTINF:-1, Rossia1
+http://178.163.14.227:4022/udp/234.0.0.201:2000
+#EXTINF:-1, Rossia K
+http://178.163.14.227:4022/udp/234.0.0.202:2000
+#EXTINF:-1, Karusel
+http://178.163.14.227:4022/udp/234.0.0.203:2000
+#EXTINF:-1, Match
+http://178.163.14.227:4022/udp/234.0.0.204:2000
+#EXTINF:-1, 5 kanal
+http://178.163.14.227:4022/udp/234.0.0.205:2000
+#EXTINF:-1, NTV
+http://178.163.14.227:4022/udp/234.0.0.206:2000
+#EXTINF:-1, Rossiya 24
+http://178.163.14.227:4022/udp/234.0.0.207:2000
+#EXTINF:-1, Kinopokaz
+http://178.163.14.227:4022/udp/234.0.0.209:2000
+#EXTINF:-1, Multilandia
+http://178.163.14.227:4022/udp/234.0.0.210:2000
+#EXTINF:-1, Fashion One
+http://178.163.14.227:4022/udp/234.0.0.212:2000
+#EXTINF:-1, Muj Kino
+http://178.163.14.227:4022/udp/234.0.0.213:2000
+#EXTINF:-1, Fashion
+http://178.163.14.227:4022/udp/234.0.0.214:2000
+#EXTINF:-1, Spas
+http://178.163.14.227:4022/udp/234.0.0.215:2000
+#EXTINF:-1, Zoo
+http://178.163.14.227:4022/udp/234.0.0.216:2000
+#EXTINF:-1, Detsky
+http://178.163.14.227:4022/udp/234.0.0.217:2000
+#EXTINF:-1, Che
+http://178.163.14.227:4022/udp/234.0.0.218:2000
+#EXTINF:-1, Zdorovoe TV
+http://178.163.14.227:4022/udp/234.0.0.221:2000
+#EXTINF:-1, Bridge Classic
+http://178.163.14.227:4022/udp/234.0.0.223:2000
+#EXTINF:-1, Rus roman
+http://178.163.14.227:4022/udp/234.0.0.224:2000
+#EXTINF:-1, Hayka 2.0
+http://178.163.14.227:4022/udp/234.0.0.226:2000
+#EXTINF:-1, Avto 24
+http://178.163.14.227:4022/udp/234.0.0.227:2000
+#EXTINF:-1, My Planet
+http://178.163.14.227:4022/udp/234.0.0.228:2000
+#EXTINF:-1, TNT Muzic
+http://178.163.14.227:4022/udp/234.0.0.231:2000
+#EXTINF:-1, Doctor
+http://178.163.14.227:4022/udp/234.0.0.232:2000
+#EXTINF:-1, Pyatnica
+http://178.163.14.227:4022/udp/234.0.0.235:2000
+#EXTINF:-1, HTB Hit
+http://178.163.14.227:4022/udp/234.0.0.236:2000
+#EXTINF:-1, Zvezda
+http://178.163.14.227:4022/udp/234.0.0.237:2000
+#EXTINF:-1, CTC
+http://178.163.14.227:4022/udp/234.0.0.239:2000
+#EXTINF:-1, Ren TV
+http://178.163.14.227:4022/udp/234.0.0.240:2000
+#EXTINF:-1, 2X2
+http://178.163.14.227:4022/udp/234.0.0.244:2000
+#EXTINF:-1, Draiv
+http://178.163.14.227:4022/udp/234.0.0.245:2000
+#EXTINF:-1, Sarafan
+http://178.163.14.227:4022/udp/234.0.0.246:2000
+#EXTINF:-1, 24 Tehno
+http://178.163.14.227:4022/udp/234.0.0.247:2000
+#EXTINF:-1, Telecafe
+http://178.163.14.227:4022/udp/234.0.0.249:2000
+#EXTINF:-1, Rus Bestseller
+http://178.163.14.227:4022/udp/234.0.0.250:2000
+#EXTINF:-1, TRO
+http://178.163.14.227:4022/udp/234.0.0.251:2000
+#EXTINF:-1, TiJi
+http://178.163.14.227:4022/udp/234.0.0.252:2000
+#EXTINF:-1,3ABN-GH
+http://197.220.163.114:9981/stream/channelid/1679953020
+#EXTINF:-1,Adom FM
+http://197.220.163.114:9981/stream/channelid/1673354031
+#EXTINF:-1,Adom TV
+http://197.220.163.114:9981/stream/channelid/1834075483
+#EXTINF:-1,Adom TV
+http://197.220.163.114:9981/stream/channelid/2064197603
+#EXTINF:-1,Ahotor FM
+http://197.220.163.114:9981/stream/channelid/1223581933
+#EXTINF:-1,AIT TV
+http://197.220.163.114:9981/stream/channelid/1622419464
+#EXTINF:-1,Akuafo TV
+http://197.220.163.114:9981/stream/channelid/1625348850
+#EXTINF:-1,Angel FM
+http://197.220.163.114:9981/stream/channelid/805406318
+#EXTINF:-1,Angel FM 102.9
+http://197.220.163.114:9981/stream/channelid/318769935
+#EXTINF:-1,Angel TV
+http://197.220.163.114:9981/stream/channelid/1537809420
+#EXTINF:-1,ANGEL TV
+http://197.220.163.114:9981/stream/channelid/1003478742
+#EXTINF:-1,Asaase Radio
+http://197.220.163.114:9981/stream/channelid/1643765381
+#EXTINF:-1,Aseda TV
+http://197.220.163.114:9981/stream/channelid/1108347411
+#EXTINF:-1,Asempa FM
+http://197.220.163.114:9981/stream/channelid/399643791
+#EXTINF:-1,Atinka TV
+http://197.220.163.114:9981/stream/channelid/1328705852
+#EXTINF:-1,Atlantis Radio
+http://197.220.163.114:9981/stream/channelid/1294691131
+#EXTINF:-1,Bryt TV
+http://197.220.163.114:9981/stream/channelid/374732179
+#EXTINF:-1,Cash TV
+http://197.220.163.114:9981/stream/channelid/422972596
+#EXTINF:-1,Citi TV
+http://197.220.163.114:9981/stream/channelid/1364683917
+#EXTINF:-1,City FM
+http://197.220.163.114:9981/stream/channelid/1020291549
+#EXTINF:-1,Crystal Plus
+http://197.220.163.114:9981/stream/channelid/942581634
+#EXTINF:-1,Crystal Prime
+http://197.220.163.114:9981/stream/channelid/1503215718
+#EXTINF:-1,Crystal Xtra
+http://197.220.163.114:9981/stream/channelid/1142368219
+#EXTINF:-1,CTV
+http://197.220.163.114:9981/stream/channelid/729383780
+#EXTINF:-1,ECN
+http://197.220.163.114:9981/stream/channelid/1589772024
+#EXTINF:-1,ELBC FM
+http://197.220.163.114:9981/stream/channelid/270236960
+#EXTINF:-1,Elijah TV
+http://197.220.163.114:9981/stream/channelid/642819288
+#EXTINF:-1,ETV
+http://197.220.163.114:9981/stream/channelid/1183714760
+#EXTINF:-1,Fire TV
+http://197.220.163.114:9981/stream/channelid/71274253
+#EXTINF:-1,Fire TV 2
+http://197.220.163.114:9981/stream/channelid/728777607
+#EXTINF:-1,GBC News
+http://197.220.163.114:9981/stream/channelid/1256527297
+#EXTINF:-1,GH-One TV
+http://197.220.163.114:9981/stream/channelid/1151523300
+#EXTINF:-1,GHOne TV
+http://197.220.163.114:9981/stream/channelid/2121720725
+#EXTINF:-1,GL-TV
+http://197.220.163.114:9981/stream/channelid/459263825
+#EXTINF:-1,GN TV
+http://197.220.163.114:9981/stream/channelid/1902125958
+#EXTINF:-1,GTV
+http://197.220.163.114:9981/stream/channelid/1782172407
+#EXTINF:-1,GTV Life
+http://197.220.163.114:9981/stream/channelid/1754708288
+#EXTINF:-1,GTV Sports Plus
+http://197.220.163.114:9981/stream/channelid/1818130277
+#EXTINF:-1,Hitz FM
+http://197.220.163.114:9981/stream/channelid/220788055
+#EXTINF:-1,Joy FM
+http://197.220.163.114:9981/stream/channelid/441937588
+#EXTINF:-1,Joy News
+http://197.220.163.114:9981/stream/channelid/656403294
+#EXTINF:-1,Joy Prime
+http://197.220.163.114:9981/stream/channelid/326162728
+#EXTINF:-1,Kantanka TV
+http://197.220.163.114:9981/stream/channelid/217352821
+#EXTINF:-1,Kessben FM
+http://197.220.163.114:9981/stream/channelid/164632051
+#EXTINF:-1,Kessben TV
+http://197.220.163.114:9981/stream/channelid/329029128
+#EXTINF:-1,KFS
+http://197.220.163.114:9981/stream/channelid/1321423958
+#EXTINF:-1,Kingdom FM
+http://197.220.163.114:9981/stream/channelid/1428435931
+#EXTINF:-1,Kingdom TV
+http://197.220.163.114:9981/stream/channelid/796382992
+#EXTINF:-1,Kiss TV
+http://197.220.163.114:9981/stream/channelid/374263110
+#EXTINF:-1,Light TV
+http://197.220.163.114:9981/stream/channelid/974664936
+#EXTINF:-1,LNTV TV
+http://197.220.163.114:9981/stream/channelid/611058807
+#EXTINF:-1,Luv FM
+http://197.220.163.114:9981/stream/channelid/1702110760
+#EXTINF:-1,Max TV
+http://197.220.163.114:9981/stream/channelid/1297876728
+#EXTINF:-1,Mecury FM
+http://197.220.163.114:9981/stream/channelid/1060327085
+#EXTINF:-1,Metro TV
+http://197.220.163.114:9981/stream/channelid/108987409
+#EXTINF:-1,MX24
+http://197.220.163.114:9981/stream/channelid/30100663
+#EXTINF:-1,Net2
+http://197.220.163.114:9981/stream/channelid/945345316
+#EXTINF:-1,Nhyira FM
+http://197.220.163.114:9981/stream/channelid/671661559
+#EXTINF:-1,OB TV
+http://197.220.163.114:9981/stream/channelid/1295837685
+#EXTINF:-1,Oceans TV
+http://197.220.163.114:9981/stream/channelid/1457020493
+#EXTINF:-1,Onua TV
+http://197.220.163.114:9981/stream/channelid/69792565
+#EXTINF:-1,Outdoor Broadcast
+http://197.220.163.114:9981/stream/channelid/1774855983
+#EXTINF:-1,Pan Africa
+http://197.220.163.114:9981/stream/channelid/1563263648
+#EXTINF:-1,Pan African TV
+http://197.220.163.114:9981/stream/channelid/902150850
+#EXTINF:-1,Peace FM
+http://197.220.163.114:9981/stream/channelid/292625232
+#EXTINF:-1,Pent TV
+http://197.220.163.114:9981/stream/channelid/854998459
+#EXTINF:-1,Power FM
+http://197.220.163.114:9981/stream/channelid/1727006788
+#EXTINF:-1,Precious TV
+http://197.220.163.114:9981/stream/channelid/1945875278
+#EXTINF:-1,Radio Gold
+http://197.220.163.114:9981/stream/channelid/1531678021
+#EXTINF:-1,Radio Kara
+http://197.220.163.114:9981/stream/channelid/1001791970
+#EXTINF:-1,Radio Lome
+http://197.220.163.114:9981/stream/channelid/1565408251
+#EXTINF:-1,Rhema TV
+http://197.220.163.114:9981/stream/channelid/1510547484
+#EXTINF:-1,Rock TV
+http://197.220.163.114:9981/stream/channelid/1806714667
+#EXTINF:-1,Royal TV
+http://197.220.163.114:9981/stream/channelid/28451254
+#EXTINF:-1,Soul TV
+http://197.220.163.114:9981/stream/channelid/1492011409
+#EXTINF:-1,Sweet TV
+http://197.220.163.114:9981/stream/channelid/1368620811
+#EXTINF:-1,Top TV
+http://197.220.163.114:9981/stream/channelid/2038233916
+#EXTINF:-1,Tumpaani TV
+http://197.220.163.114:9981/stream/channelid/1501185262
+#EXTINF:-1,TV Africa
+http://197.220.163.114:9981/stream/channelid/1755039674
+#EXTINF:-1,TV XYZ
+http://197.220.163.114:9981/stream/channelid/1315175764
+#EXTINF:-1,TV XYZ
+http://197.220.163.114:9981/stream/channelid/180329415
+#EXTINF:-1,TV3
+http://197.220.163.114:9981/stream/channelid/1706636468
+#EXTINF:-1,TV3
+http://197.220.163.114:9981/stream/channelid/182080974
+#EXTINF:-1,TVT
+http://197.220.163.114:9981/stream/channelid/1998891960
+#EXTINF:-1,UTV
+http://197.220.163.114:9981/stream/channelid/1532142244
+#EXTINF:-1,Wontumi TV
+http://197.220.163.114:9981/stream/channelid/537485908
+#EXTINF:-1,ZTV
+http://197.220.163.114:9981/stream/channelid/1891470024
+#EXTINF:-1,Zylofon TV
+http://197.220.163.114:9981/stream/channelid/140259488
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/2006007349
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/1911107770
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/2036467358
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/2076408890
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/2110579405
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/1806610495
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/701424561
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/700601291
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/692246493
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/667831070
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/605715193
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/712739954
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/888095293
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/874841545
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/785104650
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/747695965
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/741688514
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/329497975
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/324876681
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/270453899
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/182817698
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/28645691
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/352878604
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/511202227
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/498381795
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/450567325
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/431653249
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/378656441
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/1484097388
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/1474116938
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/1426948268
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/1402889565
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/1379267154
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/1551458041
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/1800478152
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/1759986563
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/1680376954
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/1668304764
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/1665486941
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/1010683844
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/979361744
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/938861246
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/929363839
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/905950313
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/1011287185
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/1370776957
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/1215517842
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/1154504641
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/1128344243
+#EXTINF:-1,{name-not-set}
+http://197.220.163.114:9981/stream/channelid/1063494778
