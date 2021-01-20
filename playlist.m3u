@@ -282,5 +282,5 @@ http://85.132.81.184:8080/atv-2/index.m3u8
 http://85.132.81.184:8080/atv-4/index.m3u8
 #EXTINF:-1,BVN
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BTV
-rtmp://s1.media-planet.sk:80/live/bardejov1
+#EXTINF:-1, BBC ONE
+https://edge-1165-ch-gv.filmon.com/live/14.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d30bd8631900aff9c2041980375ba580034ff9a181e2322d51248446849acd3b89408c4469967016c83bd59b33f53951c4dfd61b7369919091357a1b7eabf895a6eb6a31fa632ba1ea7738977bc66ab59f470a79e26a3f2040358d33f14d261e91aa7d1ac357ace472fc6c57db723074b388c171dada298dcc
