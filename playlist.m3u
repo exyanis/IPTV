@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,1
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1611694684/ei/_C0QYI3YEaGD6dsP-5ig0A4/ip/41.109.96.225/id/LaDN4oXYdCA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAORzpSBfmfErA8V2GEIDNUKcoHojD7EP4twLuD1NsOPSAiEAnaj8C1jBeIic_YhoVlbbQGbFWXfhg1hqbdxYfIdIMBo%3D/file/index.m3u8
 #EXTINF:-1,&PRIVE 
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1,112
