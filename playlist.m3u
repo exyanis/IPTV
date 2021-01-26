@@ -537,5 +537,5 @@ https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1,TEN
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
-#EXTINF:-1,FRANCE 2
-https://simulcast.ftven.fr/ZXhwPTE2MTE2NzA5MjB+YWNsPSUyZip+aG1hYz1mZGI4MjUyZWUwMzI2ZGZjOWVlNjY0ZmMzYmVhZTY3MzNmZWJmOTJlZWM1NmE5MGI0NmViOThlY2I5MjM5YmRk/simulcast/France_2/dash_fr2/France_2.mpd?hdnea=exp=1611649920~acl=%2f*~hmac=5c92c68be21d05ebf45a8421fbf673a7951944f6cc6f95138864bb115ece4232
+#EXTINF:-1,GEO NEWS
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream2/chunks_dvr.m3u8
