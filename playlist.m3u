@@ -333,8 +333,6 @@ https://originlive2.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8
 https://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:0,CGTN DOCUMENTARY
 https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF:0,ALPHA
-https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:0,ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:0,NEWS 24
@@ -531,10 +529,6 @@ https://stream.y5.hu/stream/stream_rtlklub/hls0/stream.m3u8
 http://cdn-kanal10.crossnet.net/kanal10/mpegts.stream/playlist.m3u8
 #EXTINF:-1,HUNTER TV
 http://www.huntertv.cz/live/4-playlist.m3u8
-#EXTINF:-1,TRUE SPORT 7
-https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1,TENIS CHANNEL +
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1,RTP BOLIVIA
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
 #EXTINF:-1,MEDIASET EXTRA
