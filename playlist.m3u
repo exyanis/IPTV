@@ -1,11 +1,41 @@
 #EXTM3U
+#EXTINF:-1, TF1
+https://mmsiptv.com/live/tf1/playlist.m3u8
 #EXTINF:-1, FRANCE 2
 https://mmsiptv.com/live/france2/playlist.m3u8
 #EXTINF:-1, FRANCE 3
 https://mmsiptv.com/live/france3/playlist.m3u8
 #EXTINF:-1, FRANCE 4
-https://mmsiptv.com/live/france3/playlist.m3u8
-#EXTINF:-1, FRANCE 5
 https://mmsiptv.com/live/france4/playlist.m3u8
+#EXTINF:-1, FRANCE 5
+https://mmsiptv.com/live/france5/playlist.m3u8
 #EXTINF:-1,  M6
 https://mmsiptv.com/live/m6/playlist.m3u8
+#EXTINF:-1, ARTE
+https://mmsiptv.com/live/arte/playlist.m3u8
+#EXTINF:-1, C8
+https://mmsiptv.com/live/c8/playlist.m3u8
+#EXTINF:-1, W9
+https://mmsiptv.com/live/w9/playlist.m3u8
+#EXTINF:-1, TMC
+https://mmsiptv.com/live/tmc/playlist.m3u8
+#EXTINF:-1, TFX
+https://mmsiptv.com/live/tfx/playlist.m3u8
+#EXTINF:-1, NRJ12
+https://mmsiptv.com/live/nrj12/playlist.m3u8
+#EXTINF:-1, LCP
+https://mmsiptv.com/live/lcp/playlist.m3u8
+#EXTINF:-1, BFMTV
+https://mmsiptv.com/live/bfmtv/playlist.m3u8
+#EXTINF:-1, CNEWS
+https://mmsiptv.com/live/cnews/playlist.m3u8
+#EXTINF:-1, CSTAR
+https://mmsiptv.com/live/cstar/playlist.m3u8
+#EXTINF:-1, GULLI
+https://mmsiptv.com/live/gulli/playlist.m3u8
+#EXTINF:-1, TF1 SERIE FILM
+https://mmsiptv.com/live/tfs/playlist.m3u8
+#EXTINF:-1, 6TER
+https://mmsiptv.com/live/6ter/playlist.m3u8
+#EXTINF:-1, L"EQUIPE
+https://mmsiptv.com/live/equipe/playlist.m3u8
