@@ -25,6 +25,11 @@ https://mmsiptv.com/live/gulli/playlist.m3u8
 https://mmsiptv.com/live/equipe/playlist.m3u8
 #EXTINF:-1, RTL9
 https://mmsiptv.com/live/rtl9/playlist.m3u8
+#EXTINF:-1,  PROGRAMME NATIONAL
+https:\\cdn.hta.dz\live\PROGRAMME_NATIONAL\playlist.m3u8
+#EXTINF:-1, CANAL ALGERIE
+https:\\cdn.hta.dz\live\CANAL_ALGERIE\playlist.m3u8
+
 
 
 
