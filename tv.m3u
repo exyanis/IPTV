@@ -9,11 +9,13 @@ https://q7n5sqjjpny38vgn.ezcdn462.net:8443/hls/9vcwbs7y.m3u8?s=9FCgPgUdhAMNuFjPC
 https://q7n5sqjjpny38vgn.ezcdn462.net:8443/hls/z60vln6kd.m3u8?s=QFb3TLPffwwLTh4l0utgYQ&e=1617547589
 #EXTINF:-1, RAI 1
 https://q7n5sqjjpny38vgn.ezcdn462.net:8443/hls/5w6b3jnaktkii7v.m3u8?s=vQ70L4G1BGdcoc2bhlkV2g&e=1617548765
-#EXTINF:-1,RAI 2
+#EXTINF:-1, RAI 2
 https://q7n5sqjjpny38vgn.ezcdn462.net:8443/hls/pkjtydt0vwhywha.m3u8?s=g-REe-L9mBK5vLS-CevmQg&e=1617549180
 #EXTINF:-1, LASEXTA
 https://q7n5sqjjpny38vgn.ezcdn462.net:8443/hls/zs8x4.m3u8?s=NXlfHLg5wAcP0nwNmHbe5A&e=1617550436
-#EXTINF:-1,ZDF
+#EXTINF:-1, ZDF
 https://s1.hopslan.com/zdf/index.m3u8?token=eaad5f59907a4d9eddaa31d2a5aa36fee56ec6bd-f3ef16ed4aaa28b446fee28578973880-1617542066-1617531266
-#EXTINF:-1,GEO NEWS
+#EXTINF:-1, GEO NEWS
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/playlist_dvr.m3u8
+#EXTINF:-1, 3SAT
+https://s1.hopslan.com/3sat/index.m3u8?token=ed10426a3c48d023ed824e8d889ca17319858b13-7a13c2bf2a93d221caaf95d80ba13117-1617543719-1617532919
