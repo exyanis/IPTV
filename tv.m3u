@@ -19,3 +19,23 @@ https://s1.hopslan.com/zdf/index.m3u8?token=eaad5f59907a4d9eddaa31d2a5aa36fee56e
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/playlist_dvr.m3u8
 #EXTINF:-1, 3SAT
 https://s1.hopslan.com/3sat/index.m3u8?token=ed10426a3c48d023ed824e8d889ca17319858b13-7a13c2bf2a93d221caaf95d80ba13117-1617543719-1617532919
+#EXTINF:-1, SAT 1
+https://s1.hopslan.com/sat1/tracks-v1a1/mono.m3u8?token=491a90bde37443c4cdb2e53312b4c30baa709d57-4677a068ef3fc60aa038eb3774caf582-1617545347-1617534547
+#EXTINF:-1, RTL
+https://s1.hopslan.com/rtl/index.m3u8?token=361eea74b879a2103446daa0adb757269e2b379d-501226c95e51cb18f9424faf9209bf7e-1617545432-1617534632
+#EXTINF:-1, VOX
+https://s1.hopslan.com/vox/index.m3u8?token=bf695be47b78c45d1237f1a0ce2102f5d8133abb-599e2361eb2e2c6065f5013e309c83bc-1617545463-1617534663
+#EXTINF:-1, RTL2
+https://s4.hopslan.com/rtl2/index.m3u8
+#EXTINF:-1, SUPER RTL
+https://s1.hopslan.com/super1/index.m3u8?token=da7a78486cfb24802376db50535265ddc56685dc-f056067526f43f8a155bfcde09f9107d-1617545562-1617534762
+#EXTINF:-1, PRO7
+https://s1.hopslan.com/pro7/index.m3u8?token=1e000a8665b615d71f9d8ed2310086f917221e82-502993e2123216beb1fa70878821cd2f-1617545596-1617534796
+#EXTINF:-1, SIXX
+https://s1.hopslan.com/sixx/index.m3u8?token=7a09440ef17344b8cce0307bab4f06b197cb2785-0a605ad0d03fa00698489c1572a4e159-1617545650-1617534850
+#EXTINF:-1, KABEL1
+https://s1.hopslan.com/kabel1/index.m3u8?token=e905c3670c165a783f353c4c27a5e1c9685ef070-26a516e1fc575df529fe96e7639480a0-1617545688-1617534888
+#EXTINF:-1,DMAX
+https://s1.hopslan.com/dmax/index.m3u8?token=fbd2d243ba4390926d29bd3352b6314ae7947e26-94afffaa46b7e3a9612226ef41bcd83f-1617545717-1617534917
+#EXTINF:-1, PRO7MAXX
+https://s3.hopslan.com/pro7maxx/index.m3u8
