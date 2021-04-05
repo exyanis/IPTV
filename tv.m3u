@@ -42,9 +42,21 @@ http://stream.tvtap.net:8081/live/es-cuatro.stream/playlist.m3u8
 #EXTINF:0,TELECINCO
 #EXTGRP: SPAIN
 http://stream.tvtap.net:8081/live/es-telecinco.stream/playlist.m3u8
-#EXTINF:0,TELECINCO
+#EXTINF:0,RTP1
 #EXTGRP: PORTUGAL
 http://162.212.178.69:41042/bysid/608
+#EXTINF:0,RAI1
+#EXTGRP: ITALIA
+http://stream.tvtap.net:8081/live/it-rai1.stream/playlist.m3u8
+#EXTINF:0,RAI2
+#EXTGRP: ITALIA
+http://stream.tvtap.net:8081/live/it-rai2.stream/playlist.m3u8
+#EXTINF:0,USHUAIA TV
+#EXTGRP: DOCUMENTARY
+http://stream.tvtap.net:8081/live/fr-ushuaiatv.stream/playlist.m3u8
+
+
+
 
 
 
