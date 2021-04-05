@@ -1,11 +1,39 @@
 #EXTM3U  (https://cutt.ly/vcv6BZn)
-#EXTINF:-1 tvg-id="tf1.fr" group-title="FRANCE",TF1
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="TFX.fr" group-title="FRANCE",TFX
-https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" group-title="FRANCE",TF1 SERIE FILM
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="tmc.fr" group-title="FRANCE",TMC
+#EXTINF:-1,TF1
+#EXTGRP: FRANCE
+http://stream.tvtap.live:8081/live/fr-tf1.stream/playlist.m3u8
+#EXTINF:-1,FRANCE 2
+#EXTGRP: FRANCE
+https://mmsiptv.com/live/france2/playlist.m3u8
+#EXTINF:-1, FRANCE 3
+#EXTGRP: FRANCE
+https://mmsiptv.com/live/france3/playlist.m3u8
+#EXTINF:-1, FRANCE 4
+#EXTGRP: FRANCE
+https://mmsiptv.com/live/france4/playlist.m3u8
+#EXTINF:-1, FRANCE 5
+#EXTGRP: FRANCE
+https://mmsiptv.com/live/france5/playlist.m3u8
+#EXTINF:-1,M6
+#EXTGRP: FRANCE
+http://stream.tvtap.live:8081/live/fr-m6.stream/playlist.m3u8
+#EXTINF:-1,C8
+#EXTGRP: FRANCE
+http://stream.tvtap.live:8081/live/fr-c8.stream/playlist.m3u8
+#EXTINF:-1,TMC
+#EXTGRP: FRANCE
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id=lci.fr group-title="FRANCE",LCI
+#EXTINF:-1,TFX
+#EXTGRP: FRANCE
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:-1,TF1 SERIE FILM
+#EXTGRP: FRANCE
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1,GULLI
+#EXTGRP: FRANCE
+http://stream.tvtap.live:8081/live/fr-gulli.stream/playlist.m3u8
+#EXTINF:-1,LCI
+#EXTGRP: FRANCE
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+
+
