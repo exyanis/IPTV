@@ -81,3 +81,18 @@ http://wpso.com:1936/hls/kidshd.m3u8
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 ,Xplore TV
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+#EXTINF:-1, ERT1
+http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
+#EXTINF:-1, ERT2
+http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
+#EXTINF:-1, ERT3
+http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3.m3u8
+#EXTINF:-1, CT1
+http://213.151.233.20:8000/dna-5100-tv-pc/hls/4002v105.m3u8
+
+#EXTINF:-1, Viasat Nature
+http://iptv.prosto.tv:7000/ch84/tracks-v1a1/index.m3u8
+#EXTINF:-1 , Viasat Explore
+http://iptv.prosto.tv:7000/ch85/tracks-v1a1/index.m3u8
+#EXTINF:-1, Viasat History
+http://iptv.prosto.tv:7000/ch86/tracks-v1a1/index.m3u8
