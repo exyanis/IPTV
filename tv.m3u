@@ -1,7 +1,17 @@
 #EXTM3U  (https://cutt.ly/vcv6BZn)
-#EXTINF:-1 , TF1
+#EXTINF:-1 ,TF1
 #EXTGRP: FRANCE
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:-1 ,TFX
+#EXTGRP: FRANCE
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:-1 ,TMC
+#EXTGRP: FRANCE
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:-1 ,LCI
+#EXTGRP: FRANCE
+#EXTGRP: NEWS
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 , Viasat Nature
 #EXTGRP: DOCUMENTARY
 http://iptv.prosto.tv:7000/ch84/tracks-v1a1/index.m3u8
