@@ -1,55 +1,55 @@
 #EXTM3U  (https://cutt.ly/vcv6BZn)
-#EXTINF:-1,TF1
-#EXTGRP: FRANCE
-http://stream.tvtap.live:8081/live/fr-tf1.stream/playlist.m3u8
-#EXTINF:-1,FRANCE 2
-#EXTGRP: FRANCE
-https://mmsiptv.com/live/france2/playlist.m3u8
-#EXTINF:-1, FRANCE 3
-#EXTGRP: FRANCE
-https://mmsiptv.com/live/france3/playlist.m3u8
-#EXTINF:-1, FRANCE 4
-#EXTGRP: FRANCE
-https://mmsiptv.com/live/france4/playlist.m3u8
-#EXTINF:-1, FRANCE 5
-#EXTGRP: FRANCE
-https://mmsiptv.com/live/france5/playlist.m3u8
-#EXTINF:-1,M6
-#EXTGRP: FRANCE
-http://stream.tvtap.live:8081/live/fr-m6.stream/playlist.m3u8
-#EXTINF:-1,ARTE
-#EXTGRP: FRANCE
-http://stream.tvtap.live:8081/live/fr-arte.stream/playlist.m3u8
-#EXTINF:-1,C8
-#EXTGRP: FRANCE
-http://stream.tvtap.live:8081/live/fr-c8.stream/playlist.m3u8
-#EXTINF:-1,TMC
-#EXTGRP: FRANCE
-https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-#EXTINF:-1,TFX
-#EXTGRP: FRANCE
-https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
-#EXTINF:-1,CNEWS
-#EXTGRP: FRANCE
-http://stream.tvtap.live:8081/live/cnews.stream/playlist.m3u8
-#EXTINF:-1,CSTAR
-#EXTGRP: FRANCE
-http://stream.tvtap.live:8081/live/fr-cstar.stream/playlist.m3u8
-#EXTINF:-1,GULLI
-#EXTGRP: FRANCE
-http://stream.tvtap.live:8081/live/fr-gulli.stream/playlist.m3u8
-#EXTINF:-1,TF1 SERIE FILM
-#EXTGRP: FRANCE
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-#EXTINF:-1,LCI
-#EXTGRP: FRANCE
-https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF:-1,DISCOVERY
-#EXTGRP: DOCUMENTARY
-http://stream.tvtap.live:8081/live/fr-discovery.stream/playlist.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
-#EXTGRP: DOCUMENTARY
-http://stream.tvtap.live:8081/live/fr-discoveryscience.stream/playlist.m3u8
+#EXTINF:0,Rai 1
+#EXTGRP: ITALIA
+http://stream.tvtap.net:8081/live/it-rai1.stream/playlist.m3u8
+#EXTINF:0,Rai 2
+#EXTGRP: ITALIA
+http://stream.tvtap.net:8081/live/it-rai2.stream/playlist.m3u8
+#EXTINF:0,Rai 3
+#EXTGRP: ITALIA
+http://stream.tvtap.net:8081/live/it-rai3.stream/playlist.m3u8
+#EXTINF:0,Rai 4
+#EXTGRP: ITALIA
+http://stream.tvtap.net:8081/live/it-rai4.stream/playlist.m3u8
+#EXTINF:0,Rai 5
+#EXTGRP: ITALIA
+http://stream.tvtap.net:8081/live/it-rai5.stream/playlist.m3u8
+#EXTINF:0,Rete 4 
+#EXTGRP: ITALIA
+http://stream.tvtap.net:8081/live/it-rete4.stream/playlist.m3u8
+#EXTINF:0,Canale 5
+#EXTGRP: ITALIA
+http://stream.tvtap.net:8081/live/it-canale5.stream/playlist.m3u8
+#EXTINF:0,Italia 1
+#EXTGRP: ITALIA
+http://stream.tvtap.net:8081/live/it-italia1.stream/playlist.m3u8
+#EXTINF:0,La 7
+#EXTGRP: ITALIA
+http://stream.tvtap.net:8081/live/it-la7.stream/playlist.m3u8
+#EXTINF:0,Fox 
+#EXTGRP: ITALIA
+http://stream.tvtap.net:8081/live/it-fox.stream/playlist.m3u8
+#EXTINF:0,Fox comedy
+#EXTGRP: ITALIA
+http://stream.tvtap.net:8081/live/it-fox-comedy.stream/playlist.m3u8
+#EXTINF:0,Fox crime
+#EXTGRP: ITALIA
+http://stream.tvtap.net:8081/live/it-fox-crime.stream/playlist.m3u8
+#EXTINF:0,Premium crime
+#EXTGRP: ITALIA
+http://stream.tvtap.net:8081/live/it-premium-crime.stream/playlist.m3u8
+#EXTINF:0,Sky motogp
+#EXTGRP: ITALIA
+http://stream.tvtap.net:8081/live/it-skymoto.stream/playlist.m3u8
+#EXTINF:0,Sport italia
+#EXTGRP: ITALIA
+http://stream.tvtap.net:8081/live/it-sport-italia.stream/playlist.m3u8
+#EXTINF:0,Rai news 24
+#EXTGRP: ITALIA
+http://stream.tvtap.net:8081/live/it-rainews.stream/playlist.m3u8
+#EXTINF:0,Sky tg 24
+#EXTGRP: ITALIA
+http://stream.tvtap.net:8081/live/it-sky-tg24.stream/playlist.m3u8
 
 
 
