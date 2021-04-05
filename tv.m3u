@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 , Viasat NatureY
+#EXTINF:-1 , Viasat Nature
 http://iptv.prosto.tv:7000/ch84/tracks-v1a1/index.m3u8
 #EXTINF:-1, Viasat Explore
 http://iptv.prosto.tv:7000/ch85/tracks-v1a1/index.m3u8
@@ -23,7 +23,7 @@ http://51.195.44.53:8081/tv/animal-planet/chunks.m3u8
 https://s4.idata.uz/animal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic
 http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
-#EXTINF:-1 ,Net Geo Wild
+#EXTINF:-1 ,Nat Geo Wild
 http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
 #EXTINF:-1 ,National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
