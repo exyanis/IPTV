@@ -1,7 +1,6 @@
 #EXTM3U  (https://cutt.ly/vcv6BZn)
 #EXTINF:-1 , TF1
 #EXTGRP: FRANCE
-#EXTEPG: tf1.fr
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1 , Viasat Nature
 #EXTGRP: DOCUMENTARY
