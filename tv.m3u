@@ -1,61 +1,41 @@
 #EXTM3U  (https://cutt.ly/vcv6BZn)
-#EXTINF:-1 tvg-id="tf1.fr",TF1
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="tf1.fr" group-title="FRANCE",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="TFX.fr",TFX
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="TFX.fr" group-title="FRANCE",TFX
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" ,TF1 SERIE FILM
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" group-title="FRANCE",TF1 SERIE FILM
 https://tfs-hls-live-ssl.tf1.fr/tfs/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="tmc.fr",TMC
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="tmc.fr" group-title="FRANCE",TMC
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id=lci.fr ,LCI
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id=lci.fr group-title="FRANCE",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF:-1 , Viasat Nature
-#EXTGRP: DOCUMENTARY
+#EXTINF:-1 group-title="DOCUMENTARY", Viasat Nature
 http://iptv.prosto.tv:7000/ch84/tracks-v1a1/index.m3u8
-#EXTINF:-1, Viasat Explore
-#EXTGRP: DOCUMENTARY
+#EXTINF:-1 group-title="DOCUMENTARY", Viasat Explore
 http://iptv.prosto.tv:7000/ch85/tracks-v1a1/index.m3u8
-#EXTINF:-1 , Viasat History
-#EXTGRP: DOCUMENTARY
+#EXTINF:-1 group-title="DOCUMENTARY", Viasat History
 http://iptv.prosto.tv:7000/ch86/tracks-v1a1/index.m3u8
-#EXTINF:-1 , History
-#EXTGRP: DOCUMENTARY
+#EXTINF:-1 group-title="DOCUMENTARY", History
 http://iptv.prosto.tv:7000/ch87/tracks-v1a1/index.m3u8
-#EXTINF:-1, Travel TV
-#EXTGRP: DOCUMENTARY
+#EXTINF:-1 group-title="DOCUMENTARY", Travel TV
 http://iptv.prosto.tv:7000/ch99/tracks-v1a1/index.m3u8
-#EXTINF:-1, Travel TV International HD
-#EXTGRP: DOCUMENTARY
+#EXTINF:-1 group-title="DOCUMENTARY" , Travel TV International HD
 http://iptv.prosto.tv:7000/ch100/tracks-v1a1/index.m3u8
 #EXTINF:-1, DocuBox HD
-#EXTGRP: DOCUMENTARY
 http://iptv.prosto.tv:7000/ch93/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Discovery
-#EXTGRP: DOCUMENTARY
+#EXTINF:-1 group-title="DOCUMENTARY",Discovery
 http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
-#EXTINF:-1 ,Discovery Science
-#EXTGRP: DOCUMENTARY
+#EXTINF:-1 group-title="DOCUMENTARY",Discovery Science
 http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
-#EXTINF:-1 ,Animal Planet
-#EXTGRP: DOCUMENTARY
+#EXTINF:-1 group-title="DOCUMENTARY",Animal Planet
 http://51.195.44.53:8081/tv/animal-planet/chunks.m3u8
-#EXTINF:-1 ,Animal Planet HD
-#EXTGRP: DOCUMENTARY
+#EXTINF:-1 group-title="DOCUMENTARY",Animal Planet HD
 https://s4.idata.uz/animal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,National Geographic
-#EXTGRP: DOCUMENTARY
+#EXTINF:-1 group-title="DOCUMENTARY",National Geographic
 http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
-#EXTINF:-1 ,Nat Geo Wild
-#EXTGRP: DOCUMENTARY
+#EXTINF:-1 group-title="DOCUMENTARY",Nat Geo Wild
 http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
-#EXTINF:-1 ,National Geographic Wild HD
-#EXTGRP: DOCUMENTARY
+#EXTINF:-1 group-title="DOCUMENTARY",National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 ,Ocean TV
-#EXTGRP: DOCUMENTARY
+#EXTINF:-1 group-title="DOCUMENTARY",Ocean TV
 http://91.192.168.242:9091
