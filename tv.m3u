@@ -32,6 +32,9 @@ https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTINF:-1,CNEWS
 #EXTGRP: FRANCE
 http://stream.tvtap.live:8081/live/cnews.stream/playlist.m3u8
+#EXTINF:-1,CSTAR
+#EXTGRP: FRANCE
+http://stream.tvtap.live:8081/live/fr-cstar.stream/playlist.m3u8
 #EXTINF:-1,GULLI
 #EXTGRP: FRANCE
 http://stream.tvtap.live:8081/live/fr-gulli.stream/playlist.m3u8
@@ -41,6 +44,9 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-1,LCI
 #EXTGRP: FRANCE
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+#EXTGRP: DOCUMENTARY
+http://stream.tvtap.live:8081/live/fr-discoveryscience.stream/playlist.m3u8
 
 
 
