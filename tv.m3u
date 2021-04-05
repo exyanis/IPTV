@@ -29,7 +29,6 @@ http://stream.tvtap.net:8081/live/fr-w9.stream/playlist.m3u8
 #EXTINF:0,GULLI
 #EXTGRP: FRANCE
 http://stream.tvtap.net:8081/live/fr-gulli.stream/playlist.m3u8
-
 #EXTINF:0,LA1
 #EXTGRP: SPAIN
 http://stream.tvtap.net:8081/live/es-la1.stream/playlist.m3u8
@@ -51,9 +50,26 @@ http://stream.tvtap.net:8081/live/it-rai1.stream/playlist.m3u8
 #EXTINF:0,RAI2
 #EXTGRP: ITALIA
 http://stream.tvtap.net:8081/live/it-rai2.stream/playlist.m3u8
-#EXTINF:0,USHUAIA TV
+#EXTINF:-1 ,DiscoveryScience
 #EXTGRP: DOCUMENTARY
-http://stream.tvtap.net:8081/live/fr-ushuaiatv.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/fr-discoveryscience.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjAwOjMxIFBNJmhhc2hfdmFsdWU9QzVaTEhHei9rU3dFenE5ZEtyN1Mwdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 ,DiscoveryChannel
+#EXTGRP: DOCUMENTARY
+http://stream.tvtap.live:8081/live/fr-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjAxOjE3IFBNJmhhc2hfdmFsdWU9ZmtDbFg4ZC8wYWh0aHJFaC9jOGJRdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 ,NatGeo
+#EXTGRP: DOCUMENTARY
+http://stream.tvtap.live:8081/live/fr-natgeo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjAyOjI0IFBNJmhhc2hfdmFsdWU9TVQyRkhyQnc3TW42cUttQ3lWeG9Kdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 ,Planete +
+#EXTGRP: DOCUMENTARY
+http://stream.tvtap.live:8081/live/fr-planeteplus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjAzOjA3IFBNJmhhc2hfdmFsdWU9L1cxd3pTYzAyblA3Z21wQmFpYmc4Zz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1,Planete + CI
+#EXTGRP: DOCUMENTARY
+http://stream.tvtap.live:8081/live/fr-planeteplus-ci.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjAzOjM2IFBNJmhhc2hfdmFsdWU9aU1FL0xxU001VGx3bmhpbndJNzdWUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 ,Ushuaïa
+#EXTGRP: DOCUMENTARY
+http://stream.tvtap.live:8081/live/fr-ushuaiatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjA2OjE2IFBNJmhhc2hfdmFsdWU9UWdkSVlhMkpjYkV1UFZtSnA2d3cwdz09JnZhbGlkbWludXRlcz0yMA==
+
+
 
 
 
