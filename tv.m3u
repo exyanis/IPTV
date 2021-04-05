@@ -1,9 +1,64 @@
 #EXTM3U
-#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-name="Viasat_Nature_CEE" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ViasatNature.png", Viasat Nature
+#EXTINF:-1 , Viasat Nature
+#EXTGRP:DOCUMENTARY
 http://iptv.prosto.tv:7000/ch84/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-name="Viasat_Explore_CEE" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ViasatExplorer.png", Viasat Explore
+#EXTINF:-1, Viasat Explore
+#EXTGRP:DOCUMENTARY
 http://iptv.prosto.tv:7000/ch85/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-name="Viasat_History" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ViasatHistory.png", Viasat History
+#EXTINF:-1 , Viasat History
+#EXTGRP:DOCUMENTARY
 http://iptv.prosto.tv:7000/ch86/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-name="History_Rossiya_HD" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00275.jpg", History
+#EXTINF:-1 , History
+#EXTGRP:DOCUMENTARY
 http://iptv.prosto.tv:7000/ch87/tracks-v1a1/index.m3u8
+#EXTINF:-1, Travel TV
+#EXTGRP:DOCUMENTARY
+http://iptv.prosto.tv:7000/ch99/tracks-v1a1/index.m3u8
+#EXTINF:-1, Travel TV International HD
+#EXTGRP:DOCUMENTARY
+http://iptv.prosto.tv:7000/ch100/tracks-v1a1/index.m3u8
+#EXTINF:-1, DocuBox HD
+#EXTGRP:DOCUMENTARY
+http://iptv.prosto.tv:7000/ch93/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Discovery
+#EXTGRP:DOCUMENTARY
+http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
+#EXTINF:-1 ,Discovery Science
+#EXTGRP:DOCUMENTARY
+http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
+#EXTINF:-1 ,Animal Planet
+#EXTGRP:DOCUMENTARY
+http://51.195.44.53:8081/tv/animal-planet/chunks.m3u8
+#EXTINF:-1 ,Animal Planet HD
+#EXTGRP:DOCUMENTARY
+https://s4.idata.uz/animal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,National Geographic
+#EXTGRP:DOCUMENTARY
+http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
+#EXTINF:-1 ,Net Geo Wild
+#EXTGRP:DOCUMENTARY
+http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
+#EXTINF:-1 ,National Geographic Wild HD
+#EXTGRP:DOCUMENTARY
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 ,Ocean TV
+#EXTGRP:DOCUMENTARY
+http://91.192.168.242:9091
+#EXTINF:-1,Ushuaia tv
+#EXTGRP:DOCUMENTARY
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Ushuaia_live/index.m3u8
+#EXTINF:-1,Animaux
+#EXTGRP:DOCUMENTARY
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/index.m3u8
+#EXTINF:-1,RMC Decouverte
+#EXTGRP:DOCUMENTARY
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8
+#EXTINF:-1,Chasse&Pêche
+#EXTGRP:DOCUMENTARY
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/live/Chasseetpeche_live/index.m3u8
+#EXTINF:-1,Histoire TV
+#EXTGRP:DOCUMENTARY
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Histoire_live/index.m3u8
+#EXTINF:-1,Toute histoire
+#EXTGRP:DOCUMENTARY
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/live/Toute_l_Histoire_live/index.m3u8
