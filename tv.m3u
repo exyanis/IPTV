@@ -44,21 +44,3 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 ,Ocean TV
 #EXTGRP: DOCUMENTARY
 http://91.192.168.242:9091
-#EXTINF:-1,Ushuaia tv
-#EXTGRP: DOCUMENTARY
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Ushuaia_live/index.m3u8
-#EXTINF:-1,Animaux
-#EXTGRP: DOCUMENTARY
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/index.m3u8
-#EXTINF:-1,RMC Decouverte
-#EXTGRP: DOCUMENTARY
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8
-#EXTINF:-1,Chasse&Pêche
-#EXTGRP: DOCUMENTARY
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/live/Chasseetpeche_live/index.m3u8
-#EXTINF:-1,Histoire TV
-#EXTGRP: DOCUMENTARY
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Histoire_live/index.m3u8
-#EXTINF:-1,Toute histoire
-#EXTGRP: DOCUMENTARY
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/live/Toute_l_Histoire_live/index.m3u8
