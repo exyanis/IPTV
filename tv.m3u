@@ -1,3 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AM.ad" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/langfr-150px-TF1_%282013%29.svg.png" group-title="FRANCE", TF1
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:-1, CT1
+http://213.151.233.20:8000/dna-5100-tv-pc/hls/4002v105.m3u8
+#EXTINF:-1, ERT1
+http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
+#EXTINF:-1, ERT2
+http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
+#EXTINF:-1, ERT3
+http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3.m3u8
+#EXTINF:-1, ERT SPORTS
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
+#EXTINF:-1, ERT ERT WORLD
+http://wpso.com:1936/hls/wzra.m3u8
+#EXTINF:-1, ALERT
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+#EXTINF:-1, ALPHA
+https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+#EXTINF:-1, ANT1
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
+#EXTINF:-1, AXELOOS
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
