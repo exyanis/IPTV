@@ -21,7 +21,7 @@ http://iptv.prosto.tv:7000/ch87/tracks-v1a1/index.m3u8
 http://iptv.prosto.tv:7000/ch99/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" , Travel TV International HD
 http://iptv.prosto.tv:7000/ch100/tracks-v1a1/index.m3u8
-#EXTINF:-1, DocuBox HD
+#EXTINF:-1 group-title="DOCUMENTARY", DocuBox HD
 http://iptv.prosto.tv:7000/ch93/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",Discovery
 http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
