@@ -47,6 +47,9 @@ https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE
 #EXTGRP: DOCUMENTARY
 http://stream.tvtap.live:8081/live/fr-discoveryscience.stream/playlist.m3u8
+#EXTINF:-1,DISCOVERY
+#EXTGRP: DOCUMENTARY
+http://stream.tvtap.live:8081/live/fr-discovery.stream/playlist.m3u8
 
 
 
