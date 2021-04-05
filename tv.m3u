@@ -17,6 +17,9 @@ https://mmsiptv.com/live/france5/playlist.m3u8
 #EXTINF:-1,M6
 #EXTGRP: FRANCE
 http://stream.tvtap.live:8081/live/fr-m6.stream/playlist.m3u8
+#EXTINF:-1,ARTE
+#EXTGRP: FRANCE
+http://stream.tvtap.live:8081/live/fr-arte.stream/playlist.m3u8
 #EXTINF:-1,C8
 #EXTGRP: FRANCE
 http://stream.tvtap.live:8081/live/fr-c8.stream/playlist.m3u8
@@ -26,14 +29,18 @@ https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 #EXTINF:-1,TFX
 #EXTGRP: FRANCE
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
-#EXTINF:-1,TF1 SERIE FILM
+#EXTINF:-1,CNEWS
 #EXTGRP: FRANCE
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+http://stream.tvtap.live:8081/live/cnews.stream/playlist.m3u8
 #EXTINF:-1,GULLI
 #EXTGRP: FRANCE
 http://stream.tvtap.live:8081/live/fr-gulli.stream/playlist.m3u8
+#EXTINF:-1,TF1 SERIE FILM
+#EXTGRP: FRANCE
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-1,LCI
 #EXTGRP: FRANCE
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+
 
 
