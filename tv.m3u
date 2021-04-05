@@ -68,3 +68,6 @@ http://stream.tvtap.live:8081/live/fr-planeteplus-ci.stream/playlist.m3u8?wmsAut
 #EXTINF:-1 ,Ushuaïa
 #EXTGRP: DOCUMENTARY
 http://stream.tvtap.live:8081/live/fr-ushuaiatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjA2OjE2IFBNJmhhc2hfdmFsdWU9UWdkSVlhMkpjYkV1UFZtSnA2d3cwdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1, MBC
+#EXTGRP: MBC
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
