@@ -107,3 +107,18 @@ https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/
 #EXTINF:-0, ROTANA KHALIJIYAH
 #EXTGRP: ROTANA
 https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/b2432be6-3d11-4e4f-85d1-ad57a24a01ae:BRU/variant/21bb8ac09f2b4f10342ae3eab6317e1f/bandwidth/987541.m3u8
+#EXTINF:-0, ROTANA KIDS
+#EXTGRP: ROTANA
+https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_480p/chunks.m3u8?p=48&s=1620254065&e=1620340465&cf=1620340465&h=23be30cb6bda9ff9e75c93a1bc432ded
+#EXTINF:-0, ROTANA COMEDY
+#EXTGRP: ROTANA
+https://rotananet.hibridcdn.net/rotana/comedy_abr/rotana/comedy_480p/chunks.m3u8?p=50&s=1620255661&e=1620342061&cf=1620342061&h=db2b698121ac4cb42999f69a326312c7
+#EXTINF:-0, ROTANA DRAMA
+#EXTGRP: ROTANA
+https://rotananet.hibridcdn.net/rotana/drama_abr/rotana/drama_480p/chunks.m3u8?p=49&s=1620255522&e=1620341922&cf=1620341922&h=bcc72db8628c228fc8cb37e8c66edb6b
+#EXTINF:-0, ROTANA CINEMA
+#EXTGRP: ROTANA
+https://dai.google.com/linear/hls/pa/event/TTfW9QXGRVCBzHoEKgyrWA/stream/248592a4-3567-4bfd-a60d-3ae5f9309273:BRU/variant/d33e505d0b3e6bd0c820f98436b76cbd/bandwidth/989525.m3u8
+#EXTINF:-0, ROTANA CLASSIC
+#EXTGRP: ROTANA
+https://rotananet.hibridcdn.net/rotana/classical_abr/rotana/classical_480p/chunks.m3u8?p=53&s=1620254220&e=1620340620&cf=1620340620&h=e4ecff5711320a247eabf19d2501f340
