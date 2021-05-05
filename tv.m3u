@@ -1,39 +1,42 @@
 #EXTM3U
-#EXTINF:-0, ERT1
-#EXTGRP: GREECE
-https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
-#EXTINF:-0, ERT2
-#EXTGRP: GREECE
-https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
-#EXTINF:-0, ERT3
-#EXTGRP: GREECE
-https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3.m3u8
-#EXTINF:-0, ERTWORLD
-#EXTGRP: GREECE
-https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
-#EXTINF:-0,ANT1
-#EXTGRP: GREECE
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_1/ert_sports_1.m3u8
-#EXTINF:-0,SKAI
-#EXTGRP: GREECE
-https://skai-live.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-0,STAR
-#EXTGRP: GREECE
-https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
-#EXTINF:-0,ALPHA
-#EXTGRP: GREECE
-https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
-#EXTINF:-0,OPEN BEYOND
-#EXTGRP: GREECE
-https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
-#EXTINF:-0,BOYAH
-#EXTGRP: GREECE
-https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:-0,BOYAH2
-#EXTGRP: GREECE
-https://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8
-#EXTINF:-0,BOYAH3
-#EXTGRP: GREECE
-https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8
-
+#EXTINF:-0, PROGRAMME NATIONAL
+https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_720p/chunks.m3u8
+#EXTINF:-0, CANAL ALGERIE
+https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_720p/chunks.m3u8
+#EXTINF:-0, A3 HD
+https://cdn02.hta.dz/abr_htatv/A3_HD/htatv/A3_HD_720p/chunks.m3u8
+#EXTINF:-0, TV 4 TAMAZIGHT
+https://cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_720p/chunks.m3u8
+#EXTINF:-0, TV 4 TAMAZIGHT
+https://cdn02.hta.dz/abr_htatv/TV_5/htatv/TV_5_720p/chunks.m3u8
+#EXTINF:-0, TV 6 HD
+https://cdn02.hta.dz/abr_htatv/TV_6_HD/htatv/TV_6_HD_720p/chunks.m3u8
+#EXTINF:-0, TV 7 ELMAARIFA
+https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/htatv/TV7_ELMAARIFA_720p/chunks.m3u8
+#EXTINF:-0, TV 8 EDHAKIRA
+https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_720p/chunks.m3u8
+#EXTINF:-0, ENNAHAR TV
+https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/htatv/ENNAHAR_TV_720p/chunks.m3u8
+#EXTINF:-0, ECHOROUK TV HD
+https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/htatv/Echorouk_TV_HD_720p/chunks.m3u8
+#EXTINF:-0, ECHOROUK TV NEWS
+https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/htatv/ECHOROUK_NEWS_720p/chunks.m3u8
+#EXTINF:-0, SAMIRA TV
+https://cdn02.hta.dz/abr_htatv/SamiraTV/htatv/SamiraTV_720p/chunks.m3u8
+#EXTINF:-0,LINA TV
+https://cdn02.hta.dz/abr_htatv/Lina_TV/htatv/Lina_TV_720p/chunks.m3u8
+#EXTINF:-0,EL HEDDAF TV
+https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_720p/chunks.m3u8
+#EXTINF:-0,EL FADJR TV DZ
+https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/htatv/EL_FADJR_TV_DZ_720p/chunks.m3u8
+#EXTINF:-0,EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/EL_BILAD/htatv/EL_BILAD_720p/chunks.m3u8
+#EXTINF:-0,EL DJAZAIRIA TV
+https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/htatv/EL_DJAZAIRIA_TV_720p/chunks.m3u8
+#EXTINF:-0, ALANIS
+https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_720p/chunks.m3u8
+#EXTINF:-0, EL HAYAT TV ALGERIE
+https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/htatv/EL_HAYAT_TV_ALGERIE_720p/chunks.m3u8
+#EXTINF:-0, EL DJAZAIR N1
+https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/htatv/El_Djazair_N1_720p/chunks.m3u8
 
