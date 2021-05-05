@@ -97,10 +97,13 @@ https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/in
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 #EXTINF:-0, MBCPERSIA
 #EXTGRP: MBC
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_10.m3u8
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 #EXTINF:-0, ALARABIYA
 #EXTGRP: MBC
-https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_2.m3u8
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_1.m3u8
 #EXTINF:-0, ALARABIYA ALHADATH
 #EXTGRP: MBC
-https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_4.m3u8
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_1.m3u8
+#EXTINF:-0, ROTANA KHALIJIYAH
+#EXTGRP: ROTANA
+https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/b2432be6-3d11-4e4f-85d1-ad57a24a01ae:BRU/variant/21bb8ac09f2b4f10342ae3eab6317e1f/bandwidth/987541.m3u8
