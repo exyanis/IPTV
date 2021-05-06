@@ -248,4 +248,9 @@ http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 #EXTINF:-0,OMAN SPORT
 #EXTGRP: OMAN
 https://partne.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8
-
+#EXTINF:-0,CN ARABIA
+#EXTGRP: KIDS
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
+#EXTINF:-0,OMANTV
+#EXTGRP: OMAN
+https://partne.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/playlist.m3u8
