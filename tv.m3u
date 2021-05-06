@@ -266,3 +266,24 @@ https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_1080p/chunks.m3u8?
 #EXTINF:-0,KUWAIT TV2
 #EXTGRP: KUWAIT
 https://kwmedia.hibridcdn.net/kwmedia/kwtv2_abr/kwmedia/kwtv2_720p/chunks.m3u8?p=48&s=1620318562&e=1620404962&cf=1620404962&h=75fb9fff27970f6d727af8bfda5b4d8a
+#EXTINF:-0,KUWAIT SPORTS
+#EXTGRP: KUWAIT
+https://hiplayer.hibridcdn.net/p/kwmedia-kwtvsports/chunks.m3u8?p=53&s=1620320260&e=1620406660&cf=1620406660&h=c7030d60583c48add19c31c857a923f1
+#EXTINF:-0,KUWAIT SPORTS 2
+#EXTGRP: KUWAIT
+https://hiplayer.hibridcdn.net/p/kwmedia-kwtvsportsplus/chunks.m3u8?p=57&s=1620316979&e=1620403379&cf=1620403379&h=f0905cce3eff3f82ce89b43656a3e00c
+#EXTINF:-0,KUWAIT ETHRAA
+#EXTGRP: KUWAIT
+https://hiplayer.hibridcdn.net/p/kwmedia-kwtvethraa/chunks.m3u8?p=53&s=1620319314&e=1620405714&cf=1620405714&h=3d8ca75062874ef7fa29b32833eb122a
+#EXTINF:-0,KUWAIT ALARABY
+#EXTGRP: KUWAIT 
+https://hiplayer.hibridcdn.net/p/kwmedia-kwtvarabi/chunks.m3u8?p=52&s=1620319046&e=1620405446&cf=1620405446&h=513b70c79ba459c06f199021339fb284
+#EXTINF:-0,KHALIK BIL BEIT
+#EXTGRP: KUWAIT 
+https://hiplayer.hibridcdn.net/p/kwmedia-kwtvkids/chunks.m3u8?p=51&s=1620320926&e=1620407326&cf=1620407326&h=60876f4ed8bbca2b1f544f3d85d05554
+#EXTINF:-0,ALQURAIN
+#EXTGRP: KUWAIT 
+https://hiplayer.hibridcdn.net/p/kwmedia-kwtvqurain/chunks.m3u8?p=53&s=1620320170&e=1620406570&cf=1620406570&h=2806203da874c9432ecefa0909ae5d0c
+#EXTINF:-0,ALMAJLIS
+#EXTGRP: KUWAIT 
+https://hiplayer.hibridcdn.net/p/kwmedia-kwtvmajlis/chunks.m3u8?p=53&s=1620318354&e=1620404754&cf=1620404754&h=4315e47ffc12b939ba838c0fbf81c5bb
