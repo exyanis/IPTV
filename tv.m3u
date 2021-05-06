@@ -200,3 +200,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m
 #EXTINF:-0,CUATRO
 #EXTGRP: SPAIN
 https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/ryb1zzb5.m3u8?s=fuUTMMhha3-OC2lQIWSxxw&e=1620296797
+#EXTINF:-0,TELECINCO
+#EXTGRP: SPAIN
+https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/qat4aem7kmh4c.m3u8?s=keq35fNDMr9HicesmN_-TQ&e=1620296974
