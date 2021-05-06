@@ -233,10 +233,4 @@ http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
 #EXTINF:-0,FRANCE5
 #EXTGRP: FRANCE
 http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
-#EXTINF:-0, M6
-#EXTGRP: FRANCE
-http://62.112.9.63:88/M6/index.m3u8?token=test
-#EXTINF:-0, ARTE
-#EXTGRP: FRANCE
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/artelive-18512/hls/05.m3u8
 
