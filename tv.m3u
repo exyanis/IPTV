@@ -221,4 +221,6 @@ https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/73iqdeqq05ps.m3u8?s=phjDQywU2-lDm
 #EXTINF:-0,TF1
 #EXTGRP: FRANCE
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-
+#EXTINF:-0,FRANCE2
+#EXTGRP: FRANCE
+http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
