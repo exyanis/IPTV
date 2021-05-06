@@ -197,6 +197,9 @@ https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
 #EXTINF:-0,2M TV
 #EXTGRP: MAROC
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8?695073947
+#EXTINF:-0,ANTENA3
+#EXTGRP: SPAIN
+https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/bubawn6gg.m3u8?s=BU4CXqQ47ctlg0ByMMIPEA&e=1620297264
 #EXTINF:-0,CUATRO
 #EXTGRP: SPAIN
 https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/ryb1zzb5.m3u8?s=fuUTMMhha3-OC2lQIWSxxw&e=1620296797
@@ -209,3 +212,5 @@ https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/zs8x4.m3u8?s=-oYuyDBKqbO7NrPmu7Te
 #EXTINF:-0,FDF
 #EXTGRP: SPAIN
 https://amolq9qnvwojvcta.uzcdn828.net:8443/hls/73iqdeqq05ps.m3u8?s=phjDQywU2-lDmwtful2mvQ&e=1620297093
+
+
