@@ -167,3 +167,6 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8?v=694917923
 #EXTINF:-0, QATAR TV 2
 #EXTGRP: QATAR
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8?v=694917923
+#EXTINF:-0, JEEM
+#EXTGRP: QATAR
+http://arabs.teledunet.com:8080/live/tdn/238421502149/1119.m3u8
