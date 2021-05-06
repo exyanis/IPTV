@@ -243,11 +243,8 @@ https://citrusstv.akamaized.net/hls/live/687285/CTV/03.m3u8
 #EXTGRP: KIDS
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index_2.m3u8
 #EXTINF:-0,ALFAJER2
-#EXTGRP: PALESTINE
+#EXTGRP: ALFAJER
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
-#EXTINF:-0,OMAN SPORT
-#EXTGRP: OMAN
-https://partne.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8
 #EXTINF:-0,CN ARABIA
 #EXTGRP: KIDS
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
@@ -266,3 +263,6 @@ https://partne.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:-0,KUWAIT TV1
 #EXTGRP: KUWAIT
 https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_1080p/chunks.m3u8?p=48&s=1620316909&e=1620403309&cf=1620403309&h=39f697e664039a369d7f4ce4d604d4b7
+#EXTINF:-0,KUWAIT TV2
+#EXTGRP: KUWAIT
+https://kwmedia.hibridcdn.net/kwmedia/kwtv2_abr/kwmedia/kwtv2_720p/chunks.m3u8?p=48&s=1620318562&e=1620404962&cf=1620404962&h=75fb9fff27970f6d727af8bfda5b4d8a
