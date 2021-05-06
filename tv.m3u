@@ -242,3 +242,9 @@ https://livestream.streamingconnect.com/rasdtv/rasdtv.m3u8
 #EXTINF:-0,MEDI1TV
 #EXTGRP: MAROC
 https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/chunklist_w1287769092_b1428000_slar.m3u8
+#EXTINF:-0,JAWHARA FM
+#EXTGRP: TUNISIA
+https://streaming.toutech.net/live/jfm/index.m3u8
+#EXTINF:-0,SUDANTV
+#EXTGRP: SUDAN
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv-avc1_600000=4-mp4a_97200=2.m3u8
