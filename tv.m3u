@@ -167,6 +167,9 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8?v=694917923
 #EXTINF:-0, QATAR TV 2
 #EXTGRP: QATAR
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8?v=694917923
-#EXTINF:-0, JEEM
+#EXTINF:-0, ALJAZEERA DOC
 #EXTGRP: QATAR
-http://arabs.teledunet.com:8080/live/tdn/238421502149/1119.m3u8
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?v=694917923
+#EXTINF:-0, DUBAITV
+#EXTGRP: DUBAITV
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8?v=694917923
