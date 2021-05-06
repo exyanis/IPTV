@@ -188,8 +188,15 @@ http://m.live.net.sa:1935/live/quran/gmswf.m3u8?v=694917923
 #EXTINF:-0,SAUDI SUNNAH
 #EXTGRP: ISLAM
 http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8?v=694917923
-#EXTINF:-0,test
-#EXTGRP: test
-https://r6---sn-5abxgpxuxaxjvh-5abk.googlevideo.com/videoplayback?expire=1620290677&ei=FViTYI6RJJebmLAP8Ym90Aw&ip=41.107.155.35&id=b41SHVKo0To.1&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=uH&mm=44%2C29&mn=sn-5abxgpxuxaxjvh-5abk%2Csn-hgn7rn7y&ms=lva%2Crdu&mv=m&mvi=6&pl=17&initcwndbps=301250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=iNI0fPMG_72WgVvP-BhPua8F&gir=yes&mt=1620268825&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB&n=LQBz1AHzuAtBEkATG&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgacfzQzdsCJG5vp_GIALDZ5ERIQZ4KrdmU5p2XyY9V8ICIH-Rs24lEio2jFGx_9bImn4NRg1GdKt_C9xeu5TxvMuy&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgNmPvCcN90b0uVaXDkjEsfFppRH6N0oRNXXIEBKbgyzYCIGdZLxiEGbwJQkZTXpp3wgrtG30Xq_AANIuKRQEESGj2
-
-
+#EXTINF:-0,SAUDI TV
+#EXTGRP: SAUDI
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+#EXTINF:-0,ALKHALIJ
+#EXTGRP: SAUDI
+https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+#EXTINF:-0,AL AOULA
+#EXTGRP: MAROC
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_400000=2-mp4a_130400_qad=1.m3u8
+#EXTINF:-0,2M TV
+#EXTGRP: MAROC
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8?695073947
