@@ -299,3 +299,6 @@ https://tv-trthaber.live.trt.com.tr/master_720.m3u8
 #EXTINF:-0,DAS ERSTE
 #EXTGRP: GERMANY
 https://mcdn.daserste.de/daserste/int/master.m3u8
+#EXTINF:-0,ZDF
+#EXTGRP: GERMANY
+https://to.hopslan.com/zdf/index.m3u8
