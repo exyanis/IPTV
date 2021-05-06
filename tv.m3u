@@ -224,3 +224,13 @@ https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-0,FRANCE2
 #EXTGRP: FRANCE
 http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
+#EXTINF:-0,FRANCE3
+#EXTGRP: FRANCE
+http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
+#EXTINF:-0,FRANCE4
+#EXTGRP: FRANCE
+http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
+#EXTINF:-0,FRANCE5
+#EXTGRP: FRANCE
+http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
+
