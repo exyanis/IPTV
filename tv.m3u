@@ -239,3 +239,13 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
 #EXTINF:-0,CITRUSS
 #EXTGRP: UAE
 https://citrusstv.akamaized.net/hls/live/687285/CTV/03.m3u8
+#EXTINF:-0,GULLI BIL ARABI
+#EXTGRP: KIDS
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index_2.m3u8
+#EXTINF:-0,ALFAJER2
+#EXTGRP: PALESTINE
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTINF:-0,OMAN SPORT
+#EXTGRP: OMAN
+https://partne.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8
+
