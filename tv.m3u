@@ -146,3 +146,19 @@ https://admdn5ta.cdn.mgmlcdn.com/drama/smil:drama.stream.smil/chunklist_b1800000
 #EXTINF:-0, AD NATGEO
 #EXTGRP: AD.TV
 https://admdn2ta.cdn.mgmlcdn.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-0, AD SPORTS 1
+#EXTGRP: ADSPORTS.AE
+https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-0, AD SPORTS 2
+#EXTGRP: ADSPORTS.AE
+https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-0, AD SPORTS 3
+#EXTGRP: ADSPORTS.AE
+https://admdn3ta.cdn.mgmlcdn.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-0, AD SPORTS 4
+#EXTGRP: ADSPORTS.AE
+https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-0, YAS
+#EXTGRP: ADSPORTS.AE
+https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
