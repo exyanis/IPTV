@@ -293,3 +293,12 @@ http://m.live.net.sa:1935/live/ayat/chunklist_w2078329880.m3u8
 #EXTINF:-0,SKYNEWS ARABIYA
 #EXTGRP: NEWS
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-0,TRT HABER
+#EXTGRP: TURK
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+#EXTINF:-0,PRO7
+#EXTGRP: GERMANY
+https://c6.xcxc.cf/web/1/freedelive.xyz/c10/1620329073/QRFFFJuP2hs2pktlyqqcDA/10695.m3u8
+#EXTINF:-0,SAT1
+#EXTGRP: GERMANY
+https://c6.xcxc.cf/web/1/freedelive.xyz/c10/1620329130/jDvaaXhHyIbcX4WTppQdOQ/10699.m3u8
