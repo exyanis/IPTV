@@ -341,6 +341,10 @@ https://cctvcnchww.v.cdn20.com/live/cctv3_1/index.m3u8
 #EXTINF:-0, CCTV 4
 #EXTGRP: CHINA
 https://cctvcnchww.v.cdn20.com/live/cctv4_1/index.m3u8
+#EXTINF:-0, CCTV 5
+#EXTGRP: CHINA
+https://cctvcnchww.v.cdn20.com/live/cctv5_1/index.m3u8
+
 #EXTINF:-0, CCTV 6
 #EXTGRP: CHINA
 https://cctvcnchww.v.cdn20.com/live/cctv6_1/index.m3u8
@@ -365,4 +369,16 @@ https://cctvcnchww.v.cdn20.com/live/cctv12_1/index.m3u8
 #EXTINF:-0, CCTV 13
 #EXTGRP: CHINA
 https://cctvcnchww.v.cdn20.com/live/cctv13_1/index.m3u8
+#EXTINF:-0, CCTV 14
+#EXTGRP: CHINA
+https://cctvcnchww.v.cdn20.com/live/cctvchild_1/index.m3u8
+#EXTINF:-0, CCTV 15
+#EXTGRP: CHINA
+https://cctvcnchww.v.cdn20.com/live/cctv15_1/index.m3u8
+#EXTINF:-0, CCTV 16
+#EXTGRP: CHINA
+https://cctvcnchww.v.cdn20.com/live/cctv16_1/index.m3u8
+#EXTINF:-0, CCTV 17
+#EXTGRP: CHINA
+https://cctvcnchww.v.cdn20.com/live/cctv17_1/index.m3u8
 
