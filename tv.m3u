@@ -263,3 +263,6 @@ https://partwo.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/playlist.m
 #EXTINF:-0,OMAN SPORT
 #EXTGRP: OMAN
 https://partne.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-0,KUWAIT TV1
+#EXTGRP: KUWAIT
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_1080p/chunks.m3u8?p=48&s=1620316909&e=1620403309&cf=1620403309&h=39f697e664039a369d7f4ce4d604d4b7
