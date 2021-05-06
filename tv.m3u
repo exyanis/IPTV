@@ -239,3 +239,6 @@ https://tv-trt1.live.trt.com.tr/master_360.m3u8
 #EXTINF:-0,RASD
 #EXTGRP: RASD
 https://livestream.streamingconnect.com/rasdtv/rasdtv.m3u8
+#EXTINF:-0,MEDI1TV
+#EXTGRP: MAROC
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/chunklist_w1287769092_b1428000_slar.m3u8
