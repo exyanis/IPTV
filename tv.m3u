@@ -254,3 +254,12 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 #EXTINF:-0,OMANTV
 #EXTGRP: OMAN
 https://partne.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/playlist.m3u8
+#EXTINF:-0,OMAN LIVE
+#EXTGRP: OMAN
+https://partwo.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/playlist.m3u8
+#EXTINF:-0,OMAN CULTURE
+#EXTGRP: OMAN
+https://partwo.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
+#EXTINF:-0,OMAN SPORT
+#EXTGRP: OMAN
+https://partne.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/playlist.m3u8
