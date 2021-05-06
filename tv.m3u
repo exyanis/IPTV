@@ -329,3 +329,6 @@ https://vtvgo-live-vtv.akamaized.net/vtv8/vtv8@high.m3u8
 #EXTINF:-0,VTV9
 #EXTGRP: VIETNAM
 https://vtvgo-live-vtv.akamaized.net/vtv9/vtv9@high.m3u8
+#EXTINF:-0, CCTV 1
+#EXTGRP: CHINA
+https://cctvcnchww.v.cdn20.com/live/cctv1_1/index.m3u8
