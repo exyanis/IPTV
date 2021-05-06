@@ -1,3 +1,8 @@
 #EXTM3U
-#EXTINF:-0, 1
-https://r8---sn-5abxgpxuxaxjvh-5abs.googlevideo.com/videoplayback?expire=1620350109&ei=PUCUYJy-D9T6xN8Pov6icA&ip=41.107.155.35&id=o-APB9tBel2FnIjNU3uebh5Wxst8-RKDeBvI8q5prZBwcT&itag=22&source=youtube&requiressl=yes&mh=bm&mm=31%2C29&mn=sn-5abxgpxuxaxjvh-5abs%2Csn-hgn7rn7r&ms=au%2Crdu&mv=m&mvi=8&pl=22&initcwndbps=318750&vprv=1&mime=video%2Fmp4&ns=_SDZxJXaYhA0UxC84QzXhOMF&cnr=14&ratebypass=yes&dur=4518.045&lmt=1609999314691303&mt=1620328140&fvip=5&fexp=24001373%2C24007246&c=WEB&txp=6316222&n=hD4Ehzf_-qbbQCV-b&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgN5TOXkPeY5Pr-CcX6qH-2TFFt_u8sXCPza_x2m7P-X8CIQCsu0c16YnVpIeDm0kpWLvvXiYZJy-kZxfIRmzI8cGgoQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAKAksJrgY1eNX2gsw1tTrqT1lGcx50z1tp48voSAsIOdAiAWN2uU4ZpevaEpCdDRE_fBLHhutnCyig93Lfcf2JuneA%3D%3D
+#EXTINF:-0, الهاتحة
+#EXTGRP: عبد الرحمان العوسي
+https://download.tvquran.com/download/recitations/196/144/001.mp3
+#EXTM3U
+#EXTINF:-0, البقرة
+#EXTGRP: عبد الرحمان العوسي
+https://download.tvquran.com/download/recitations/196/144/002.mp3
