@@ -147,3 +147,15 @@ https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTGRP: TF1 GROUPE
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-0,LCI
+#EXTINF:0,France 2
+#EXTGRP: FRANCE.TV
+https://mmsiptv.com/live/france2/playlist.m3u8
+#EXTINF:0,France 3
+#EXTGRP: FRANCE.TV
+https://mmsiptv.com/live/france3/playlist.m3u8
+#EXTINF:0,France 4
+#EXTGRP: FRANCE.TV
+https://mmsiptv.com/live/france4/playlist.m3u8
+#EXTINF:,France 5
+#EXTGRP: FRANCE.TV
+https://mmsiptv.com/live/france5/playlist.m3u8
