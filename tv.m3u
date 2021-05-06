@@ -182,4 +182,7 @@ https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist
 #EXTINF:-0,DUBAI ONE
 #EXTGRP: DUBAITV
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/gmswf.m3u8?v=694917923
+#EXTINF:-0,SAUDI SUNNAH
+#EXTGRP: ISLAM
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/index.m3u8
 
