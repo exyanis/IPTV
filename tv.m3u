@@ -26,6 +26,9 @@ https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_720p/chunks.m3u8
 #EXTINF:-0, ENNAHAR TV
 #EXTGRP: ALGERIE
 https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/htatv/ENNAHAR_TV_720p/chunks.m3u8
+#EXTINF:-0, BEURTV
+#EXTGRP: ALGERIE
+https://cdn02.hta.dz/abr_htatv/Beur_TV/htatv/Beur_TV_720p/chunks.m3u8
 #EXTINF:-0, ECHOROUK TV HD
 #EXTGRP: ALGERIE
 https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/htatv/Echorouk_TV_HD_720p/chunks.m3u8
@@ -35,6 +38,9 @@ https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/htatv/ECHOROUK_NEWS_720p/chunks.m3u
 #EXTINF:-0, SAMIRA TV
 #EXTGRP: ALGERIE
 https://cdn02.hta.dz/abr_htatv/SamiraTV/htatv/SamiraTV_720p/chunks.m3u8
+#EXTINF:-0, BAHIA TV
+#EXTGRP: ALGERIE
+https://cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_240p/chunks.m3u8
 #EXTINF:-0,LINA TV
 #EXTGRP: ALGERIE
 https://cdn02.hta.dz/abr_htatv/Lina_TV/htatv/Lina_TV_720p/chunks.m3u8
