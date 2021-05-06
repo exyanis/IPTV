@@ -287,3 +287,6 @@ https://hiplayer.hibridcdn.net/p/kwmedia-kwtvqurain/chunks.m3u8?p=53&s=162032017
 #EXTINF:-0,ALMAJLIS
 #EXTGRP: KUWAIT 
 https://hiplayer.hibridcdn.net/p/kwmedia-kwtvmajlis/chunks.m3u8?p=53&s=1620318354&e=1620404754&cf=1620404754&h=4315e47ffc12b939ba838c0fbf81c5bb
+#EXTINF:-0,AYAAT
+#EXTGRP: ISLAM
+http://m.live.net.sa:1935/live/ayat/chunklist_w2078329880.m3u8
