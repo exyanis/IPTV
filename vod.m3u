@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-0, الهاتحة
+#EXTINF:-0, الفاتحة
 #EXTGRP: عبد الرحمان العوسي
 https://download.tvquran.com/download/recitations/196/144/001.mp3
 #EXTM3U
 #EXTINF:-0, البقرة
 #EXTGRP: عبد الرحمان العوسي
 https://download.tvquran.com/download/recitations/196/144/002.mp3
+#EXTINF:-0, آل عمران
+#EXTGRP: عبد الرحمان العوسي
+https://download.tvquran.com/download/recitations/196/144/003.mp3
+
