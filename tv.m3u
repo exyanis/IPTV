@@ -194,9 +194,9 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m
 #EXTINF:-0,ALKHALIJ
 #EXTGRP: SAUDI
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
-#EXTINF:-0,AL AOULA
-#EXTGRP: MAROC
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_400000=2-mp4a_130400_qad=1.m3u8
 #EXTINF:-0,2M TV
 #EXTGRP: MAROC
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8?695073947
+#EXTINF:-0,MAJID
+#EXTGRP: KIDS
+https://iptvcat.com/my_list/s/0f026e687a009ac40c20183f174220c6.m3u8
