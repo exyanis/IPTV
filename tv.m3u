@@ -302,9 +302,30 @@ https://mcdn.daserste.de/daserste/int/master.m3u8
 #EXTINF:-0,ZDF
 #EXTGRP: GERMANY
 https://to.hopslan.com/zdf/index.m3u8
-#EXTINF:-0,LOVE NATURE
-#EXTGRP: DOC
-https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
 #EXTINF:-0,VTV1
 #EXTGRP: VIETNAM
 https://vtvgo-live-vtv.akamaized.net/vtv1/vtv1@mid.m3u8
+#EXTINF:-0,VTV2
+#EXTGRP: VIETNAM
+https://vtvgo-live-vtv.akamaized.net/vtv2/vtv2@high.m3u8
+#EXTINF:-0,VTV3
+#EXTGRP: VIETNAM
+https://vtvgo-live-vtv.akamaized.net/vtv3/vtv3@mid.m3u8
+#EXTINF:-0,VTV4
+#EXTGRP: VIETNAM
+https://vtvgo-live-vtv.akamaized.net/vtv4/vtv4@high.m3u8
+#EXTINF:-0,VTV5
+#EXTGRP: VIETNAM
+https://vtvgo-live-vtv.akamaized.net/vtv5/vtv5@mid.m3u8
+#EXTINF:-0,VTV6
+#EXTGRP: VIETNAM
+https://vtvgo-live-vtv.akamaized.net/vtv6/vtv6@high.m3u8
+#EXTINF:-0,VTV7
+#EXTGRP: VIETNAM
+https://vtvgo-live-vtv.akamaized.net/vtv7/vtv7@mid.m3u8
+#EXTINF:-0,VTV8
+#EXTGRP: VIETNAM
+https://vtvgo-live-vtv.akamaized.net/vtv8/vtv8@high.m3u8
+#EXTINF:-0,VTV9
+#EXTGRP: VIETNAM
+https://vtvgo-live-vtv.akamaized.net/vtv9/vtv9@high.m3u8
