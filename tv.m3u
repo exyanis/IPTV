@@ -40,7 +40,7 @@ https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/htatv/ECHOROUK_NEWS_720p/chunks.m3u
 https://cdn02.hta.dz/abr_htatv/SamiraTV/htatv/SamiraTV_720p/chunks.m3u8
 #EXTINF:-0, BAHIA TV
 #EXTGRP: ALGERIE
-https://cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_240p/chunks.m3u8
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8https://cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_240p/chunks.m3u8
 #EXTINF:-0,LINA TV
 #EXTGRP: ALGERIE
 https://cdn02.hta.dz/abr_htatv/Lina_TV/htatv/Lina_TV_720p/chunks.m3u8
@@ -65,3 +65,48 @@ https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/htatv/EL_HAYAT_TV_ALGERIE_720
 #EXTINF:-0, EL DJAZAIR N1
 #EXTGRP: ALGERIE
 https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/htatv/El_Djazair_N1_720p/chunks.m3u8
+#EXTINF:-0,MBC
+#EXTGRP:ARABIC
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF:-0,MBC 2
+#EXTGRP:ARABIC
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:-0,MBC 3
+#EXTGRP:ARABIC
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-0,MBC 4
+#EXTGRP:ARABIC
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-0,MBC 5
+#EXTGRP:ARABIC
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-0,MBC ACTION
+#EXTGRP:ARABIC
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-0,MBC BOLLYWOOD
+#EXTGRP:ARABIC
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-0,MBC DRAMA
+#EXTGRP:ARABIC
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-0,MBC FM
+#EXTGRP:ARABIC
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-0,MBC IRAQ
+#EXTGRP:ARABIC
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-0,MBC MASR
+#EXTGRP:ARABIC
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-0,MBC MASR 2
+#EXTGRP:ARABIC
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-0,MBC MAX
+#EXTGRP:ARABIC
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:-0,MBC + DRAMA
+#EXTGRP:ARABIC
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+
+
+
