@@ -65,3 +65,22 @@ https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/htatv/EL_HAYAT_TV_ALGERIE_720
 #EXTINF:-0, EL DJAZAIR N1
 #EXTGRP: ALGERIE
 https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/htatv/El_Djazair_N1_720p/chunks.m3u8
+#EXTINF:-0, AD SPORTS 1
+#EXTGRP: SPORTS
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-0, AD SPORTS 2
+#EXTGRP: SPORTS
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-0, AD SPORTS 3
+#EXTGRP: SPORTS
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-0, AD SPORTS 4
+#EXTGRP: SPORTS
+https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:-0, AD DRAMA
+#EXTGRP: ARABIC
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+#EXTINF:-0, AD NAT GEO
+#EXTGRP: DOC
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+
