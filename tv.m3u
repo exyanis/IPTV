@@ -83,7 +83,11 @@ https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:-0, AD DRAMA
 #EXTGRP: ARABIC
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+#EXTINF:-0, EMARAT
+#EXTGRP: ARABIC
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
 #EXTINF:-0, AD NAT GEO
 #EXTGRP: DOC
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+
 
