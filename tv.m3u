@@ -173,4 +173,31 @@ https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b7248
 #EXTINF:-0, ROTANA +
 #EXTGRP: ARABIC
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+#EXTINF:-0, KUWAIT TV 1
+#EXTGRP: ARABIC
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8
+#EXTINF:-0, KUWAIT TV 2
+#EXTGRP: ARABIC
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8
+#EXTINF:-0, KUWAIT TV MAJLIS
+#EXTGRP: ARABIC
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvmajlis.m3u8
+#EXTINF:-0, KUWAIT TV QURAIN
+#EXTGRP: ARABIC
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvqurain.m3u8
+#EXTINF:-0, KUWAIT TV AL ARABI
+#EXTGRP: ARABIC
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvarabi.m3u8
+#EXTINF:-0, KUWAIT TV ETHRAA
+#EXTGRP: ARABIC
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
+#EXTINF:-0, KUWAIT TV KIDS
+#EXTGRP: ARABIC
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8
+#EXTINF:-0, KUWAIT TV SPORTS
+#EXTGRP: ARABIC
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
+#EXTINF:-0, KUWAIT TV SPORTS PLUS
+#EXTGRP: ARABIC
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
 
