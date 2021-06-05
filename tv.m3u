@@ -287,3 +287,9 @@ https://iptv--iptv.repl.co/Arabic/Quran_TV/
 #EXTINF:-0, SUNNAH MEDINA
 #EXTGRP: ISLAM
 https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
+#EXTINF:-0, SAUDI TV
+#EXTGRP: ARABIC
+https://iptv--iptv.repl.co/Arabic/Saudi1_TV/
+#EXTINF:-0, EL EKHBARIYA
+#EXTGRP: NEWS
+https://iptv--iptv.repl.co/Arabic/Ekhbariyah/
