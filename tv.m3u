@@ -77,6 +77,9 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 #EXTINF:-0, AD SPORTS 4
 #EXTGRP: SPORTS
 https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:-0,YAS YV
+#EXTGRP: SPORTS
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-0, ABU DHABI TV
 #EXTGRP: ARABIC
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
@@ -95,6 +98,21 @@ https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
 #EXTINF:-0, AL WOUSTA
 #EXTGRP: ARABIC
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-0, SHARQIYA FROM KALBA
+#EXTGRP: ARABIC
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-0, MAJID
+#EXTGRP: KIDS
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:-0, SHARJAH TV
+#EXTGRP: ARABIC
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-0, SHARJAH TV 2
+#EXTGRP: ARABIC
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-0, SHARJAH TV SPORTS
+#EXTGRP: SPORTS
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-0, DUBAI TV
 #EXTGRP: ARABIC
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
@@ -228,19 +246,19 @@ https://hiplayer.hibridcdn.net/t/kwmedia-kwtvmajlis.m3u8
 #EXTGRP: ARABIC
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvqurain.m3u8
 #EXTINF:-0, KUWAIT TV AL ARABI
-#EXTGRP: ARABIC
+#EXTGRP: DOC
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvarabi.m3u8
 #EXTINF:-0, KUWAIT TV ETHRAA
 #EXTGRP: ARABIC
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
 #EXTINF:-0, KUWAIT TV KIDS
-#EXTGRP: ARABIC
+#EXTGRP: KIDS
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8
 #EXTINF:-0, KUWAIT TV SPORTS
-#EXTGRP: ARABIC
+#EXTGRP: SPORTS
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
 #EXTINF:-0, KUWAIT TV SPORTS PLUS
-#EXTGRP: ARABIC
+#EXTGRP: SPORTS
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
 #EXTINF:-0, ALARABIYA
 #EXTGRP: NEWS
