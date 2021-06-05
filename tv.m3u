@@ -394,8 +394,10 @@ http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-0, COVID 19
 #EXTGRP: NEWS
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCDGiCfCZIV5phsoGiPwIcyQ/live
-
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCDGiCfCZIV5phsoGiPwIcyQ/live/1
+#EXTINF:-0, BIN OTHEIMINE
+#EXTGRP: ISLAM
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCtF3YygTiodnYSw8vD3UJtQ/live
 
 
 
