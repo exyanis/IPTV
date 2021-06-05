@@ -266,7 +266,20 @@ https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead
 #EXTINF:-0, ALARABIYA ALHADATH
 #EXTGRP: NEWS
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-
-
+#EXTINF:-0, BAHRAIN TV
+#EXTGRP: ARABIC
+http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8?v=3116400149
+#EXTINF:-0, BAHRAIN INTERNATIONAL
+#EXTGRP: ARABIC
+http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
+#EXTINF:-0, BAHRAIN QURAN
+#EXTGRP: ARABIC
+http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
+#EXTINF:-0, BAHRAIN SPORTS
+#EXTGRP: SPORTS
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
+#EXTINF:-0, BAHRAIN SPORTS 2
+#EXTGRP: SPORTS
+http://185.105.4.107:1935/live/Bahrain%20Sports%202/chunklist.m3u8
 
 
