@@ -356,5 +356,23 @@ https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:-0, OMAN TV CULTURE
 #EXTGRP: SPORTS
 https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
+#EXTINF:-0, QATAR TV
+#EXTGRP: ARABIC
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-0, QATAR TV 2
+#EXTGRP: ARABIC
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+#EXTINF:-0, MAKKAH
+#EXTGRP: ARABIC
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+#EXTINF:-0, BEITY
+#EXTGRP: ARABIC
+http://82.212.74.2:8000/live/7312.m3u8
+#EXTINF:-0, SBC
+#EXTGRP: ARABIC
+https://iptv--iptv.repl.co/Arabic/SBC
+#EXTINF:-0, THIKRAYAT
+#EXTGRP: ARABIC
+https://iptv--iptv.repl.co/Arabic/Zikrayat/
 
 
