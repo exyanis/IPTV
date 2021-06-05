@@ -89,6 +89,21 @@ https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
 #EXTINF:-0, AD NAT GEO
 #EXTGRP: DOC
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-0, AL DAFRAH
+#EXTGRP: ARABIC
+https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
+#EXTINF:-0, AL WOUSTA
+#EXTGRP: ARABIC
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-0, DUBAI TV
+#EXTGRP: ARABIC
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
+#EXTINF:-0, DUBAI ONE
+#EXTGRP: ARABIC
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+#EXTINF:-0, DUBAI ZAMAN
+#EXTGRP: ARABIC
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
 #EXTINF:-0, MBC 1
 #EXTGRP: ARABIC
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
