@@ -320,3 +320,40 @@ https://stream.mmsiptv.com/live/france5/chunks.m3u8
 #EXTINF:-0, M6
 #EXTGRP: FRANCE
 https://stream.mmsiptv.com/live/m6/chunks.m3u8
+#EXTINF:-0, C8
+#EXTGRP: FRANCE
+https://stream.mmsiptv.com/live/c8/chunks.m3u8
+#EXTINF:-0, W9
+#EXTGRP: FRANCE
+https://stream.mmsiptv.com/live/w9/chunks.m3u8
+#EXTINF:-0, TMC
+#EXTGRP: FRANCE
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:-0, TFX
+#EXTGRP: FRANCE
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:-0, NRJ12
+#EXTGRP: FRANCE
+https://stream.mmsiptv.com/live/nrj12/chunks.m3u8
+#EXTINF:-0, LCP
+#EXTGRP: NEWS
+https://stream.mmsiptv.com/live/lcp/chunks.m3u8
+#EXTINF:-0, CNEWS
+#EXTGRP: NEWS
+https://stream.mmsiptv.com/live/cnews/chunks.m3u8
+#EXTINF:-0, BFM TV
+#EXTGRP: news
+https://stream.mmsiptv.com/live/bfmtv/chunks.m3u8
+#EXTINF:-0, GULLI
+#EXTGRP: KIDS
+https://stream.mmsiptv.com/live/gulli/chunks.m3u8
+#EXTINF:-0, TF1 SERIE FILM
+#EXTGRP: FRANCE
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-0, LCI
+#EXTGRP: NEWS
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+
+
+
+
