@@ -374,5 +374,31 @@ https://iptv--iptv.repl.co/Arabic/SBC
 #EXTINF:-0, THIKRAYAT
 #EXTGRP: ARABIC
 https://iptv--iptv.repl.co/Arabic/Zikrayat/
+#EXTINF:-0, ADEN
+#EXTGRP: ARABIC
+https://master.starmena-cloud.com/hls/aden.m3u8
+#EXTINF:-0, TRT1
+#EXTGRP: TURK
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
+#EXTINF:-0, TRT3
+#EXTGRP: TURK
+http://tv-trt3.live.trt.com.tr/master_720.m3u8
+#EXTINF:-0, TRT AVAZ
+#EXTGRP: TURK
+http://tv-trtavaz.live.trt.com.tr/master_720.m3u8
+#EXTINF:-0, TRT BELGESEL
+#EXTGRP: TURK
+http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:-0, TRT COCUK
+#EXTGRP: TURK
+https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-0, TRT OKUL
+#EXTGRP: TURK
+http://tv-e-okul00.live.trt.com.tr/master_720.m3u8
+
+
+
+
+
 
 
