@@ -335,15 +335,6 @@ https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTINF:-0, NRJ12
 #EXTGRP: FRANCE
 https://stream.mmsiptv.com/live/nrj12/chunks.m3u8
-#EXTINF:-0, LCP
-#EXTGRP: NEWS
-https://stream.mmsiptv.com/live/lcp/chunks.m3u8
-#EXTINF:-0, CNEWS
-#EXTGRP: NEWS
-https://stream.mmsiptv.com/live/cnews/chunks.m3u8
-#EXTINF:-0, BFM TV
-#EXTGRP: news
-https://stream.mmsiptv.com/live/bfmtv/chunks.m3u8
 #EXTINF:-0, GULLI
 #EXTGRP: KIDS
 https://stream.mmsiptv.com/live/gulli/chunks.m3u8
