@@ -293,3 +293,6 @@ https://iptv--iptv.repl.co/Arabic/Saudi1_TV/
 #EXTINF:-0, EL EKHBARIYA
 #EXTGRP: NEWS
 https://iptv--iptv.repl.co/Arabic/Ekhbariyah/
+#EXTINF:-0, LA1
+#EXTGRP: SPAIN
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
