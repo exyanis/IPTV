@@ -281,5 +281,9 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
 #EXTINF:-0, BAHRAIN SPORTS 2
 #EXTGRP: SPORTS
 http://185.105.4.107:1935/live/Bahrain%20Sports%202/chunklist.m3u8
-
-
+#EXTINF:-0, QURAN MEKKAH
+#EXTGRP: ISLAM
+https://iptv--iptv.repl.co/Arabic/Quran_TV/
+#EXTINF:-0, SUNNAH MEDINA
+#EXTGRP: ISLAM
+https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
