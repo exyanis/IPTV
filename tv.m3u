@@ -14,17 +14,28 @@ https://cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_720p/chunks.m3u8
 #EXTINF:-0, TV 5 CORAN
 #EXTGRP: ALGERIE
 https://cdn02.hta.dz/abr_htatv/TV_5/htatv/TV_5_720p/chunks.m3u8
+#EXTINF:-0, TV 5 CORAN
+#EXTGRP: ISLAM
+https://cdn02.hta.dz/abr_htatv/TV_5/htatv/TV_5_720p/chunks.m3u8
 #EXTINF:-0, TV 6 HD
 #EXTGRP: ALGERIE
 https://cdn02.hta.dz/abr_htatv/TV_6_HD/htatv/TV_6_HD_720p/chunks.m3u8
 #EXTINF:-0, TV 7 ELMAARIFA
 #EXTGRP: ALGERIE
 https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/htatv/TV7_ELMAARIFA_720p/chunks.m3u8
+#EXTINF:-0, TV 7 ELMAARIFA
+#EXTGRP: EDUCATION
+https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/htatv/TV7_ELMAARIFA_720p/chunks.m3u8
 #EXTINF:-0, TV 8 EDHAKIRA
 #EXTGRP: ALGERIE
 https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_720p/chunks.m3u8
+#EXTINF:-0, TV 8 EDHAKIRA
+#EXTGRP: HISTOIRE
 #EXTINF:-0, ENNAHAR TV
 #EXTGRP: ALGERIE
+https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/htatv/ENNAHAR_TV_720p/chunks.m3u8
+#EXTINF:-0, ENNAHAR TV
+#EXTGRP: NEWS
 https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/htatv/ENNAHAR_TV_720p/chunks.m3u8
 #EXTINF:-0, BEURTV
 #EXTGRP: ALGERIE
@@ -35,8 +46,14 @@ https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/htatv/Echorouk_TV_HD_720p/chunks.m
 #EXTINF:-0, ECHOROUK TV NEWS
 #EXTGRP: ALGERIE
 https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/htatv/ECHOROUK_NEWS_720p/chunks.m3u8
+#EXTINF:-0, ECHOROUK TV NEWS
+#EXTGRP: NEWS
+https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/htatv/ECHOROUK_NEWS_720p/chunks.m3u8
 #EXTINF:-0, SAMIRA TV
 #EXTGRP: ALGERIE
+https://cdn02.hta.dz/abr_htatv/SamiraTV/htatv/SamiraTV_720p/chunks.m3u8
+#EXTINF:-0, SAMIRA TV
+#EXTGRP: FOOD
 https://cdn02.hta.dz/abr_htatv/SamiraTV/htatv/SamiraTV_720p/chunks.m3u8
 #EXTINF:-0, BAHIA TV
 #EXTGRP: ALGERIE
@@ -47,11 +64,17 @@ https://cdn02.hta.dz/abr_htatv/Lina_TV/htatv/Lina_TV_720p/chunks.m3u8
 #EXTINF:-0,EL HEDDAF TV
 #EXTGRP: ALGERIE
 https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_720p/chunks.m3u8
+#EXTINF:-0,EL HEDDAF TV
+#EXTGRP: SPORTS
+https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_720p/chunks.m3u8
 #EXTINF:-0,EL FADJR TV DZ
 #EXTGRP: ALGERIE
 https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/htatv/EL_FADJR_TV_DZ_720p/chunks.m3u8
 #EXTINF:-0,EL BILAD TV
 #EXTGRP: ALGERIE
+https://cdn02.hta.dz/abr_htatv/EL_BILAD/htatv/EL_BILAD_720p/chunks.m3u8
+#EXTINF:-0,EL BILAD TV
+#EXTGRP: NEWS
 https://cdn02.hta.dz/abr_htatv/EL_BILAD/htatv/EL_BILAD_720p/chunks.m3u8
 #EXTINF:-0,EL DJAZAIRIA TV
 #EXTGRP: ALGERIE
@@ -59,8 +82,14 @@ https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/htatv/EL_DJAZAIRIA_TV_720p/chunks
 #EXTINF:-0, ALANIS
 #EXTGRP: ALGERIE
 https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_720p/chunks.m3u8
+#EXTINF:-0, ALANIS
+#EXTGRP: ISLAM
+https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_720p/chunks.m3u8
 #EXTINF:-0, EL HAYAT TV ALGERIE
 #EXTGRP: ALGERIE
+https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/htatv/EL_HAYAT_TV_ALGERIE_720p/chunks.m3u8
+#EXTINF:-0, EL HAYAT TV ALGERIE
+#EXTGRP: NEWS
 https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/htatv/EL_HAYAT_TV_ALGERIE_720p/chunks.m3u8
 #EXTINF:-0, EL DJAZAIR N1
 #EXTGRP: ALGERIE
@@ -79,6 +108,21 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 #EXTINF:-0,YAS YV
 #EXTGRP: SPORTS
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:-0, AD SPORTS 1
+#EXTGRP: EMIRAT
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-0, AD SPORTS 2
+#EXTGRP: EMIRAT
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-0, AD SPORTS 3
+#EXTGRP: EMIRAT
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-0, AD SPORTS 4
+#EXTGRP: EMIRAT
+https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:-0,YAS YV
+#EXTGRP: EMIRAT
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-0, ABU DHABI TV
 #EXTGRP: EMIRAT
@@ -128,6 +172,9 @@ http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunkl
 #EXTINF:-0, NOOR DUBAI
 #EXTGRP: EMIRAT
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
+#EXTINF:-0, NOOR DUBAI
+#EXTGRP: ISLAM
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 #EXTINF:-0, DUBAI SPORTS
 #EXTGRP: SPORTS
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
@@ -146,6 +193,24 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m
 #EXTINF:-0, DUBAI RACING 3
 #EXTGRP: SPORTS
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-0, DUBAI SPORTS
+#EXTGRP: EMIRAT
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
+#EXTINF:-0, DUBAI SPORTS 2
+#EXTGRP: EMIRAT
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-0, DUBAI SPORTS 3
+#EXTGRP: EMIRAT
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-0, DUBAI RACING
+#EXTGRP: EMIRAT
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-0, DUBAI RACING 2
+#EXTGRP: EMIRAT
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:-0, DUBAI RACING 3
+#EXTGRP: EMIRAT
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 #EXTINF:-0, MBC 1
 #EXTGRP: MBC GROUPE
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
@@ -155,21 +220,32 @@ https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/in
 #EXTINF:-0, MBC 2
 #EXTGRP: MBC GROUPE
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:-0, MBC 3
 #EXTGRP: MBC GROUPE
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-0, MBC 3
 #EXTGRP: KIDS
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-0, MBC 3 EUR
 #EXTGRP: MBC GROUPE
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-0, MBC 3 EUR
 #EXTGRP: KIDS
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-#EXTINF:-0, MBC USA
+#EXTINF:-0, MBC 3 USA
 #EXTGRP: MBC GROUPE
+https://shls-mbc3-usa-prod.shahid.net/out/v1/f7584f50d13c4c01b0fac2be04c61c7e/index.m3u8
+#EXTINF:-0, MBC 3 USA
+#EXTGRP: KIDS
 https://shls-mbc3-usa-prod.shahid.net/out/v1/f7584f50d13c4c01b0fac2be04c61c7e/index.m3u8
 #EXTINF:-0, MBC 4
 #EXTGRP: MBC GROUPE
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-0, MBC 5
 #EXTGRP: MBC GROUPE
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-0, MBC 5
+#EXTGRP: MOROCCO
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-0, MBC ACTION
 #EXTGRP: MBC GROUPE
@@ -180,7 +256,7 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #EXTINF:-0, MBC DRAMA
 #EXTGRP: MBC GROUPE
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#EXTINF:-0, MBC USA
+#EXTINF:-0, MBC DRAMA USA
 #EXTGRP: MBC GROUPE
 https://shls-mbc-drama-usa-prod.shahid.net/out/v1/efb67fc5c04a40778cd5c21e2e7ea884/index.m3u8
 #EXTINF:-0, MBC FM
@@ -197,6 +273,15 @@ https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/in
 https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
 #EXTINF:-0, MBC MASR 2
 #EXTGRP: MBC GROUPE
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-0, MBC MASR
+#EXTGRP: EGYPT
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-0, MBC MASR USA
+#EXTGRP: EGYPT
+https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
+#EXTINF:-0, MBC MASR 2
+#EXTGRP: EGYPT
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-0, MBC MAX
 #EXTGRP: MBC GROUPE
@@ -227,6 +312,9 @@ https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
 #EXTINF:-0, ROTANA KIDS
 #EXTGRP: KIDS
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:-0, ROTANA KIDS
+#EXTGRP: ROTANA
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
 #EXTINF:-0, ROTANA MUSIC
 #EXTGRP: ROTANA
@@ -261,6 +349,22 @@ https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
 #EXTINF:-0, KUWAIT TV SPORTS PLUS
 #EXTGRP: SPORTS
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
+#EXTINF:-0, KUWAIT TV AL ARABI
+#EXTGRP: KUWAIT
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvarabi.m3u8
+#EXTINF:-0, KUWAIT TV ETHRAA
+#EXTGRP: KUWAITT
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
+#EXTINF:-0, KUWAIT TV KIDS
+#EXTGRP: KUWAIT
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8
+#EXTINF:-0, KUWAIT TV SPORTS
+#EXTGRP: KUWAITT
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
+#EXTINF:-0, KUWAIT TV SPORTS PLUS
+#EXTGRP: KUWAIT
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
+#EXTINF:-0, ALARABIYA
 #EXTINF:-0, ALARABIYA
 #EXTGRP: NEWS
 https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
@@ -282,11 +386,26 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
 #EXTINF:-0, BAHRAIN SPORTS 2
 #EXTGRP: SPORTS
 http://185.105.4.107:1935/live/Bahrain%20Sports%202/chunklist.m3u8
+#EXTINF:-0, BAHRAIN QURAN
+#EXTGRP: BAHRAIN
+http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
+#EXTINF:-0, BAHRAIN SPORTS
+#EXTGRP: BAHRAIN
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
+#EXTINF:-0, BAHRAIN SPORTS 2
+#EXTGRP: BAHRAIN
+http://185.105.4.107:1935/live/Bahrain%20Sports%202/chunklist.m3u8
 #EXTINF:-0, QURAN MEKKAH
 #EXTGRP: ISLAM
 https://iptv--iptv.repl.co/Arabic/Quran_TV/
 #EXTINF:-0, SUNNAH MEDINA
 #EXTGRP: ISLAM
+https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
+#EXTINF:-0, QURAN MEKKAH
+#EXTGRP: SAUDI
+https://iptv--iptv.repl.co/Arabic/Quran_TV/
+#EXTINF:-0, SUNNAH MEDINA
+#EXTGRP: SAUDI
 https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
 #EXTINF:-0, SAUDI TV
 #EXTGRP: SAUDI
@@ -294,14 +413,23 @@ https://iptv--iptv.repl.co/Arabic/Saudi1_TV/
 #EXTINF:-0, EL EKHBARIYA
 #EXTGRP: NEWS
 https://iptv--iptv.repl.co/Arabic/Ekhbariyah/
+#EXTINF:-0, EL EKHBARIYA
+#EXTGRP: SAUDI
+https://iptv--iptv.repl.co/Arabic/Ekhbariyah/
 #EXTINF:-0, LA1
 #EXTGRP: SPAIN
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
 #EXTINF:-0, LA2
 #EXTGRP: DOC
 https://rtvelivestream-lvlt.rtve.es/la2_main_dvr_1080.m3u8
+#EXTINF:-0, LA2
+#EXTGRP: SPAIN
+https://rtvelivestream-lvlt.rtve.es/la2_main_dvr_1080.m3u8
 #EXTINF:-0, 24H
 #EXTGRP: NEWS
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-0, 24H
+#EXTGRP: SPAIN
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-0, TF1
 #EXTGRP: FRANCE
@@ -312,11 +440,20 @@ https://stream.mmsiptv.com/live/france2/chunks.m3u8
 #EXTINF:-0, FRANCE 3
 #EXTGRP: FRANCE
 https://stream.mmsiptv.com/live/france3/chunks.m3u8
+#EXTINF:-0, FRANCE 3
+#EXTGRP: NEWS
+https://stream.mmsiptv.com/live/france3/chunks.m3u8
 #EXTINF:-0, FRANCE 4
 #EXTGRP: FRANCE
 https://stream.mmsiptv.com/live/france4/chunks.m3u8
+#EXTINF:-0, FRANCE 4
+#EXTGRP: KIDS
+https://stream.mmsiptv.com/live/france4/chunks.m3u8
 #EXTINF:-0, FRANCE 5
 #EXTGRP: FRANCE
+https://stream.mmsiptv.com/live/france5/chunks.m3u8
+#EXTINF:-0, FRANCE 5
+#EXTGRP: DOC
 https://stream.mmsiptv.com/live/france5/chunks.m3u8
 #EXTINF:-0, M6
 #EXTGRP: FRANCE
@@ -339,11 +476,17 @@ https://stream.mmsiptv.com/live/nrj12/chunks.m3u8
 #EXTINF:-0, GULLI
 #EXTGRP: KIDS
 https://stream.mmsiptv.com/live/gulli/chunks.m3u8
+#EXTINF:-0, GULLI
+#EXTGRP: FRANCE
+https://stream.mmsiptv.com/live/gulli/chunks.m3u8
 #EXTINF:-0, TF1 SERIE FILM
 #EXTGRP: FRANCE
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-0, LCI
 #EXTGRP: NEWS
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-0, LCI
+#EXTGRP: FRANCE
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-0, OMAN TV
 #EXTGRP: OMAN
@@ -356,6 +499,12 @@ https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:-0, OMAN TV CULTURE
 #EXTGRP: CULTURE
+https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
+#EXTINF:-0, OMAN TV SPORTS
+#EXTGRP: OMAN
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-0, OMAN TV CULTURE
+#EXTGRP: OMAN
 https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
 #EXTINF:-0, QATAR TV
 #EXTGRP: QATAR
@@ -384,14 +533,23 @@ https://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:-0, TRT3
 #EXTGRP: TURK
 http://tv-trt3.live.trt.com.tr/master_720.m3u8
+#EXTINF:-0, TRT3
+#EXTGRP: SPORTS
+http://tv-trt3.live.trt.com.tr/master_720.m3u8
 #EXTINF:-0, TRT AVAZ
 #EXTGRP: TURK
 http://tv-trtavaz.live.trt.com.tr/master_720.m3u8
 #EXTINF:-0, TRT BELGESEL
 #EXTGRP: TURK
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:-0, TRT BELGESEL
+#EXTGRP: DOC
+http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-0, TRT COCUK
 #EXTGRP: TURK
+https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-0, TRT COCUK
+#EXTGRP: KIDS
 https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-0, SUDAN
 #EXTGRP: SUDAN
