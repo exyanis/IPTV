@@ -578,3 +578,6 @@ https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/chunklist_b2064000.
 #EXTINF:-0, SUDAN
 #EXTGRP: SUDAN
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8
+#EXTINF:-0, ZDF
+#EXTGRP: GERMANY
+https://to.hopslan.com/zdf/index.m3u8
