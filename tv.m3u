@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTM3U	#EXTM3U
 #EXTINF:0 tvg-id="TF1.fr" group-title="France" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/TF1_2013.png/revision/latest?cb=20150511073416&path-prefix=fr",TF1	#EXTINF:0,TF1
-#EXTLOGO: https://static.wikia.nocookie.net/logos/images/6/6f/TF1_2013.png/revision/latest?cb=20150511073416&path-prefix=fr
-#EXTGRP: FRANCE
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8	https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:0 tvg-id="france2.fr" group-title="France" tvg-logo="https://static1.ozap.com/articles/1/59/07/61/@/4631083-logo-de-france-2-opengraph_1200-2.png",France 2	
 https://stream.mmsiptv.com/live/france2/chunks.m3u8	
 #EXTINF:0 tvg-id="france3.fr" group-title="France" tvg-logo="https://chateau-gaillard-amboise.fr/wp-content/uploads/2019/11/france_3_logo_rvb_3_couleur_noir-3480759.png",France 3	
