@@ -1,4 +1,2 @@
-#EXTINF: 0, TF1
-#EXTGRP: FRANCE
-#EXTIMG: https://i.ibb.co/M8GjLmy/TF1.png
+#EXTINF: 0 tvg-id="tf1.fr", TF1 
 https://stream.mmsiptv.com/live/tf1/chunks.m3u8
