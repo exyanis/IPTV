@@ -9,3 +9,5 @@ https://stream.mmsiptv.com/live/france3/chunks.m3u8
 https://stream.mmsiptv.com/live/france4/chunks.m3u8
 #EXTINF:0 tvg-id="france5.fr" group-title="France" tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2018/01/france_5_logo_rvb_5_couleur_noir-crop-1-300x239.png",France 5
 https://stream.mmsiptv.com/live/france5/chunks.m3u8
+#EXTINF:0 tvg-id="m6.fr" group-title="France" tvg-logo="https://atelier-merci.com/wp-content/uploads/2019/01/logo-M6-300x300.png",M6
+https://stream.mmsiptv.com/live/m6/chunks.m3u8
