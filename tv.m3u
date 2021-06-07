@@ -11,3 +11,5 @@ https://stream.mmsiptv.com/live/france4/chunks.m3u8
 https://stream.mmsiptv.com/live/france5/chunks.m3u8
 #EXTINF:0 tvg-id="m6.fr" group-title="France" tvg-logo="https://atelier-merci.com/wp-content/uploads/2019/01/logo-M6-300x300.png",M6
 https://stream.mmsiptv.com/live/m6/chunks.m3u8
+#EXTINF:0 tvg-id="arte.fr" group-title="France" tvg-logo="http://assets.stickpng.com/thumbs/5a5b8e5414d8c4188e0b0933.png",arte
+http://stream.tvtap.live:8081/live/fr-arte.stream/playlist.m3u8
