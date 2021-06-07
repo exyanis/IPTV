@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="TF1.fr" group-title="France" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/TF1_2013.png/revision/latest?cb=20150511073416&path-prefix=fr",TF1	#EXTINF:0,TF1
+#EXTINF:0 tvg-id="TF1.fr" group-title="France" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/TF1_2013.png/revision/latest?cb=20150511073416&path-prefix=fr",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:0 tvg-id="france2.fr" group-title="France" tvg-logo="https://static1.ozap.com/articles/1/59/07/61/@/4631083-logo-de-france-2-opengraph_1200-2.png",France 2	
 https://stream.mmsiptv.com/live/france2/chunks.m3u8	
@@ -12,5 +12,10 @@ https://stream.mmsiptv.com/live/france5/chunks.m3u8
 #EXTINF:0 tvg-id="m6.fr" group-title="France" tvg-logo="https://atelier-merci.com/wp-content/uploads/2019/01/logo-M6-300x300.png",M6	
 https://stream.mmsiptv.com/live/m6/chunks.m3u8	
 #EXTINF:0 tvg-id="arte.fr" group-title="France" tvg-logo="http://assets.stickpng.com/thumbs/5a5b8e5414d8c4188e0b0933.png",arte	
-http://stream.tvtap.live:8081/live/fr-arte.stream/playlist.m3u8	
-
+http://stream.tvtap.live:8081/live/fr-arte.stream/playlist.m3u8
+#EXTINF:0 tvg-id="c8.fr" group-title="France" tvg-logo="https://resize.programme-television.ladmedia.fr/rcrop/1200,/img/var/premiere/storage/images/tele-7-jours/news-tv/d8-le-5-septembre-la-chaine-devient-c8-4353034/77926999-1-fre-FR/D8-le-5-septembre-la-chaine-devient-C8.png",C8	
+https://stream.mmsiptv.com/live/c8/chunks.m3u8	
+#EXTINF:0 tvg-id="w9.fr" group-title="France" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F45304d9002f9597b.2Epng/1200x630/crop-from/top/quality/80/w9.png",W9
+https://stream.mmsiptv.com/live/w9/chunks.m3u8	
+#EXTINF:0 tvg-id="tmc.fr" group-title="France" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F183768217f630352.2Epng/1200x630/crop-from/top/quality/80/tmc.png",TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
