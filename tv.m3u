@@ -17,5 +17,3 @@ http://stream.tvtap.live:8081/live/fr-arte.stream/playlist.m3u8
 https://stream.mmsiptv.com/live/c8/chunks.m3u8	
 #EXTINF:0 tvg-id="w9.fr" group-title="France" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F45304d9002f9597b.2Epng/1200x630/crop-from/top/quality/80/w9.png",W9
 https://stream.mmsiptv.com/live/w9/chunks.m3u8	
-#EXTINF:0 tvg-id="tmc.fr" group-title="France" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F183768217f630352.2Epng/1200x630/crop-from/top/quality/80/tmc.png",TMC
-https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
