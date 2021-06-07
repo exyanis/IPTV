@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-0 tvg-id="tf1.fr", TF1 
+#EXTINF:-1 tvg-id="tf1.fr", TF1 
 https://stream.mmsiptv.com/live/tf1/chunks.m3u8
