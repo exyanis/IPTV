@@ -50,3 +50,12 @@ http://astream.apk1088.com:18888/channel.php?id=CCTV16HD_7000&/PLTV/hls.smil.m3u
 #EXTINF:-0, CCTV17
 #EXTGRP:CHINA
 http://astream.apk1088.com:18888/channel.php?id=CCTV17HD_7000&/PLTV/hls.smil.m3u8
+#EXTINF:-0,NPO1
+#EXTGRP:NETHERLAND
+http://80.24.75.92:5555/udp/239.111.0.1:1234
+#EXTINF:-0,NET.5
+#EXTGRP:NETHERLAND
+http://80.24.75.92:5555/udp/239.111.0.2:1234
+
+#EXTINF:-0, CCTV17
+#EXTGRP:CHINA
