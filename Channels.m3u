@@ -1,1 +1,35 @@
-
+#EXTM3U
+#EXTINF:-0, CCTV1
+http://astream.apk1088.com:18888/channel.php?id=CCTV1HD_7000&/PLTV/hls.smil.m3u8
+#EXTINF:-0, CCTV2
+http://astream.apk1088.com:18888/channel.php?id=CCTV2HD_7000&/PLTV/hls.smil.m3u8
+#EXTINF:-0, CCTV3
+http://astream.apk1088.com:18888/channel.php?id=CCTV3HD_7000&/PLTV/hls.smil.m3u8
+#EXTINF:-0, CCTV4
+http://astream.apk1088.com:18888/channel.php?id=CCTV4HD_7000&/PLTV/hls.smil.m3u8
+#EXTINF:-0, CCTV5
+http://astream.apk1088.com:18888/channel.php?id=CCTV5HD_7000&/PLTV/hls.smil.m3u8
+#EXTINF:-0, CCTV6
+http://astream.apk1088.com:18888/channel.php?id=CCTV6HD_7000&/PLTV/hls.smil.m3u8
+#EXTINF:-0, CCTV7
+http://astream.apk1088.com:18888/channel.php?id=CCTV7HD_7000&/PLTV/hls.smil.m3u8
+#EXTINF:-0, CCTV8
+http://astream.apk1088.com:18888/channel.php?id=CCTV8HD_7000&/PLTV/hls.smil.m3u8
+#EXTINF:-0, CCTV9
+http://astream.apk1088.com:18888/channel.php?id=CCTV9HD_7000&/PLTV/hls.smil.m3u8
+#EXTINF:-0, CCTV10
+http://astream.apk1088.com:18888/channel.php?id=CCTV10HD_7000&/PLTV/hls.smil.m3u8
+#EXTINF:-0, CCTV11
+http://astream.apk1088.com:18888/channel.php?id=CCTV11HD_7000&/PLTV/hls.smil.m3u8
+#EXTINF:-0, CCTV12
+http://astream.apk1088.com:18888/channel.php?id=CCTV12HD_7000&/PLTV/hls.smil.m3u8
+#EXTINF:-0, CCTV13
+http://astream.apk1088.com:18888/channel.php?id=CCTV13HD_7000&/PLTV/hls.smil.m3u8
+#EXTINF:-0, CCTV14
+http://astream.apk1088.com:18888/channel.php?id=CCTV14HD_7000&/PLTV/hls.smil.m3u8
+#EXTINF:-0, CCTV15
+http://astream.apk1088.com:18888/channel.php?id=CCTV15HD_7000&/PLTV/hls.smil.m3u8
+#EXTINF:-0, CCTV16
+http://astream.apk1088.com:18888/channel.php?id=CCTV16HD_7000&/PLTV/hls.smil.m3u8
+#EXTINF:-0, CCTV17
+http://astream.apk1088.com:18888/channel.php?id=CCTV17HD_7000&/PLTV/hls.smil.m3u8
