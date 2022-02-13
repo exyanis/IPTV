@@ -1,15 +1,21 @@
 #EXTM3U
 #EXTINF:-0, CCTV1
+#EXTGRP:CHINA
 http://astream.apk1088.com:18888/channel.php?id=CCTV1HD_7000&/PLTV/hls.smil.m3u8
 #EXTINF:-0, CCTV2
+#EXTGRP:CHINA
 http://astream.apk1088.com:18888/channel.php?id=CCTV2HD_7000&/PLTV/hls.smil.m3u8
 #EXTINF:-0, CCTV3
+#EXTGRP:CHINA
 http://astream.apk1088.com:18888/channel.php?id=CCTV3HD_7000&/PLTV/hls.smil.m3u8
 #EXTINF:-0, CCTV4
+#EXTGRP:CHINA
 http://astream.apk1088.com:18888/channel.php?id=CCTV4HD_7000&/PLTV/hls.smil.m3u8
 #EXTINF:-0, CCTV5
+#EXTGRP:CHINA
 http://astream.apk1088.com:18888/channel.php?id=CCTV5HD_7000&/PLTV/hls.smil.m3u8
 #EXTINF:-0, CCTV6
+#EXTGRP:CHINA
 http://astream.apk1088.com:18888/channel.php?id=CCTV6HD_7000&/PLTV/hls.smil.m3u8
 #EXTINF:-0, CCTV7
 http://astream.apk1088.com:18888/channel.php?id=CCTV7HD_7000&/PLTV/hls.smil.m3u8
