@@ -50,12 +50,133 @@ http://astream.apk1088.com:18888/channel.php?id=CCTV16HD_7000&/PLTV/hls.smil.m3u
 #EXTINF:-0, CCTV17
 #EXTGRP:CHINA
 http://astream.apk1088.com:18888/channel.php?id=CCTV17HD_7000&/PLTV/hls.smil.m3u8
-#EXTINF:-0,NPO1
-#EXTGRP:NETHERLAND
+#EXTM3U
+#EXTINF:-1 group-title="NEDERLAND", NPO 1 HD
 http://80.24.75.92:5555/udp/239.111.0.1:1234
-#EXTINF:-0,NET.5
-#EXTGRP:NETHERLAND
+#EXTINF:-1 group-title="NEDERLAND", NPO 2 HD
+http://80.24.75.92:5555/udp/239.111.1.1:1234
+#EXTINF:-1 group-title="NEDERLAND", NPO 3 HD
+http://80.24.75.92:5555/udp/239.111.0.3:1234
+#EXTINF:-1 group-title="NEDERLAND", RTL 4 HD
+http://80.24.75.92:5555/udp/239.111.2.1:1234
+#EXTINF:-1 group-title="NEDERLAND", RTL 5 HD
+http://80.24.75.92:5555/udp/239.111.2.2:1234
+#EXTINF:-1 group-title="NEDERLAND", SBS6 HD
+http://80.24.75.92:5555/udp/239.111.1.2:1234
+#EXTINF:-1 group-title="NEDERLAND", RTL 7 HD
+http://80.24.75.92:5555/udp/239.111.2.3:1234
+#EXTINF:-1 group-title="NEDERLAND", RTL 8 HD
+http://80.24.75.92:5555/udp/239.111.2.4:1234
+#EXTINF:-1 group-title="NEDERLAND", SBS9
+http://80.24.75.92:5555/udp/239.111.3.1:1234
+#EXTINF:-1 group-title="NEDERLAND", Net5 HD
 http://80.24.75.92:5555/udp/239.111.0.2:1234
+#EXTINF:-1 group-title="NEDERLAND", Veronica / Disney XD HD
+http://80.24.75.92:5555/udp/239.111.0.4:1234
+#EXTINF:-1 group-title="BELGIE", Een HD
+http://80.24.75.92:5555/udp/239.111.0.6:1234
+#EXTINF:-1 group-title="BELGIE",Canvas HD
+http://80.24.75.92:5555/udp/239.111.0.5:1234
+#EXTINF:-1 group-title="BELGIE", VTM HD
+http://80.24.75.92:5555/udp/239.111.2.5:1234
+#EXTINF:-1 group-title="DEUTSCHLAND", Das Erste
+http://80.24.75.92:5555/udp/239.110.19.1:1234
+#EXTINF:-1 group-title="DEUTSCHLAND", ZDF
+http://80.24.75.92:5555/udp/239.110.16.2:1234
+#EXTINF:-1 group-title="DEUTSCHLAND", Super RTL
+http://80.24.75.92:5555/udp/239.110.17.3:1234
+#EXTINF:-1 group-title="DEUTSCHLAND", SAT.1
+http://80.24.75.92:5555/udp/239.110.20.1:1234
+#EXTINF:-1 group-title="DEUTSCHLAND", 3sat
+http://80.24.75.92:5555/udp/239.110.16.3:1234
+#EXTINF:-1 group-title="DEUTSCHLAND", Insight TV HD
+http://insighttv-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="DEUTSCHLAND", KiKA
+http://80.24.75.92:5555/udp/239.110.16.1:1234
+#EXTINF:-1 group-title="DEUTSCHLAND", arte
+http://80.24.75.92:5555/udp/239.110.18.1:1234
+#EXTINF:-1 group-title="DEUTSCHLAND", arte
+http://80.24.75.92:5555/udp/239.110.22.1:1234
+#EXTINF:-1 group-title="UK", Inwild HD
+http://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK", Inwonder HD
+http://inwonder-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK", Introuble HD
+http://introuble-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK", Travel XP HD
+http://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK", Edge Sport HD
+http://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK", Horse & Country TV HD
+http://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SPAIN", La 1 HD
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1 group-title="SPAIN", La 2 HD
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+http://91.126.141.13:1935/live/11/playlist.m3u8
+#EXTINF:-1 group-title="SPAIN", Antena 3 HD
+http://91.126.141.13:1935/live/11/playlist.m3u8
+#EXTINF:-1 group-title="SPAIN", Cuatro HD
+http://91.126.141.13:1935/live/51/1800-def.m3u8
+#EXTINF:-1 group-title="SPAIN", Tele5 HD
+http://91.126.141.13:1935/live/61/playlist.m3u8
+#EXTINF:-1 group-title="SPAIN", La Sexta HD
+http://91.126.141.13:1935/live/21/playlist.m3u8
+#EXTINF:-1 group-title="SPORT", DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="SPORT", Red Bull TV 
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 group-title="SPORT", Nova sport3 HD
+http://84.42.140.147:8890/hdmi
+#EXTINF:-1 group-title="SPORT", O2 TV Tennis HD
+http://84.42.140.148:8880/hdmi
+#EXTINF:-1 group-title="SPORT", Sky Sports Cricket
+http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT", Extreme Sports Channel
+http://213.151.233.20:8000/dna-6071-tv-pc/hls/4005v110.m3u8
+#EXTINF:-1 group-title="SPORT", Eleven Sports 1 HD
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 group-title="SPORT", Canal + Sport HD
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT", Polsat HD
+http://207.110.52.61:8080/s/hls/5/9584/polsat_266/1/1/index.m3u8
+#EXTINF:-1 group-title="SPORT", TVP Sport HD
+http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORT", Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="SPORT", Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8?
+#EXTINF:-1 group-title="SPORT", Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8?
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+#EXTINF:-1 group-title="SPORT", Look Sports Rumania
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1617596874&wowzatokenhash=EjMJ30iw-KK1LUMe25wPHYjSf_vZr40HrZmgBSMaf_U=&wowzatokenstarttime=1617553674
+#EXTINF:-1 group-title="SPORT", Look Sports 2 Rumania
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1616918728&wowzatokenhash=VSA7jv0u-Omn3CnlShcjJEklf8e2rR8jAQ8wwDG1_GY=&wowzatokenstarttime=1616879128
+#EXTINF:-1 group-title="SPORT", Look Sports 3 Rumania
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1616918666&wowzatokenhash=sH1EDcTqSUok6EuiGcTMOpiFtl-7ujyDZXnBqpqqohE=&wowzatokenstarttime=1616879066
+#EXTINF:-1 group-title="SPORT", Look Sports+ Rumania
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1617596840&wowzatokenhash=q5uWnJeNO2P6lsob-adxKgsuucRYKL5XypoAiIWOAvM=&wowzatokenstarttime=1617553640
+#EXTINF:-1 group-title="SPORT", O2Tv Sport Rep.Checa
+http://84.42.140.148:8880/hdmi
+#EXTINF:-1 group-title="SPORT", Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="SPORT", TyC Sports Play 1
+https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
+#EXTINF:-1 group-title="SPORT", TyC Sports Play 2
+https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
+#EXTINF:-1 group-title="SPORT", TyC Sports Play 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
+#EXTINF:-1 group-title="SPORT", TyC Sports Play 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
+#EXTINF:-1 group-title="SPORT", TyC Sports Play 5
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
+#EXTINF:-1 group-title="SPORT", TyC Sports Play 6
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
 
-#EXTINF:-0, CCTV17
-#EXTGRP:CHINA
