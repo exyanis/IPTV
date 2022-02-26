@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1, TRT1
+#EXTGRP: TURK
+http://84.22.33.214/TRT1/index.m3u8
+#EXTINF:0, TRT2
+#EXTGRP: TURK
+http://84.22.33.214/TRT2/index.m3u8
