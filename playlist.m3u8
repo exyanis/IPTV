@@ -1,7 +1,48 @@
 #EXTM3U
+#EXTINF:-1,TRT 1
+#EXTGRP: TURK
+http://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1, TRT1
 #EXTGRP: TURK
 http://84.22.33.214/TRT1/index.m3u8
 #EXTINF:0, TRT2
 #EXTGRP: TURK
 http://84.22.33.214/TRT2/index.m3u8
+#EXTINF:-1,TRT Haber
+#EXTGRP: TURK
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT 3
+#EXTGRP: TURK
+http://tv-trt3.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT Avaz
+#EXTGRP: TURK
+http://tv-trtavaz.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT Belgesel
+#EXTGRP: TURK
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Çocuk
+#EXTGRP: TURK
+http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT EBA Ilkokul
+#EXTGRP: TURK
+http://tv-e-okul00.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT Haber
+#EXTGRP: TURK
+https://tv-trthaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Kurdi
+#EXTGRP: TURK
+https://tv-trtkurdi.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT EBA Ortaokul
+#EXTGRP: TURK
+http://tv-e-okul01.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT EBA Lise
+#EXTGRP: TURK
+http://tv-e-okul02.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT Muzik
+#EXTGRP: TURK
+https://tv-trtmuzik.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Türk
+#EXTGRP: TURK
+http://tv-trtturk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
