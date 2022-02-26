@@ -59,7 +59,7 @@ http://149.62.178.66:8000/play/a2aj
 http://149.62.178.66:8000/play/a2r7
 #EXTINF:0 group-title="ARABIC" ,A one TV Jordan
 http://149.62.178.66:8000/play/a2do
-#EXTINF:0 group-title="ARABIC" ,A3 HD
+#EXTINF:0 group-title="ALGERIE" ,A3 HD
 http://149.62.178.66:8000/play/a2fj
 #EXTINF:0 group-title="ARABIC" ,ABN
 http://149.62.178.66:8000/play/a2gh
@@ -479,11 +479,11 @@ http://149.62.178.66:8000/play/a2te
 http://149.62.178.66:8000/play/a2ad
 #EXTINF:0 group-title="ARABIC" ,BELQEES
 http://149.62.178.66:8000/play/a2a7
-#EXTINF:0 group-title="ARABIC" ,BERBERE TV
+#EXTINF:0 group-title="ALGERIE" ,BERBERE TV
 http://149.62.178.66:8000/play/a29j
 #EXTINF:0 group-title="ARABIC" ,BIN OTHAIMEEN
 http://149.62.178.66:8000/play/a2il
-#EXTINF:0 group-title="ARABIC" ,Bahia TV
+#EXTINF:0 group-title="ALGERIE" ,Bahia TV
 http://149.62.178.66:8000/play/a2ef
 #EXTINF:0 group-title="ARABIC" ,Bakous Alexandaria
 http://149.62.178.66:8000/play/a2t0
@@ -497,7 +497,7 @@ http://149.62.178.66:8000/play/a2o8
 http://149.62.178.66:8000/play/a2rw
 #EXTINF:0 group-title="ARABIC" ,Better Life Radio
 http://149.62.178.66:8000/play/a2bq
-#EXTINF:0 group-title="ARABIC" ,Beur TV
+#EXTINF:0 group-title="ALGERIE" ,Beur TV
 http://149.62.178.66:8000/play/a2ee
 #EXTINF:0 group-title="ARABIC" ,CBC
 http://149.62.178.66:8000/play/a2lt
@@ -509,11 +509,11 @@ http://149.62.178.66:8000/play/a2lu
 http://149.62.178.66:8000/play/a2fm
 #EXTINF:0 group-title="ARABIC" ,CGTN-Arabic
 http://149.62.178.66:8000/play/a2ft
-#EXTINF:0 group-title="ARABIC" ,CHAINE 1
+#EXTINF:0 group-title="ALGERIE" ,CHAINE 1
 http://149.62.178.66:8000/play/a2fc
-#EXTINF:0 group-title="ARABIC" ,CHAINE 2
+#EXTINF:0 group-title="ALGERIE" ,CHAINE 2
 http://149.62.178.66:8000/play/a2fd
-#EXTINF:0 group-title="ARABIC" ,CHAINE 3
+#EXTINF:0 group-title="ALGERIE" ,CHAINE 3
 http://149.62.178.66:8000/play/a2fe
 #EXTINF:0 group-title="ARABIC" ,CINEMA PRO
 http://149.62.178.66:8000/play/a2hi
@@ -525,7 +525,7 @@ http://149.62.178.66:8000/play/a2n6
 http://149.62.178.66:8000/play/a2lj
 #EXTINF:0 group-title="ARABIC" ,CTV
 http://149.62.178.66:8000/play/a2o5
-#EXTINF:0 group-title="ARABIC" ,Canal Algerie HD
+#EXTINF:0 group-title="ALGERIE" ,Canal Algerie HD
 http://149.62.178.66:8000/play/a2f6
 #EXTINF:0 group-title="ARABIC" ,Canal Radio
 http://149.62.178.66:8000/play/a2t7
@@ -585,11 +585,11 @@ http://149.62.178.66:8000/play/a2pn
 http://149.62.178.66:8000/play/a2ua
 #EXTINF:0 group-title="ARABIC" ,EDUC 1
 http://149.62.178.66:8000/play/a2h0
-#EXTINF:0 group-title="ARABIC" ,EL BILAD
+#EXTINF:0 group-title="ALGERIE" ,EL BILAD
 http://149.62.178.66:8000/play/a2el
-#EXTINF:0 group-title="ARABIC" ,EL HAYAT TV ALGERIE
+#EXTINF:0 group-title="ALGERIE" ,EL HAYAT TV ALGERIE
 http://149.62.178.66:8000/play/a2eg
-#EXTINF:0 group-title="ARABIC" ,EL HEDDAF TV
+#EXTINF:0 group-title="ALGERIE" ,EL HEDDAF TV
 http://149.62.178.66:8000/play/a2eh
 #EXTINF:0 group-title="ARABIC" ,EL HIKMA TV DZ
 http://149.62.178.66:8000/play/a2l2
@@ -609,9 +609,9 @@ http://149.62.178.66:8000/play/a2he
 http://149.62.178.66:8000/play/a2i8
 #EXTINF:0 group-title="ARABIC" ,ETIHAD TV
 http://149.62.178.66:8000/play/a2cj
-#EXTINF:0 group-title="ARABIC" ,Echorouk NEWS
+#EXTINF:0 group-title="ALGERIE" ,Echorouk NEWS
 http://149.62.178.66:8000/play/a2ec
-#EXTINF:0 group-title="ARABIC" ,Echorouk TV
+#EXTINF:0 group-title="ALGERIE" ,Echorouk TV
 http://149.62.178.66:8000/play/a2ed
 #EXTINF:0 group-title="ARABIC" ,Eductional channel
 http://149.62.178.66:8000/play/a2tn
@@ -633,7 +633,7 @@ http://149.62.178.66:8000/play/a2gn
 http://149.62.178.66:8000/play/a2ew
 #EXTINF:0 group-title="ARABIC" ,Energy FM
 http://149.62.178.66:8000/play/a2b4
-#EXTINF:0 group-title="ARABIC" ,Ennahar TV
+#EXTINF:0 group-title="ALGERIE" ,Ennahar TV
 http://149.62.178.66:8000/play/a2eq
 #EXTINF:0 group-title="ARABIC" ,Eriteria TV
 http://149.62.178.66:8000/play/a2h1
@@ -1207,7 +1207,7 @@ http://149.62.178.66:8000/play/a2g0
 http://149.62.178.66:8000/play/a2d3
 #EXTINF:0 group-title="ARABIC" ,Sama FM
 http://149.62.178.66:8000/play/a2jr
-#EXTINF:0 group-title="ARABIC" ,Samira TV
+#EXTINF:0 group-title="ALGERIE" ,Samira TV
 http://149.62.178.66:8000/play/a2ep
 #EXTINF:0 group-title="ARABIC" ,Saout alaqila
 http://149.62.178.66:8000/play/a2ql
@@ -1303,19 +1303,19 @@ http://149.62.178.66:8000/play/a296
 http://149.62.178.66:8000/play/a2se
 #EXTINF:0 group-title="ARABIC" ,TUNISNA
 http://149.62.178.66:8000/play/a2go
-#EXTINF:0 group-title="ARABIC" ,TV 4 HD
+#EXTINF:0 group-title="ALGERIE" ,TV 4 HD
 http://149.62.178.66:8000/play/a2f7
-#EXTINF:0 group-title="ARABIC" ,TV 5 HD
+#EXTINF:0 group-title="ALGERIE" ,TV 5 HD
 http://149.62.178.66:8000/play/a2f8
-#EXTINF:0 group-title="ARABIC" ,TV 6 HD
+#EXTINF:0 group-title="ALGERIE" ,TV 6 HD
 http://149.62.178.66:8000/play/a2f9
 #EXTINF:0 group-title="ARABIC" ,TV TCHAD
 http://149.62.178.66:8000/play/a2i0
 #EXTINF:0 group-title="ARABIC" ,TV5
 http://149.62.178.66:8000/play/a2lc
-#EXTINF:0 group-title="ARABIC" ,TV7 ELMAARIFA
+#EXTINF:0 group-title="ALGERIE" ,TV7 ELMAARIFA
 http://149.62.178.66:8000/play/a2fa
-#EXTINF:0 group-title="ARABIC" ,TV8 EDHAKIRA
+#EXTINF:0 group-title="ALGERIE" ,TV8 EDHAKIRA
 http://149.62.178.66:8000/play/a2fb
 #EXTINF:0 group-title="ARABIC" ,Tamazight
 http://149.62.178.66:8000/play/a2ao
