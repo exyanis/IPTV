@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="test", test 1
-https://itvepg2.at.dz/iptvepg/frame1039/tv_play.jsp?ch=ch00000000000000001021&ci=0101&cc=0101&df=1&ct=2&ix=1&cii=-1
-#EXTINF:-1 group-title="test", test 2
-https://itvepg2.at.dz/iptvepg/frame1039/tv_play.jsp?ch=ch00000000000000001021
 #EXTINF:-1 group-title="NEDERLAND", NPO 1 HD
 http://80.24.75.92:5555/udp/239.111.0.1:1234
 #EXTINF:-1 group-title="NEDERLAND", NPO 2 HD
