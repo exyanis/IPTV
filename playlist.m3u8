@@ -33,6 +33,8 @@ https://tv-trthaber.live.trt.com.tr/master.m3u8
 #EXTGRP: TURK
 https://tv-trtkurdi.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT EBA Ortaokul
+#EXTINF:-1,TGRT EU	
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTGRP: TURK
 http://tv-e-okul01.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT EBA Lise
@@ -46,3 +48,13 @@ https://tv-trtmuzik.live.trt.com.tr/master.m3u8
 http://tv-trtturk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TV4 HD
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1,tivi TÜRK
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1,Star TV
+https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1,Power Turk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1,Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
