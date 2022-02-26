@@ -1,4 +1,38 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="cctv1" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv1.png" group-title="央视",CCTV-1
+https://iptv.jmsooo.com/live/cctv1/index.m3u8
+#EXTINF:-1 tvg-id="cctv2" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv2.png" group-title="央视",CCTV-2
+https://iptv.jmsooo.com/live/cctv2/index.m3u8
+#EXTINF:-1 tvg-id="cctv3" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv3.png" group-title="央视",CCTV-3
+https://iptv.jmsooo.com/live/cctv3/index.m3u8
+#EXTINF:-1 tvg-id="cctv4" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv4.png" group-title="央视",CCTV-4
+https://iptv.jmsooo.com/live/cctv4/index.m3u8
+#EXTINF:-1 tvg-id="cctv5" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv5.png" group-title="央视",CCTV-5
+https://iptv.jmsooo.com/live/cctv5/index.m3u8
+#EXTINF:-1 tvg-id="cctv6" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv6.png" group-title="央视",CCTV-6
+https://iptv.jmsooo.com/live/cctv6/index.m3u8
+#EXTINF:-1 tvg-id="cctv7" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv7.png" group-title="央视",CCTV-7
+https://iptv.jmsooo.com/live/cctv7/index.m3u8
+#EXTINF:-1 tvg-id="cctv8" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv8.png" group-title="央视",CCTV-8
+https://iptv.jmsooo.com/live/cctv8/index.m3u8
+#EXTINF:-1 tvg-id="cctv9" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv9.png" group-title="央视",CCTV-9
+https://iptv.jmsooo.com/live/cctv9/index.m3u8
+#EXTINF:-1 tvg-id="cctv10" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv10.png" group-title="央视",CCTV-10
+https://iptv.jmsooo.com/live/cctv10/index.m3u8
+#EXTINF:-1 tvg-id="cctv11" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv11.png" group-title="央视",CCTV-11
+https://iptv.jmsooo.com/live/cctv11/index.m3u8
+#EXTINF:-1 tvg-id="cctv12" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv12.png" group-title="央视",CCTV-12
+https://iptv.jmsooo.com/live/cctv12/index.m3u8
+#EXTINF:-1 tvg-id="cctv13" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv13.png" group-title="央视",CCTV-13
+https://iptv.jmsooo.com/live/cctv13/index.m3u8
+#EXTINF:-1 tvg-id="cctv14" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv14.png" group-title="央视",CCTV-14
+https://iptv.jmsooo.com/live/cctv14/index.m3u8
+#EXTINF:-1 tvg-id="cctv15" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv15.png" group-title="央视",CCTV-15
+https://iptv.jmsooo.com/live/cctv15/index.m3u8
+#EXTINF:-1 tvg-id="cctv16" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv16.png" group-title="央视",CCTV-16
+https://iptv.jmsooo.com/live/cctv16/index.m3u8
+#EXTINF:-1 tvg-id="cctv17" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv17.png" group-title="央视",CCTV-17
+https://iptv.jmsooo.com/live/cctv17/index.m3u8
 #EXTINF:-1 group-title="NEDERLAND", NPO 1 HD
 http://80.24.75.92:5555/udp/239.111.0.1:1234
 #EXTINF:-1 group-title="NEDERLAND", NPO 2 HD
