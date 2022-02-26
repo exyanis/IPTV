@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1, TRT1
+#EXTGRP:TURK
+https://tv-trt1.medya.trt.com.tr/master.m3u8"
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv1.png" group-title="央视",CCTV-1
 https://iptv.jmsooo.com/live/cctv1/index.m3u8
 #EXTINF:-1 tvg-id="cctv2" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv2.png" group-title="央视",CCTV-2
