@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,TF1
+#EXTGRP: FRANCE
+https://vvxfjutmnxwtwbgm.wzcdn654.net:8443/hls/vb79me.m3u8?s=8slntIbb9shfYJesvxbUmg&e=1648170273
+#EXTINF:-1,FRANCE2
+#EXTGRP: FRANCE
+https://vvxfjutmnxwtwbgm.wzcdn654.net:8443/hls/12xqh8ltt6.m3u8?s=ZzpxfW5j7_K2SpCTQJVGNw&e=1648170467
 #EXTINF:-1,TRT 1
 #EXTGRP: TURK
 http://tv-trt1.live.trt.com.tr/master_720.m3u8
