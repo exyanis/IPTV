@@ -2,6 +2,9 @@
 #EXTINF:-1, QATAR TV
 #EXTGRP:ARABIC CHANNELS
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8
+#EXTINF:-1, QATAR TV 2
+#EXTGRP:ARABIC CHANNELS
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master480p.m3u8
 #EXTINF:-1, ALJAZEERA LIVE
 #EXTGRP:NEWS CHANNELS
 https://live-hls-web-ajm.getaj.net/AJM/04.m3u8
