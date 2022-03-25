@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, Test
 #EXTGRP:test CHANNELS
-http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_240p/chunks.m3u8?nimblesessionid=26201024&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjUvMjAyMiAwOTozMDozOSBQTSZoYXNoX3ZhbHVlPS8wTkg3WVBQeXI0dWFXeVUzdUlwNUE9PSZ2YWxpZG1pbnV0ZXM9MTA=&?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjUvMjAyMiAwOTozMDozOSBQTSZoYXNoX3ZhbHVlPS8wTkg3WVBQeXI0dWFXeVUzdUlwNUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+http://azrotv.com/m3u8/pplayer/fr.php/https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1, TF1
 #EXTGRP:FRENCH CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://tf1-hls-live.tf1.fr/video/WCbfr-Lc805LLTpq9GuA6g/1648257029/out/v1/c2e382be3aa2486e8753747e7bb6157e/index_3.m3u8
