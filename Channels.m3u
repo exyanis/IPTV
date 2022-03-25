@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1, TF1
 #EXTGRP:FRENCH CHANNELS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://sv7.data-stream.top/4a90af57be05f29a09ca8ec8db46c5d58f115fa9d0134704750f45fe5483731c/hls/tf2-HD.m3u8
+#EXTINF:-1, TF1
+#EXTGRP:FRENCH CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://tf1-hls-live.tf1.fr/video/WCbfr-Lc805LLTpq9GuA6g/1648257029/out/v1/c2e382be3aa2486e8753747e7bb6157e/index_3.m3u8
 #EXTINF:-1, ALKASS ONE
 #EXTGRP:SPORTS CHANNELS
