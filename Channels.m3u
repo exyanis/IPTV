@@ -1,146 +1,28 @@
 #EXTM3U
-#EXTINF:-1,TF1
-#EXTGRP: FRANCE
-https://vvxfjutmnxwtwbgm.wzcdn654.net:8443/hls/vb79me.m3u8?s=8slntIbb9shfYJesvxbUmg&e=1648170273
-#EXTINF:-1,FRANCE2
-#EXTGRP: FRANCE
-https://vvxfjutmnxwtwbgm.wzcdn654.net:8443/hls/12xqh8ltt6.m3u8?s=ZzpxfW5j7_K2SpCTQJVGNw&e=1648170467
-#EXTINF:-1,TRT 1
-#EXTGRP: TURK
-http://tv-trt1.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1, TRT1
-#EXTGRP: TURK
-http://84.22.33.214/TRT1/index.m3u8
-#EXTINF:0, TRT2
-#EXTGRP: TURK
-http://84.22.33.214/TRT2/index.m3u8
-#EXTINF:-1,TRT Haber
-#EXTGRP: TURK
-https://tv-trthaber.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,TRT 3
-#EXTGRP: TURK
-http://tv-trt3.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,TRT Avaz
-#EXTGRP: TURK
-http://tv-trtavaz.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,TRT Belgesel
-#EXTGRP: TURK
-https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT Çocuk
-#EXTGRP: TURK
-http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,TRT EBA Ilkokul
-#EXTGRP: TURK
-http://tv-e-okul00.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,TRT Haber
-#EXTGRP: TURK
-https://tv-trthaber.live.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT Kurdi
-#EXTGRP: TURK
-https://tv-trtkurdi.live.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT EBA Ortaokul
-#EXTINF:-1,TGRT EU	
-https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
-#EXTGRP: TURK
-http://tv-e-okul01.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,TRT EBA Lise
-#EXTGRP: TURK
-http://tv-e-okul02.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,TRT Muzik
-#EXTGRP: TURK
-https://tv-trtmuzik.live.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT Türk
-#EXTGRP: TURK
-http://tv-trtturk.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,TRT World
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1,TV4 HD
-https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1,tivi TÜRK
-https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1,Star TV
-https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1,Power Turk
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1,Power TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:-1 tvg-id="cctv1" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv1.png" group-title="央视",CCTV-1
-https://iptv.jmsooo.com/live/cctv1/index.m3u8
-#EXTINF:-1 tvg-id="cctv2" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv2.png" group-title="央视",CCTV-2
-https://iptv.jmsooo.com/live/cctv2/index.m3u8
-#EXTINF:-1 tvg-id="cctv3" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv3.png" group-title="央视",CCTV-3
-https://iptv.jmsooo.com/live/cctv3/index.m3u8
-#EXTINF:-1 tvg-id="cctv4" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv4.png" group-title="央视",CCTV-4
-https://iptv.jmsooo.com/live/cctv4/index.m3u8
-#EXTINF:-1 tvg-id="cctv5" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv5.png" group-title="央视",CCTV-5
-https://iptv.jmsooo.com/live/cctv5/index.m3u8
-#EXTINF:-1 tvg-id="cctv6" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv6.png" group-title="央视",CCTV-6
-https://iptv.jmsooo.com/live/cctv6/index.m3u8
-#EXTINF:-1 tvg-id="cctv7" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv7.png" group-title="央视",CCTV-7
-https://iptv.jmsooo.com/live/cctv7/index.m3u8
-#EXTINF:-1 tvg-id="cctv8" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv8.png" group-title="央视",CCTV-8
-https://iptv.jmsooo.com/live/cctv8/index.m3u8
-#EXTINF:-1 tvg-id="cctv9" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv9.png" group-title="央视",CCTV-9
-https://iptv.jmsooo.com/live/cctv9/index.m3u8
-#EXTINF:-1 tvg-id="cctv10" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv10.png" group-title="央视",CCTV-10
-https://iptv.jmsooo.com/live/cctv10/index.m3u8
-#EXTINF:-1 tvg-id="cctv11" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv11.png" group-title="央视",CCTV-11
-https://iptv.jmsooo.com/live/cctv11/index.m3u8
-#EXTINF:-1 tvg-id="cctv12" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv12.png" group-title="央视",CCTV-12
-https://iptv.jmsooo.com/live/cctv12/index.m3u8
-#EXTINF:-1 tvg-id="cctv13" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv13.png" group-title="央视",CCTV-13
-https://iptv.jmsooo.com/live/cctv13/index.m3u8
-#EXTINF:-1 tvg-id="cctv14" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv14.png" group-title="央视",CCTV-14
-https://iptv.jmsooo.com/live/cctv14/index.m3u8
-#EXTINF:-1 tvg-id="cctv15" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv15.png" group-title="央视",CCTV-15
-https://iptv.jmsooo.com/live/cctv15/index.m3u8
-#EXTINF:-1 tvg-id="cctv16" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv16.png" group-title="央视",CCTV-16
-https://iptv.jmsooo.com/live/cctv16/index.m3u8
-#EXTINF:-1 tvg-id="cctv17" tvg-logo="https://iptv.jmsooo.com/live/tvpng/cctv17.png" group-title="央视",CCTV-17
-https://iptv.jmsooo.com/live/cctv17/index.m3u8
-#EXTINF:-1 group-title="NEDERLAND", NPO 1 HD
-http://80.24.75.92:5555/udp/239.111.0.1:1234
-#EXTINF:-1 group-title="NEDERLAND", NPO 2 HD
-http://80.24.75.92:5555/udp/239.111.1.1:1234
-#EXTINF:-1 group-title="NEDERLAND", NPO 3 HD
-http://80.24.75.92:5555/udp/239.111.0.3:1234
-#EXTINF:-1 group-title="NEDERLAND", RTL 4 HD
-http://80.24.75.92:5555/udp/239.111.2.1:1234
-#EXTINF:-1 group-title="NEDERLAND", RTL 5 HD
-http://80.24.75.92:5555/udp/239.111.2.2:1234
-#EXTINF:-1 group-title="NEDERLAND", SBS6 HD
-http://80.24.75.92:5555/udp/239.111.1.2:1234
-#EXTINF:-1 group-title="NEDERLAND", RTL 7 HD
-http://80.24.75.92:5555/udp/239.111.2.3:1234
-#EXTINF:-1 group-title="NEDERLAND", RTL 8 HD
-http://80.24.75.92:5555/udp/239.111.2.4:1234
-#EXTINF:-1 group-title="NEDERLAND", SBS9
-http://80.24.75.92:5555/udp/239.111.3.1:1234
-#EXTINF:-1 group-title="NEDERLAND", Net5 HD
-http://80.24.75.92:5555/udp/239.111.0.2:1234
-#EXTINF:-1 group-title="NEDERLAND", Veronica / Disney XD HD
-http://80.24.75.92:5555/udp/239.111.0.4:1234
-#EXTINF:-1 group-title="BELGIE", Een HD
-http://80.24.75.92:5555/udp/239.111.0.6:1234
-#EXTINF:-1 group-title="BELGIE",Canvas HD
-http://80.24.75.92:5555/udp/239.111.0.5:1234
-#EXTINF:-1 group-title="BELGIE", VTM HD
-http://80.24.75.92:5555/udp/239.111.2.5:1234
-#EXTINF:-1 group-title="DEUTSCHLAND", Das Erste
-http://80.24.75.92:5555/udp/239.110.19.1:1234
-#EXTINF:-1 group-title="DEUTSCHLAND", ZDF
-http://80.24.75.92:5555/udp/239.110.16.2:1234
-#EXTINF:-1 group-title="DEUTSCHLAND", Super RTL
-http://80.24.75.92:5555/udp/239.110.17.3:1234
-#EXTINF:-1 group-title="DEUTSCHLAND", SAT.1
-http://80.24.75.92:5555/udp/239.110.20.1:1234
-#EXTINF:-1 group-title="DEUTSCHLAND", 3sat
-http://80.24.75.92:5555/udp/239.110.16.3:1234
-#EXTINF:-1 group-title="DEUTSCHLAND", Insight TV HD
-http://insighttv-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="DEUTSCHLAND", KiKA
-http://80.24.75.92:5555/udp/239.110.16.1:1234
-#EXTINF:-1 group-title="DEUTSCHLAND", arte
-http://80.24.75.92:5555/udp/239.110.18.1:1234
-#EXTINF:-1 group-title="DEUTSCHLAND", arte
-http://80.24.75.92:5555/udp/239.110.22.1:1234
+#EXTINF:-1,Abu Dhabi Sports 1
+#EXTGRP:SPORTS CHANNELS
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2
+#EXTGRP:SPORTS CHANNELS
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1,Abu Dhabi Sports 3
+#EXTGRP:SPORTS CHANNELS 
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1,Abu Dhabi Sports 4
+#EXTGRP:SPORTS CHANNELS  
+https://admdn4.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1,Abu Dhabi Aloula 
+#EXTGRP:ARABIC CHANNELS
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1,Abu Dhabi Drama 
+#EXTGRP:ARABIC CHANNELS
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1,Abu Dhabi Emirates 
+#EXTGRP:ARABIC CHANNELS
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1,Al Sharqiya Min Kabla
+#EXTGRP:ARABIC CHANNELS
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1,Al Wousta TV
+#EXTGRP:ARABIC CHANNELS
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
