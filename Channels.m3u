@@ -96,3 +96,9 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1, ROTANA DRAMA
 #EXTGRP: ROTANA CHANNELS
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_1.m3u8
+#EXTINF:-1, ROTANA CINEMA KSA
+#EXTGRP: ROTANA CHANNELS
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_3.m3u8
+#EXTINF:-1, ROTANA +
+#EXTGRP: ROTANA CHANNELS
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_8.m3u8
