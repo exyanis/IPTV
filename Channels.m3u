@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 ,Toon Goggles
+#EXTGRP:KIDS CHANNELS
+https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,Travel XP
+#EXTGRP:DOCS CHANNELS
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Insight TV
 #EXTGRP:DOCS CHANNELS
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
