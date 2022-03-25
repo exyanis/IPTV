@@ -1,4 +1,28 @@
 #EXTM3U
+
+http://162.212.178.69:41042/bysid/608
+#EXTINF:-1 RTP1
+#EXTGRP:PORTUGAL CHANNELS
+https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8
+#EXTINF:-1 RTP2
+#EXTGRP:PORTUGAL CHANNELS
+https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
+#EXTINF:-1 ,RTP3
+#EXTGRP:PORTUGAL CHANNELS
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:-1 93.0",RTP Açores
+#EXTGRP:PORTUGAL CHANNELS
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u
+#EXTGRP:PORTUGAL CHANNELS,RTP África
+#EXTGRP:PORTUGAL CHANNELS
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 irefox/93.0",RTP Internacional
+#EXTGRP:PORTUGAL CHANNELS
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 93.0",RTP Memória
+#EXTGRP:PORTUGAL CHANNELS
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1,QURAN
 #EXTGRP:ISLAMIC CHANNELS
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
