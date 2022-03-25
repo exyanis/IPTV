@@ -14,6 +14,9 @@ https://streamalkasscustom.azureedge.net/livehttporigin/smil:YWxrYXNz4.smil/chun
 #EXTINF:-1, ALKASS FIVE
 #EXTGRP:SPORTS CHANNELS
 https://streamalkasscustom.azureedge.net/livehttporigin/smil:YWxrYXNz5.smil/chunklist_b1128000_sleng.m3u8
+#EXTINF:-1, ALJAZEERA ENGLISH
+#EXTGRP:NEWS CHANNELS
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1, QATAR TV
 #EXTGRP:ARABIC CHANNELS
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8
