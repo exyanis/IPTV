@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1, LOVE NATURE SPAIN
+#EXTGRP:NEWS CHANNELS
+http://bamus-spa-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1, 24 TV
+#EXTGRP:NEWS CHANNELS
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
 #EXTINF:-1, France 24 Frannçais
 #EXTGRP:NEWS CHANNELS
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
