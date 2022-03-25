@@ -11,6 +11,9 @@ http://www.elahmad.com/tv/m3u8/kuwait_tv_3.php?id=kwtvethraa
 #EXTINF:-1,ALJAZEERA
 #EXTGRP:NEWS CHANNELS
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1,ALJAZEERA DOCUMENTARY
+#EXTGRP:DOCS CHANNELS
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1,AD NAT GEO
 #EXTGRP:DOCS CHANNELS
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
