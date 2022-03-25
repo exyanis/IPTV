@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1, Test
 #EXTGRP:test CHANNELS
+http://azrotv.com/m3u8/pplayer/fr.php/https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:-1, Test
+#EXTGRP:test CHANNELS
+http://azrotv.com/m3u8/pplayer/fr.php/https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1, Test
+#EXTGRP:test CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1, TF1
 #EXTGRP:FRENCH CHANNELS
