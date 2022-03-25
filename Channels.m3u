@@ -27,7 +27,7 @@ https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTGRP:ARABIC CHANNELS
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1,Dubai One 
-#EXTGRP:
+#EXTGRP:ARABIC CHANNELS
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1,Dubai Racing 
 #EXTGRP:SPORTS CHANNELS
@@ -48,8 +48,8 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 #EXTGRP:SPORTS CHANNELS
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1,Dubai TV 
-#EXTGRP:
+#EXTGRP:ARABIC CHANNELS
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1,Dubai Zaman 
-#EXTGRP:
+#EXTGRP:ARABIC CHANNELS
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
