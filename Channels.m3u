@@ -102,3 +102,5 @@ https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15c
 #EXTINF:-1, ROTANA +
 #EXTGRP: ROTANA CHANNELS
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_8.m3u8
+#EXTINF:-1, MBC MASR
+https://shls-masr-ak.akamaized.net/out/v1/b7093401da27496797a8949de23f4578/index_9.m3u8
