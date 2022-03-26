@@ -50,6 +50,9 @@ http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV
 #EXTINF:-1 ,El Hayat TV 
 #EXTGRP:ALGERIA CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
+#EXTINF:-1 ,El Heddaf TV
+http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
+#EXTGRP:ALGERIA CHANNELS
 #EXTINF:-1 ,Bahia TV
 #EXTGRP:ALGERIA CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
