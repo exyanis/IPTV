@@ -23,6 +23,9 @@ http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/TV7_ELMAARI
 #EXTINF:-1,Algérie TV8 
 #EXTGRP:ALGERIA CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
+#EXTINF:-1,Al24 News 
+#EXTGRP:ALGERIA CHANNELS
+http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
 #EXTINF:-1,Samira TV 
 #EXTGRP:ALGERIA CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
