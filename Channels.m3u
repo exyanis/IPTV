@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 ,日本NHK华语
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTGRP:JAPAN CHANNELS
+#EXTINF:-1 ,TLC
+#EXTGRP:POLAND CHANNELS
+http://82.42.140.103:8001/1:0:1:3e3f:2ee0:13e:820000:0:0:0:
 #EXTINF:-1 ,TF1
 #EXTGRP:FRENCH CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://tf1-hls-live.tf1.fr/video/pbHZH7QscF1khrI2ML1GrA/1648324828/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
