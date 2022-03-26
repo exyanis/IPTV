@@ -242,10 +242,10 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 #EXTGRP: NEWS CHANNELS
 https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index_1.m3u8
 #EXTINF:-1, NPO 1 HD
-#EXTGRP:
+#EXTGRP:NETHERLAND
 http://80.24.75.92:5555/udp/239.111.0.1:1234
 #EXTINF:-1, NPO 2 HD
-#EXTGRP
+#EXTGRP:NETHERLAND
 http://80.24.75.92:5555/udp/239.111.1.1:1234
 #EXTINF:-1, NPO 3 HD
 #EXTGRP:NETHERLAND
