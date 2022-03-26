@@ -3,6 +3,7 @@
 #EXTGRP:ALGERIA CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
 #EXTINF:-1,Algérie TV2
+#EXTGRP:ALGERIA CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
 #EXTINF:-1,Algérie TV3
 #EXTGRP:ALGERIA CHANNELS
