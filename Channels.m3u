@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 ,ARRIADIA
+#EXTGRP:SPORTS CHANNELS
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 ,AL OULA MAROC
 #EXTGRP:ARABIC CHANNELS
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_400000=2-mp4a_130400_qad=1.m3u8
