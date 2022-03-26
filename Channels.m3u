@@ -1,10 +1,25 @@
 #EXTM3U
-#EXTINF:-1 ,ENTV
+#EXTINF:-1 ,Agérie TV1
 #EXTGRP:ALGERIA CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
-#EXTINF:-1 ,ENTV²
+#EXTINF:-1,Algérie TV3
 #EXTGRP:ALGERIA CHANNELS
-https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
+http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
+#EXTINF:-1 ,Algérie TV4
+#EXTGRP:ALGERIA CHANNELS
+http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
+#EXTINF:-1 ,Algérie TV5 
+#EXTGRP:ALGERIA CHANNELS
+http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8
+#EXTINF:-1,Algérie TV6
+#EXTGRP:ALGERIA CHANNELS
+http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
+#EXTINF:-1,Algérie TV7 
+#EXTGRP:ALGERIA CHANNELS
+https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
+#EXTINF:-1,Algérie TV8 
+#EXTGRP:ALGERIA CHANNELS
+https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
 #EXTINF:-1 ,ALMAGHRIBIA
 #EXTGRP:ARABIC CHANNELS
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
