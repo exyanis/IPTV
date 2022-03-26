@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 ,AL OULA MAROC
+#EXTGRP:ARABIC CHANNELS
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_400000=2-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 ,2M MAROC
 #EXTGRP:ARABIC CHANNELS
 http://ok23k42iuu.a5ge6t4sve79r.com/live/ramdisk/2m_monde/hls_video_ts_hy217612tge1f21j83/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
