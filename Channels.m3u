@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 ,FRANCE 2
-#EXTGRP:ALGERIA CHANNELS
-http://azrotv.com/m3u8/pplayer/fr.php/https://vvxfjutmnxwtwbgm.wzcdn654.net:8443/hls/12xqh8ltt6.m3u8?s=Bif_7LSu9-axroGOo35aUw&e=1648326512
-#EXTINF:-1 ,FRANCE 2²
-http://azrotv.com/m3u8/pplayer/fr.php/https://vvxfjutmnxwtwbgm.wzcdn654.net:8443/hls/12xqh8ltt6.m3u8
 #EXTINF:-1 ,ENTV
 #EXTGRP:ALGERIA CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
+#EXTINF:-1 ,ENTV²
+#EXTGRP:ALGERIA CHANNELS
+https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
 #EXTINF:-1 ,ALMAGHRIBIA
 #EXTGRP:ARABIC CHANNELS
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
