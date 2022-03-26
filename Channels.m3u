@@ -2,6 +2,15 @@
 #EXTINF:-1, TRT1
 #EXTGRP: TURKISH CHANNELS
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1, TRT2
+#EXTGRP: TURKISH CHANNELS
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1, TRT BELGESEL
+#EXTGRP: TURKISH CHANNELS
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1, TRT HABER
+#EXTGRP: TURKISH CHANNELS
+https://tv-trthaber.medya.trt.com.tr/master_720_primary_54496.ts
 #EXTINF:-1, ENERGY
 #EXTGRP: SPANISH CHANNELS
 http://154.62.74.28:1935/live/energy-Stream/chunklist_w1028201034.m3u8
