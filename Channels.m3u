@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1,ΡΙΚ Sat
+#EXTGRP: GREECE CHANNELS
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1, SKAI
+#EXTGRP: GREECE CHANNELS
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1,Alert
+#EXTGRP: GREECE CHANNELS
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1, ALPHA TV
 #EXTGRP: GREECE CHANNELS
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
