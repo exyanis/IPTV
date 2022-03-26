@@ -1,5 +1,8 @@
 #EXTM3U
-#EXTINF:-1, energy
+#EXTINF:-1, TRT1
+#EXTGRP: TURKISH CHANNELS
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1, ENERGY
 #EXTGRP: SPANISH CHANNELS
 http://154.62.74.28:1935/live/energy-Stream/chunklist_w1028201034.m3u8
 #EXTINF:-1, FDF
