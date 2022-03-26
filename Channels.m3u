@@ -2,6 +2,8 @@
 #EXTINF:-1 ,Algérie TV1
 #EXTGRP:ALGERIA CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
+#EXTINF:-1,Algérie TV2
+http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
 #EXTINF:-1,Algérie TV3
 #EXTGRP:ALGERIA CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
@@ -20,6 +22,33 @@ http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/TV7_ELMAARI
 #EXTINF:-1,Algérie TV8 
 #EXTGRP:ALGERIA CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
+#EXTINF:-1,Samira TV 
+#EXTGRP:ALGERIA CHANNELS
+http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
+#EXTINF:-1,El Fadjr TV
+#EXTGRP:ALGERIA CHANNELS
+http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8
+#EXTINF:-1,Ennahar TV 
+#EXTGRP:ALGERIA CHANNELS
+http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
+#EXTINF:-1,Echorouk News
+#EXTGRP:ALGERIA CHANNELS
+http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
+#EXTINF:-1,Echorouk TV
+#EXTGRP:ALGERIA CHANNELS
+http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
+#EXTINF:-1,El Bilad 
+#EXTGRP:ALGERIA CHANNELS
+http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
+#EXTINF:-1,El Djazair N1
+#EXTGRP:ALGERIA CHANNELS
+http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
+#EXTINF:-1 ,El Hayat TV 
+#EXTGRP:ALGERIA CHANNELS
+http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
+#EXTINF:-1 ,Bahia TV
+#EXTGRP:ALGERIA CHANNELS
+http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
 #EXTINF:-1 ,ALMAGHRIBIA
 #EXTGRP:ARABIC CHANNELS
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
