@@ -32,9 +32,6 @@ https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1, ENERGY
 #EXTGRP: SPANISH CHANNELS
 http://154.62.74.28:1935/live/energy-Stream/chunklist_w1028201034.m3u8
-#EXTINF:-1, FDF
-#EXTGRP: SPANISH CHANNELS
-http://154.62.74.12:1935/live/smil:fdf.stream/chunklist_w1536189815.m3u8
 #EXTINF:-1, CUATRO
 #EXTGRP: SPANISH CHANNELS
 https://gintna100.tulix.tv/gin_live/cuatro/220040a688979c0d51b4de22bab6ca6f/6240240d/index.m3u8
@@ -103,15 +100,9 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
 #EXTINF:-1,EiTB 2
 #EXTGRP:SPANISH CHANNELS
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8
-#EXTINF:-1 ,Das Erst
+#EXTINF:-1 ,Das Erste
 #EXTGRP:GERMANY CHANNELS
 https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 ,Zoo Moo
-#EXTGRP:KIDS CHANNELS
-https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Toon Goggles
-#EXTGRP:KIDS CHANNELS
-https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Travel XP
 #EXTGRP:DOCS CHANNELS
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
