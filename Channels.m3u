@@ -8,9 +8,6 @@ http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/CANAL_ALGER
 #EXTINF:-1,Algérie TV3
 #EXTGRP:ALGERIA CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
-#EXTINF:-1,Algérie TV3²
-#EXTGRP:ALGERIA CHANNELS
-https://www.elahmad.com/tv/video-player.php/https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
 #EXTINF:-1 ,Algérie TV4
 #EXTGRP:ALGERIA CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
