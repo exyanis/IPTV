@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,TF1
-#EXTGRP:FRENCH CHANNELS
-http://azrotv.com/m3u8/pplayer/fr.php/https://s6.tntendirect.com/tf1/live/chunks.m3u8?nimblesessionid=11084003&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDM6MDY6MzQgUE0maGFzaF92YWx1ZT0zRXFWU1FpUkV5MVRzTEk4OWJadEV3PT0mdmFsaWRtaW51dGVzPTMw
-#EXTINF:-1 ,TF1²V
-#EXTGRP:FRENCH CHANNELS
-http://azrotv.com/m3u8/pplayer/fr.php/https://s6.tntendirect.com/tf1/live/chunks.m3u8
 #EXTINF:-1 ,Algérie TV1
 #EXTGRP:ALGERIA CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
@@ -53,6 +47,9 @@ http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/El_Djazair_
 #EXTINF:-1 ,El Hayat TV 
 #EXTGRP:ALGERIA CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
+#EXTINF:-1 ,El Hayat TV 
+#EXTGRP:ALGERIA CHANNELS
+http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
 #EXTINF:-1 ,Bahia TV
 #EXTGRP:ALGERIA CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
