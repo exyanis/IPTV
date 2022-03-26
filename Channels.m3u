@@ -23,6 +23,12 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1, TRT TURK
 #EXTGRP: TURKISH CHANNELS
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1, TRT ARABI
+#EXTGRP: TURKISH CHANNELS
+https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1, TRT WORLD
+#EXTGRP: TURKISH CHANNELS
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1, ENERGY
 #EXTGRP: SPANISH CHANNELS
 http://154.62.74.28:1935/live/energy-Stream/chunklist_w1028201034.m3u8
