@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1, ALPHA TV
+#EXTGRP: GREECE CHANNELS
+http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1, TRT1
 #EXTGRP: TURKISH CHANNELS
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
