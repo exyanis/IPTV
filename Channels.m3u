@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 ,TF1
+#EXTGRP:FRENCH CHANNELS
+http://azrotv.com/m3u8/pplayer/fr.php/https://sv7.data-stream.top/abce451ee5d6479ac12898f206d41f99848cad1fc01759b04831909f1948b9f6/hls/tf2-HD.m3u8
 #EXTINF:-1 ,Algérie TV1
 #EXTGRP:ALGERIA CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
@@ -311,7 +314,7 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 #EXTGRP: MBC CHANNELS
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 #EXTINF:-1, M6 INTERNATIONAL
-#EXTGRP: FRANCE CHANNELS
+#EXTGRP: FRENCH CHANNELS
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_1.m3u8
 #EXTINF:-1, TIJI
 #EXTGRP: KIDS CHANNELS
