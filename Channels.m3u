@@ -5,6 +5,9 @@ http://azrotv.com/m3u8/pplayer/fr.php/https://tf1-hls-live.tf1.fr/video/pbHZH7Qs
 #EXTINF:-1 ,FRANCE2
 #EXTGRP:FRENCH CHANNELS
 https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://simulcast.ftven.fr/ZXhwPTE2NDgzMzIzMzV+YWNsPSUyZip+aG1hYz0zMzY3NTVhZDAyMTE2MDA2ODI5N2FjMDk2ZWU1ZmNlNGFlNmQyMWMzNzU3ZWNkOWJiYmM5ODgzODI0YTAwNzkz/simulcast/France_2/hls_fr2/France_2-avc1_2600000=10004.m3u8
+#EXTINF:-1 ,FRANCE3
+#EXTGRP:FRENCH CHANNELS
+https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://simulcast.ftven.fr/ZXhwPTE2NDgzMzIwNTF+YWNsPSUyZip+aG1hYz1mOGZiNWVlYzdlYmVmMjU2NDVkOTA2NjdkNjAzYmFkMWI3NjIwMTFlZDA5NjY4ZjJkMmQ1NGFjYzEyNmQ2M2I2/simulcast/France_3/hls_fr3/France_3-avc1_2600000=10004.m3u8
 #EXTINF:-1 ,Algérie TV1
 #EXTGRP:ALGERIA CHANNELS
 http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
