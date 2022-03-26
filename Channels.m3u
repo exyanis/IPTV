@@ -1,4 +1,55 @@
 #EXTM3U
+#EXTINF:-1 ,CCTV1
+#EXTGRP:CHINA CHANNELS
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv1_1_td.m3u8
+#EXTINF:-1 ,CCTV2
+#EXTGRP:CHINA CHANNELS
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv2_1_td.m3u8
+#EXTINF:-1 ,CCTV3
+#EXTGRP:CHINA CHANNELS
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv3_1_td.m3u8
+#EXTINF:-1 ,CCTV4
+#EXTGRP:CHINA CHANNELS
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv4_1_td.m3u8
+#EXTINF:-1 ,CCTV5
+#EXTGRP:CHINA CHANNELS
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv5_1_td.m3u8
+#EXTINF:-1 ,CCTV6
+#EXTGRP:CHINA CHANNELS
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv6_1_td.m3u8
+#EXTINF:-1 ,CCTV7
+#EXTGRP:CHINA CHANNELS
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv7_1_td.m3u8
+#EXTINF:-1 ,CCTV8
+#EXTGRP:CHINA CHANNELS
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv8_1_td.m3u8
+#EXTINF:-1 ,CCTV9
+#EXTGRP:CHINA CHANNELS
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv9_1_td.m3u8
+#EXTINF:-1 ,CCTV10
+#EXTGRP:CHINA CHANNELS
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv10_1_td.m3u8
+#EXTINF:-1 ,CCTV11
+#EXTGRP:CHINA CHANNELS
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv11_1_td.m3u8
+#EXTINF:-1 ,CCTV12
+#EXTGRP:CHINA CHANNELS
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv12_1_td.m3u8
+#EXTINF:-1 ,CCTV13
+#EXTGRP:CHINA CHANNELS
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv13_1_td.m3u8
+#EXTINF:-1 ,CCTV14
+#EXTGRP:CHINA CHANNELS
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv14_1_td.m3u8
+#EXTINF:-1 ,CCTV15
+#EXTGRP:CHINA CHANNELS
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv15_1_td.m3u8
+#EXTINF:-1 ,CCTV16
+#EXTGRP:CHINA CHANNELS
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv16_1_td.m3u8
+#EXTINF:-1 ,CCTV17
+#EXTGRP:CHINA CHANNELS
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv17_1_td.m3u8
 #EXTINF:-1 ,ALMAHRIBIA
 #EXTGRP:ARABIC CHANNELS
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
