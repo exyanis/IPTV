@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1  AFV
+#EXTGRP:ENGLISH CHANNELS
+https://dai.google.com/linear/hls/pa/event/18_lZXPySFa5_GRVEbOX_A/stream/78a91ec1-a606-45e9-aae0-b7d876b04f58:BRU/variant/80469cdb176f7dda98b306d5b9287f9d/bandwidth/1363709.m3u8
 #EXTINF:-1  GULLI
 #EXTGRP:KIDS CHANNELS
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/videosd-960x540/sdindex.m3u8
