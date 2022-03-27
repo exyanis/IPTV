@@ -1,26 +1,26 @@
 #EXTM3U
-#EXTINF:-1  FOX NEWS
+#EXTINF:-1,OX NEWS
 #EXTGRP:NEWS CHANNELS
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1  AFV
+#EXTINF:-1,AFV
 #EXTGRP:ENGLISH CHANNELS
 https://dai.google.com/linear/hls/pa/event/18_lZXPySFa5_GRVEbOX_A/stream/78a91ec1-a606-45e9-aae0-b7d876b04f58:BRU/variant/80469cdb176f7dda98b306d5b9287f9d/bandwidth/1363709.m3u8
-#EXTINF:-1  GULLI
+#EXTINF:-1,GULLI
 #EXTGRP:KIDS CHANNELS
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/videosd-960x540/sdindex.m3u8
-#EXTINF:-1  DW
+#EXTINF:-1,DW
 #EXTGRP:NEWS CHANNELS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1  AFRICA24
+#EXTINF:-1,AFRICA24
 #EXTGRP:AFRICA CHANNELS
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w2087309344.m3u8?spark=856921c2-e75a-469a-8a68-a39745dbd750&token=
-#EXTINF:-1  LYBIA
+#EXTINF:-1,LYBIA
 #EXTGRP:ARABIC CHANNELS
 https://master.starmena-cloud.com/hls/libyas.m3u8
-#EXTINF:-1  A2I
+#EXTINF:-1,A2I
 #EXTGRP:AFRICA CHANNELS
 https://stream.sen-gt.com/A2itv/myStream/chunklist_w1337001411.m3u8
-#EXTINF:-1  M1
+#EXTINF:-1,M1
 #EXTGRP:HUNGARY CHANNELS
 https://c201-node62-cdn.connectmedia.hu/1100/1436b6f4acd6024265da38d292cbd442/623f70c6/03.m3u8
 #EXTINF:-1 ,324
