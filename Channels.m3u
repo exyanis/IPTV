@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,WEYYAK ACTION
+#EXTGRP:WEYYAK CHANNELS
+https://weyyak-live.akamaized.net/weyyak_action/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ALRAYYAN ALQADEEM
 #EXTGRP:ARABIC CHANNELS
 https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeempublich/alrayyanqadeem_source/chunks.m3u8
