@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,ZEE AFLAM
+#EXTGRP:WEYYAK CHANNELS
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZEE ALWAN
 #EXTGRP:WEYYAK CHANNELS
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v1a1/mono.m3u8
