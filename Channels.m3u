@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,KUWAIT TV SPORTS
+#EXTGRP:ARABIC CHANNELS
+https://kwmedia.hibridcdn.net/kwmedia/kwtvsports_abr/kwmedia/kwtvsports_1080p/chunks.m3u8
 #EXTINF:-1,KUWAIT TV 2
 #EXTGRP:ARABIC CHANNELS
 https://kwmedia.hibridcdn.net/kwmedia/kwtv2_abr/kwmedia/kwtv2_1080p/chunks.m3u8
