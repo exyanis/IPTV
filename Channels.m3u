@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,ALJAZEERA BALKAN
+#EXTGRP:NEWS CHANNELS
+http://live-hls-web-ajb.getaj.net/AJB/02.m3u8
 #EXTINF:-1,FOX NEWS
 #EXTGRP:NEWS CHANNELS
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
