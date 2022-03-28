@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,ALRAYYAN ALQADEEM
+#EXTGRP:ARABIC CHANNELS
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeempublich/alrayyanqadeem_source/chunks.m3u8
 #EXTINF:-1,ALRAYYAN
 #EXTGRP:ARABIC CHANNELS
 http://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan_source/chunks.m3u8
