@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,KUWAIT TV
+#EXTGRP:ARABIC CHANNELS
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_1080p/chunks.m3u8
 #EXTINF:-1,OMAN SPORT
 #EXTGRP:SPORTS CHANNELS
 http://partne.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
