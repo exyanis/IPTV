@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,OMAN LIVE
+#EXTGRP:ARABIC CHANNELS
+http://partwo.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1,OMAN TV
 #EXTGRP:ARABIC CHANNELS
 http://partne.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
