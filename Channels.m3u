@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,WANASAH
+#EXTGRP:MBC CHANNELS
+http://embedar.gq/fr.php/https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_8.m3u8
+#EXTINF:-1,BEIN XTRA
+#EXTGRP:SPORTS CHANNELS
+http://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 #EXTINF:-1,WEYYAK ACTION
 #EXTGRP:WEYYAK CHANNELS
 https://weyyak-live.akamaized.net/weyyak_action/tracks-v1a1/mono.m3u8
