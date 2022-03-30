@@ -1,5 +1,7 @@
-
 #EXTM3U
+#EXTINF:-1,AL OULA EGYPT
+#EXTGRP:ARABIC CHANNELS
+http://freearabic.zinamedia.net/ar/Masriya-AlOula/tracks-v1a1/mono.m3u8
 #EXTINF:-1,OMG SPORTS
 #EXTGRP:KIDS CHANNELS
 https://5b622f07944df.streamlock.net/omgchannel.net/omgkids/chunklist_w2103240385.m3u8
