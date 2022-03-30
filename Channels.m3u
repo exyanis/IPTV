@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1,KUWAIT TV SPORTS
-#EXTGRP:ARABIC CHANNELS
-https://kwmedia.hibridcdn.net/kwmedia/kwtvsports_abr/kwmedia/kwtvsports_1080p/chunks.m3u8
-#EXTINF:-1,KUWAIT TV 2
-#EXTGRP:ARABIC CHANNELS
-https://kwmedia.hibridcdn.net/kwmedia/kwtv2_abr/kwmedia/kwtv2_1080p/chunks.m3u8
-#EXTINF:-1,KUWAIT TV
-#EXTGRP:ARABIC CHANNELS#EXTINF:-1,KUWAIT TV
-#EXTGRP:ARABIC CHANNELS
-https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_1080p/chunks.m3u8
+#EXTINF:-1,OMG MUSLIM
+#EXTGRP:SPORTS CHANNELS
+https://5b622f07944df.streamlock.net/omgchannel.net/omgmuslim/chunklist_w1271917211.m3u8
+#EXTINF:-1,OMG TV
+#EXTGRP:SPORTS CHANNELS
+https://5b622f07944df.streamlock.net/omgchannel.net/omgtv/chunklist_w66089026.m3u8
 #EXTINF:-1,OMAN SPORT
 #EXTGRP:SPORTS CHANNELS
 http://partne.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
