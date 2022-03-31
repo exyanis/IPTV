@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 ,test entv
+#EXTGRP:ARABIC CHANNELS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_360p/chunks.m3u8?nimblesessionid=27710598&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMzEvMjAyMiAwNzo1MTo0OSBQTSZoYXNoX3ZhbHVlPTVYekJvS0JsYzF0YzIrN2RiYXdNdWc9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 ,KUWAIT TV
 #EXTGRP:ARABIC CHANNELS
 http://192.34.153.36:7777/KuwaitSpace_HD/KuwaitSpace_HD.m3u8
