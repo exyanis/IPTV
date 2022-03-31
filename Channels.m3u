@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,TEN 
+#EXTGRP:WEYYAK CHANNELS
+https://weyyak-live.akamaized.net/weyyak_ten_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CBC 
 #EXTGRP:ARABIC CHANNELS
 http://freearabic.zinamedia.net/ar/CBC-TV/tracks-v1a1/mono.m3u8
