@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,DMC
+#EXTGRP:ARABIC CHANNELS
+http://freearabic.zinamedia.net/ar/DMC-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,AL ALMASRIYA
 #EXTGRP:ARABIC CHANNELS
 https://192.34.153.36:7777/AlMasriyah_HD/AlMasriyah_High.m3u8
