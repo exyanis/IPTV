@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,WEYYAK DRAMA 
+#EXTGRP:WEYYAK CHANNELS
+https://weyyak-live.akamaized.net/weyyak_drama/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SMASHI 
+#EXTGRP:WEYYAK CHANNELS
+https://weyyak-live.akamaized.net/weyyak_smashi_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TEN 
 #EXTGRP:WEYYAK CHANNELS
 https://weyyak-live.akamaized.net/weyyak_ten_tv/tracks-v1a1/mono.m3u8
