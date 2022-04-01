@@ -382,9 +382,6 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8
 #EXTINF:-1 ,Das Erste
 #EXTGRP:GERMANY CHANNELS
 https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 ,Travel XP
-#EXTGRP:DOCS CHANNELS
-https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Insight TV
 #EXTGRP:DOCS CHANNELS
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
