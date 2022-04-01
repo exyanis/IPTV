@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 ,TV8 INT
+#EXTGRP:TURKEY CHANNELS
+https://tv8-tb-live.ercdn.net/tv8-geo/tv8int_720p.m3u8?e=1648869550&st=u7SDH-kn8rXPTVccLuE7HA
 #EXTINF:-1 ,SLO 1
 #EXTGRP:SLOVENIA CHANNELS
 https://di-br2e5p7r.a.eurovisionflow.net/slo1_int/slo1-abr_int.smil/chunklist_b2328000_DVR.m3u8
