@@ -538,6 +538,9 @@ https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a
 #EXTINF:-1, ROTANA KHALIJIYA
 #EXTGRP: ROTANA CHANNELS
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_1.m3u8
+#EXTINF:-1, ROTANA KHALIJIYA²
+#EXTGRP: ROTANA CHANNELS
+https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/ad9a8a13-e490-4e0c-9ae0-7bafcc258eeb:BRU/variant/df1552796e39c1521ee746e7cc49381a/bandwidth/4045270.m3u8
 #EXTINF:-1, ROTANA +
 #EXTGRP: ROTANA CHANNELS
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
