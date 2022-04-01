@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 ,BBC ONE
+EXTGRP:UK CHANNELS
+https://uksono1-samsunguk.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 ,92 NEWS
 EXTGRP:PAKISTAN CHANNELS
 https://92news.vdn.dstreamone.net/92newshd/92hdabr/92newshd/92hd_720p/chunks_dvr.m3u8
