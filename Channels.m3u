@@ -516,7 +516,7 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_1.m3u8
 #EXTINF:-1, ROTANA KIDS
 #EXTGRP: KIDS CHANNELS
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_1.m3u8
+https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_1080p/chunks.m3u8?p=48&s=1648814277&e=1648900677&cf=1648900677&h=f992e336f3d165ab11eaf056e8f150a6
 #EXTINF:-1,Al Arabiya
 #EXTGRP: NEWS CHANNELS
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
