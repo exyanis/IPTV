@@ -1,12 +1,15 @@
 #EXTM3U
+#EXTINF:-1 ,FUJI TV
+#EXTGRP:JAPANESE CHANNELS
+https://fujitv1.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 ,TEVE 2
-#EXTGRP:TURKEY CHANNELS
+#EXTGRP:TURKISH CHANNELS
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 #EXTINF:-1 ,KANALD
-#EXTGRP:TURKEY CHANNELS
+#EXTGRP:TURKISH CHANNELS
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 ,360 TV
-#EXTGRP:TURKEY CHANNELS
+#EXTGRP:TURKISH CHANNELS
 https://stream-01.dc3.dailymotion.com/sec(4wsleh6emjMKklQV7OTPyH4opZoMkpDJVGN5N7O9fak)/dm/3/x648uq8/s/live-1.m3u8
 #EXTINF:-1 ,SLO 1
 #EXTGRP:SLOVENIA CHANNELS
