@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 ,360 TV
+#EXTGRP:TURKEY CHANNELS
+https://stream-01.dc3.dailymotion.com/sec(4wsleh6emjMKklQV7OTPyH4opZoMkpDJVGN5N7O9fak)/dm/3/x648uq8/s/live-1.m3u8
 #EXTINF:-1 ,TV8.5
 #EXTGRP:TURKEY CHANNELS
 https://59cba4d34b678.streamlock.net/live2/tv8-5.stream/chunklist_w1058061986.m3u8
