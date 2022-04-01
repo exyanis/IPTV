@@ -1,6 +1,9 @@
 #EXTM3U
+#EXTINF:-1 ,TOON GOGGLES
+#EXTGRP:KIDS CHANNELS
+https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8?ads.device_did=%20PSID%20&ads.device_dnt=%20TARGETOPT%20&ads.us_privacy=1YNY&ads.app_domain=%20APP_DOMAIN%20&ads.app_name=%20APP_NAME%20&coppa=1
 #EXTINF:-1 ,MOTORVISION.TV
-#EXTGRP:NEWS CHANNELS
+#EXTGRP:SPORTS CHANNELS
 https://dqgmxyaqqrria.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-ams/samsungtvplus_us_motorvisiontv_001.m3u8?ads.caid=MotorvisionTV&ads.csid=samsungtvplus_us_motorvisiontv_ssai&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%20TARGETOPT%20&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%20PSID%20&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%20APP_NAME%20&ads.xumo_contentId=266&ads.xumo_contentName=Motorvision&ads.xumo_providerId=266&ads.xumo_providerName=Motorvision&ads.xumo_channelId=9999510&ads.xumo_imdb_genre=Action&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%20APP_DOMAIN%20
 #EXTINF:-1 ,YAHOO FINANCE
 #EXTGRP:NEWS CHANNELS
