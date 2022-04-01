@@ -2,6 +2,12 @@
 #EXTINF:-1 ,SLO 1
 #EXTGRP:SLOVENIA CHANNELS
 https://di-br2e5p7r.a.eurovisionflow.net/slo1_int/slo1-abr_int.smil/chunklist_b2328000_DVR.m3u8
+#EXTINF:-1 ,SLO 2
+#EXTGRP:SLOVENIA CHANNELS
+https://di-br2e5p7r.a.eurovisionflow.net/slo2_int/slo2-abr_int.smil//chunklist_b528000_DVR.m3u8
+#EXTINF:-1 ,SLO 3
+#EXTGRP:SLOVENIA CHANNELS
+https://di-br2e5p7r.a.eurovisionflow.net/slo3_int/slo3-abr_int.smil/chunklist_b2328000_DVR.m3u8
 #EXTINF:-1 ,TRAVELXP
 #EXTGRP:DOCS CHANNELS
 https://dd87bd3119dc4cbca8c31c3f5d127aef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_TravelXP/playlist.m3u8?ads.wurl_channel=556&ads.wurl_name=TravelXP&ads.psid=%20PSID%20&ads.targetopt=%20TARGETOPT%20&ads.app_domain=%20APP_DOMAIN%20&ads.app_name=%20APP_NAME%20&ads.coppa=0&ads.consent=%20TC_STRING%20
