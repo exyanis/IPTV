@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 ,NHK GENERAL
+#EXTGRP:JAPANESE CHANNELS
+https://nhk1.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 ,FUJI TV
 #EXTGRP:JAPANESE CHANNELS
 https://fujitv1.mov3.co/hls/fujitv.m3u8
