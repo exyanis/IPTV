@@ -537,7 +537,7 @@ https://dai.google.com/linear/hls/pa/event/TTfW9QXGRVCBzHoEKgyrWA/stream/fdd50cd
 https://dai.google.com/linear/hls/pa/event/3nre1M54SiWmGzcTHQlLDA/stream/bdb6b2fc-b311-4638-9463-7f1d824c1135:BRU/variant/bd5fa48b5d094415bf7b95492f00b27c/bandwidth/1417180.m3u8
 #EXTINF:-1, ROTANA CLASSICS
 #EXTGRP: ROTANA CHANNELS
-https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_1.m3u8
+https://dai.google.com/linear/hls/pa/event/0tkMWr6yRQiPO4uXSLCpLA/stream/549f0dff-f515-4778-ac69-90ef84b7c4e2:BRU/variant/3dbe77031745dc952fc0cb1c81783835/bandwidth/4243016.m3u8
 #EXTINF:-1, ROTANA COMEDY
 #EXTGRP: ROTANA CHANNELS
 https://dai.google.com/linear/hls/pa/event/cH1Es-kjT9yxOW7P5ZUGTw/stream/1840691c-83b8-4aa0-a7a4-faf1d2c367ad:BRU/variant/5bb8ae433a044d67df1d7564280791a7/bandwidth/4389639.m3u8
