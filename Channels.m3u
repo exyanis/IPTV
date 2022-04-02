@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,RTSH1
+#EXTGRP: ALBANIA CHANNELS
+https://tvlive.rtsh.dev/live/rtsh_1mob_pp2/playlist.m3u8
+#EXTINF:-1,RTSH2
+#EXTGRP: ALBANIA CHANNELS
+https://tvlive.rtsh.dev/live/rtsh_2ott_p2/playlist.m3u8
+#EXTINF:-1,RTI1
+#EXTGRP:AFRICA CHANNELS
+https://www.enovativecdn.com/rticdn/smil:rti1.smil/chunklist_w500565171_b650000_sleng.m3u8
+#EXTINF:-1,RTS1
+#EXTGRP:AFRICA CHANNELS
+http://51.210.1.13:18000/rts1/hls/playlist.m3u8
 #EXTINF:-1,3sat
 #EXTGRP:GERMANY CHANNELS
 http://185.234.111.36:8003/play/a0cc/index.m3u8?HasBahCa.m3u8
