@@ -218,9 +218,6 @@ https://master.starmena-cloud.com/hls/libyas.m3u8
 #EXTINF:-1,A2I
 #EXTGRP:AFRICA CHANNELS
 https://stream.sen-gt.com/A2itv/myStream/chunklist_w1337001411.m3u8
-#EXTINF:-1,M1
-#EXTGRP:HUNGARY CHANNELS
-https://c201-node62-cdn.connectmedia.hu/1100/1436b6f4acd6024265da38d292cbd442/623f70c6/03.m3u8
 #EXTINF:-1 ,324
 #EXTGRP:SPANISH CHANNELS
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b1728000.m3u8
