@@ -11,6 +11,9 @@ https://stream8.nava.hu/m3_live_bdrm/_definst_/smil:m3_1080p.smil/manifest_w4385
 #EXTINF:-1,M4
 #EXTGRP: HUNGARY CHANNELS
 https://c402-node61-cdn.connectmedia.hu/1104/c694c0f1d7d74c727606e89243fda089/62481b36/20220327T070234-03-25733704.ts
+#EXTINF:-1,M5
+#EXTGRP: HUNGARY CHANNELS
+https://c401-node62-cdn.connectmedia.hu/1105/26454a9f47a0792f5449add931dbc18b/62481c38/04.m3u8
 #EXTINF:-1,RTSH1
 #EXTGRP: ALBANIA CHANNELS
 https://tvlive.rtsh.dev/live/rtsh_1mob_pp2/playlist.m3u8
