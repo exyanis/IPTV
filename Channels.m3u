@@ -3,7 +3,7 @@
 #EXTGRP:MBC CHANNELS
 http://zinachannels.zinamedia.net/ar-s/mbc-2/index.m3u8
 #EXTINF:-1,Dubai Racing
-#EXTGRP:SPORTS CHANNEL
+#EXTGRP:SPORTS CHANNELS
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 #EXTINF:-1,Dubai Racing 2
 #EXTGRP:SPORTS CHANNELS
@@ -280,7 +280,7 @@ https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
 #EXTINF:-1 ,El Hayat TV 
 #EXTGRP:ALGERIA CHANNELS
-http://azrotv.com/m3u8/pplayer/fr.php/https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
+https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
 #EXTINF:-1 ,BEUR TV 
 #EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
