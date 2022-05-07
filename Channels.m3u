@@ -45,11 +45,11 @@ https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_400000=2-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 group-title="TURKISH CHANNELS" tvg-logo="https://i5.satexpat.com/cha/tr/TRT1-95x36.gif",TRT1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="TURKISH CHANNELS",TRT BELGESEL
+#EXTINF:-1 group-title="TURKISH CHANNELS" tvg-logo="https://i5.satexpat.com/cha/tr/trtBelgesel-95x30.gif",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="TURKISH CHANNELS",TRT HABER
+#EXTINF:-1 group-title="TURKISH CHANNELS" tvg-logo="https://i5.satexpat.com/cha/tr/trtHaber-95x49.gif",TRT HABER
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="TURKISH CHANNELS",TRT COCUK
+#EXTINF:-1 group-title="TURKISH CHANNELS" tvg-logo="https://i5.satexpat.com/cha/tr/trt_cocuk_95x66.gif",TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="TURKISH CHANNELS",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
