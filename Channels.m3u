@@ -1,66 +1,47 @@
 #ETM3U
-#EXTINF:-1 ,Algérie TV1
-#EXTGRP:ALGERIA CHANNELS
+#EXTINF:-1 tvg-goupe ,Algérie TV1
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
 #EXTINF:-1,Algérie TV2
-#EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
 #EXTINF:-1,Algérie TV3
-#EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
 #EXTINF:-1 ,Algérie TV4
-#EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
 #EXTINF:-1 ,Algérie TV5 
-#EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8
 #EXTINF:-1,Algérie TV6
-#EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
 #EXTINF:-1,Algérie TV7 
-#EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
 #EXTINF:-1,Algérie TV8 
 #EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
 #EXTINF:-1,Al24 News 
-#EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
 #EXTINF:-1,Samira TV 
-#EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
 #EXTINF:-1,El Fadjr TV
-#EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8
 #EXTINF:-1,Ennahar TV 
-#EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
 #EXTINF:-1,Echorouk News
-#EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
 #EXTINF:-1,Echorouk TV
-#EXTGRP:ALGERIA CHANNELS
 ttps://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
 #EXTINF:-1,El Bilad 
-#EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
 #EXTINF:-1,El Djazair N1
-#EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
 #EXTINF:-1 ,El Hayat TV 
-#EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
 #EXTINF:-1 ,BEUR TV 
-#EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
 #EXTINF:-1 ,El Heddaf TV
-#EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
 #EXTINF:-1 ,Bahia TV
 #EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
 #EXTINF:-1,Al Anis TV
-#EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
 #EXTINF:-1, beIN SPORTS 
 #EXTGRP: beIN SPORTS
@@ -119,3 +100,13 @@ http://217.74.16.155:8082/local/ar-s/SSC6/index.m3u8
 #EXTINF:-1, SSC 7
 #EXTGRP: SSC SPORTS
 http://217.74.16.155:8082/local/ar-s/SSC7/index.m3u8
+#EXTINF:-1,Abu Dhabi Sports 1
+https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2
+https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1,Abu Dhabi Sports 3 
+https://admdn3ta.cdn.mgmlcdn.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Abu Dhabi Sports 4
+https://admdn4.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1,YAS
+https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
