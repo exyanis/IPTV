@@ -81,15 +81,40 @@ http://217.74.16.155:8082/local/ar-s/SSC6/index.m3u8
 http://217.74.16.155:8082/local/ar-s/SSC7/index.m3u8
 #EXTINF:-1 groupe-title="AD SPORTS",Abu Dhabi Sports 1
 https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 groupe-title="AD SPORTS",Abu Dhabi Sports 2
+#EXTINF:-1 group-title="AD SPORTS",Abu Dhabi Sports 2
 https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-#EXTINF:-1 groupe-title="AD SPORTS",Abu Dhabi Sports 3 
+#EXTINF:-1 group-title="AD SPORTS",Abu Dhabi Sports 3 
 https://admdn3ta.cdn.mgmlcdn.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 groupe-title="AD SPORTS",Abu Dhabi Sports 4
+#EXTINF:-1 group-title="AD SPORTS",Abu Dhabi Sports 4
 https://admdn4.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 groupe-title="AD SPORTS",YAS
+#EXTINF:-1 group-title="AD SPORTS",YAS
 https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIES CHANNELS",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 groupe-title="KIDS CHANNELS",Majid TV 
+#EXTINF:-1 group-title="KIDS CHANNELS",Majid TV 
 https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="MBC CHANNELS",MBC 1
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_1_.m3u8
+#EXTINF:-1 group-title="MBC CHANNELS",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 group-title="MBC CHANNELS",MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 group-title="MBC CHANNELS",MBC 5 
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+#EXTINF:-1 group-title="MBC CHANNELS",MBC DRAMA
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 group-title="MBC CHANNELS",MBC+DRAMA
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 group-title="DUBAI SPORTS",Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1 group-title="DUBAI SPORTS",Dubai Racing 2 
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 group-title="DUBAI SPORTS",Dubai Racing 3 
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 group-title="DUBAI SPORTS",Dubai Sports 1 
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 group-title="DUBAI SPORTS",Dubai Sports 2 
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 group-title="DUBAI SPORTS",Dubai Sports 3 
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
