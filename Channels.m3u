@@ -137,17 +137,43 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHadath.ae"  group-title="NEWS CHANNELS"tvg-logo="https://i5.satexpat.com/cha/ae/alHadath-95x44.gif",Al Hadath TV
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" group-title="ARABIC CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/abuDhabi-95x47.gif",Abu Dhabi Aloula
+#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" group-title="UAE CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/abuDhabi-95x47.gif",Abu Dhabi Aloula
 https://admdn2ta.cdn.mgmlcdn.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae"  group-title="ARABIC CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/emarat-95x46.gifhttps://i5.satexpat.com/cha/ae/emarat-95x46.gifhttps://i5.satexpat.com/cha/ae/emarat-95x46.gifhttps://i5.satexpat.com/cha/ae/emarat-95x46.gif",Abu Dhabi Emirates 
+#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae"  group-title="UAE CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/emarat-95x46.gifhttps://i5.satexpat.com/cha/ae/emarat-95x46.gifhttps://i5.satexpat.com/cha/ae/emarat-95x46.gifhttps://i5.satexpat.com/cha/ae/emarat-95x46.gif",Abu Dhabi Emirates 
 https://admdn3ta.cdn.mgmlcdn.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="dubaitv.ae" group-title="ARABIC CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/dubai-tv-95x48.gif", DUBAI TV
+#EXTINF:-1 tvg-id="dubaitv.ae" group-title="UAE CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/dubai-tv-95x48.gif", DUBAI TV
 https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="DubaiZaman.ae" group-title="ARABIC CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/dubaiZaman-95x37.gif",Dubai Zaman
+#EXTINF:-1 tvg-id="DubaiZaman.ae" group-title="UAE CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/dubaiZaman-95x37.gif",Dubai Zaman
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SamaDubai.ae" group-title="ARABIC CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/samadubai_95x57.gif",Sama Dubai
+#EXTINF:-1 tvg-id="SamaDubai.ae" group-title="UAE CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/samadubai_95x57.gif",Sama Dubai
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NoorDubai.ae" group-title="ARABIC CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/noor-dubai-95x85.gif",Noor Dubai
+#EXTINF:-1 tvg-id="NoorDubai.ae" group-title="UAE CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/noor-dubai-95x85.gif",Noor Dubai
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainTV.bh" group-title="BAHRAIN CHANNELS",Bahrain TV
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+TV_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainInternational.bh" group-title="BAHRAIN CHANNELS",Bahrain International
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+International_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlEkhbariya.sa" group-title="SAUDI CHANNELS",Al Ekhbariya 
+https://edge.taghtia.com/sa/4.m3u8
+#EXTINF:-1 tvg-id="SBC.sa" GROUPE-TITLE="SAUDI CHANNELS",SBC
+https://edge.taghtia.com/sa/1.m3u8
+#EXTINF:-1 tvg-id="AlSaudiya.sa" group-title="SAUDI CHANNELS",Al Saudiya 
+https://edge.taghtia.com/sa/2.m3u8
+#EXTINF:-1 tvg-id="ThikrayatTV.sa" group-title="SAUDII CHANNELS",Thikrayat TV
+https://edge.taghtia.com/sa/3.m3u8
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" group-title="SAUDI CHANNEL",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/6.m3u8
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" group-title="SAUDI CHANNEL",Al Quran Al Kareem TV
+https://edge.taghtia.com/sa/7.m3u8
+#EXTINF:-1 tvg-id="KSASports1.sa" group-title="SAUDI CHANNELS",KSA Sports 1
+https://edge.taghtia.com/sa/9.m3u8
+#EXTINF:-1 tvg-id="KSASports2.sa" group-title="SAUDI CHANNELS" ,KSA Sports 2 
+https://edge.taghtia.com/sa/10.m3u8
+
+
+
+
+
+
 
 
