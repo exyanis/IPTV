@@ -1,49 +1,49 @@
 #ETM3U
-#EXTINF:-1,Algérie TV1
+#EXTINF:-1 group-title="ALGERIA CHANNELS",Algérie TV1
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
-#EXTINF:-1,Algérie TV2
+#EXTINF:-1 group-title="ALGERIA CHANNELS",Algérie TV2
 https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
-#EXTINF:-1,Algérie TV3
+#EXTINF:-1 group-title="ALGERIA CHANNELS",Algérie TV3
 https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
-#EXTINF:-1,Algérie TV4
+#EXTINF:-1 group-title="ALGERIA CHANNELS",Algérie TV4
 https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
-#EXTINF:-1,Algérie TV5 
+#EXTINF:-1 group-title="ALGERIA CHANNELS",Algérie TV5 
 https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8
-#EXTINF:-1,Algérie TV6
+#EXTINF:-1 group-title="ALGERIA CHANNELS",Algérie TV6
 https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
-#EXTINF:-1,Algérie TV7 
+#EXTINF:-1 group-title="ALGERIA CHANNELS",Algérie TV7 
 https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
-#EXTINF:-1,Algérie TV8 
+#EXTINF:-1 group-title="ALGERIA CHANNELS",Algérie TV8 
 #EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
-#EXTINF:-1,Al24 News 
+#EXTINF:-1 group-title="ALGERIA CHANNELS",Al24 News 
 https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
-#EXTINF:-1,Samira TV 
+#EXTINF:-1 group-title="ALGERIA CHANNELS",Samira TV 
 https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
-#EXTINF:-1,El Fadjr TV
+#EXTINF:-1 group-title="ALGERIA CHANNELS",El Fadjr TV
 https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8
-#EXTINF:-1,Ennahar TV 
+#EXTINF:-1 group-title="ALGERIA CHANNELS",Ennahar TV 
 https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
-#EXTINF:-1,Echorouk News
+#EXTINF:-1 group-title="ALGERIA CHANNELS",Echorouk News
 https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
-#EXTINF:-1,Echorouk TV
+#EXTINF:-1 group-title="ALGERIA CHANNELS",Echorouk TV
 ttps://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
-#EXTINF:-1,El Bilad 
+#EXTINF:-1 group-title="ALGERIA CHANNELS",El Bilad 
 https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
-#EXTINF:-1,El Djazair N1
+#EXTINF:-1 group-title="ALGERIA CHANNELS",El Djazair N1
 https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
-#EXTINF:-1 ,El Hayat TV 
+#EXTINF:-1 group-title="ALGERIA CHANNELS",El Hayat TV 
 https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
-#EXTINF:-1 ,BEUR TV 
+#EXTINF:-1 group-title="ALGERIA CHANNELS",BEUR TV 
 https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
-#EXTINF:-1 ,El Heddaf TV
+#EXTINF:-1 group-title="ALGERIA CHANNELS",El Heddaf TV
 https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
-#EXTINF:-1 ,Bahia TV
+#EXTINF:-1 group-title="ALGERIA CHANNELS",Bahia TV
 #EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
-#EXTINF:-1,Al Anis TV
+#EXTINF:-1 group-title="ALGERIA CHANNELS",Al Anis TV
 https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
-#EXTINF:-1, beIN SPORTS 
+#EXTINF:-1,beIN SPORTS 
 http://217.74.16.155:8082/local//ar-s/pEmPdyrGGz/index.m3u8
 #EXTINF:-1, beIN SPORTS NEWS
 http://217.74.16.155:8082/local//ar-s/WhKxECvZSk/tracks-v1a1/mono.m3u8
