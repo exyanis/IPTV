@@ -41,6 +41,22 @@ https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
 #EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/132_picture.png",Al Anis TV
 https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8 
+#EXTINF:-1 group-title="TURKISH CHANNELS",TRT1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TURKISH CHANNELS",TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TURKISH CHANNELS",TRT HABER
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TURKISH CHANNELS",TRT COCUK
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TURKISH CHANNELS",TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TURKISH CHANNELS",TRT KURDI
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TURKISH CHANNELS",TRT ARABIC
+https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TURKISH CHANNELS",TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="beIN SPORTS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports-logo.png", beIN SPORTS
 http://217.74.16.155:8082/local//ar-s/pEmPdyrGGz/index.m3u8
 #EXTINF:-1 group-title="beIN SPORTS" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/News-1.png", beIN SPORTS NEWS
