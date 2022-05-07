@@ -206,6 +206,20 @@ https://edge.taghtia.com/br/kwmedia-kwtvkids.m3u8
 https://edge.taghtia.com/br/kwmedia-kwtvsports.m3u8
 #EXTINF:-1 tvg-id="KTVSportPlus.kw" group-title="KUWAIT CHANNELS",KTV Sport Plus 
 https://edge.taghtia.com/br/kwmedia-kwtvsportsplus.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/28.png" group-title="ALJAZEERA CHANNELS",Aljazeera FHD
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/01.png" group-title="ALJAZEERA CHANNELS",Aljazeera HD
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/02.png" group-title="ALJAZEERA CHANNELS",Aljazeera SD
+https://live-hls-web-aja.getaj.net/AJA/03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/29.png" group-title="ALJAZEERA CHANNELS",Aljazeera Mubasher FHD
+http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/30.png" group-title="ALJAZEERA CHANNELS",Aljazeera Mubasher HD
+http://live-hls-web-ajm.getaj.net/AJM/02.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/03.png" group-title="ALJAZEERA CHANNELS",Aljazeera Mubasher SD
+http://live-hls-web-ajm.getaj.net/AJM/03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/04.jpg" group-title="ALJAZEERA CHANNELS",Aljazeera Documentary
+http://live-hls-web-ajd.getaj.net/AJD/01.m3u8
 
 
 
