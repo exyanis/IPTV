@@ -41,8 +41,6 @@ https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
 #EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/132_picture.png",Al Anis TV
 https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8 
-#EXTINF:-1 group-title=" MOROCO CHANNELS", AL AOULA
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_400000=2-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 group-title="TURKISH CHANNELS" tvg-logo="https://i5.satexpat.com/cha/tr/TRT1-95x36.gif",TRT1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="TURKISH CHANNELS" tvg-logo="https://i5.satexpat.com/cha/tr/trtBelgesel-95x30.gif",TRT BELGESEL
@@ -51,13 +49,13 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="TURKISH CHANNELS" tvg-logo="https://i5.satexpat.com/cha/tr/trt_cocuk_95x66.gif",TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="TURKISH CHANNELS",TRT AVAZ
+#EXTINF:-1 group-title="TURKISH CHANNELS" tvg-logo="https://i5.satexpat.com/cha/tr/ltrtavaz_95x20.gif",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="TURKISH CHANNELS",TRT KURDI
+#EXTINF:-1 group-title="TURKISH CHANNELS" tvg-logo="https://i5.satexpat.com/cha/tr/trt-kurdi-95x22.gif",TRT KURDI
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="TURKISH CHANNELS",TRT ARABIC
+#EXTINF:-1 group-title="TURKISH CHANNELS" tvg-logo="https://i5.satexpat.com/cha/tr/trtARabi-95x74.gif",TRT ARABIC
 https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="TURKISH CHANNELS",TRT WORLD
+#EXTINF:-1 group-title="TURKISH CHANNELS" tvg-logo="https://i5.satexpat.com/cha/tr/TRT_World-95x40.gif",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="beIN SPORTS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports-logo.png", beIN SPORTS
 http://217.74.16.155:8082/local//ar-s/pEmPdyrGGz/index.m3u8
@@ -97,59 +95,59 @@ http://217.74.16.155:8082/local/ar-s/SSC5/index.m3u8
 http://217.74.16.155:8082/local/ar-s/SSC6/index.m3u8
 #EXTINF:-1 group-title="SSC SPORTS", SSC 7
 http://217.74.16.155:8082/local/ar-s/SSC7/index.m3u8
-#EXTINF:-1 group-title="AD SPORTS",Abu Dhabi Sports 1
+#EXTINF:-1 group-title="AD SPORTS" tvg-logo="https://i5.satexpat.com/cha/ae/abuDhabiSports1-95x18.gif",Abu Dhabi Sports 1
 https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="AD SPORTS",Abu Dhabi Sports 2
+#EXTINF:-1 group-title="AD SPORTS" tvg-logo"https://i5.satexpat.com/cha/ae/abuDhabiSports2-95x18.gif",Abu Dhabi Sports 2
 https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-#EXTINF:-1 group-title="AD SPORTS",Abu Dhabi Sports 3 
+#EXTINF:-1 group-title="AD SPORTS" tvg-logo="https://i5.satexpat.com/cha/ae/abuDhabiSports3-95x18.gif",Abu Dhabi Sports 3 
 https://admdn3ta.cdn.mgmlcdn.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="AD SPORTS",Abu Dhabi Sports 4
+#EXTINF:-1 group-title="AD SPORTS" tvg-logo="https://i5.satexpat.com/cha/ae/abuDhabiSports4-95x18.gif",Abu Dhabi Sports 4
 https://admdn4.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="AD SPORTS",YAS
+#EXTINF:-1 group-title="AD SPORTS" tvg-logo="https://i5.satexpat.com/cha/ae/yas-95x38.gif",YAS
 https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIES CHANNELS",National Geographic Abu Dhabi
+#EXTINF:-1 group-title="DOCUMENTARIES CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/nationalGeographicAbuDhabi_95x33.gif",National Geographic Abu Dhabi
 https://admdn2ta.cdn.mgmlcdn.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="KIDS CHANNELS",Majid TV 
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/majid-95x44.gif",Majid TV 
 https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="MBC CHANNELS",MBC 1
+#EXTINF:-1 group-title="MBC CHANNELS" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png",MBC 1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_1_.m3u8
-#EXTINF:-1 group-title="MBC CHANNELS",MBC 3
+#EXTINF:-1 group-title="MBC CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/mbc3_95x75.gif",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 group-title="MBC CHANNELS",MBC 4
+#EXTINF:-1 group-title="MBC CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/mbc4-95x78.gif",MBC 4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 group-title="MBC CHANNELS",MBC 5 
+#EXTINF:-1 group-title="MBC CHANNELS" tvg-logo="https://i5.satexpat.com/cha/sa/mbc5-95x86.gif",MBC 5 
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
-#EXTINF:-1 group-title="MBC CHANNELS",MBC DRAMA
+#EXTINF:-1 group-title="MBC CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/mbcDrama_95x48.gif",MBC DRAMA
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 #EXTINF:-1 group-title="MBC CHANNELS",MBC+DRAMA
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 group-title="DUBAI SPORTS",Dubai Racing
+#EXTINF:-1 group-title="DUBAI SPORTS" tvg-logo="https://i5.satexpat.com/cha/ae/dubaiRacing-95x58.gif",Dubai Racing
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
-#EXTINF:-1 group-title="DUBAI SPORTS",Dubai Racing 2 
+#EXTINF:-1 group-title="DUBAI SPORTS" tvg-logo="https://i5.satexpat.com/cha/ae/dubaiRacing-95x58.gif",Dubai Racing 2 
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1 group-title="DUBAI SPORTS",Dubai Racing 3 
+#EXTINF:-1 group-title="DUBAI SPORTS" tvg-logo="https://i5.satexpat.com/cha/ae/dubaiRacing-95x58.gif",Dubai Racing 3 
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1 group-title="DUBAI SPORTS",Dubai Sports 1 
+#EXTINF:-1 group-title="DUBAI SPORTS" tvg-logo="https://i5.satexpat.com/cha/ae/dubaiSport-95x63.gif",Dubai Sports 1 
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:-1 group-title="DUBAI SPORTS",Dubai Sports 2 
+#EXTINF:-1 group-title="DUBAI SPORTS" tvg-logo="https://i5.satexpat.com/cha/ae/dubaiSport2-95x81.gif",Dubai Sports 2 
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 group-title="DUBAI SPORTS",Dubai Sports 3 
+#EXTINF:-1 group-title="DUBAI SPORTS"tvg-logo="https://i5.satexpat.com/cha/ae/dubaiSport3-95x81.gif",Dubai Sports 3 
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 tvg-id="Alarabiya.ae" group-title="NEWS CHANNELS",Al Arabiya
+#EXTINF:-1 tvg-id="Alarabiya.ae" group-title="NEWS CHANNELS" tvg-logo="https://i5.satexpat.com/cha/sa/alArabiya-95x37.gif",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlHadath.ae"  group-title="NEWS CHANNELS",Al Hadath TV
+#EXTINF:-1 tvg-id="AlHadath.ae"  group-title="NEWS CHANNELS"tvg-logo="https://i5.satexpat.com/cha/ae/alHadath-95x44.gif",Al Hadath TV
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" group-title="ARABIC CHANNELS",Abu Dhabi Aloula
+#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" group-title="ARABIC CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/abuDhabi-95x47.gif",Abu Dhabi Aloula
 https://admdn2ta.cdn.mgmlcdn.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae"  group-title="ARABIC CHANNELS",Abu Dhabi Emirates 
+#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae"  group-title="ARABIC CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/emarat-95x46.gifhttps://i5.satexpat.com/cha/ae/emarat-95x46.gifhttps://i5.satexpat.com/cha/ae/emarat-95x46.gifhttps://i5.satexpat.com/cha/ae/emarat-95x46.gif",Abu Dhabi Emirates 
 https://admdn3ta.cdn.mgmlcdn.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="dubaitv.ae" group-title="ARABIC CHANNELS", DUBAI TV
+#EXTINF:-1 tvg-id="dubaitv.ae" group-title="ARABIC CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/dubai-tv-95x48.gif", DUBAI TV
 https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-id="DubaiZaman.ae" group-title="ARABIC CHANNELS",Dubai Zaman
+#EXTINF:-1 tvg-id="DubaiZaman.ae" group-title="ARABIC CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/dubaiZaman-95x37.gif",Dubai Zaman
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SamaDubai.ae" group-title="ARABIC CHANNELS",Sama Dubai
+#EXTINF:-1 tvg-id="SamaDubai.ae" group-title="ARABIC CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/samadubai_95x57.gif",Sama Dubai
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NoorDubai.ae" group-title="ARABIC CHANNELS",Noor Dubai
+#EXTINF:-1 tvg-id="NoorDubai.ae" group-title="ARABIC CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/noor-dubai-95x85.gif",Noor Dubai
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 
 
