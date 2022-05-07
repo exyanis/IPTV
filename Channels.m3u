@@ -1,45 +1,45 @@
 #ETM3U
-#EXTINF:-1 group-title="ALGERIA CHANNELS"tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/9_picture.png",Algérie TV1
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/9_picture.png",Algérie TV1
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS",Algérie TV2
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/4_picture.png",Algérie TV2
 https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS",Algérie TV3
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/1_picture.png",Algérie TV3
 https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS",Algérie TV4
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/124_picture.png",Algérie TV4
 https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS",Algérie TV5 
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/73_picture.png",Algérie TV5 
 https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS",Algérie TV6
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/137_picture.png",Algérie TV6
 https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS",Algérie TV7 
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/138_picture.png",Algérie TV7 
 https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS",Algérie TV8 
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/141_picture.png",Algérie TV8 
 https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS",Al24 News 
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/143_picture.png",Al24 News 
 https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS",Samira TV 
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/10_picture.png",Samira TV 
 https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS",El Fadjr TV
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/130_picture.png",El Fadjr TV
 https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS",Ennahar TV 
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/8_picture.png",Ennahar TV 
 https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS",Echorouk News
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/18_picture.png",Echorouk News
 https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS",Echorouk TV
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/6_picture.png",Echorouk TV
 ttps://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS",El Bilad 
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/126_picture.png",El Bilad 
 https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS",El Djazair N1
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/139_picture.png",El Djazair N1
 https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS",El Hayat TV 
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/129_picture.png",El Hayat TV 
 https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS",BEUR TV 
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/3_picture.png",BEUR TV 
 https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS",El Heddaf TV
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/15_picture.png",El Heddaf TV
 https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS",Bahia TV
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/123_picture.png",Bahia TV
 https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS",Al Anis TV
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/132_picture.png",Al Anis TV
 https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8 
 #EXTINF:-1 group-title="beIN SPORTS", beIN SPORTS
 http://217.74.16.155:8082/local//ar-s/pEmPdyrGGz/index.m3u8
