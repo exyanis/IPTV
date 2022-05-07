@@ -133,16 +133,8 @@ https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/play
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NoorDubai.ae" group-title="ARABIC CHANNELS",Noor Dubai
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARES CHANNELS", VIASAT HISTORY
-https://sc.id-tv.kz/ViasatHistory_34_35.m3u8
-#EXTINF:-1 group-title="DOCUMENTARES CHANNELS", VIASAT NATURE
-https://sc.id-tv.kz/ViasatNature_34_35.m3u8
-#EXTINF:-1 group-title="DOCUMENTARES CHANNELS", VIASAT EXPLORER
-https://sc.id-tv.kz/ViasatExplorer_34_35.m3u8
 #EXTINF:-1 group-title="AFRICA CHANNELS", RTI1
 https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARIES CHANNELS" NAT GEO WILD
-https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
 
 
 
