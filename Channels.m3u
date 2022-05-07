@@ -1,13 +1,13 @@
 #ETM3U
-#EXTINF:-1 tvg-goupe ,Algérie TV1
+#EXTINF:-1,Algérie TV1
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
 #EXTINF:-1,Algérie TV2
 https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
 #EXTINF:-1,Algérie TV3
 https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
-#EXTINF:-1 ,Algérie TV4
+#EXTINF:-1,Algérie TV4
 https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
-#EXTINF:-1 ,Algérie TV5 
+#EXTINF:-1,Algérie TV5 
 https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8
 #EXTINF:-1,Algérie TV6
 https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
@@ -44,61 +44,43 @@ https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
 #EXTINF:-1,Al Anis TV
 https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
 #EXTINF:-1, beIN SPORTS 
-#EXTGRP: beIN SPORTS
 http://217.74.16.155:8082/local//ar-s/pEmPdyrGGz/index.m3u8
 #EXTINF:-1, beIN SPORTS NEWS
-#EXTGRP: beIN SPORTS
 http://217.74.16.155:8082/local//ar-s/WhKxECvZSk/tracks-v1a1/mono.m3u8
 #EXTINF:-1, beIN SPORTS PREMIUM 1
-#EXTGRP: beIN SPORTS
 http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/index.m3u8
 #EXTINF:-1, beIN SPORTS PREMIUM 2
-#EXTGRP: beIN SPORTS
 http://217.74.16.155:8082/local//ar-s/B-S-pre-2-stop/index.m3u8
 #EXTINF:-1, beIN SPORTS PREMIUM 3
-#EXTGRP: beIN SPORTS
 http://217.74.16.155:8082/local//ar-s/B-S-pre-3-stop/index.m3u8
 #EXTINF:-1, beIN SPORTS 1
-#EXTGRP: beIN SPORTS
 http://217.74.16.155:8082/local//ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1, beIN SPORTS 2
 #EXTGRP: beIN SPORTS
 http://217.74.16.155:8082/local//ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1, beIN SPORTS 3
-#EXTGRP: beIN SPORTS
 http://217.74.16.155:8082/local//ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1, beIN SPORTS 4
-#EXTGRP: beIN SPORTS
 http://217.74.16.155:8082/local//ar-s/bein-4-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1, beIN SPORTS 5
-#EXTGRP: beIN SPORTS
 http://217.74.16.155:8082/local//ar-s/bein-5-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1, beIN SPORTS 6
-#EXTGRP: beIN SPORTS
 http://217.74.16.155:8082/local//ar-s/bein-6-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1, beIN SPORTS 7
-#EXTGRP: beIN SPORTS
 http://217.74.16.155:8082/local//ar-s/bein-7-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1, SSC 1
-#EXTGRP: SSC SPORTS
 http://217.74.16.155:8082/local/ar-s/SSC1/index.m3u8
 #EXTINF:-1, SSC 2
-#EXTGRP: SSC SPORTS
 http://217.74.16.155:8082/local/ar-s/SSC2/index.m3u8
 #EXTINF:-1, SSC 3
-#EXTGRP: SSC SPORTS
 http://217.74.16.155:8082/local/ar-s/SSC3/index.m3u8
 #EXTINF:-1, SSC 4
-#EXTGRP: SSC SPORTS
 http://217.74.16.155:8082/local/ar-s/SSC4/index.m3u8
 #EXTINF:-1, SSC 5
-#EXTGRP: SSC SPORTS
 http://217.74.16.155:8082/local/ar-s/SSC5/index.m3u8
 #EXTINF:-1, SSC 6
-#EXTGRP: SSC SPORTS
 http://217.74.16.155:8082/local/ar-s/SSC6/index.m3u8
 #EXTINF:-1, SSC 7
-#EXTGRP: SSC SPORTS
 http://217.74.16.155:8082/local/ar-s/SSC7/index.m3u8
 #EXTINF:-1,Abu Dhabi Sports 1
 https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
