@@ -14,7 +14,6 @@ https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
 #EXTINF:-1 group-title="ALGERIA CHANNELS",Algérie TV7 
 https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
 #EXTINF:-1 group-title="ALGERIA CHANNELS",Algérie TV8 
-#EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
 #EXTINF:-1 group-title="ALGERIA CHANNELS",Al24 News 
 https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
@@ -39,56 +38,54 @@ https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
 #EXTINF:-1 group-title="ALGERIA CHANNELS",El Heddaf TV
 https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
 #EXTINF:-1 group-title="ALGERIA CHANNELS",Bahia TV
-#EXTGRP:ALGERIA CHANNELS
 https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
 #EXTINF:-1 group-title="ALGERIA CHANNELS",Al Anis TV
-https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
-#EXTINF:-1,beIN SPORTS 
+https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8 
+#EXTINF:-1 group-title="beIN SPORTS", beIN SPORTS
 http://217.74.16.155:8082/local//ar-s/pEmPdyrGGz/index.m3u8
-#EXTINF:-1, beIN SPORTS NEWS
+#EXTINF:-1 group-title="beIN SPORTS", beIN SPORTS NEWS
 http://217.74.16.155:8082/local//ar-s/WhKxECvZSk/tracks-v1a1/mono.m3u8
-#EXTINF:-1, beIN SPORTS PREMIUM 1
+#EXTINF:-1 group-title="beIN SPORTS", beIN SPORTS PREMIUM 1
 http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/index.m3u8
-#EXTINF:-1, beIN SPORTS PREMIUM 2
+#EXTINF:-1 group-title="beIN SPORTS", beIN SPORTS PREMIUM 2
 http://217.74.16.155:8082/local//ar-s/B-S-pre-2-stop/index.m3u8
-#EXTINF:-1, beIN SPORTS PREMIUM 3
+#EXTINF:-1 group-title="beIN SPORTS", beIN SPORTS PREMIUM 3
 http://217.74.16.155:8082/local//ar-s/B-S-pre-3-stop/index.m3u8
-#EXTINF:-1, beIN SPORTS 1
+#EXTINF:-1 group-title="beIN SPORTS", beIN SPORTS 1
 http://217.74.16.155:8082/local//ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1, beIN SPORTS 2
-#EXTGRP: beIN SPORTS
+#EXTINF:-1 group-title="beIN SPORTS", beIN SPORTS 2
 http://217.74.16.155:8082/local//ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1, beIN SPORTS 3
+#EXTINF:-1 group-title="beIN SPORTS", beIN SPORTS 3
 http://217.74.16.155:8082/local//ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1, beIN SPORTS 4
+#EXTINF:-1 group-title="beIN SPORTS", beIN SPORTS 4
 http://217.74.16.155:8082/local//ar-s/bein-4-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1, beIN SPORTS 5
+#EXTINF:-1 group-title="beIN SPORTS", beIN SPORTS 5
 http://217.74.16.155:8082/local//ar-s/bein-5-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1, beIN SPORTS 6
+#EXTINF:-1 group-title="beIN SPORTS", beIN SPORTS 6
 http://217.74.16.155:8082/local//ar-s/bein-6-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1, beIN SPORTS 7
+#EXTINF:-1 group-title="beIN SPORTS", beIN SPORTS 7
 http://217.74.16.155:8082/local//ar-s/bein-7-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SSC 1
+#EXTINF:-1 group-title="SSC SPORTS", SSC 1
 http://217.74.16.155:8082/local/ar-s/SSC1/index.m3u8
-#EXTINF:-1, SSC 2
+#EXTINF:-1 group-title="SSC SPORTS", SSC 2
 http://217.74.16.155:8082/local/ar-s/SSC2/index.m3u8
-#EXTINF:-1, SSC 3
+#EXTINF:-1 group-title="SSC SPORTS", SSC 3
 http://217.74.16.155:8082/local/ar-s/SSC3/index.m3u8
-#EXTINF:-1, SSC 4
+#EXTINF:-1 group-title="SSC SPORTS", SSC 4
 http://217.74.16.155:8082/local/ar-s/SSC4/index.m3u8
-#EXTINF:-1, SSC 5
+#EXTINF:-1 group-title="SSC SPORTS", SSC 5
 http://217.74.16.155:8082/local/ar-s/SSC5/index.m3u8
-#EXTINF:-1, SSC 6
+#EXTINF:-1 group-title="SSC SPORTS", SSC 6
 http://217.74.16.155:8082/local/ar-s/SSC6/index.m3u8
-#EXTINF:-1, SSC 7
+#EXTINF:-1 group-title="SSC SPORTS", SSC 7
 http://217.74.16.155:8082/local/ar-s/SSC7/index.m3u8
-#EXTINF:-1,Abu Dhabi Sports 1
+#EXTINF:-1 groupe-title="AD SPORTS",Abu Dhabi Sports 1
 https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2
+#EXTINF:-1 groupe-title="AD SPORTS",Abu Dhabi Sports 2
 https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-#EXTINF:-1,Abu Dhabi Sports 3 
+#EXTINF:-1 groupe-title="AD SPORTS",Abu Dhabi Sports 3 
 https://admdn3ta.cdn.mgmlcdn.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,Abu Dhabi Sports 4
+#EXTINF:-1 groupe-title="AD SPORTS",Abu Dhabi Sports 4
 https://admdn4.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,YAS
+#EXTINF:-1 groupe-title="AD SPORTS",YAS
 https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
