@@ -41,11 +41,11 @@ https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
 #EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/132_picture.png",Al Anis TV
 https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8 
-#EXTINF:-1 group-title="beIN SPORTS", beIN SPORTS
+#EXTINF:-1 group-title="beIN SPORTS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports-logo.png", beIN SPORTS
 http://217.74.16.155:8082/local//ar-s/pEmPdyrGGz/index.m3u8
-#EXTINF:-1 group-title="beIN SPORTS", beIN SPORTS NEWS
+#EXTINF:-1 group-title="beIN SPORTS" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/News-1.png", beIN SPORTS NEWS
 http://217.74.16.155:8082/local//ar-s/WhKxECvZSk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="beIN SPORTS", beIN SPORTS PREMIUM 1
+#EXTINF:-1 group-title="beIN SPORTS" , beIN SPORTS PREMIUM 1
 http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/index.m3u8
 #EXTINF:-1 group-title="beIN SPORTS", beIN SPORTS PREMIUM 2
 http://217.74.16.155:8082/local//ar-s/B-S-pre-2-stop/index.m3u8
