@@ -121,9 +121,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHadath.ae"  group-title="NEWS CHANNELS",Al Hadath TV
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" groupe-title="ARABIC CHANNELS",Abu Dhabi Aloula
+#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" group-title="ARABIC CHANNELS",Abu Dhabi Aloula
 https://admdn2ta.cdn.mgmlcdn.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiDrama.ae" status="error",Abu Dhabi Drama
-https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" status="online",Abu Dhabi Emirates 
+#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae"  group-title="ARABIC CHANNELS",Abu Dhabi Emirates 
 https://admdn3ta.cdn.mgmlcdn.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
