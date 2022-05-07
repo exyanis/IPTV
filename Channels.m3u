@@ -190,7 +190,22 @@ http://livestreaming5.onlinehorizons.net/hls-live/NTNNileLife/_definst_/liveeven
 #EXTINF:-1 tvg-id="NileSport.eg" group-title="EGYPT CHANNELS" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",Nile TV Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 http://livestreaming5.onlinehorizons.net/hls-live/NTNNileSport/_definst_/liveevent/livestream.m3u8
-
+#EXTINF:-1 tvg-id="KTV1.kw" group-title="KUWAIT CHANNELS",KTV 1 
+https://edge.taghtia.com/br/kwmedia-kwtv1.m3u8
+#EXTINF:-1 tvg-id="KTV2.kw" group-title="KUWAIT CHANNELS",KTV 2 
+https://edge.taghtia.com/br/kwmedia-kwtv2.m3u8
+#EXTINF:-1 tvg-id="KTVAlQurain.kw" group-title="KUWAIT CHANNELS",KTV Al Qurain 
+https://edge.taghtia.com/br/kwmedia-kwtvqurain.m3u8
+#EXTINF:-1 tvg-id="KTVArabe.kw" group-title="KUWAIT CHANNELS",KTV Arabe 
+https://edge.taghtia.com/br/kwmedia-kwtvarabi.m3u8
+#EXTINF:-1 tvg-id="KTVEthraa.kw" group-title="KUWAIT CHANNELS",KTV Ethraa 
+https://edge.taghtia.com/br/kwmedia-kwtvethraa.m3u8
+#EXTINF:-1 tvg-id="KTVKhallikBilbait.kw" group-title="KUWAIT CHANNELS",KTV Khallik Bilbait 
+https://edge.taghtia.com/br/kwmedia-kwtvkids.m3u8
+#EXTINF:-1 tvg-id="KTVSport.kw" group-title="KUWAIT CHANNELS",KTV Sport 
+https://edge.taghtia.com/br/kwmedia-kwtvsports.m3u8
+#EXTINF:-1 tvg-id="KTVSportPlus.kw" group-title="KUWAIT CHANNELS",KTV Sport Plus 
+https://edge.taghtia.com/br/kwmedia-kwtvsportsplus.m3u8
 
 
 
