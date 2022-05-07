@@ -15,7 +15,7 @@ https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
 #EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/141_picture.png",Algérie TV8 
 https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/143_picture.png",Al24 News 
+#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/143_picture.jpeg",Al24 News 
 https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
 #EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/10_picture.png",Samira TV 
 https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
