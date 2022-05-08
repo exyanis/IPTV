@@ -242,5 +242,16 @@ https://lds-realwild-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-realwild
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us"group-title="DOCUMENTARIES CHANNELS",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Africanews.cg" group-title="NEWS CHANNELS",AfricaNews Fr
+https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Africanews.cg" group-title="NEWS CHANNELS",AfricaNews En
+#EXTINF:-1 tvg-id="" group-title="NEWS CHANNELS",Euronews En
+https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="NEWS CHANNELS"Euronews Fr
+https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Xplore.us" group-title="DOCUMENTARIES CHANNELS",Xplore
+https://xplore-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DuckTV.sk" group-title="KIDS CHANNELS",Duck TV 
+https://mmm-ducktv-3-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
