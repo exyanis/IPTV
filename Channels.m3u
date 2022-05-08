@@ -230,7 +230,34 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/19.jpeg" group-title="SAUDI CHANNELS",Iqraa
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:-1 tvg-id="24TV.tr" group-title="TURKISH CHANNELS",24 TV
+https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
+#EXTINF:-1 tvg-id="360TV.tr" group-title="TURKISH CHANNELS",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-id="DHA.tr" group-title="TURKISH CHANNELS",DHA 
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HRT1.hr" group-title="CROATIA CHANNELS" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
+#EXTINF:-1 tvg-id="HRT1.hr" group-title="CROATIA CHANNELS" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.84/PLTV/88888888/224/3221226139/index.m3u8
+#EXTINF:-1 tvg-id="HRT2.hr" group-title="CROATIA CHANNELS" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 2 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1 tvg-id="HRT2.hr" group-title="CROATIA CHANNELS" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 2 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1 tvg-id="HRT3.hr" group-title="CROATIA CHANNELS" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 3 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
+#EXTINF:-1 tvg-id="HRT4.hr" group-title="CROATIA CHANNELS" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 4 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
+#EXTINF:-1 tvg-id="HRT4.hr" group-title="CROATIA CHANNELS" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 4 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.89/PLTV/88888888/224/3221226281/index.m3u8
 
 
 
