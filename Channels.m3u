@@ -161,9 +161,9 @@ https://edge.taghtia.com/sa/1.m3u8
 https://edge.taghtia.com/sa/2.m3u8
 #EXTINF:-1 tvg-id="ThikrayatTV.sa" group-title="SAUDI CHANNELS",Thikrayat TV
 https://edge.taghtia.com/sa/3.m3u8
-#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" group-title="SAUDI CHANNEL",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" group-title="SAUDI CHANNELS",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/6.m3u8
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" group-title="SAUDI CHANNEL",Al Quran Al Kareem TV
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" group-title="SAUDI CHANNELS",Al Quran Al Kareem TV
 https://edge.taghtia.com/sa/7.m3u8
 #EXTINF:-1 tvg-id="KSASports1.sa" group-title="SAUDI CHANNELS",KSA Sports 1
 https://edge.taghtia.com/sa/9.m3u8
