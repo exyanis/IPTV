@@ -208,16 +208,9 @@ https://edge.taghtia.com/br/kwmedia-kwtvsports.m3u8
 https://edge.taghtia.com/br/kwmedia-kwtvsportsplus.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/28.png" group-title="ALJAZEERA CHANNELS",Aljazeera FHD
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/01.png" group-title="ALJAZEERA CHANNELS",Aljazeera HD
-https://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/02.png" group-title="ALJAZEERA CHANNELS",Aljazeera SD
 https://live-hls-web-aja.getaj.net/AJA/03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/29.png" group-title="ALJAZEERA CHANNELS",Aljazeera Mubasher FHD
 http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/30.png" group-title="ALJAZEERA CHANNELS",Aljazeera Mubasher HD
-http://live-hls-web-ajm.getaj.net/AJM/02.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/03.png" group-title="ALJAZEERA CHANNELS",Aljazeera Mubasher SD
-http://live-hls-web-ajm.getaj.net/AJM/03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/04.jpg" group-title="ALJAZEERA CHANNELS",Aljazeera Documentary
 http://live-hls-web-ajd.getaj.net/AJD/01.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/24.jpg" QATAR CHANNELS,Qatar TV
@@ -236,28 +229,18 @@ https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="DHA.tr" group-title="TURKISH CHANNELS",DHA 
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HRT1.hr" group-title="CROATIA CHANNELS" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 1 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
-http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
 #EXTINF:-1 tvg-id="HRT1.hr" group-title="CROATIA CHANNELS" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 1 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
 http://195.29.70.84/PLTV/88888888/224/3221226139/index.m3u8
 #EXTINF:-1 tvg-id="HRT2.hr" group-title="CROATIA CHANNELS" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 2 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1 tvg-id="HRT2.hr" group-title="CROATIA CHANNELS" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 2 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
-http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8
 #EXTINF:-1 tvg-id="HRT3.hr" group-title="CROATIA CHANNELS" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 3 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
 http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
 #EXTINF:-1 tvg-id="HRT4.hr" group-title="CROATIA CHANNELS" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 4 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
 http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
-#EXTINF:-1 tvg-id="HRT4.hr" group-title="CROATIA CHANNELS" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",HRT 4 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
-http://195.29.70.89/PLTV/88888888/224/3221226281/index.m3u8
 
 
 
