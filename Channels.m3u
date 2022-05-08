@@ -244,7 +244,12 @@ http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
 #EXTINF:-1 tvg-id="RTLHrvatska.hr"  group-title="CROATIA CHANNELS" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",RTL (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
 http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
-
-
-
+#EXTINF:-1 tvg-id="61fc0df14159c40007250432" tvg-chno="53" tvg-logo="https://images.pluto.tv/channels/61fc0df14159c40007250432/colorLogoPNG.png" group-title="DOCUMENTARIES",Nature Time
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fc0df14159c40007250432/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="GBBA220000751" tvg-chno="4272" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/GBBA220000751_20220323T070319.png" group-title="DOCUMENTARIES",InWild
+https://samsunguk-inwild-samsung-uk-7snt0.amagi.tv/playlist/samsunguk-inwild-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+70/01/81/USBA3400003IP_20220330T044510.png" group-title="DOCUMENETARIES",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="Veely_EPGReal Wild" tvg-name="Real Wild" tvg-logo="https://thumbnails.simplestreamcdn.com/veely/channel_logos/1061.png?width=700&lang=en" group-title="DOCUMENTARIES",Real Wild
+https://lds-realwild-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-realwild-simplestream/CDN/master.m3u8
 
