@@ -253,5 +253,8 @@ https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 https://xplore-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DuckTV.sk" group-title="KIDS CHANNELS",Duck TV 
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CHBA3300028G3" tvg-chno="4260" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/17/CHBA3300028G3_20220323T074701.png" group-title="DOCUMENTARIES CHANNELS",Wilder Planet
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8?ads.did=%20PSID%20&ads.dnt=%20TARGETOPT%20&ads.app_domain=%20APP_DOMAIN%20&ads.app_name=%20APP_NAME%20&ads.coppa=0&ads.tc_string=%20TC_STRING%20
+
 
 
