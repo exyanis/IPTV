@@ -226,13 +226,13 @@ http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-id="61fc0df14159c40007250432" tvg-chno="53" tvg-logo="https://images.pluto.tv/channels/61fc0df14159c40007250432/colorLogoPNG.png" group-title="DOCUMENTARIES CHANNELS",Nature Time
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fc0df14159c40007250432/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="InsightTV.nl" status="online",Insight TV 
+#EXTINF:-1 tvg-id="InsightTV.nl" group-title="DOCUUMENTARIES CHANNELS",Insight TV 
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InTrouble.nl" grup-title="OCUMENTARIES CHANNELS",InTrouble 
+#EXTINF:-1 tvg-id="InTrouble.nl" group-title="DOCUMENTARIES CHANNELS",InTrouble 
 https://introuble-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InWild.nl" grup-title="OCUMENTARIES CHANNELS",InWild 
+#EXTINF:-1 tvg-id="InWild.nl" group-title="DOCUMENTARIES CHANNELS",InWild 
 https://inwild-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InWonder.nl" grup-title="OCUMENTARIES CHANNELS",InWonder 
+#EXTINF:-1 tvg-id="InWonder.nl" group-title="DOCUMENTARIES CHANNELS",InWonder 
 https://inwonder-samsungau.amagi.tv/playlist.m3u8
 70/01/81/USBA3400003IP_20220330T044510.png" group-title="DOCUMENETARIES CHANNELS",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -257,7 +257,9 @@ https://mmm-ducktv-3-es.samsung.wurl.com/manifest/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8?ads.did=%20PSID%20&ads.dnt=%20TARGETOPT%20&ads.app_domain=%20APP_DOMAIN%20&ads.app_name=%20APP_NAME%20&ads.coppa=0&ads.tc_string=%20TC_STRING%20
 #EXTINF:-1 tvg-id="GBAJ4900004ZY" tvg-chno="4240" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/47/GBAJ4900004ZY_20220323T070407.png" group-title"DOCUMENTARIES CHANNELS",Planet Knowledge
 https://5591df34695b4451a3a21e0fecb11830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_PlanetKnowledge/playlist.m3u8?ads.wurl_channel=392&ads.wurl_name=PlanetKnowledge&ads.psid=%20PSID%20&ads.targetopt=%20TARGETOPT%20&ads.app_domain=%20APP_DOMAIN%20&ads.app_name=%20APP_NAME%20&ads.coppa=0&ads.consent=%20TC_STRING%20
-#EXTINF:-1 channel-id="samsung-INBC1500002TR" tvg-id="INBC1500002TR" tvg-chno="1166" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/65/INBC1500002TR_20220427T054732.png" group-title="DOCUENTARIES CHANNELS",Animal Planet HD
+#EXTINF:-1 channel-id="samsung-INBC1500002TR" tvg-id="INBC1500002TR" tvg-chno="1166" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/65/INBC1500002TR_20220427T054732.png" group-title="DOCUMENTARIES CHANNELS",Animal Planet HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-chno="1404" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/USBA3400003IP_20220330T044510.png" group-title="DOCUMENTARIES CHANNELS",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%20PSID%20&ads.device_dnt=%20TARGETOPT%20&ads.us_privacy=1YNY&ads.app_domain=%20APP_DOMAIN%20&ads.app_name=%20APP_NAME%20
 
 
