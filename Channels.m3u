@@ -95,13 +95,13 @@ http://217.74.16.155:8082/local/ar-s/SSC5/index.m3u8
 http://217.74.16.155:8082/local/ar-s/SSC6/index.m3u8
 #EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://github.com/exyanis/IPTV/blob/main/Logos/ssc7.png", SSC 7
 http://217.74.16.155:8082/local/ar-s/SSC7/index.m3u8
-#EXTINF:-1 group-title="AD SPORTS" tvg-logo="https://i5.satexpat.com/cha/ae/abuDhabiSports1-95x18.gif",Abu Dhabi Sports 1
+#EXTINF:-1 group-title="AD SPORTS" tvg-logo="https://github.com/exyanis/IPTV/blob/main/Logos/adsport1.png",Abu Dhabi Sports 1
 https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="AD SPORTS" tvg-logo"https://i5.satexpat.com/cha/ae/abuDhabiSports2-95x18.gif",Abu Dhabi Sports 2
+#EXTINF:-1 group-title="AD SPORTS" tvg-logo="https://github.com/exyanis/IPTV/blob/main/Logos/adsport2.png",Abu Dhabi Sports 2
 https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-#EXTINF:-1 group-title="AD SPORTS" tvg-logo="https://i5.satexpat.com/cha/ae/abuDhabiSports3-95x18.gif",Abu Dhabi Sports 3 
+#EXTINF:-1 group-title="AD SPORTS" tvg-logo="https://github.com/exyanis/IPTV/blob/main/Logos/adsport3hd.png",Abu Dhabi Sports 3 
 https://admdn3ta.cdn.mgmlcdn.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="AD SPORTS" tvg-logo="https://i5.satexpat.com/cha/ae/abuDhabiSports4-95x18.gif",Abu Dhabi Sports 4
+#EXTINF:-1 group-title="AD SPORTS" tvg-logo="https://github.com/exyanis/IPTV/blob/main/Logos/adsport4hd.png",Abu Dhabi Sports 4
 https://admdn4.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="AD SPORTS" tvg-logo="https://i5.satexpat.com/cha/ae/yas-95x38.gif",YAS
 https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
