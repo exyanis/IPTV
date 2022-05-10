@@ -57,29 +57,29 @@ https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="TURKISH CHANNELS" tvg-logo="https://i5.satexpat.com/cha/tr/TRT_World-95x40.gif",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports.png", beIN SPORTS
+#EXTINF:-1 tvg-id="beinsports.jsc" group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports.png", beIN SPORTS
 http://217.74.16.155:8082/local//ar-s/pEmPdyrGGz/index.m3u8
-#EXTINF:-1 group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsportsnewshd.png", beIN SPORTS NEWS
+#EXTINF:-1 tvg-id="beinsportsnews.jsc" group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsportsnewshd.png", beIN SPORTS NEWS
 http://217.74.16.155:8082/local//ar-s/WhKxECvZSk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports1premium.png" , beIN SPORTS PREMIUM 1
+#EXTINF:-1 tvg-id="beINSportsPremium1.qa" group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports1premium.png" , beIN SPORTS PREMIUM 1
 http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/index.m3u8
-#EXTINF:-1 group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports2premium.png", beIN SPORTS PREMIUM 2
+#EXTINF:-1 tvg-id="beINSportsPremium2.qa" group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports2premium.png", beIN SPORTS PREMIUM 2
 http://217.74.16.155:8082/local//ar-s/B-S-pre-2-stop/index.m3u8
-#EXTINF:-1 group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports3premium.png", beIN SPORTS PREMIUM 3
+#EXTINF:-1 tvg-id="beINSportsPremium3.qa"  group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports3premium.png", beIN SPORTS PREMIUM 3
 http://217.74.16.155:8082/local//ar-s/B-S-pre-3-stop/index.m3u8
-#EXTINF:-1 group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports1.png", beIN SPORTS 1
+#EXTINF:-1 tvg-id="bein1hd.jsc" group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports1.png", beIN SPORTS 1
 http://217.74.16.155:8082/local//ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports2.png", beIN SPORTS 2
+#EXTINF:-1 tvg-id="bein2hd.jsc" group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports2.png", beIN SPORTS 2
 http://217.74.16.155:8082/local//ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports3.png", beIN SPORTS 3
+#EXTINF:-1 tvg-id="bein3hd.jsc" group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports3.png", beIN SPORTS 3
 http://217.74.16.155:8082/local//ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports4.png", beIN SPORTS 4
+#EXTINF:-1 tvg-id="bein4hd.jsc" group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports4.png", beIN SPORTS 4
 http://217.74.16.155:8082/local//ar-s/bein-4-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports5.png", beIN SPORTS 5
+#EXTINF:-1 tvg-id="bein5hd.jsc" group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports5.png", beIN SPORTS 5
 http://217.74.16.155:8082/local//ar-s/bein-5-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports6.png", beIN SPORTS 6
+#EXTINF:-1 tvg-id="bein6hd.jsc" group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports6.png", beIN SPORTS 6
 http://217.74.16.155:8082/local//ar-s/bein-6-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports7.png", beIN SPORTS 7
+#EXTINF:-1 tvg-id="bein7hd.jsc" group-title="beIN SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/beinsports7.png", beIN SPORTS 7
 http://217.74.16.155:8082/local//ar-s/bein-7-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/ssc1.png", SSC 1
 http://217.74.16.155:8082/local/ar-s/SSC1/index.m3u8
