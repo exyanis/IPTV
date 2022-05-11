@@ -101,10 +101,6 @@ https://s4.tntendirect.com/tf1/live/chunks.m3u8
 https://s4.tntendirect.com/france2/live/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", FRANCE 3
 https://s4.tntendirect.com/france3/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", FRANCE 4
-https://s4.tntendirect.com/france24/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", FRANCE 4
-https://s4.tntendirect.com/france4/live/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", FRANCE 5
 https://s4.tntendirect.com/france5/live/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", M6
@@ -112,17 +108,36 @@ https://s4.tntendirect.com/m6/live/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", arte
 https://s4.tntendirect.com/arte/live/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", C8
-https://s4.tntendirect.com/c8/live/chunks.m3u8
+https://s4.tntendirect.com/d8/live/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", W9
 https://s4.tntendirect.com/w9/live/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", TMC
 https://s4.tntendirect.com/tmc/live/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", TFX
-https://s4.tntendirect.com/tfx/live/chunks.m3u8
+https://s4.tntendirect.com/nt1/live/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", NRJ12
 https://s4.tntendirect.com/nrj12/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", LCP
-https://s4.tntendirect.com/lcp/live/chunks.m3u8
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", BFMTV
+https://s4.tntendirect.com/bfmtv/live/chunks.m3u8
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", CNEWS
+https://s4.tntendirect.com/cnews/live/chunks.m3u8
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", c17
+https://s4.tntendirect.com/d17/live/chunks.m3u8
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", TF1 SERIE FILM
+https://s4.tntendirect.com/hd1/chunks.m3u8
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", 6ter
+https://s4.tntendirect.com/6ter/live/chunks.m3u8
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", RMC DECOUVERTE
+https://s4.tntendirect.com/rmcdeouverte/live/chunks.m3u8
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", CHERIE 25
+https://s4.tntendirect.com/cherie25/live/chunks.m3u8
+
+
+
+
+
+
+
 
 
 
