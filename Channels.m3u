@@ -387,3 +387,8 @@ http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1 group-title="UK CHANNELS", QVC Extra
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 group-title="NEWS CHANNELS", CBN News
+http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_500_av-b.m3u8
+#EXTINF:-1 group-title="NEWS CHANNELS", NBC NEWS
+http://nbcnews1.akamaized.net/hls/live/723422/nbc-news0410015210-ua/NBCNEWS1_VIDEO_1_4064000.m3u8
+
