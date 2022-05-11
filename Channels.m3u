@@ -419,4 +419,35 @@ https://stream.y5.hu/stream/stream_bonum/stream.m3u8
 https://stream.y5.hu/stream/stream_muzsikatv/stream.m3u8
 #EXTINF:-1 group-title="HUNGARY CHANNELS", 7.Tv
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1 group-title="CZ CHANNELS", ČT1 HD
+http://213.151.233.20:8000/dna-5100-tv-pc/hls/4001v105.m3u8
+#EXTINF:-1 group-title="CZ CHANNELS", Eurosport 1 HD
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
+#EXTINF:-1 group-title="CZ CHANNELS", Filmbox
+http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
+#EXTINF:-1 GROUP-TITLE="CZ CHANNELS", Discovery 
+http://213.151.233.20:8000/dna-6179-tv-mobile/hls/4003v102.m3u8
+#EXTINF:-1 GROUP-TITLE="CZ CHANNELS", TA3 HD
+http://213.151.233.20:8000/dna-5108-tv-pc/hls/4001v102.m3u8
+#EXTINF:-1 GROUP-TITLE="CZ CHANNELS", TV Markíza HD
+http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
+#EXTINF:-1 GROUP-TITLE="CZ CHANNELS", TV Lux HD
+http://213.151.233.20:8000/dna-6428-tv-pc/hls/4002v102.m3u8
+#EXTINF:-1 group-title="MOROCCO", 2M Monde 
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+#EXTINF:-1 group-title="MOROCCO", M24 HD
+http://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+#EXTINF:-1 group-title="MOROCCO", TV 1 Laayoune
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1000000=3-mp4a_130400_qad=1.m3u8  
+#EXTINF:-1 group-title="MOROCCO", TV 3 Arrydia
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8  
+#EXTINF:-1 group-title="MOROCCO", TV 4 Athaqafia
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_400000=2-mp4a_130400_qad=1.m3u8  
+#EXTINF:-1 group-title="MOROCCO", TV 5 Al Maghribia
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1000000=3-mp4a_130400_qad=1.m3u8   
+#EXTINF:-1 group-title="MOROCCO", TV 6 Assadissa
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1000000=3-mp4a_130400_qad=1.m3u8  
+#EXTINF:-1 group-title="MOROCCO", TV 8 Tamazight
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1000000=3-mp4a_130400_qad=1.m3u8  
+
 
