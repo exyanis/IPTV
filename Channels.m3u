@@ -339,3 +339,39 @@ http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8?#X-Forwarded
 https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8?#X-Forwarded-For=91.63.136.21
 #EXTINF:-1 group-title="GERMANY CHANNELS", SWR Fernsehen RP HD
 https://swrrphls-i.akamaihd.net/hls/live/667639/swrrpd/master.m3u8?#X-Forwarded-For=91.63.136.21
+#EXTINF:-1 group-title="GERMANY CHANNELS", a.tv HD (Augsburg)
+http://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY CHANNELS", a.tv HD (Augsburg)
+http://stream02.stream.welocal.world/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY CHANNELS", Franken Fernsehen HD
+http://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY CHANNELS", Franken Fernsehen HD
+http://s3.welocal.world/frankenfernsehen/media/191627/videos/hls.m3u8
+#EXTINF:-1 group-title="GERMANY CHANNELS", L-TV
+http://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:ltv-live/chunklist.m3u8
+#EXTINF:-1 group-title="GERMANY CHANNELS", münchen.tv HD
+http://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY CHANNELS", münchen.tv HD
+http://stream02.stream.welocal.world/stream/fhd-muenchentv_365036/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY CHANNELS", Oberpfalz TV HD
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY CHANNELS", Oberpfalz TV HD
+http://stream05.stream.welocal.world/stream/otv/ngrp:otv.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY CHANNELS", RFO HD
+http://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY CHANNELS", rheinmaintv 
+https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/chunklist.m3u8
+#EXTINF:-1 group-title="GERMANY CHANNELS", tv.ingolstadt HD
+http://stream01.stream.welocal.world/stream/tvi/ngrp:tvi.stream_all/chunklist.m3u8
+#EXTINF:-1 group-title="GERMANY CHANNELS", TVA Ostbayern 
+http://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY CHANNELS", TVA Ostbayern 
+http://stream02.stream.welocal.world/stream/tva/ngrp:tva.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY CHANNELS", TV Mainfranken HD
+http://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY CHANNELS", TV Mainfranken HD
+http://stream01.stream.welocal.world/stream/tvm/ngrp:tvm.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY CHANNELS", TV Oberfranken HD
+http://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="GERMANY CHANNELS", TV Oberfranken HD
+http://stream02.stream.welocal.world/stream/tvo/ngrp:tvo.stream_all/playlist.m3u8
