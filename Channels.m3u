@@ -133,6 +133,8 @@ https://s4.tntendirect.com/6ter/live/chunks.m3u8
 https://s4.tntendirect.com/rmcdecouverte/live/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", CHERIE 25
 https://s4.tntendirect.com/cherie25/live/chunks.m3u8
+
+https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://livestream.com/accounts/30360708/events/9496693/player
 #EXTINF:-1 group-title=""DOCUMENTARIES CHANNELS", VIASAT HISTORY
 https://sc.id-tv.kz/ViasatHistory_34_35.m3u8
 #EXTINF:-1 group-title=""DOCUMENTARIES CHANNELS", VIASAT NATURE
