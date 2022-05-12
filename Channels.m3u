@@ -131,8 +131,18 @@ https://s4.tntendirect.com/6ter/live/chunks.m3u8
 https://s4.tntendirect.com/rmcdeouverte/live/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", CHERIE 25
 https://s4.tntendirect.com/cherie25/live/chunks.m3u8
-
-
+#EXTINF:-1 group-title=""DOCUMENTARIES CHANNELS", VIASAT HISTORY
+https://sc.id-tv.kz/ViasatHistory_34_35.m3u8
+#EXTINF:-1 group-title=""DOCUMENTARIES CHANNELS", VIASAT NATURE
+https://sc.id-tv.kz/ViasatNature_34_35.m3u8
+#EXTINF:-1 group-title=""JAPAN CHANNELS", FUJITV
+https://fujitv2.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="SLOVENIA CHANNELS",TV SLOVENIJA 1 (1080p)
+https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSlovenija2.si" group-title="SLOVENIA CHANNELS",TV SLOVENIJA 2 (720p)
+https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSlovenija3.si" group-title="SLOVENIA CHANNELS",TV SLOVENIJA 3 (720p)
+https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
 
 
 
