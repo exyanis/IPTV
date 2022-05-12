@@ -145,15 +145,6 @@ https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
 https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSlovenija3.si" group-title="SLOVENIA CHANNELS",TV SLOVENIJA 3 (720p)
 https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="AD SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/adsport1.png",Abu Dhabi Sports 1
 https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="AD SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/adsport2.png",Abu Dhabi Sports 2
@@ -510,21 +501,21 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadi
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1000000=3-mp4a_130400_qad=1.m3u8  
 #EXTINF:-1 group-title="GERMANY CHANNELS", 3sat
 http://80.24.75.92:5555/udp/239.110.16.3:1234
-#EXTINF:-1group-title="GERMANY CHANNELS", Das Erste
+#EXTINF:-1 group-title="GERMANY CHANNELS", Das Erste
 http://80.24.75.92:5555/udp/239.110.19.1:1234
-#EXTINF:-1group-title="GERMANY CHANNELS", RTL 
+#EXTINF:-1 group-title="GERMANY CHANNELS", RTL 
 http://80.24.75.92:5555/udp/239.110.17.1:1234
-#EXTINF:-1group-title="GERMANY CHANNELS", RTLZWEI
+#EXTINF:-1 group-title="GERMANY CHANNELS", RTLZWEI
 http://80.24.75.92:5555/udp/239.110.17.2:1234
-#EXTINF:-1group-title="GERMANY CHANNELS", Super RTL
+#EXTINF:-1 group-title="GERMANY CHANNELS", Super RTL
 http://80.24.75.92:5555/udp/239.110.17.3:1234
-#EXTINF:-1group-title="GERMANY CHANNELS", ZDF
+#EXTINF:-1 group-title="GERMANY CHANNELS", ZDF
 http://80.24.75.92:5555/udp/239.110.16.2:1234
-#EXTINF:-1group-title="GERMANY CHANNELS", KiKA
+#EXTINF:-1 group-title="GERMANY CHANNELS", KiKA
 http://80.24.75.92:5555/udp/239.110.16.1:1234
-#EXTINF:-1group-title="GERMANY CHANNELS", SAT.1
+#EXTINF:-1 group-title="GERMANY CHANNELS", SAT.1
 http://80.24.75.92:5555/udp/239.110.20.1:1234
-#EXTINF:-1group-title="GERMANY CHANNELS", arte
+#EXTINF:-1 group-title="GERMANY CHANNELS", arte
 http://80.24.75.92:5555/udp/239.110.18.1:1234
-#EXTINF:-1group-title="GERMANY CHANNELS", arte
+#EXTINF:-1 group-title="GERMANY CHANNELS", arte
 http://80.24.75.92:5555/udp/239.110.22.1:1234
