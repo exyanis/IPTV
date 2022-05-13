@@ -139,6 +139,16 @@ https://sc.id-tv.kz/ViasatHistory_34_35.m3u8
 https://sc.id-tv.kz/ViasatNature_34_35.m3u8
 #EXTINF:-1 group-title=""JAPAN CHANNELS", FUJITV
 https://fujitv2.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="ALBANIA CHANNELS", RTK1
+http://162.55.88.21/rtk1stream/rtk1.stream/chunklist_w424698609.m3u8
+#EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="ALBANIA CHANNELS", RTK2
+http://162.55.88.21/rtk2stream/rtk2.stream/chunklist_w20999643.m3u8
+#EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="ALBANIA CHANNELS", RTK3
+http://162.55.88.21/rtk3stream/rtk3.stream/chunklist_w305097485.m3u8
+#EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="ALBANIA CHANNELS", RTK4
+http://162.55.88.21/rtk4stream/rtk4.stream/chunklist_w269278432.m3u8
+#EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="ALBANIA CHANNELS", RTK1 SAT
+http://162.55.88.21/rtksatstream/rtksat.stream/chunklist_w243480337.m3u8
 #EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="SLOVENIA CHANNELS",TV SLOVENIJA 1 (1080p)
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSlovenija2.si" group-title="SLOVENIA CHANNELS",TV SLOVENIJA 2 (720p)
@@ -245,7 +255,6 @@ https://edge.taghtia.com/br/kwmedia-kwtvsports.m3u8
 https://edge.taghtia.com/br/kwmedia-kwtvsportsplus.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/28.png" group-title="ALJAZEERA CHANNELS",Aljazeera FHD
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
-https://live-hls-web-aja.getaj.net/AJA/03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/29.png" group-title="ALJAZEERA CHANNELS",Aljazeera Mubasher FHD
 http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/04.jpg" group-title="ALJAZEERA CHANNELS",Aljazeera Documentary
