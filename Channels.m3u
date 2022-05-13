@@ -161,6 +161,28 @@ https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
 https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Raiuno.it" group-title="ITALIA CHANNELS" tvg-logo="http://logo.premium-ott.com:8000/logo/rai1.png", |IT| RAI 1
 http://ott-cdn.ucom.am/s29/index.m3u8
+#EXTINF:-1 group-title="RUSSIA CHANNELS" , CHANNEL 1 RUSSIA
+http://ott-cdn.ucom.am/s14/index.m3u8
+#EXTINF:-1 group-title="RUSSIA CHANNELS" , PLANETA RTR
+http://ott-cdn.ucom.am/s15/index.m3u8
+#EXTINF:-1 group-title="RUSSIA CHANNELS" , RUSSIA K
+http://ott-cdn.ucom.am/s16/index.m3u8
+#EXTINF:-1 group-title="RUSSIA CHANNELS" , HTB
+http://ott-cdn.ucom.am/s17/index.m3u8
+#EXTINF:-1 group-title="RUSSIA CHANNELS" , FOOD NETWORK
+http://ott-cdn.ucom.am/s18/index.m3u8
+#EXTINF:-1 group-title="RUSSIA CHANNELS" , THT
+http://ott-cdn.ucom.am/s19/index.m3u8
+#EXTINF:-1 group-title="RUSSIA CHANNELS" , NO NAME
+http://ott-cdn.ucom.am/s20/index.m3u8
+#EXTINF:-1 group-title="RUSSIA CHANNELS" , RUSSIA 24
+http://ott-cdn.ucom.am/s21/index.m3u8
+#EXTINF:-1 group-title="RUSSIA CHANNELS" , NO NAME
+http://ott-cdn.ucom.am/s31/index.m3u8
+#EXTINF:-1 group-title="UK CHANNELS" , ENGLISH CLUB
+http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" , VIASAT SPORT
+http://ott-cdn.ucom.am/s38/index.m3u8
 #EXTINF:-1 group-title="AD SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/adsport1.png",Abu Dhabi Sports 1
 https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="AD SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/adsport2.png",Abu Dhabi Sports 2
