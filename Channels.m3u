@@ -139,6 +139,33 @@ https://sc.id-tv.kz/ViasatHistory_34_35.m3u8
 https://sc.id-tv.kz/ViasatNature_34_35.m3u8
 #EXTINF:-1 group-title=""JAPAN CHANNELS", FUJITV
 https://fujitv2.mov3.co/hls/fujitv.m3u8
+#EXTINF:0 tvg-id="Investigation.uk" group-title=DOCUMENTARIES CHANNELS",DISCOVERY ID
+http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=2376&=f.m3u8
+#EXTINF:0 tvg-id="GarageTV.es" group-title="DOCUMENTARIES CHANNELS,GARAGE TV
+http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=75&=f.m3u8
+#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title=DOCUMENTARIES CHANNELS",DISCOVERY CHANNEL
+http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=86&=f.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="DOCUMENTARIES CHANNELS,ANIMAL PLANET
+http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=2378&=f.m3u8
+#EXTINF:0 tvg-id="HistoryEurope.eu" group-title="DOCUMENTARIES CHANNELS,HISTORY
+http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=89&=f.m3u8
+#EXTINF:0 tvg-id="NatGeo.mx" group-title="DOCUMENTARIES CHANNELS,NAT GEO
+http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=91&=f.m3u8
+#EXTINF:0 tvg-id="NatGeoWild.mx" group-title="DOCUMENTARIES CHANNELS,NAT GEO WILD
+http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=92&=f.m3u8
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="DOCUMENTARIES CHANNELS,DISCOVERY THEATER
+http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=95&=f.m3u8
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="DOCUMENTARIES CHANNELS,H&H
+http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=96&=f.m3u8
+#EXTINF:0 tvg-id="TLC.mx" group-title="DOCUMENTARIES CHANNELS,TLC
+http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=97&=f.m3u8
+#EXTINF:0 tvg-id="DiscoverySci.mx" group-title="DOCUMENTARIES CHANNELS,DISCOVERY SCIENCE
+http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=98&=f.m3u8
+#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="DOCUMENTARIES CHANNELS,DISCOVERY CIVILIZATION
+http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=99&=f.m3u8
+#EXTINF:0 tvg-id="Discovery.uk" group-title="DOCUMENTARIES CHANNELS,DISCOVERY WORLD
+http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=101&=f.m3u8
+
 #EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="SLOVENIA CHANNELS",TV SLOVENIJA 1 (1080p)
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSlovenija2.si" group-title="SLOVENIA CHANNELS",TV SLOVENIJA 2 (720p)
@@ -317,7 +344,7 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5ca6748a37b88b269472dad9" tvg-chno="975" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="KIDS CHANNELS",Nick Jr
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="701" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="DOCUMENTARTIES CHANNELS",Fishing
+#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-chno="701" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="DOCUMENTARIES CHANNELS",Fishing
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528eda/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="60817e1aa6997500072d0d6d" tvg-chno="1005" tvg-logo="https://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="SPORTS CHANNELS",Motorvision TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
