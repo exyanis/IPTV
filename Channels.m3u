@@ -95,6 +95,10 @@ http://217.74.16.155:8082/local/ar-s/SSC5/index.m3u8
 http://217.74.16.155:8082/local/ar-s/SSC6/index.m3u8
 #EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/ssc7.png", SSC 7
 http://217.74.16.155:8082/local/ar-s/SSC7/index.m3u8
+#EXTINF:-1 group-title="TURKISH CHANNELS", TRT2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="RUSSIAN CHANNELS" 360°
+https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", TF1
 https://s4.tntendirect.com/tf1/live/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", FRANCE 2
