@@ -219,8 +219,14 @@ https://edge.taghtia.com/sa/7.m3u8
 https://edge.taghtia.com/sa/9.m3u8
 #EXTINF:-1 tvg-id="KSASports2.sa" group-title="SAUDI CHANNELS" ,KSA Sports 2 
 https://edge.taghtia.com/sa/10.m3u8
-#EXTINF:-1, test2
+#EXTINF:-1, SUPER RTL
 https://wu.wukongtv.ga/SUPERRTL/video.m3u8
+#EXTINF:-1, RTL
+https://wu.wukongtv.ga/RTL/video.m3u8
+#EXTINF:-1, RTL2
+https://wu.wukongtv.ga/RTL2/video.m3u8
+#EXTINF:-1, TELE5
+https://wu.wukongtv.ga/TELE5/video.m3u8
 #EXTINF:-1 tvg-id="KTV1.kw" group-title="KUWAIT CHANNELS",KTV 1 
 https://edge.taghtia.com/br/kwmedia-kwtv1.m3u8
 #EXTINF:-1 tvg-id="KTV2.kw" group-title="KUWAIT CHANNELS",KTV 2 
