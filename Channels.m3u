@@ -143,6 +143,8 @@ https://sc.id-tv.kz/ViasatHistory_34_35.m3u8
 https://sc.id-tv.kz/ViasatNature_34_35.m3u8
 #EXTINF:-1 group-title=""JAPAN CHANNELS", FUJITV
 https://fujitv2.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 group-title=""JAPAN CHANNELS", TV TOKYO
+https://stream01.willfonk.com/live_playlist.m3u8
 #EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="ALBANIA CHANNELS", RTK1
 http://162.55.88.21/rtk1stream/rtk1.stream/chunklist_w424698609.m3u8
 #EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="ALBANIA CHANNELS", RTK2
