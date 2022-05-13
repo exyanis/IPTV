@@ -179,6 +179,10 @@ http://ott-cdn.ucom.am/s20/index.m3u8
 http://ott-cdn.ucom.am/s21/index.m3u8
 #EXTINF:-1 group-title="RUSSIA CHANNELS" , NO NAME
 http://ott-cdn.ucom.am/s31/index.m3u8
+#EXTINF:-1 group-title="RUSSIA CHANNELS" , MNP
+http://ott-cdn.ucom.am/s39/index.m3u8
+#EXTINF:-1 group-title="RUSSIA CHANNELS" , CTC
+http://ott-cdn.ucom.am/s52/index.m3u8
 #EXTINF:-1 group-title="UK CHANNELS" , ENGLISH CLUB
 http://ott-cdn.ucom.am/s37/index.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS" , VIASAT SPORT
