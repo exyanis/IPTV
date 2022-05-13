@@ -139,33 +139,6 @@ https://sc.id-tv.kz/ViasatHistory_34_35.m3u8
 https://sc.id-tv.kz/ViasatNature_34_35.m3u8
 #EXTINF:-1 group-title=""JAPAN CHANNELS", FUJITV
 https://fujitv2.mov3.co/hls/fujitv.m3u8
-#EXTINF:0 tvg-id="Investigation.uk" group-title=DOCUMENTARIES CHANNELS",DISCOVERY ID
-http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=2376&=f.m3u8
-#EXTINF:0 tvg-id="GarageTV.es" group-title="DOCUMENTARIES CHANNELS,GARAGE TV
-http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=75&=f.m3u8
-#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title=DOCUMENTARIES CHANNELS",DISCOVERY CHANNEL
-http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=86&=f.m3u8
-#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="DOCUMENTARIES CHANNELS,ANIMAL PLANET
-http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=2378&=f.m3u8
-#EXTINF:0 tvg-id="HistoryEurope.eu" group-title="DOCUMENTARIES CHANNELS,HISTORY
-http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=89&=f.m3u8
-#EXTINF:0 tvg-id="NatGeo.mx" group-title="DOCUMENTARIES CHANNELS,NAT GEO
-http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=91&=f.m3u8
-#EXTINF:0 tvg-id="NatGeoWild.mx" group-title="DOCUMENTARIES CHANNELS,NAT GEO WILD
-http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=92&=f.m3u8
-#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="DOCUMENTARIES CHANNELS,DISCOVERY THEATER
-http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=95&=f.m3u8
-#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="DOCUMENTARIES CHANNELS,H&H
-http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=96&=f.m3u8
-#EXTINF:0 tvg-id="TLC.mx" group-title="DOCUMENTARIES CHANNELS,TLC
-http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=97&=f.m3u8
-#EXTINF:0 tvg-id="DiscoverySci.mx" group-title="DOCUMENTARIES CHANNELS,DISCOVERY SCIENCE
-http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=98&=f.m3u8
-#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="DOCUMENTARIES CHANNELS,DISCOVERY CIVILIZATION
-http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=99&=f.m3u8
-#EXTINF:0 tvg-id="Discovery.uk" group-title="DOCUMENTARIES CHANNELS,DISCOVERY WORLD
-http://regioplay.xyz/php/SR_REGIO_805022_/nuevotp.php?c=101&=f.m3u8
-
 #EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="SLOVENIA CHANNELS",TV SLOVENIJA 1 (1080p)
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSlovenija2.si" group-title="SLOVENIA CHANNELS",TV SLOVENIJA 2 (720p)
