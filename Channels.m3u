@@ -125,13 +125,13 @@ https://s4.tntendirect.com/cnews/live/chunks.m3u8
 https://s2.tntendirect.com/d17/live/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", TF1 SERIE FILM
 https://s4.tntendirect.com/hd1/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", L'EQUIPE
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", L'EQUIPE
 https://s4.tntendirect.com/lequipe21/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", 6ter
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", 6ter
 https://s4.tntendirect.com/6ter/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", RMC DECOUVERTE
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", RMC DECOUVERTE
 https://s4.tntendirect.com/rmcdecouverte/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", CHERIE 25
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", CHERIE 25
 https://s4.tntendirect.com/cherie25/live/chunks.m3u8
 #EXTINF:-1 group-title=""DOCUMENTARIES CHANNELS", VIASAT HISTORY
 https://sc.id-tv.kz/ViasatHistory_34_35.m3u8
