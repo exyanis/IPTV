@@ -95,35 +95,35 @@ http://217.74.16.155:8082/local/ar-s/SSC5/index.m3u8
 http://217.74.16.155:8082/local/ar-s/SSC6/index.m3u8
 #EXTINF:-1 group-title="SSC SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/ssc7.png", SSC 7
 http://217.74.16.155:8082/local/ar-s/SSC7/index.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", TF1
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", TF1
 https://s4.tntendirect.com/tf1/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", FRANCE 2
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", FRANCE 2
 https://s4.tntendirect.com/france2/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", FRANCE 3
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", FRANCE 3
 https://s4.tntendirect.com/france3/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", FRANCE 5
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", FRANCE 5
 https://s4.tntendirect.com/france5/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", M6
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", M6
 https://s4.tntendirect.com/m6/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", arte
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", arte
 https://s4.tntendirect.com/arte/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", C8
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", C8
 https://s4.tntendirect.com/d8/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", W9
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", W9
 https://s4.tntendirect.com/w9/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", TMC
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", TMC
 https://s4.tntendirect.com/tmc/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", TFX
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", TFX
 https://s4.tntendirect.com/nt1/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", NRJ12
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", NRJ12
 https://s4.tntendirect.com/nrj12/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", BFMTV
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", BFMTV
 https://s4.tntendirect.com/bmftv/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", CNEWS
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", CNEWS
 https://s4.tntendirect.com/cnews/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", CSTAR
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", CSTAR
 https://s2.tntendirect.com/d17/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", TF1 SERIE FILM
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", TF1 SERIE FILM
 https://s4.tntendirect.com/hd1/live/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", L'EQUIPE
 https://s4.tntendirect.com/lequipe21/live/chunks.m3u8
@@ -133,8 +133,6 @@ https://s4.tntendirect.com/6ter/live/chunks.m3u8
 https://s4.tntendirect.com/rmcdecouverte/live/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", CHERIE 25
 https://s4.tntendirect.com/cherie25/live/chunks.m3u8
-
-https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://livestream.com/accounts/30360708/events/9496693/player
 #EXTINF:-1 group-title=""DOCUMENTARIES CHANNELS", VIASAT HISTORY
 https://sc.id-tv.kz/ViasatHistory_34_35.m3u8
 #EXTINF:-1 group-title=""DOCUMENTARIES CHANNELS", VIASAT NATURE
