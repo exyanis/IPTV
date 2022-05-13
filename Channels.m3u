@@ -137,6 +137,28 @@ https://s4.tntendirect.com/6ter/live/chunks.m3u8
 https://s4.tntendirect.com/rmcdecouverte/live/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", CHERIE 25
 https://s4.tntendirect.com/cherie25/live/chunks.m3u8
+#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title="ROTANA",Rotana Cinema HD
+https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png" group-title="ROTANA",Rotana Cinema HD
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title="ROTANA",Rotana Cinema HD KSA
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:-1 tvg-id="Rotana Classic ARB" tvg-name="Rotana Classic ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png" group-title="ROTANA",Rotana Classic HD
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="ROTANA",Rotana Drama HD
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" group-title="ROTANA",Rotana Khalijia HD
+https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" group-title="ROTANA",Rotana Khalijia HD
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="ROTANA",Rotana Kids
+https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="ROTANA",Rotana Kids
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/music.png" group-title="ROTANA",Rotana Music
+https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="ROTANA",Rotana+
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 #EXTINF:-1 group-title=""DOCUMENTARIES CHANNELS", VIASAT HISTORY
 https://sc.id-tv.kz/ViasatHistory_34_35.m3u8
 #EXTINF:-1 group-title=""DOCUMENTARIES CHANNELS", VIASAT NATURE
