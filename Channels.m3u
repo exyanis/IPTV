@@ -159,6 +159,8 @@ https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
 https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSlovenija3.si" group-title="SLOVENIA CHANNELS",TV SLOVENIJA 3 (720p)
 https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Raiuno.it" group-title="ITALIA CHANNELS" tvg-logo="http://logo.premium-ott.com:8000/logo/rai1.png", |IT| RAI 1
+http://ott-cdn.ucom.am/s29/index.m3u8
 #EXTINF:-1 group-title="AD SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/adsport1.png",Abu Dhabi Sports 1
 https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="AD SPORTS" tvg-logo="https://raw.githubusercontent.com/exyanis/IPTV/main/Logos/adsport2.png",Abu Dhabi Sports 2
