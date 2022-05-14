@@ -183,8 +183,12 @@ https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
 https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSlovenija3.si" group-title="SLOVENIA CHANNELS",TV SLOVENIJA 3 (720p)
 https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="Raiuno.it" group-title="ITALIA CHANNELS" tvg-logo="http://logo.premium-ott.com:8000/logo/rai1.png", |IT| RAI 1
+#EXTINF:-1 tvg-id="Raiuno.it" group-title="ITALIA CHANNELS" tvg-logo="http://logo.premium-ott.com:8000/logo/rai1.png", RAI 1
 http://ott-cdn.ucom.am/s29/index.m3u8
+#EXTINF:-1 group-title="SPAIN CHANNELS", LA1
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+#EXTINF:-1 group-title="SPAIN CHANNELS", 24H
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8
 #EXTINF:-1 group-title="RUSSIA CHANNELS" , CHANNEL 1 RUSSIA
 http://ott-cdn.ucom.am/s14/index.m3u8
 #EXTINF:-1 group-title="RUSSIA CHANNELS" , PLANETA RTR
