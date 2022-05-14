@@ -100,7 +100,7 @@ https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="RUSSIAN CHANNELS" 360°
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
 #EXTINF:-1, test
-https://www.webcsn.ru.com/cdn/premium51/chunks.m3u8
+http://live.tv247.club/tv247/nbc.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", TF1
 https://cdn.mmsiptv.com/live/tf1/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", FRANCE 2
