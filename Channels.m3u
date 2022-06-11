@@ -72,7 +72,7 @@ https://cdn.mmsiptv.com/live/france4/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", FRANCE 5
 https://cdn.mmsiptv.com/live/france5/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", M6
-https://s4.tntendirect.com/m6/live/chunks.m3u8
+https://cdn.mmsiptv.com/live/m6/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", arte
 https://s4.tntendirect.com/arte/live/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", C8
