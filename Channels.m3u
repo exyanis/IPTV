@@ -685,3 +685,9 @@ http://93.152.174.144:4000/play/zee/index.m3u8
 http://93.152.174.144:4000/play/zeeaction/index.m3u8
 #EXTINF:-1  ,SPORT TV 1 PT
 http://93.152.174.144:4000/play/a00f/index.m3u8
+#EXTINF:-2021, BBC 01 · 📺 1080p
+http://ott.riotelecomm.es:4512/m3u8/BBC1.m3u8
+#EXTINF:-2021, BBC 02 · 📺 1080p
+http://ott.riotelecomm.es:4512/m3u8/BBCTWO.m3u8
+#EXTINF:-2021, CBBC · 📺 1080p
+http://ott.riotelecomm.es:4513/m3u8/CBBCHDFIBRA.m3u8
