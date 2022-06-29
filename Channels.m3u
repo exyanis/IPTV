@@ -73,64 +73,16 @@ https://cdn.mmsiptv.com/live/france4/chunks.m3u8
 https://cdn.mmsiptv.com/live/france5/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", M6
 https://cdn.mmsiptv.com/live/m6/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", arte
-https://s4.tntendirect.com/arte/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", C8
-https://s4.tntendirect.com/d8/live/chunks.m3u8
 #EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", W9
-https://s4.tntendirect.com/w9/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", TMC
-https://s4.tntendirect.com/tmc/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", TFX
-https://s4.tntendirect.com/nt1/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", NRJ12
-https://s4.tntendirect.com/nrj12/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", BFMTV
-https://s4.tntendirect.com/bmftv/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", CNEWS
-https://s4.tntendirect.com/cnews/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", CSTAR
-https://s2.tntendirect.com/d17/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", TF1 SERIE FILM
-https://s4.tntendirect.com/hd1/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", L'EQUIPE
-https://s4.tntendirect.com/lequipe21/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", 6ter
-https://s4.tntendirect.com/6ter/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", RMC DECOUVERTE
-https://s4.tntendirect.com/rmcdecouverte/live/chunks.m3u8
-#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", CHERIE 25
-https://s4.tntendirect.com/cherie25/live/chunks.m3u8
-#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title="ROTANA",Rotana Cinema HD
-https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png" group-title="ROTANA",Rotana Cinema HD
-https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title="ROTANA",Rotana Cinema HD KSA
-https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
-#EXTINF:-1 tvg-id="Rotana Classic ARB" tvg-name="Rotana Classic ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png" group-title="ROTANA",Rotana Classic HD
-https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="ROTANA",Rotana Drama HD
-https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
-#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" group-title="ROTANA",Rotana Khalijia HD
-https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" group-title="ROTANA",Rotana Khalijia HD
-https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="ROTANA",Rotana Kids
-https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="ROTANA",Rotana Kids
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/music.png" group-title="ROTANA",Rotana Music
-https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="ROTANA",Rotana+
-https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+https://cdn.mmsiptv.com/live/w9/chunks.m3u8
+#EXTINF:-1 GROUP-TITLE="FRANCE CHANNELS", FRANCEINFO:
+https://cdn.mmsiptv.com/live/franceinfo/chunks.m3u8
 #EXTINF:-1 group-title=""DOCUMENTARIES CHANNELS", VIASAT HISTORY
 https://sc.id-tv.kz/ViasatHistory_34_35.m3u8
-#EXTINF:-1 group-title=""DOCUMENTARIES CHANNELS", VIASAT NATURE
+#EXTINF:-1 group-title="DOCUMENTARIES CHANNELS", VIASAT NATURE
 https://sc.id-tv.kz/ViasatNature_34_35.m3u8
-#EXTINF:-1 group-title=""JAPAN CHANNELS", FUJITV
+#EXTINF:-1 group-title="JAPAN CHANNELS", FUJITV
 https://fujitv2.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 group-title=""JAPAN CHANNELS", TV TOKYO
-https://stream01.willfonk.com/live_playlist.m3u8
 #EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="ALBANIA CHANNELS", RTK1
 http://162.55.88.21/rtk1stream/rtk1.stream/chunklist_w424698609.m3u8
 #EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="ALBANIA CHANNELS", RTK2
@@ -141,20 +93,16 @@ http://162.55.88.21/rtk3stream/rtk3.stream/chunklist_w305097485.m3u8
 http://162.55.88.21/rtk4stream/rtk4.stream/chunklist_w269278432.m3u8
 #EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="ALBANIA CHANNELS", RTK1 SAT
 http://162.55.88.21/rtksatstream/rtksat.stream/chunklist_w243480337.m3u8
-#EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="SLOVENIA CHANNELS",TV SLOVENIJA 1 (1080p)
+#EXTINF:-1 tvg-id="TVSlovenija1.si" group-title="SLOVENIA CHANNELS",TV SLOVENIJA 1 
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSlovenija2.si" group-title="SLOVENIA CHANNELS",TV SLOVENIJA 2 (720p)
+#EXTINF:-1 tvg-id="TVSlovenija2.si" group-title="SLOVENIA CHANNELS",TV SLOVENIJA 2
 https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSlovenija3.si" group-title="SLOVENIA CHANNELS",TV SLOVENIJA 3 (720p)
+#EXTINF:-1 tvg-id="TVSlovenija3.si" group-title="SLOVENIA CHANNELS",TV SLOVENIJA 3 
 https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="Raiuno.it" group-title="ITALIA CHANNELS" tvg-logo="http://logo.premium-ott.com:8000/logo/rai1.png", RAI 1
-http://ott-cdn.ucom.am/s29/index.m3u8
 #EXTINF:-1 group-title="SPAIN CHANNELS", LA1
-https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-#EXTINF:-1 group-title="SPAIN CHANNELS", LA2
-https://rtvelivestream.akamaized.net/la2_dvr_1850.m3u8
+eamv3.akamaized.net/la1/la1_main_720.m3u8
 #EXTINF:-1 group-title="SPAIN CHANNELS", 24H
-https://rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8
+eamv3.akamaized.net/24h/24h_main_720.m3u8
 #EXTINF:-1 group-title="RUSSIA CHANNELS" , CHANNEL 1 RUSSIA
 http://ott-cdn.ucom.am/s14/index.m3u8
 #EXTINF:-1 group-title="RUSSIA CHANNELS" , PLANETA RTR
@@ -195,8 +143,6 @@ https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist_b4000000
 https://admdn2ta.cdn.mgmlcdn.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/majid-95x44.gif",Majid TV 
 https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="MBC CHANNELS" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png",MBC 1
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_1_.m3u8
 #EXTINF:-1 group-title="MBC CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/mbc3_95x75.gif",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 group-title="MBC CHANNELS" tvg-logo="https://i5.satexpat.com/cha/ae/mbc4-95x78.gif",MBC 4
@@ -255,30 +201,6 @@ https://edge.taghtia.com/sa/7.m3u8
 https://edge.taghtia.com/sa/9.m3u8
 #EXTINF:-1 tvg-id="KSASports2.sa" group-title="SAUDI CHANNELS" ,KSA Sports 2 
 https://edge.taghtia.com/sa/10.m3u8
-#EXTINF:-1, SUPER RTL
-https://wu.wukongtv.ga/SUPERRTL/video.m3u8
-#EXTINF:-1, RTL
-https://wu.wukongtv.ga/RTL/video.m3u8
-#EXTINF:-1, RTL2
-https://wu.wukongtv.ga/RTL2/video.m3u8
-#EXTINF:-1, TELE5
-https://wu.wukongtv.ga/TELE5/video.m3u8
-#EXTINF:-1 tvg-id="KTV1.kw" group-title="KUWAIT CHANNELS",KTV 1 
-https://edge.taghtia.com/br/kwmedia-kwtv1.m3u8
-#EXTINF:-1 tvg-id="KTV2.kw" group-title="KUWAIT CHANNELS",KTV 2 
-https://edge.taghtia.com/br/kwmedia-kwtv2.m3u8
-#EXTINF:-1 tvg-id="KTVAlQurain.kw" group-title="KUWAIT CHANNELS",KTV Al Qurain 
-https://edge.taghtia.com/br/kwmedia-kwtvqurain.m3u8
-#EXTINF:-1 tvg-id="KTVArabe.kw" group-title="KUWAIT CHANNELS",KTV Arabe 
-https://edge.taghtia.com/br/kwmedia-kwtvarabi.m3u8
-#EXTINF:-1 tvg-id="KTVEthraa.kw" group-title="KUWAIT CHANNELS",KTV Ethraa 
-https://edge.taghtia.com/br/kwmedia-kwtvethraa.m3u8
-#EXTINF:-1 tvg-id="KTVKhallikBilbait.kw" group-title="KUWAIT CHANNELS",KTV Khallik Bilbait 
-https://edge.taghtia.com/br/kwmedia-kwtvkids.m3u8
-#EXTINF:-1 tvg-id="KTVSport.kw" group-title="KUWAIT CHANNELS",KTV Sport 
-https://edge.taghtia.com/br/kwmedia-kwtvsports.m3u8
-#EXTINF:-1 tvg-id="KTVSportPlus.kw" group-title="KUWAIT CHANNELS",KTV Sport Plus 
-https://edge.taghtia.com/br/kwmedia-kwtvsportsplus.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/28.png" group-title="ALJAZEERA CHANNELS",Aljazeera FHD
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/29.png" group-title="ALJAZEERA CHANNELS",Aljazeera Mubasher FHD
@@ -563,179 +485,4 @@ http://80.24.75.92:5555/udp/239.110.20.1:1234
 http://80.24.75.92:5555/udp/239.110.18.1:1234
 #EXTINF:-1 group-title="GERMANY CHANNELS", arte
 http://80.24.75.92:5555/udp/239.110.22.1:1234
-#EXTINF:-1,Polsat_Sport_Premium_1
-http://194.76.186.151:20011/play/Polsat_Sport_Premium_1
-#EXTINF:-1,Polsat_Sport_Premium_2
-http://194.76.186.151:20011/play/Polsat_Sport_Premium_2
-#EXTINF:-1,Polsat_Sport_Premium_PPV3
-http://194.76.186.151:20011/play/Polsat_Sport_Premium_PPV3
-#EXTINF:-1,Polsat_Sport_Premium_PPV4
-http://194.76.186.151:20011/play/Polsat_Sport_Premium_PPV4
-#EXTINF:-1,Polsat_Sport_Premium_PPV5
-http://194.76.186.151:20011/play/Polsat_Sport_Premium_PPV5
-#EXTINF:-1,Polsat_Sport_Premium_PPV6
-http://194.76.186.151:20011/play/Polsat_Sport_Premium_PPV6
-#EXTINF:-1,TVP_Polonia
-http://194.76.186.151:20014/play/TVP_Polonia
-#EXTINF:-1,CBS_Europa_HD
-http://194.76.186.151:20013/play/CBS_Europa_HD
-#EXTINF:-1,Cartoon_Networ_HD
-http://194.76.186.151:20013/play/Cartoon_Networ_HD
-#EXTINF:-1,Discovery_Science_HD
-http://194.76.186.151:20013/play/Discovery_Science_HD
-#EXTINF:-1,Disney_Junior
-http://194.76.186.151:20013/play/Disney_Junior
-#EXTINF:-1,Eurosport_2_HD
-http://194.76.186.151:20013/play/Eurosport_2_HD
-#EXTINF:-1,Extreme_Sports_HD
-http://194.76.186.151:20013/play/Extreme_Sports_HD
-#EXTINF:-1,HBO_HD
-http://194.76.186.151:20013/play/HBO_HD
-#EXTINF:-1,Nat_Geo_People_HD
-http://194.76.186.151:20013/play/Nat_Geo_People_HD
-#EXTINF:-1,Polsat_Sport_Fight_HD
-http://194.76.186.151:20013/play/Polsat_Sport_Fight_HD
-#EXTINF:-1,Polsat_Sport_News_HD
-http://194.76.186.151:20013/play/Polsat_Sport_News_HD
-#EXTINF:-1,Polsat_Viasat_Nature_HD
-http://194.76.186.151:20013/play/Polsat_Viasat_Nature_HD
-#EXTINF:-1,TNT_HD
-http://194.76.186.151:20013/play/TNT_HD
-#EXTINF:-1,Comedy_Central_Family
-http://194.76.186.151:20010/play/Comedy_Central_Family
-#EXTINF:-1,Comedy_Central_HD
-http://194.76.186.151:20010/play/Comedy_Central_HD
-#EXTINF:-1,MTV_Polska_HD
-http://194.76.186.151:20010/play/MTV_Polska_HD
-#EXTINF:-1,Nick_Jr
-http://194.76.186.151:20010/play/Nick_Jr
-#EXTINF:-1,Nickelodeon
-http://194.76.186.151:20010/play/Nickelodeon
-#EXTINF:-1,Nicktoons_HD
-http://194.76.186.151:20010/play/Nicktoons_HD
-#EXTINF:-1,Paramount_Channel_HD
-http://194.76.186.151:20010/play/Paramount_Channel_HD
-#EXTINF:-1,4Fun-Kids
-http://194.76.186.151:20009/play/4Fun-Kids
-#EXTINF:-1,4Fun_TV
-http://194.76.186.151:20009/play/4Fun_TV
-#EXTINF:-1,Boomerang_HD
-http://194.76.186.151:20009/play/Boomerang_HD
-#EXTINF:-1,Da_Vinci
-http://194.76.186.151:20009/play/Da_Vinci
-#EXTINF:-1,Epic_Drama_HD
-http://194.76.186.151:20009/play/Epic_Drama_HD
-#EXTINF:-1,EskaROCK_TV
-http://194.76.186.151:20009/play/EskaROCK_TV
-#EXTINF:-1,Eska_TV
-http://194.76.186.151:20009/play/Eska_TV
-#EXTINF:-1,Fokus_TV
-http://194.76.186.151:20009/play/Fokus_TV
-#EXTINF:-1,Metro
-http://194.76.186.151:20009/play/Metro
-#EXTINF:-1,Polo_TV
-http://194.76.186.151:20009/play/Polo_TV
-#EXTINF:-1,Polsat_Music_HD
-http://194.76.186.151:20009/play/Polsat_Music_HD
-#EXTINF:-1,STARS_TV
-http://194.76.186.151:20009/play/STARS_TV
-#EXTINF:-1,Stopklatka
-http://194.76.186.151:20009/play/Stopklatka
-#EXTINF:-1,TVP_Rozrywka
-http://194.76.186.151:20009/play/TVP_Rozrywka
-#EXTINF:-1,TV_Republika
-http://194.76.186.151:20009/play/TV_Republika
-#EXTINF:-1,Zoom_TV
-http://194.76.186.151:20009/play/Zoom_TV
-#EXTINF:-1,AMC
-http://194.76.186.151:20008/play/AMC
-#EXTINF:-1,DTX
-http://194.76.186.151:20008/play/DTX
-#EXTINF:-1,Discovery_HD
-http://194.76.186.151:20008/play/Discovery_HD
-#EXTINF:-1,ID_HD
-http://194.76.186.151:20008/play/ID_HD
-#EXTINF:-1,Romance_TV
-http://194.76.186.151:20008/play/Romance_TV
-#EXTINF:-1,TVP_1_AU_1_0100
-http://194.76.186.151:20008/play/TVP_1_AU_1_0100
-#EXTINF:-1,TVP_1_AU_1_1884
-http://194.76.186.151:20008/play/TVP_1_AU_1_1884
-#EXTINF:-1,TVP_1_AU_2_1884
-http://194.76.186.151:20008/play/TVP_1_AU_2_1884
-#EXTINF:-1,TVP_1_HD
-http://194.76.186.151:20008/play/TVP_1_HD
-#EXTINF:-1,nSport
-http://194.76.186.151:20008/play/nSport
-#EXTINF:-1,CANAL_SPORT_3_HD
-http://194.76.186.151:20007/play/CANAL_SPORT_3_HD
-#EXTINF:-1,CANAL_SPORT_4_HD
-http://194.76.186.151:20007/play/CANAL_SPORT_4_HD
-#EXTINF:-1,Ale_kino_HD
-http://194.76.186.151:20006/play/Ale_kino_HD
-#EXTINF:-1,CANAL_FAMILY_HD
-http://194.76.186.151:20006/play/CANAL_FAMILY_HD
-#EXTINF:-1,CANAL_FILM_HD
-http://194.76.186.151:20006/play/CANAL_FILM_HD
-#EXTINF:-1,CANAL_SERIALE_HD
-http://194.76.186.151:20006/play/CANAL_SERIALE_HD
-#EXTINF:-1,Kuchnia_HD
-http://194.76.186.151:20006/play/Kuchnia_HD
-#EXTINF:-1,Motowizja_HD
-http://194.76.186.151:20006/play/Motowizja_HD
-#EXTINF:-1,Planete_HD
-http://194.76.186.151:20006/play/Planete_HD
-#EXTINF:-1,teleTOON_HD
-http://194.76.186.151:20006/play/teleTOON_HD
-#EXTINF:-1,CANAL_SPORT_2_HD
-http://194.76.186.151:20005/play/CANAL_SPORT_2_HD
-#EXTINF:-1,DOMO_HD
-http://194.76.186.151:20005/play/DOMO_HD
-#EXTINF:-1,Eleven_Sports_1_HD
-http://194.76.186.151:20005/play/Eleven_Sports_1_HD
-#EXTINF:-1,Eleven_Sports_2_HD
-http://194.76.186.151:20005/play/Eleven_Sports_2_HD
-#EXTINF:-1,Eleven_Sports_3_HD
-http://194.76.186.151:20005/play/Eleven_Sports_3_HD
-#EXTINF:-1,KINO_POLSKA_HD
-http://194.76.186.151:20005/play/KINO_POLSKA_HD
-#EXTINF:-1,National_Geographic_Wild_HD
-http://194.76.186.151:20005/play/National_Geographic_Wild_HD
-#EXTINF:-1,TVP_3
-http://194.76.186.151:20005/play/TVP_3
-#EXTINF:-1,AXN_Black
-http://194.76.186.151:20003/play/AXN_Black
-#EXTINF:-1,AXN_White
-http://194.76.186.151:20003/play/AXN_White
-#EXTINF:-1,Disco_Polo_Music
-http://194.76.186.151:20003/play/Disco_Polo_Music
-#EXTINF:-1,Disney_Channel_HD
-http://194.76.186.151:20003/play/Disney_Channel_HD
-#EXTINF:-1,Disney_XD
-http://194.76.186.151:20003/play/Disney_XD
-#EXTINF:-1,Polsat_Jim_Jam
-http://194.76.186.151:20003/play/Polsat_Jim_Jam
-#EXTINF:-1,Polsat_Seriale_HD
-http://194.76.186.151:20003/play/Polsat_Seriale_HD
-#EXTINF:-1,Polsat_Viasat_Explore_HD
-http://194.76.186.151:20003/play/Polsat_Viasat_Explore_HD
-#EXTINF:-1,AXN_HD
-http://194.76.186.151:20001/play/AXN_HD
-#EXTINF:-1,CI_Polsat_HD
-http://194.76.186.151:20001/play/CI_Polsat_HD
-#EXTINF:-1,Cinemax_2_HD
-http://194.76.186.151:20001/play/Cinemax_2_HD
-#EXTINF:-1,FOX_HD
-http://194.76.186.151:20001/play/FOX_HD
-#EXTINF:-1,Fox_Comedy_HD
-http://194.76.186.151:20001/play/Fox_Comedy_HD
-#EXTINF:-1,History_HD
-http://194.76.186.151:20001/play/History_HD
-#EXTINF:-1,Polsat_Sport_Extra_HD
-http://194.76.186.151:20001/play/Polsat_Sport_Extra_HD
-#EXTINF:-1,Polsat_Sport_HD
-http://194.76.186.151:20001/play/Polsat_Sport_HD
-#EXTINF:-1,Polsat_Viasat_History_HD
-http://194.76.186.151:20001/play/Polsat_Viasat_History_HD
-#EXTINF:-1,TVP_2_HD
-http://194.76.186.151:20001/play/TVP_2_HD
+
