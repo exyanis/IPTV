@@ -485,4 +485,129 @@ http://80.24.75.92:5555/udp/239.110.20.1:1234
 http://80.24.75.92:5555/udp/239.110.18.1:1234
 #EXTINF:-1 group-title="GERMANY CHANNELS", arte
 http://80.24.75.92:5555/udp/239.110.22.1:1234
-
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",24Kitchen HD 
+http://45.92.69.72:8001/play/a046
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",AMC HD 
+http://45.92.69.72:8001/play/a036
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",AXN HD 
+http://45.92.69.72:8001/play/a02z
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",AXN Movies HD 
+http://45.92.69.72:8001/play/a034
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",AXN White HD 
+http://45.92.69.72:8001/play/a033
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",BBC Entertainment 
+http://45.92.69.72:8001/play/a03m
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",BBC World News 
+http://45.92.69.72:8001/play/a03q
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Blaze HD 
+http://45.92.69.72:8001/play/a03e
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",CMTV HD 
+http://45.92.69.72:8001/play/a03x
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",CNBC 
+http://45.92.69.72:8001/play/a03r
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Canal 11 HD 
+http://45.92.69.72:8001/play/a03w
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Canal 180 
+http://45.92.69.72:8001/play/a03t
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Canal Q 
+http://45.92.69.72:8001/play/a02m
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Cartoon Network 
+http://45.92.69.72:8001/play/a02s
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Cinemundo HD 
+http://45.92.69.72:8001/play/a02w
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Deutche Welle 
+http://45.92.69.72:8001/play/a03s
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Discovery HD 
+http://45.92.69.72:8001/play/a03b
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Disney Channel 
+http://45.92.69.72:8001/play/a02q
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Disney Junior 
+http://45.92.69.72:8001/play/a02r
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",E HD 
+http://45.92.69.72:8001/play/a03h
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Eurosport HD 
+http://45.92.69.72:8001/play/a02o
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",FOX Comedy HD 
+http://45.92.69.72:8001/play/a032
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",FOX Crime HD 
+http://45.92.69.72:8001/play/a031
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",FOX HD 
+http://45.92.69.72:8001/play/a02y
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",FOX Life HD 
+http://45.92.69.72:8001/play/a030
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",FOX Movies HD 
+http://45.92.69.72:8001/play/a02x
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",FTV 
+http://45.92.69.72:8001/play/a03l
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Food Network 
+http://45.92.69.72:8001/play/a03k
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Fuel TV HD 
+http://45.92.69.72:8001/play/a02p
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Ginx 
+http://45.92.69.72:8001/play/a03n
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Globo HD 
+http://45.92.69.72:8001/play/a03z
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Historia 
+http://45.92.69.72:8001/play/a03f
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Hollywood HD 
+http://45.92.69.72:8001/play/a02v
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",MTV HD 
+http://45.92.69.72:8001/play/a037
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Nat Geo HD 
+http://45.92.69.72:8001/play/a03c
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Nat Geo Wild HD 
+http://45.92.69.72:8001/play/a03g
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Odisseia HD 
+http://45.92.69.72:8001/play/a03d
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Panda Biggs 
+http://45.92.69.72:8001/play/a02u
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Panda 
+http://45.92.69.72:8001/play/a02t
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Porto Canal HD 
+http://45.92.69.72:8001/play/a041
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",RT Doc 
+http://45.92.69.72:8001/play/a03v
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",RTP 1 HD 
+http://45.92.69.72:8001/play/a045
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",RTP 2 HD 
+http://45.92.69.72:8001/play/a00e
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",RTP 3 
+http://45.92.69.72:8001/play/a02k
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",RTP Memória 
+http://45.92.69.72:8001/play/a00k
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",SIC Caras 
+http://45.92.69.72:8001/play/a042
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",SIC HD 
+http://45.92.69.72:8001/play/a02i
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",SIC K 
+http://45.92.69.72:8001/play/a044
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",SIC Mulher HD 
+http://45.92.69.72:8001/play/a040
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",SIC Noticias HD 
+http://45.92.69.72:8001/play/a00h
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",SIC Radical 
+http://45.92.69.72:8001/play/a043
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",SKY News 
+http://45.92.69.72:8001/play/a03p
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Sport TV Mais HD 
+http://45.92.69.72:8001/play/a03y
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Sporting Tv HD 
+http://45.92.69.72:8001/play/a02n
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",SyFy 
+http://45.92.69.72:8001/play/a035
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",TLC 
+http://45.92.69.72:8001/play/a03i
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",TVC News 
+http://45.92.69.72:8001/play/a03u
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",TVI 24 
+http://45.92.69.72:8001/play/a02l
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",TVI HD 
+http://45.92.69.72:8001/play/a02j
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Trace Toca 
+http://45.92.69.72:8001/play/a03a
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Trace Urban 
+http://45.92.69.72:8001/play/a038
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",Travel 
+http://45.92.69.72:8001/play/a03j
+#EXTINF:-1 groupe-title="PORTUGAL CHANNELS",VH1 
+http://45.92.69.72:8001/play/a039
