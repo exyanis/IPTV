@@ -691,3 +691,85 @@ http://ott.riotelecomm.es:4512/m3u8/BBC1.m3u8
 http://ott.riotelecomm.es:4512/m3u8/BBCTWO.m3u8
 #EXTINF:-2021, CBBC · 📺 1080p
 http://ott.riotelecomm.es:4513/m3u8/CBBCHDFIBRA.m3u8
+EXTINF:-1 groupe-title="GERMANY CHANNELS",3sat
+http://154.58.202.35:8003/play/a0cc/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",KiKA
+http://154.58.202.35:8003/play/a0cd/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",MDR S-Anhalt HD
+http://154.58.202.35:8003/play/a0c0/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",MDR Sachsen HD
+http://154.58.202.35:8003/play/a0bz/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",MDR Thüringen HD
+http://154.58.202.35:8003/play/a0c1/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",NITRO
+http://154.58.202.35:8003/play/a0ax/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",Pro7 MAXX
+http://154.58.202.35:8003/play/a0b6/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",ProSieben
+http://154.58.202.35:8003/play/a0b2/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",RTL Bayern
+http://154.58.202.35:8003/play/a0ar/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",RTL HB NDS
+http://154.58.202.35:8003/play/a0aq/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",RTL HH SH
+http://154.58.202.35:8003/play/a0as/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",RTL Regional NRW
+http://154.58.202.35:8003/play/a0ap/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",RTL Television
+http://154.58.202.35:8003/play/a0ao/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",RTLZWEI
+http://154.58.202.35:8003/play/a0at/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",RTLup
+http://154.58.202.35:8003/play/a0ay/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",SAT.1
+http://154.58.202.35:8003/play/a0b1/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",SAT.1 Bayern
+http://154.58.202.35:8003/play/a0b7/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",SAT.1 Gold
+http://154.58.202.35:8003/play/a0b5/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",SAT.1 NRW
+http://154.58.202.35:8003/play/a0b8/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",SUPER RTL
+http://154.58.202.35:8003/play/a0av/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",TOGGO plus
+http://154.58.202.35:8003/play/a0au/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",VOX
+http://154.58.202.35:8003/play/a0aw/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",WDR HD Aachen
+http://154.58.202.35:8003/play/a0cr/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",WDR HD Bielefeld
+http://154.58.202.35:8003/play/a0cs/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",WDR HD Bonn
+http://154.58.202.35:8003/play/a0ct/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",WDR HD Duisburg
+http://154.58.202.35:8003/play/a0cu/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",WDR HD Düsseldorf
+http://154.58.202.35:8003/play/a0cv/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",WDR HD Essen
+http://154.58.202.35:8003/play/a0cw/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",WDR HD Köln
+http://154.58.202.35:8003/play/a0cq/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",WDR HD Münster
+http://154.58.202.35:8003/play/a0cx/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",WDR HD Siegen
+http://154.58.202.35:8003/play/a0cy/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",WDR HD Wuppertal
+http://154.58.202.35:8003/play/a0cz/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",WELT
+http://154.58.202.35:8003/play/a0b4/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",ZDF
+http://154.58.202.35:8003/play/a0cb/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",ZDFinfo
+http://154.58.202.35:8003/play/a0ce/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",hr-fernsehen HD
+http://154.58.202.35:8003/play/a0c2/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",kabel eins
+http://154.58.202.35:8003/play/a0b3/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",kabel eins Doku
+http://154.58.202.35:8003/play/a0b9/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",ntv
+http://154.58.202.35:8003/play/a0az/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",rbb Berlin HD
+http://154.58.202.35:8003/play/a0by/index.m3u8
+#EXTINF:-1 groupe-title="GERMANY CHANNELS",rbb Brandenburg HD
+http://154.58.202.35:8003/play/a0bx/index.m3u8
