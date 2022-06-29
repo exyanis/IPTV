@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 'ŧ€ßŧ
+http://83.144.73.74:8001/1:0:1:3ABD:514:13E:820000:0:0:0
 #EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/9_picture.png",Algérie TV1
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
 #EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/4_picture.png",Algérie TV2
