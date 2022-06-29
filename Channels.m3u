@@ -43,6 +43,8 @@ https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
 #EXTINF:-1 group-title="MOROCCO CHANNELS" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/alaoula.png" , ALOULA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_400000=2-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 group-title="MOROCCO CHANNELS" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/alaoula.png" , ALOULA
+http://r32g5k9gm3.a5ge6t4sve79r.com/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 group-title="MOROCCO CHANNELS" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/arriyadia-bg.png" , ARRIYADIA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_400000=2-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 group-title="MOROCCO CHANNELS" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/attakafiya-bg.png" , ARRABIA
