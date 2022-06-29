@@ -47,3 +47,5 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_400000=2-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 group-title="MOROCCO CHANNELS" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/attakafiya-bg.png" , ARRABIA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 group-title="MOROCCO CHANNELS" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/attakafiya-bg.png" , ALMAGHRIBIA
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_400000=2-mp4a_130400_qad=1.m3u8
