@@ -60,9 +60,9 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assad
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 group-title="NEWS CHANNELS" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/aljazeera_ar.jpg" , ALJAZEERA
 http://live-hls-web-aja.getaj.net/AJA/01.m3u8
-#EXTINF:-1 group-title="NEWS CHANNELS" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/aljazeera_ar.jpg" , ALJAZEERA
+#EXTINF:-1 group-title="NEWS CHANNELS" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/aljazeera_ar.jpg" , ALJAZEERA MUBASHER
 http://live-hls-web-aja.getaj.net/AJM/01.m3u8
-#EXTINF:-1 group-title="NEWS CHANNELS" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/aljazeera_ar.jpg" , ALJAZEERA
+#EXTINF:-1 group-title="NEWS CHANNELS" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/aljazeera_ar.jpg" , ALJAZEERA DOCUMENTARY
 http://live-hls-web-aja.getaj.net/AJD/01.m3u8
 
 
