@@ -58,7 +58,11 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_sn
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 group-title="MOROCCO CHANNELS" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/tamazight-bg.png" , TAMAZIGHT
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 group-title="NEWS CHANNELS" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/aljazeera_ar.jpg" ,
+#EXTINF:-1 group-title="NEWS CHANNELS" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/aljazeera_ar.jpg" , ALJAZEERA
 http://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 group-title="NEWS CHANNELS" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/aljazeera_ar.jpg" , ALJAZEERA
+http://live-hls-web-aja.getaj.net/AJM/01.m3u8
+#EXTINF:-1 group-title="NEWS CHANNELS" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/aljazeera_ar.jpg" , ALJAZEERA
+http://live-hls-web-aja.getaj.net/AJD/01.m3u8
 
 
