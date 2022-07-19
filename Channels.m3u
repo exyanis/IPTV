@@ -1,68 +1,125 @@
 #EXTM3U
-
-
-
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/9_picture.png",Algérie TV1
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/9_picture.png" group-title="ALGERIA CHANNELS",Algérie TV1
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/4_picture.png",Algérie TV2
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/4_picture.png" group-title="ALGERIA CHANNELS",Algérie TV2
 https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/1_picture.png",Algérie TV3
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/1_picture.png" group-title="ALGERIA CHANNELS",Algérie TV3
 https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/124_picture.png",Algérie TV4
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/124_picture.png" group-title="ALGERIA CHANNELS",Algérie TV4
 https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/73_picture.png",Algérie TV5 
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/73_picture.png" group-title="ALGERIA CHANNELS",Algérie TV5 
 https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/137_picture.png",Algérie TV6
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/137_picture.png" group-title="ALGERIA CHANNELS",Algérie TV6
 https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/138_picture.png",Algérie TV7 
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/138_picture.png" group-title="ALGERIA CHANNELS",Algérie TV7 
 https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/141_picture.png",Algérie TV8 
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/141_picture.png" group-title="ALGERIA CHANNELS",Algérie TV8 
 https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/143_picture.jpeg",Al24 News 
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/143_picture.jpeg" group-title="ALGERIA CHANNELS",Al24 News 
 https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/10_picture.png",Samira TV 
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/10_picture.png" group-title="ALGERIA CHANNELS",Samira TV 
 https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/130_picture.png",El Fadjr TV
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/130_picture.png" group-title="ALGERIA CHANNELS",El Fadjr TV
 https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/8_picture.png",Ennahar TV 
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/8_picture.png" group-title="ALGERIA CHANNELS",Ennahar TV 
 https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/18_picture.png",Echorouk News
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/18_picture.png" group-title="ALGERIA CHANNELS",Echorouk News
 https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/6_picture.png",Echorouk TV
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/6_picture.png" group-title="ALGERIA CHANNELS",Echorouk TV
 https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/126_picture.png",El Bilad 
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/126_picture.png" group-title="ALGERIA CHANNELS",El Bilad 
 https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/139_picture.png",El Djazair N1
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/139_picture.png" group-title="ALGERIA CHANNELS",El Djazair N1
 https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/129_picture.png",El Hayat TV 
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/129_picture.png" group-title="ALGERIA CHANNELS",El Hayat TV 
 https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/3_picture.png",BEUR TV 
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/3_picture.png" group-title="ALGERIA CHANNELS",BEUR TV 
 https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/15_picture.png",El Heddaf TV
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/15_picture.png" group-title="ALGERIA CHANNELS",El Heddaf TV
 https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/123_picture.png",Bahia TV
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/123_picture.png" group-title="ALGERIA CHANNELS",Bahia TV
 https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
-#EXTINF:-1 group-title="ALGERIA CHANNELS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/132_picture.png",Al Anis TV
+#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/132_picture.png" group-title="ALGERIA CHANNELS",Al Anis TV
 https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
-#EXTINF:-1 group-title="MOROCCO CHANNELS" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/alaoula.png" , ALOULA
+#EXTINF:-1 tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/alaoula.png" group-title="MOROCCO CHANNELS", ALOULA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 group-title="MOROCCO CHANNELS" tvg-logo="https://www.noonpresse.com/wp-content/uploads/2019/12/logo-2m-1.png" , 2M
+#EXTINF:-1 tvg-logo="https://www.noonpresse.com/wp-content/uploads/2019/12/logo-2m-1.png" group-title="MOROCCO CHANNELS", 2M
 http://r32g5k9gm3.a5ge6t4sve79r.com/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 group-title="MOROCCO CHANNELS" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/arriyadia-bg.png" , ARRIYADIA
+#EXTINF:-1 tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/arriyadia-bg.png" group-title="MOROCCO CHANNELS", ARRIYADIA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 group-title="MOROCCO CHANNELS" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/attakafiya-bg.png" , ARRABIA
+#EXTINF:-1 tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/attakafiya-bg.png" group-title="MOROCCO CHANNELS", ARRABIA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 group-title="MOROCCO CHANNELS" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/almaghribia.png" , ALMAGHRIBIA
+#EXTINF:-1 tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/almaghribia.png" group-title="MOROCCO CHANNELS", ALMAGHRIBIA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 group-title="MOROCCO CHANNELS" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/assadissa.png" , ASSADISSA
+#EXTINF:-1 tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/assadissa.png" group-title="MOROCCO CHANNELS", ASSADISSA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 group-title="MOROCCO CHANNELS" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/tamazight-bg.png" , TAMAZIGHT
+#EXTINF:-1 tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/tamazight-bg.png" group-title="MOROCCO CHANNELS", TAMAZIGHT
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 group-title="NEWS CHANNELS" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/aljazeera_ar.jpg" , ALJAZEERA
+#EXTINF:-1 tvg-logo="http://azrotv.com/iphone/images/ar_jpg/aljazeera_ar.jpg" group-title="NEWS CHANNELS", ALJAZEERA
 http://live-hls-web-aja.getaj.net/AJA/01.m3u8
-#EXTINF:-1 group-title="NEWS CHANNELS" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/aljazeera_ar.jpg" , ALJAZEERA MUBASHER
+#EXTINF:-1 tvg-logo="http://azrotv.com/iphone/images/ar_jpg/aljazeera_mubashir.jpg" group-title="NEWS CHANNELS", ALJAZEERA MUBASHER
 http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
-#EXTINF:-1 group-title="NEWS CHANNELS" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/aljazeera_ar.jpg" , ALJAZEERA DOCUMENTARY
+#EXTINF:-1 tvg-logo="http://azrotv.com/iphone/images/ar_jpg/rttoday_mobile.jpg" group-title="NEWS CHANNELS",RT ARABIC
+https://channal-code.herokuapp.com/https://rt-arb.rttv.com/live/rtarab/playlist_800Kb.m3u8
+#EXTINF:-1 tvg-logo="http://azrotv.com/iphone/images/ar_jpg/jaz_doc.jpg" group-title="DOCUMENTARY",ALJAZEERA DOCUMENTARY
 http://live-hls-web-ajd.getaj.net/AJD/01.m3u8
-
+#EXTINF:-1 tvg-chno="1166" tvg-id="INBC1500002TR" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/65/INBC1500002TR_20220427T054732.png" group-title="DOCUMENTARY",Animal Planet HD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="4216" tvg-id="DEBA1000007UF" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/95/DEBA1000007UF_20220323T071820.png" group-title="DOCUMENTARY",BBC History
+https://7a0978fa08424aa3b473d22dc144bd01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCHistory/playlist.m3u8?ads.wurl_channel=947&ads.wurl_name=BBCHistory&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-chno="4402" tvg-id="DEBA1000009TT" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/50/DEBA1000009TT_20220323T071826.png" group-title="DOCUMENTARY",BBC Travel
+https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8?ads.wurl_channel=985&ads.wurl_name=BBCTravel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-chno="4234" tvg-id="DEBA15000298V" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/30/DEBA15000298V_20220323T071839.png" group-title="DOCUMENTARY",Bergblick Free
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/5ad84e6a-299b-11ec-b414-948e0b8da07d/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-chno="1164" tvg-id="INBB280000836" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/31/INBB280000836_20220525T002355.png" group-title="DOCUMENTARY",Discovery HD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1003" tvg-id="INBC15000054I" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/11/INBC15000054I_20220427T054741.png" group-title="DOCUMENTARY",Discovery Kids
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF:-1 tvg-chno="1179" tvg-id="INBC1500011RN" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/46/INBC1500011RN_20220427T054744.png" group-title="DOCUMENTARY",Discovery Science
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverysciin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1373" tvg-id="INBC1500012AD" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/19/INBC1500012AD_20220525T002351.png" group-title="DOCUMENTARY",Discovery Turbo
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="4272" tvg-id="GBBA220000751" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/GBBA220000751_20220323T070319.png" group-title="DOCUMENTARY",InWild
+https://samsunguk-inwild-samsung-uk-7snt0.amagi.tv/playlist/samsunguk-inwild-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="4260" tvg-id="ESBA22000102A" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/23/ESBA22000102A_20220323T081638.png" group-title="DOCUMENTARY",Love Nature
+https://amg00090-blueantmedia-lnrcastilian-samsungspain-02f0x.amagi.tv/playlist/amg00090-blueantmedia-lnrcastilian-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1404" tvg-id="USBA3400003IP" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/USBA3400003IP_20220621T075847.png" group-title="DOCUMENTARY",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-logo="http://azrotv.com/iphone/images/ar_jpg/National-Geographic-Live.jpg" group-title="DOCUMENTARY",NAT GEO AD
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-chno="4005" tvg-id="FRBB4900002D4" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/78/FRBB4900002D4_20220713T034431.png" group-title="DOCUMENTARY",Nature Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="4269" tvg-id="GBAJ700001FH" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/94/GBAJ700001FH_20220323T070413.png" group-title="DOCUMENTARY",Pluto TV Animals
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af1ea05555db2541be6d9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-chno="4342" tvg-id="DEAK0500441A" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/69/DEAK0500441A_20220323T072237.png" group-title="DOCUMENTARY",SPIEGEL.TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0ac124fc-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-chno="1365" tvg-id="INBC1500004JR" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/INBC1500004JR_20220427T054807.png" group-title="DOCUMENTARY",TLC HD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlchdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="116" tvg-id="5b85a7582921777994caea63" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png" group-title="DOCUMENTARY",Pluto TV Documentaries
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b85a7582921777994caea63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="4417" tvg-id="FRBA330002044" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/22/FRBA330002044_20220511T011747.png" group-title="DOCUMENTARY",Travelxp
+https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8?ads.wurl_channel=1157&ads.wurl_name=TravelXP&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-chno="4005" tvg-id="DEBA100000404" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/91/DEBA100000404_20220713T034443.png" group-title="DOCUMENTARY",Travelxp
+https://dd87bd3119dc4cbca8c31c3f5d127aef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_TravelXP/playlist.m3u8?ads.wurl_channel=556&ads.wurl_name=TravelXP&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-chno="4411" tvg-id="GBAJ49000184K" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/60/GBAJ49000184K_20220323T071208.png" group-title="DOCUMENTARY",Travelxp
+https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8?ads.wurl_channel=473&ads.wurl_name=TravelXP&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-chno="4256" tvg-id="ESBC170000388" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/69/ESBC170000388_20220713T010423.png" group-title="DOCUMENTARY",WaterBear
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbeares-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="4263" tvg-id="ESBA330004121" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/12/ESBA330004121_20220323T082129.png" group-title="DOCUMENTARY",WildEarth
+https://amg01290-wildearthmediap-wildearth-samsungspain-mc5mc.amagi.tv/playlist/amg01290-wildearthmediap-wildearth-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="4260" tvg-id="DEBA3300042XG" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/26/DEBA3300042XG_20220713T034445.png" group-title="DOCUMENTARY",Wilder Planet
+https://amg00477-samsunguk-wilderplanet-samsunguk-samsunguk-yt0go.amagi.tv/playlist/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.tc_string=%7BTC_STRING%7D
+#EXTINF:-1 tvg-chno="1387" tvg-id="INBA4900011UB" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/06/INBA4900011UB_20220427T054723.png" group-title="DOCUMENTARY",Wonder
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-wonder-samsung-india/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.tc_string=%7BTC_STRING%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1407" tvg-id="USBA430000220" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/60/USBA430000220_20220427T060314.png" group-title="DOCUMENTARY",Xplore
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-xplore-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="4410" tvg-id="DEAJ0500422A" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/DEAJ0500422A_20220323T072350.png" group-title="DOCUMENTARY",Xplore Reisen
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bab21a88-7cd4-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-logo="http://azrotv.com/iphone/images/ar_jpg/quran-tv-live.jpg" group-title="ISLAMIC",SAUDI QURAN
+https://cllive.itworkscdn.net/ksaquranlive/token=nva=1658224439~dirs=1~hash=06dd605b80442ad1842d6/ksaquran.smil/ksaquran_source_chunks.m3u8
+#EXTINF:-1 tvg-logo="http://azrotv.com/iphone/images/ar_jpg/sunna-tv.jpg" group-title="ISLAMIC",SAUDI SUNNAH
+https://cllive.itworkscdn.net/ksaquranlive/token=nva=1658224439~dirs=1~hash=06dd605b80442ad1842d6/ksaquran.smil/ksaquran_source_chunks.m3u8
+#EXTINF:-1 tvg-logo="http://azrotv.com/iphone/images/ar_jpg/makkahtv.jpg" group-title="ISLAMIC",MECCA TV
+https://media2.streambrothers.com:1936/8122/8122/chunklist_w824971745.m3u8
 
