@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/9_picture.png" group-title="ALGERIA CHANNELS",Algérie TV1
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/4_picture.png" group-title="ALGERIA CHANNELS",Algérie TV2
@@ -83,6 +83,8 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assad
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="ARABIC",Ajyal TV 
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 tvg-id="AjmanTV.ae" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ajman_tv.png" group-title="ARABIC",Ajman TV [Not 24/7]
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/d3e9fc3b874a46159ce3724d802e3f8d/playlist.m3u8
 #EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="ARABIC",Al Mamlaka TV
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 tvg-id="AlRayyanTV.qa" tvg-logo="https://i.imgur.com/ejat49H.png" group-title="ARABIC",Al Rayyan
@@ -216,13 +218,13 @@ https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://azrotv.com/iphone/images/ar_jpg/makkahtv.jpg" group-title="ISLAMIC",MECCA TV
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w824971745.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="SPORTS",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil//chunklist_b4000000_t64MTA4MHA=.m3u8
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-2-ae.png" group-title="SPORTS",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil//chunklist_b4000000_t64MTA4MHA=.m3u8
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-3-ae.png" group-title="SPORTS",Abu Dhabi Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil//chunklist_b4000000_t64MTA4MHA=.m3u8
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports4.ae" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-4-ae.png" group-title="SPORTS",Abu Dhabi Sports 4
-https://admdn4.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="SPORTS",Dubai Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 #EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" group-title="SPORTS",Dubai Sports 2 
@@ -231,3 +233,130 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1 tvg-id="Yas.ae" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="SPORTS",Yas
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/zPSO1up.png" group-title="KOREAN ENTERTAINMENT",KBS World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+
+#EXTINF:0 tvg-id="TV5MondeAsie.fr" tvg-logo="https://i.imgur.com/1cVjCTw.png" group-title="FRENCH ENTERTAINMENT",TV5Monde Asie
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://stream-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
+
+
+
+#EXTINF:0 tvg-id="ArirangWorld.kr" tvg-logo="https://i.imgur.com/Yk19rUf.png" group-title="KOREAN ENTERTAINMENT",Arirang World
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+
+#EXTINF:0 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png" group-title="AMERICAN NEWS",Fox News Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://stream-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/cMM9MAg.png" group-title="AMERICAN NEWS",MSNBC
+https://networkbest.ru.com/cdn/premium327/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IVvxmTv.png" group-title="AMERICAN NEWS",CBS News
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R7d90sJ.png" group-title="AMERICAN NEWS",ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/800px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="AMERICAN NEWS",HLN
+https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRfQZMK.png" group-title="AMERICAN NEWS",LiveNow Fox
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjkVGqY.png" group-title="AMERICAN NEWS",NBC News Now
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://i.imgur.com/4nMN9xm.png" group-title="AMERICAN NEWS",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Net5_logo_2019.png" group-title="NETHERLANDS",Net 5
+http://80.24.75.92:5555/udp/239.111.0.2:1234
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1280px-NPO_1_logo_2014.svg.png" group-title="NETHERLANDS",NPO 1
+http://80.24.75.92:5555/udp/239.111.0.1:1234
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/1280px-NPO_2_logo_2014.svg.png" group-title="NETHERLANDS",NPO 2
+http://80.24.75.92:5555/udp/239.111.1.1:1234
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NPO_3_logo_2014.svg/1280px-NPO_3_logo_2014.svg.png" group-title="NETHERLANDS",NPO 3
+http://80.24.75.92:5555/udp/239.111.0.3:1234
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL4_Logo_2016.png" group-title="NETHERLANDS",RTL 4
+http://80.24.75.92:5555/udp/239.111.2.1:1234
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/RTL_5_logo_2017.png" group-title="NETHERLANDS",RTL 5
+http://80.24.75.92:5555/udp/239.111.2.2:1234
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c8Rk43x.png" group-title="NETHERLANDS",RTL 7
+http://new-pro.tv:8080/live/mazen1/123456/21316.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/RTL_8_logo_2017.png" group-title="NETHERLANDS",RTL 8
+http://80.24.75.92:5555/udp/239.111.2.4:1234
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yQ3irXL.png" group-title="NETHERLANDS",SBS 6
+http://80.24.75.92:5555/udp/239.111.1.2:1234
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/SBS9_New_Logo_2018.png" group-title="NETHERLANDS",SBS 9
+http://80.24.75.92:5555/udp/239.111.3.1:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/VRT_Canvas_logo.svg/langfr-1920px-VRT_Canvas_logo.svg.png" group-title="BELGIUM",Canvas
+https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/E%C3%A9n_public_station_logo_2019.svg/800px-E%C3%A9n_public_station_logo_2019.svg.png" group-title="BELGIUM",Eén
+https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/RTBF_La_Trois_logo.svg/langfr-1024px-RTBF_La_Trois_logo.svg.png" group-title="BELGIUM",La Trois
+http://callofliberty.fr/stream/latrois/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTBF_La_Une_logo.svg/1280px-RTBF_La_Une_logo.svg.png" group-title="BELGIUM",La Une
+http://callofliberty.fr/stream/laune/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/RTL-TVI_logo.svg/langfr-1920px-RTL-TVI_logo.svg.png" group-title="BELGIUM",RTL TVI
+http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Tipikrtbf.png" group-title="BELGIUM",Tipik
+http://callofliberty.fr/stream/TiPiK/playlist.m3u8
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/M6_6ter_2012.png" group-title="FRANCE",6ter
+https://s13.tntendirect.com/6ter/live/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://i.imgur.com/nU3uBzG.png" group-title="FRANCE",France 2
+https://s13.tntendirect.com/france2/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://i.imgur.com/MDwoxj5.png" group-title="FRANCE",France 3
+https://s13.tntendirect.com/france3/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://i.imgur.com/5TrhpoO.png" group-title="FRANCE",France 4
+https://s13.tntendirect.com/france4/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://i.imgur.com/RIZfLwR.png" group-title="FRANCE",France 5
+https://s13.tntendirect.com/france5/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/M6_logo_2020.svg/1024px-M6_logo_2020.svg.png" group-title="FRANCE",M6
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_1.m3u8
+
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/NRJ12_logo.png" group-title="FRANCE",NRJ 12
+https://s13.tntendirect.com/nrj12/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="FRANCE",TF1
+https://s13.tntendirect.com/tf1/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TFX_logo.svg/1920px-TFX_logo.svg.png" group-title="FRANCE",TFX
+#EXTVLCOPT:network-caching=1000
+https://s13.tntendirect.com/nt1/live/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/W9_logo_2018.png" group-title="FRANCE",W9
+https://s13.tntendirect.com/w9/live/playlist.m3u8
+
