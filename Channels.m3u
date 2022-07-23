@@ -257,6 +257,8 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ArirangWorld.kr" tvg-logo="https://i.imgur.com/Yk19rUf.png" group-title="Others",Arirang World
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/10660277.png" group-title="TURKIYE",TRT1
+https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/3ccb103c-7b39-4858-a5a3-1e4573bd1ed7/0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1280px-NPO_1_logo_2014.svg.png" group-title="NETHERLANDS",NPO 1
 http://80.24.75.92:5555/udp/239.111.0.1:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/1280px-NPO_2_logo_2014.svg.png" group-title="NETHERLANDS",NPO 2
