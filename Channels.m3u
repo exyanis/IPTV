@@ -273,7 +273,7 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="http://jawaltv.com/images/ar/alhiwar.jpg" group-title="NEWS CHANNELS",ALHIWAR
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b464000.m3u8
-#EXTINF:-1 group-title="NEWS CHANNELS",HRT 1 
+#EXTINF:-1 group-title="Others",HRT 1 
 http://195.29.70.84/PLTV/88888888/224/3221226139/index.m3u8
 #EXTINF:-1 group-title="NEWS CHANNELS",RT
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
