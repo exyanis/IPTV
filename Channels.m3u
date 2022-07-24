@@ -19,16 +19,10 @@ https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/143_picture.jpeg" group-title="ALGERIA CHANNELS",Al24 News 
 https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/10_picture.png" group-title="ALGERIA CHANNELS",Samira TV 
-https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/130_picture.png" group-title="ALGERIA CHANNELS",El Fadjr TV
 https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/8_picture.png" group-title="ALGERIA CHANNELS",Ennahar TV 
 https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/18_picture.png" group-title="ALGERIA CHANNELS",Echorouk News
-https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/6_picture.png" group-title="ALGERIA CHANNELS",Echorouk TV
-https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/126_picture.png" group-title="ALGERIA CHANNELS",El Bilad 
 https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/139_picture.png" group-title="ALGERIA CHANNELS",El Djazair N1
@@ -65,12 +59,10 @@ https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u8
 http://htvpalsat.mada.ps:8888/audeh/index.m3u8
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="ARABIC",Ajyal TV 
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
-#EXTINF:-1 tvg-id="AjmanTV.ae" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ajman_tv.png" group-title="ARABIC",Ajman TV [Not 24/7]
+#EXTINF:-1 tvg-id="AjmanTV.ae" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ajman_tv.png" group-title="ARABIC",Ajman TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/d3e9fc3b874a46159ce3724d802e3f8d/playlist.m3u8
 #EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="ARABIC",Al Mamlaka TV
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
-#EXTINF:-1 group-title="ARABIC",THIKRAYAT
-https://cllive.itworkscdn.net/zikrayatlive/token=nva=1658517261~dirs=1~hash=0c57bba41c1fc58a361cc/zikrayat.smil/zikrayat_source_chunks.m3u8
 #EXTINF:-1 tvg-id="AlRayyanTV.qa" tvg-logo="https://i.imgur.com/ejat49H.png" group-title="ARABIC",Al Rayyan
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlRayyanOldTV.qa" tvg-logo="https://i.imgur.com/j5w2lGe.png" group-title="ARABIC",Al Rayyan Al Qadeem
@@ -137,10 +129,6 @@ https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist
 https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SharjahTV.ae" tvg-logo="https://i.imgur.com/FAp0RtO.png" group-title="ARABIC",Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCTV.au" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="AUSTRALIA",ABC TV
-https://c.mjh.nz/3201026102E1
-#EXTINF:-1 group-title="AUSTRALIA",ABC ME
-https://c.mjh.nz/101002210224
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HWqxjGl.png" group-title="BELARUS",Belros
 https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-name="Belarus 24" tvg-logo="https://i.imgur.com/IyAScOh.jpg" group-title="BELARUS",Belarus 24
@@ -213,32 +201,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-wonder-samsung-india/playlis
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-xplore-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-chno="4410" tvg-id="DEAJ0500422A" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/DEAJ0500422A_20220323T072350.png" group-title="DOCUMENTARY",Xplore Reisen
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bab21a88-7cd4-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/M6_6ter_2012.png" group-title="FRANCE",6ter
-https://s13.tntendirect.com/6ter/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://i.imgur.com/nU3uBzG.png" group-title="FRANCE",France 2
-https://s13.tntendirect.com/france2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://i.imgur.com/MDwoxj5.png" group-title="FRANCE",France 3
-https://s13.tntendirect.com/france3/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://i.imgur.com/RIZfLwR.png" group-title="FRANCE",France 5
-https://s13.tntendirect.com/france5/live/playlist.m3u8
-#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/M6_logo_2020.svg/1024px-M6_logo_2020.svg.png" group-title="FRANCE",M6
-https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_1.m3u8
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/NRJ12_logo.png" group-title="FRANCE",NRJ 12
-https://s13.tntendirect.com/nrj12/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="FRANCE",TF1
-https://s13.tntendirect.com/tf1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TFX_logo.svg/1920px-TFX_logo.svg.png" group-title="FRANCE",TFX
-
-#EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/W9_logo_2018.png" group-title="FRANCE",W9
-https://s13.tntendirect.com/w9/live/playlist.m3u8
-#EXTINF:0 tvg-id="TV5MondeAsie.fr" tvg-logo="https://i.imgur.com/1cVjCTw.png" group-title="FRANCE",TV5Monde Asie
-
-#EXTINF:-1 group-title="FRANCE",C8
-https://s13.tntendirect.com/d8/live/chunks.m3u8
-#EXTINF:-1 group-title="FRANCE",arte
-https://s13.tntendirect.com/arte/live/playlist.m3u8
-#EXTINF:-1 group-title="FRANCE",TMC
-https://s13.tntendirect.com/tmc/live/chunks.m3u8
 #EXTINF:-1 tvg-id="AlphaTV.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Alpha_TV_logo.svg/512px-Alpha_TV_logo.svg.png" group-title="GREECE",Alpha TV
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="GREECE",Alert 
@@ -347,8 +309,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanal 9" tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="SWITZERLAND",Kanal 9
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="TURKIYE",TRT Belgesel 
-https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png" group-title="TURKIYE",TRT Türk 
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/10660277.png" group-title="TURKIYE",TRT1
