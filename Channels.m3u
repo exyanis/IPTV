@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+ #EXTINF:-1, test
+ https://youtu.be/u9foWyMSATM
 #EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/9_picture.png" group-title="ALGERIA CHANNELS",Algérie TV1
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/4_picture.png" group-title="ALGERIA CHANNELS",Algérie TV2
