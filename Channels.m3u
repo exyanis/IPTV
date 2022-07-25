@@ -259,8 +259,6 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 http://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1 tvg-logo="http://azrotv.com/iphone/images/ar_jpg/aljazeera_mubashir.jpg" group-title="NEWS CHANNELS", ALJAZEERA MUBASHER
 http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
-#EXTINF:-1 tvg-logo="http://azrotv.com/iphone/images/ar_jpg/rttoday_mobile.jpg" group-title="NEWS CHANNELS",RT ARABIC
-https://channal-code.herokuapp.com/https://rt-arb.rttv.com/live/rtarab/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R7d90sJ.png" group-title="NEWS CHANNELS",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/800px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="NEWS CHANNELS",HLN
@@ -273,16 +271,14 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="http://jawaltv.com/images/ar/alhiwar.jpg" group-title="NEWS CHANNELS",ALHIWAR
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b464000.m3u8
-#EXTINF:-1 group-title="Others",HRT 1 
-http://195.29.70.84/PLTV/88888888/224/3221226139/index.m3u8
 #EXTINF:-1 group-title="NEWS CHANNELS",RT
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
 #EXTINF:0 tvg-id="ArirangWorld.kr" tvg-logo="https://i.imgur.com/Yk19rUf.png" group-title="Others",Arirang World
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="Others",HRT 1 
+http://195.29.70.84/PLTV/88888888/224/3221226139/index.m3u8
 #EXTINF:-1 group-title="Others",HRT 2 
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1 group-title="Others",HRT 2 
-http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
 #EXTINF:-1 group-title="Others",HRT 3 
 http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
 #EXTINF:-1 group-title="Others",HRT 4 
