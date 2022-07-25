@@ -1,6 +1,100 @@
 ﻿#EXTM3U
- #EXTINF:-1, test
- https://youtu.be/u9foWyMSATM
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+#EXTINF:-1 tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8?token=1658894400_1b823586c8a92818945b72043b2b083e76e36286
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+#EXTINF:-1 tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
+error: No playable streams found on this URL: https://www.rtp.pt/play/direto/rtp2
+
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+#EXTINF:-1 tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b2540000_DVR_slpor.m3u8?token=1658894400_7b49b1752df88baa584a55b4817a544b6f9b313c
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacional.png",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+#EXTINF:-1 tvg-id="rtpmem.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png",RTP Memória
+error: No playable streams found on this URL: https://www.rtp.pt/play/direto/rtpmemoria
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+#EXTINF:-1 tvg-id="rtpmad.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Madeira.png",RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b640000_slpt.m3u8
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+#EXTINF:-1 tvg-id="rtpacorhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png",RTP Açores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/chunklist_b2540000_slpor.m3u8
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+#EXTINF:-1 tvg-id="rtpaf.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-África.png",RTP África 
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8
+
+
+#EXTINF:-1 group-title="Movie",HBO
+http://mkcfc.freevar.com/pess/hbo.m3u8
+#EXTINF:-1 tvg-logo="https://rpk-rost.ru/images/logo_TB/pervyj.jpg",Первый канал
+http://91.219.23.234:8000/play/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://rpk-rost.ru/images/logo_TB/rossiya_1.jpg",Россия 1
+http://91.219.23.234:8000/play/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://rpk-rost.ru/images/logo_TB/8eaff45695a1ce.jpg",Матч ТВ
+http://91.219.23.234:8000/play/3/index.m3u8
+#EXTINF:-1 tvg-logo="https://rpk-rost.ru/images/logo_TB/ntv.jpg",НТВ
+http://91.219.23.234:8000/play/4/index.m3u8
+#EXTINF:-1 tvg-logo="https://rpk-rost.ru/images/logo_TB/skachannye_fajly.png",Пятый канал
+http://91.219.23.234:8000/play/5/index.m3u8
+#EXTINF:-1 tvg-logo="https://rpk-rost.ru/images/logo_TB/1345890265_www_satsis_info_1c.jpg",Культура
+http://91.219.23.234:8000/play/6/index.m3u8
+#EXTINF:-1 tvg-logo="https://rpk-rost.ru/images/logo_TB/b_e14006258c5c7640a839b1a042244c3f.jpg",Россия 24
+http://91.219.23.234:8000/play/7/index.m3u8
+#EXTINF:-1 tvg-logo="https://rpk-rost.ru/images/logo_TB/karusel.jpg",Карусель
+http://91.219.23.234:8000/play/8/index.m3u8
+#EXTINF:-1 tvg-logo="https://rpk-rost.ru/files/logo/otr1.jpg",ОТР
+http://91.219.23.234:8000/play/9/index.m3u8
+#EXTINF:-1 tvg-logo="https://rpk-rost.ru/images/logo_TB/tvc.jpg",ТВ Центр
+http://91.219.23.234:8000/play/10/index.m3u8
+#EXTINF:-1 tvg-logo="https://rpk-rost.ru/images/logo_TB/ren_tv.jpg",РЕН ТВ
+http://91.219.23.234:8000/play/11/index.m3u8
+#EXTINF:-1 tvg-logo="https://rpk-rost.ru/files/logo/spas.jpg",Спас
+http://91.219.23.234:8000/play/12/index.m3u8
+#EXTINF:-1 tvg-logo="https://rpk-rost.ru/files/logo/000163131_-_sts.jpg",СТС
+http://91.219.23.234:8000/play/13/index.m3u8
+#EXTINF:-1 tvg-logo="https://rpk-rost.ru/images/logo_TB/domashnij.jpg",Домашний
+http://91.219.23.234:8000/play/14/index.m3u8
+#EXTINF:-1 tvg-logo="https://rpk-rost.ru/images/logo_TB/tv3.jpg",ТВ3
+http://91.219.23.234:8000/play/15/index.m3u8
+#EXTINF:-1 tvg-logo="https://rpk-rost.ru/images/logo_TB/pyatnica.jpg",Пятница!
+http://91.219.23.234:8000/play/16/index.m3u8
+#EXTINF:-1 tvg-logo="https://rpk-rost.ru/images/logo_TB/zvezda.jpg",Звезда
+http://91.219.23.234:8000/play/17/index.m3u8
+#EXTINF:-1 tvg-logo="https://rpk-rost.ru/files/logo/skachannye_fajly_2.jpg",Мир
+http://91.219.23.234:8000/play/18/index.m3u8
+#EXTINF:-1 tvg-logo="https://rpk-rost.ru/images/logo_TB/tnt.jpg",ТНТ
+http://91.219.23.234:8000/play/19/index.m3u8
+#EXTINF:-1 tvg-logo="https://rpk-rost.ru/files/logo/-_11.png",Муз-ТВ
+http://91.219.23.234:8000/play/20/index.m3u8
+#EXTINF:-1, tvg-id="ANC.ph" tvg-name="ANC" tvg-logo="", ANC
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-anc-global/CDN/playlist.m3u8
+#EXTINF:-1, tvg-id="CineMo.ph" tvg-name="Cine Mo!" tvg-logo="", Cine Mo!
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/9_picture.png" group-title="ALGERIA CHANNELS",Algérie TV1
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/4_picture.png" group-title="ALGERIA CHANNELS",Algérie TV2
@@ -273,18 +367,22 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="http://jawaltv.com/images/ar/alhiwar.jpg" group-title="NEWS CHANNELS",ALHIWAR
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b464000.m3u8
+#EXTINF:-1 group-title="NEWS CHANNELS",HRT 1 
+http://195.29.70.84/PLTV/88888888/224/3221226139/index.m3u8
 #EXTINF:-1 group-title="NEWS CHANNELS",RT
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
 #EXTINF:0 tvg-id="ArirangWorld.kr" tvg-logo="https://i.imgur.com/Yk19rUf.png" group-title="Others",Arirang World
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 group-title="Others",HRT 1 
-http://195.29.70.84/PLTV/88888888/224/3221226139/index.m3u8
 #EXTINF:-1 group-title="Others",HRT 2 
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1 group-title="Others",HRT 2 
+http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
 #EXTINF:-1 group-title="Others",HRT 3 
 http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
 #EXTINF:-1 group-title="Others",HRT 4 
 http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
+#EXTINF:-1 group-title="Others",arte
+https://edge-1192-ch-gv.filmon.com/live/1729.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3b32f1751547ad15ced1a6028771363b6f49c5ec48c3a3a31887bd92a36fbe6c6d1ee32bc6eca14643191c1ab3d7f7c90c132ab67271b21c881e27f7520005a04e78ea7837458ca80f6b91f7736776de55b84cff05585ffc6d3f2173e1138a5a462c0dc958fea774f52609293c450f811d90b5b74475acaa3
 #EXTINF:-1 group-title="Others",Moldova 1
 http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
 #EXTINF:-1 group-title="Others",Moldova 2
